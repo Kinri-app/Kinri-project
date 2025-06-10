@@ -1,0 +1,789 @@
+[
+  {
+    "card_id": "dopamine_4_reset_and_healthy_recovery_001",
+    "card_type": "flashcard",
+    "question": "What practices help restore baseline dopamine levels?",
+    "answer": "Sunlight, cold exposure, movement, NSDR (non-sleep deep rest), and creative rest rebuild dopamine balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_4_reset_and_healthy_recovery_002",
+    "card_type": "flashcard",
+    "question": "How long does it take to reset dopamine sensitivity?",
+    "answer": "Anywhere from 2 to 6 weeks, depending on prior overstimulation and consistency of recovery habits.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_4_reset_and_healthy_recovery_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s the risk of relying on quick dopamine boosters?",
+    "answer": "It leads to a crash cycle\u2014temporary pleasure followed by a deeper trough that weakens motivation and focus.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_4_reset_and_healthy_recovery_004",
+    "card_type": "flashcard",
+    "question": "Why is deliberate discomfort useful in recovery?",
+    "answer": "Cold, stillness, and effortful focus build dopamine resilience\u2014training the brain to find pleasure in effort again.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_4_reset_and_healthy_recovery_005",
+    "card_type": "vault_card",
+    "headline": "Reset Is Not Deprivation\u2014It\u2019s Recovery",
+    "body": "When your brain rests, it resets. When it resets, it sees clearly. Recovery is clarity.",
+    "prompt": "What overstimulating habit could you pause this week to give your brain a clearer baseline?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_001",
+    "card_type": "flashcard",
+    "question": "What is trauma-informed teaching?",
+    "answer": "It\u2019s an approach that prioritizes emotional safety, regulation, and relational trust to support learning in students affected by trauma.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_002",
+    "card_type": "flashcard",
+    "question": "Why is safety more important than content in trauma-informed classrooms?",
+    "answer": "A dysregulated brain can\u2019t absorb or retain new information \u2014 safety is the foundation for learning.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_003",
+    "card_type": "flashcard",
+    "question": "How can trauma affect behavior in students?",
+    "answer": "Trauma may show up as aggression, withdrawal, perfectionism, hypervigilance, or shutdown \u2014 all rooted in nervous system responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_004",
+    "card_type": "flashcard",
+    "question": "What are signs a student is dysregulated?",
+    "answer": "Fidgeting, silence, zoning out, explosive reactions, avoidance, or refusal to participate.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_005",
+    "card_type": "flashcard",
+    "question": "Why is consistency important in trauma-informed teaching?",
+    "answer": "Predictability builds trust. When students know what to expect, their nervous systems feel safer.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_006",
+    "card_type": "flashcard",
+    "question": "What is the difference between discipline and regulation?",
+    "answer": "Discipline often focuses on control or punishment. Regulation supports the nervous system to reduce challenging behaviors.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_007",
+    "card_type": "flashcard",
+    "question": "What role does tone of voice play in trauma-informed classrooms?",
+    "answer": "Tone communicates safety more than words \u2014 calm, steady voices help soothe dysregulated students.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_008",
+    "card_type": "flashcard",
+    "question": "What helps build emotional safety for trauma-affected students?",
+    "answer": "Gentle boundaries, co-regulation, attunement, and genuine presence build the foundation of trust.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_009",
+    "card_type": "flashcard",
+    "question": "Why should teachers avoid public discipline?",
+    "answer": "It can trigger shame, retraumatization, or defiance \u2014 especially in students with trauma histories.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_001_trauma_informed_teaching_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s a trauma-informed mantra for educators?",
+    "answer": "\u201cRegulate, then relate, then teach.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_001",
+    "card_type": "flashcard",
+    "question": "What is avoidant communication?",
+    "answer": "Avoidant communication involves silence, deflection, withdrawal, or pretending nothing\u2019s wrong to avoid discomfort or conflict.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_002",
+    "card_type": "flashcard",
+    "question": "What is explosive communication?",
+    "answer": "Explosive communication involves emotional outbursts, raised voices, sharp words, or reactive behavior \u2014 often from bottled emotion or dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_003",
+    "card_type": "flashcard",
+    "question": "Why do people swing between avoidant and explosive communication?",
+    "answer": "Avoidance suppresses needs until the nervous system overloads \u2014 then all the emotion comes out at once.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_004",
+    "card_type": "flashcard",
+    "question": "What are common causes of avoidant communication?",
+    "answer": "Fear of rejection, learned conflict avoidance, trauma, or feeling that emotions are 'too much.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear",
+        "overwhelm",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_005",
+    "card_type": "flashcard",
+    "question": "What are common causes of explosive communication?",
+    "answer": "Long-term emotional buildup, lack of regulation tools, or growing up around dysregulated models of communication.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_006",
+    "card_type": "flashcard",
+    "question": "What helps break the avoidant-explosive cycle?",
+    "answer": "Daily emotional check-ins, low-stakes honesty, practicing boundary setting, and using pause tools before things boil over.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_007",
+    "card_type": "flashcard",
+    "question": "What does avoidant communication sound like?",
+    "answer": "\u201cI\u2019m fine.\u201d \u201cIt\u2019s not a big deal.\u201d \u201cI don\u2019t want to talk about it.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_008",
+    "card_type": "flashcard",
+    "question": "What does explosive communication sound like?",
+    "answer": "\u201cYou never listen!\u201d \u201cI\u2019m done!\u201d \u201cWhy do I always have to be the one to fix things?\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_009",
+    "card_type": "flashcard",
+    "question": "How does shame reinforce this cycle?",
+    "answer": "Shame after an explosion leads to retreat. Shame during avoidance builds resentment \u2014 both fuel the loop.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_016_avoidant_vs_explosive_communication_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps exit the cycle?",
+    "answer": "\u201cMy needs matter. I don\u2019t have to be silent or explosive to be heard. I can speak with care before I overflow.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_001",
+    "card_type": "flashcard",
+    "question": "What is emotional transparency?",
+    "answer": "It\u2019s the practice of sharing your internal state \u2014 your emotions, needs, or fears \u2014 with clarity and honesty.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_002",
+    "card_type": "flashcard",
+    "question": "What is vulnerability in communication?",
+    "answer": "Vulnerability is allowing others to see the parts of you that feel tender, uncertain, or raw \u2014 without masks or defenses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_003",
+    "card_type": "flashcard",
+    "question": "Why is vulnerability essential to deep connection?",
+    "answer": "It invites realness. When you\u2019re open, others feel safe to open too \u2014 creating emotional intimacy and trust.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_004",
+    "card_type": "flashcard",
+    "question": "What blocks emotional transparency?",
+    "answer": "Fear of judgment, past rejection, masking, or the belief that needs are burdensome.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_005",
+    "card_type": "flashcard",
+    "question": "What does safe vulnerability sound like?",
+    "answer": "\u201cI feel really anxious sharing this, but I want to be honest.\u201d or \u201cThis is hard for me to say, but it matters.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_006",
+    "card_type": "flashcard",
+    "question": "How does nervous system safety support vulnerability?",
+    "answer": "A regulated body allows you to speak truth without collapse or defense \u2014 it anchors safety in the risk of openness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_007",
+    "card_type": "flashcard",
+    "question": "What\u2019s a risk of forced vulnerability?",
+    "answer": "Oversharing too soon or without safety can lead to shutdown, shame, or retraumatization.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_008",
+    "card_type": "flashcard",
+    "question": "What mindset supports vulnerability?",
+    "answer": "\u201cI don\u2019t need to be perfect to be worthy of love. My truth matters, even if it\u2019s messy.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_009",
+    "card_type": "flashcard",
+    "question": "How can you invite vulnerability in others?",
+    "answer": "By listening without interrupting, affirming emotions, and not rushing to fix or judge.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_019_emotional_transparency_and_vulnerability_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s a small practice to build emotional transparency?",
+    "answer": "Each day, name one feeling out loud \u2014 even if it\u2019s just to yourself or a journal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_1_basics_and_brain_pathways_001",
+    "card_type": "flashcard",
+    "question": "What is dopamine and what does it regulate?",
+    "answer": "Dopamine is a neuromodulator that regulates motivation, reward anticipation, movement, and learning\u2014not just pleasure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_1_basics_and_brain_pathways_002",
+    "card_type": "flashcard",
+    "question": "What are the three key dopamine dynamics?",
+    "answer": "Peaks (reward anticipation), troughs (post-reward lows), and baseline (your ongoing motivational capacity).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_1_basics_and_brain_pathways_003",
+    "card_type": "flashcard",
+    "question": "What is the reward prediction error?",
+    "answer": "Dopamine increases when rewards exceed expectations, stays stable when they match, and drops when they disappoint.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_1_basics_and_brain_pathways_004",
+    "card_type": "flashcard",
+    "question": "What brain circuits use dopamine?",
+    "answer": "Key pathways include nigrostriatal (movement), mesolimbic (pleasure/reward), and mesocortical (planning and decision-making).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_1_basics_and_brain_pathways_005",
+    "card_type": "vault_card",
+    "headline": "Not Just Pleasure\u2014Power",
+    "body": "Dopamine is about drive, not just delight. Understand it, and you understand your urges.",
+    "prompt": "Where in your life are you chasing dopamine spikes\u2014and where could you build healthier baselines?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

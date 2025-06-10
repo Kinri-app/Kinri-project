@@ -1,0 +1,611 @@
+[
+  {
+    "card_id": "boundaries_15_boundaries_and_emotional_safety_in_relationships_001",
+    "card_type": "flashcard",
+    "question": "Why are boundaries essential for emotional safety in relationships?",
+    "answer": "They define how we want to be treated, protect emotional energy, and create the conditions for trust to grow.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_15_boundaries_and_emotional_safety_in_relationships_002",
+    "card_type": "flashcard",
+    "question": "What are signs that emotional safety is missing?",
+    "answer": "Walking on eggshells, chronic anxiety around conflict, loss of voice, or guilt when protecting your needs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_15_boundaries_and_emotional_safety_in_relationships_003",
+    "card_type": "flashcard",
+    "question": "How can you communicate boundaries to build safety instead of fear?",
+    "answer": "Use clear, calm language and explain that the boundary supports connection\u2014not distance or punishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_15_boundaries_and_emotional_safety_in_relationships_004",
+    "card_type": "flashcard",
+    "question": "Why do healthy relationships require mutual boundaries?",
+    "answer": "Because mutual respect, emotional freedom, and nervous system co-regulation depend on shared clarity and consent.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_15_boundaries_and_emotional_safety_in_relationships_005",
+    "card_type": "vault_card",
+    "headline": "Boundaries Are Love in Action",
+    "body": "True intimacy requires clear limits. When your no is respected, your nervous system opens\u2014and love gets safer.",
+    "prompt": "What small boundary could you share this week to build more emotional safety\u2014not just distance?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_001",
+    "card_type": "flashcard",
+    "question": "Why is self-care difficult for people with ADHD?",
+    "answer": "Executive dysfunction, time blindness, sensory issues, and shame can make it hard to maintain hygiene and routines.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_002",
+    "card_type": "flashcard",
+    "question": "How does poor self-care affect body image?",
+    "answer": "Inconsistent care can lead to feelings of failure, low self-worth, and detachment from the body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s one reason hygiene might be avoided?",
+    "answer": "Sensory discomfort (like with water, temperature, or textures) can make showers or grooming overwhelming.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_004",
+    "card_type": "flashcard",
+    "question": "How does time blindness impact self-care routines?",
+    "answer": "People with ADHD may not realize how much time has passed or forget basic care until distress hits.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_005",
+    "card_type": "flashcard",
+    "question": "What mindset helps reduce shame around hygiene struggles?",
+    "answer": "Instead of blaming yourself, recognize that missed care is a symptom of overwhelm \u2014 not laziness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_006",
+    "card_type": "flashcard",
+    "question": "What\u2019s a helpful tool for remembering self-care tasks?",
+    "answer": "Visual checklists, timers, body-doubling, or habit apps can reduce mental load and support follow-through.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_007",
+    "card_type": "flashcard",
+    "question": "Can body detachment be a reason for neglecting care?",
+    "answer": "Yes. Disconnection from the body (often due to trauma or neurodivergence) makes it harder to notice or prioritize needs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_008",
+    "card_type": "flashcard",
+    "question": "How can you rebuild a self-care routine slowly?",
+    "answer": "Choose one anchor task (like brushing teeth daily), celebrate completion, and add gently from there.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_009",
+    "card_type": "flashcard",
+    "question": "Why does shame worsen self-care patterns?",
+    "answer": "Shame shuts down motivation, creates avoidance, and makes care feel like punishment rather than support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_007_self_care_struggles_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s one reframe for self-care?",
+    "answer": "Think of it as tending to something you love \u2014 not fixing what\u2019s broken.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_1_boundaries_and_emotional_health_001",
+    "card_type": "flashcard",
+    "question": "How do personal boundaries support emotional regulation?",
+    "answer": "They create space between your emotions and external stressors, reducing overwhelm and helping align actions with values.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_1_boundaries_and_emotional_health_002",
+    "card_type": "flashcard",
+    "question": "What role do boundaries play in self-esteem?",
+    "answer": "Setting boundaries expresses self-respect and reinforces that your needs, values, and well-being matter.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_1_boundaries_and_emotional_health_003",
+    "card_type": "flashcard",
+    "question": "Why are boundaries important for relationships?",
+    "answer": "They promote mutual respect, clarify expectations, and support healthy, balanced emotional exchanges.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_1_boundaries_and_emotional_health_004",
+    "card_type": "flashcard",
+    "question": "How can boundaries reduce stress and burnout?",
+    "answer": "They protect time, energy, and personal space, helping prevent overcommitment and emotional exhaustion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_1_boundaries_and_emotional_health_005",
+    "card_type": "vault_card",
+    "headline": "Boundaries Are Self-Respect in Action",
+    "body": "Healthy boundaries protect your peace, clarify your values, and empower you to manage relationships and emotions with integrity.",
+    "prompt": "What area of your life needs a boundary to support your emotional well-being today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_6_emotional_boundaries_and_nervous_system_protection_001",
+    "card_type": "flashcard",
+    "question": "What are emotional boundaries?",
+    "answer": "They\u2019re the limits that protect your inner world\u2014your feelings, energy, and time\u2014from being overwhelmed or dismissed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_6_emotional_boundaries_and_nervous_system_protection_002",
+    "card_type": "flashcard",
+    "question": "How do emotional boundaries support nervous system regulation?",
+    "answer": "They reduce exposure to chaos or guilt-driven decisions, allowing your system to stay calm and centered.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_6_emotional_boundaries_and_nervous_system_protection_003",
+    "card_type": "flashcard",
+    "question": "What are signs your emotional boundaries are too porous?",
+    "answer": "You absorb others\u2019 moods, feel depleted after small interactions, or struggle to say no without guilt.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_6_emotional_boundaries_and_nervous_system_protection_004",
+    "card_type": "flashcard",
+    "question": "How can you strengthen emotional boundaries gently?",
+    "answer": "Name your feelings, take space without apology, and check if your 'yes' is coming from alignment or fear.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_6_emotional_boundaries_and_nervous_system_protection_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Too Sensitive\u2014You\u2019re Under-Protected",
+    "body": "Emotional boundaries aren\u2019t selfish. They\u2019re sacred. They say: I\u2019m not here to carry everything. I\u2019m here to stay whole.",
+    "prompt": "What emotional interaction this week could use a clearer boundary for your nervous system\u2019s sake?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_10_rejection_sensitivity_and_relationship_healing_001",
+    "card_type": "flashcard",
+    "question": "Why does rejection sensitivity make boundary setting difficult?",
+    "answer": "It creates fear that any limit will be taken as abandonment\u2014so you sacrifice needs to avoid emotional pain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_10_rejection_sensitivity_and_relationship_healing_002",
+    "card_type": "flashcard",
+    "question": "What helps balance boundaries with connection?",
+    "answer": "Framing boundaries as relationship repair tools\u2014not walls\u2014helps reduce shame and invites closeness, not distance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_10_rejection_sensitivity_and_relationship_healing_003",
+    "card_type": "flashcard",
+    "question": "How can you soothe the nervous system after setting a boundary?",
+    "answer": "Use breathwork, affirmations, grounding touch, or a supportive check-in to remind yourself you\u2019re still safe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_10_rejection_sensitivity_and_relationship_healing_004",
+    "card_type": "flashcard",
+    "question": "What mindset helps rewire rejection fear?",
+    "answer": "Every no is a test of love\u2019s depth. If connection fades because you had needs\u2014that\u2019s not love you need to keep.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_10_rejection_sensitivity_and_relationship_healing_005",
+    "card_type": "vault_card",
+    "headline": "Your Boundary Is Not a Rejection\u2014It\u2019s a Reclamation",
+    "body": "The people who truly love you won\u2019t vanish when you say no. And if they do? That\u2019s not a loss\u2014it\u2019s a clearing.",
+    "prompt": "What conversation could you enter this week with a soft no\u2014and a deep trust that your needs won\u2019t ruin love?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

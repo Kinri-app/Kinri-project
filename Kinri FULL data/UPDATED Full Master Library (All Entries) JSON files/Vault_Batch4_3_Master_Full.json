@@ -1,0 +1,784 @@
+[
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_001",
+    "card_type": "flashcard",
+    "question": "What are hormones?",
+    "answer": "Hormones are chemical messengers produced by glands that travel through the bloodstream to regulate functions like mood, energy, metabolism, and reproduction.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_002",
+    "card_type": "flashcard",
+    "question": "What systems do hormones influence?",
+    "answer": "They affect the nervous system, immune system, metabolism, digestion, sleep cycles, stress response, and reproductive function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_003",
+    "card_type": "flashcard",
+    "question": "What is the endocrine system?",
+    "answer": "It\u2019s the system of glands (like the thyroid, adrenals, and pituitary) that produce and release hormones into the bloodstream.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_004",
+    "card_type": "flashcard",
+    "question": "How do hormones communicate in the body?",
+    "answer": "Hormones bind to receptors on cells, like keys fitting into locks, triggering specific actions or responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_005",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between a hormone and a neurotransmitter?",
+    "answer": "Neurotransmitters act in the brain and nervous system for rapid signaling; hormones act throughout the body more slowly but for longer-lasting effects.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_006",
+    "card_type": "flashcard",
+    "question": "What affects hormone balance?",
+    "answer": "Stress, diet, sleep, exercise, trauma, age, environment, and underlying health conditions all influence hormone levels.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_007",
+    "card_type": "flashcard",
+    "question": "What is hormone dysregulation?",
+    "answer": "It\u2019s when hormone levels are too high or too low, often leading to symptoms like fatigue, mood swings, weight gain, or brain fog.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_008",
+    "card_type": "flashcard",
+    "question": "What are common symptoms of hormonal imbalance?",
+    "answer": "Mood swings, anxiety, low energy, insomnia, brain fog, acne, irregular cycles, and digestive issues.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_009",
+    "card_type": "flashcard",
+    "question": "Why are hormones important for mental health?",
+    "answer": "Hormones like cortisol, estrogen, and thyroid hormones directly affect mood regulation, energy, and emotional stability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "hormones_flashcards_001_hormones_101_010",
+    "card_type": "flashcard",
+    "question": "How can you support healthy hormone function?",
+    "answer": "Prioritize sleep, manage stress, eat balanced meals, move your body regularly, and get functional testing if symptoms persist.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_16_nervous_system_literacy_for_children_001",
+    "card_type": "flashcard",
+    "question": "What is nervous system literacy for children?",
+    "answer": "Teaching kids to recognize and name their internal states\u2014like overwhelm, shutdown, or calm\u2014and respond with care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_16_nervous_system_literacy_for_children_002",
+    "card_type": "flashcard",
+    "question": "Why is teaching nervous system awareness important?",
+    "answer": "It gives children language for what\u2019s happening inside, helping them regulate instead of suppress or explode.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_16_nervous_system_literacy_for_children_003",
+    "card_type": "flashcard",
+    "question": "How can you introduce nervous system concepts to kids?",
+    "answer": "Use stories, animals, visuals (like color zones), and simple terms like 'my engine feels too fast' or 'I need a slow breath.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_16_nervous_system_literacy_for_children_004",
+    "card_type": "flashcard",
+    "question": "What happens when kids understand their nervous system?",
+    "answer": "They gain emotional agency\u2014knowing how to pause, ask for help, or use tools instead of reacting blindly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_16_nervous_system_literacy_for_children_005",
+    "card_type": "vault_card",
+    "headline": "Teach Them Their Inside World Early",
+    "body": "If a child knows what their body is saying, they don\u2019t have to fear it. That\u2019s emotional safety in action.",
+    "prompt": "What\u2019s one way you could teach your child a new emotional or nervous system word this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_17_emotional_vocabulary_and_coregulation_001",
+    "card_type": "flashcard",
+    "question": "Why is emotional vocabulary important for children?",
+    "answer": "It gives them a way to name, understand, and process what they feel\u2014instead of bottling or exploding.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_17_emotional_vocabulary_and_coregulation_002",
+    "card_type": "flashcard",
+    "question": "How does emotional language support co-regulation?",
+    "answer": "When kids can name their state, it\u2019s easier to meet them with the tone, space, or support they need.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_17_emotional_vocabulary_and_coregulation_003",
+    "card_type": "flashcard",
+    "question": "What helps children build emotional vocabulary?",
+    "answer": "Modeling. Narrate your own feelings out loud. Use books, visuals, and shared phrases like 'my body feels tight today.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_17_emotional_vocabulary_and_coregulation_004",
+    "card_type": "flashcard",
+    "question": "Why do kids sometimes resist naming emotions?",
+    "answer": "Shame, confusion, fear of being wrong\u2014or they\u2019ve never had language modeled in safe ways.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_17_emotional_vocabulary_and_coregulation_005",
+    "card_type": "vault_card",
+    "headline": "When They Can Name It, They Can Navigate It",
+    "body": "Emotional vocabulary isn\u2019t about being articulate\u2014it\u2019s about giving your child a map. So they don\u2019t get lost inside.",
+    "prompt": "What\u2019s one new emotion word you could introduce this week\u2014or use more often\u2014to help your child navigate their inner world?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_energy_vibration_and_emotional_states_001",
+    "card_type": "flashcard",
+    "question": "How are emotions linked to energy and vibration?",
+    "answer": "Emotions are physiological states with energetic signatures\u2014fear contracts, joy expands, calm stabilizes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_energy_vibration_and_emotional_states_002",
+    "card_type": "flashcard",
+    "question": "Why does your emotional state change your felt frequency?",
+    "answer": "Because your nervous system, breath, and brainwaves shift with emotions\u2014altering your sensory field and presence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_energy_vibration_and_emotional_states_003",
+    "card_type": "flashcard",
+    "question": "What raises your internal frequency?",
+    "answer": "Gratitude, breathwork, loving presence, movement, music, nature, and acts of connection or creation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_energy_vibration_and_emotional_states_004",
+    "card_type": "flashcard",
+    "question": "How does frequency awareness help emotional healing?",
+    "answer": "It allows you to tune into subtle shifts, build coherence, and move stuck emotional patterns more intuitively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_energy_vibration_and_emotional_states_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Just a Body\u2014You\u2019re a Signal",
+    "body": "Every thought, breath, and feeling changes your field. Want to shift your day? Start with your frequency.",
+    "prompt": "What practice this week could help shift your inner vibration\u2014not to escape emotion, but to move through it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_frequency_and_body_communication_001",
+    "card_type": "flashcard",
+    "question": "What does 'frequency' mean in relation to the body?",
+    "answer": "It refers to the subtle energy or vibrational state of the nervous system\u2014how regulated or dysregulated it feels.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_frequency_and_body_communication_002",
+    "card_type": "flashcard",
+    "question": "How does the body communicate through frequency?",
+    "answer": "Tone, posture, breath, and felt sense all transmit nervous system state before words are spoken.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_frequency_and_body_communication_003",
+    "card_type": "flashcard",
+    "question": "What disrupts internal frequency?",
+    "answer": "Stress, trauma, inflammation, overstimulation, toxic environments, or emotional suppression.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_frequency_and_body_communication_004",
+    "card_type": "flashcard",
+    "question": "What supports restoring frequency balance?",
+    "answer": "Breathwork, sound, nature, grounding, silence, sleep, hydration, and intentional energetic awareness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_frequency_and_body_communication_005",
+    "card_type": "vault_card",
+    "headline": "You Are Always Broadcasting\u2014Even When You\u2019re Silent",
+    "body": "Your body speaks in tone, pace, posture, and presence. Tune your frequency, and your life starts to align.",
+    "prompt": "What state has your nervous system been broadcasting lately\u2014and what shift might it be asking for?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_vibration_and_cellular_healing_001",
+    "card_type": "flashcard",
+    "question": "What is vibrational healing?",
+    "answer": "The idea that sound, light, and energy can influence cellular function, emotional state, and nervous system balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_vibration_and_cellular_healing_002",
+    "card_type": "flashcard",
+    "question": "How does the nervous system respond to sound and vibration?",
+    "answer": "Low, rhythmic tones can activate the parasympathetic system\u2014supporting calm, digestion, and emotional reset.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_vibration_and_cellular_healing_003",
+    "card_type": "flashcard",
+    "question": "What role does frequency play in emotional processing?",
+    "answer": "Different frequencies can stimulate brainwave states\u2014helping shift from survival mode to rest, presence, or insight.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_vibration_and_cellular_healing_004",
+    "card_type": "flashcard",
+    "question": "How can you support your system with vibrational tools?",
+    "answer": "Use music, breath, binaural beats, gentle touch, tuning forks, or nature sounds to regulate and restore.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_vibration_and_cellular_healing_005",
+    "card_type": "vault_card",
+    "headline": "You Are Made of Vibration\u2014Heal With It",
+    "body": "You don\u2019t just think and feel. You hum. You resonate. And your healing starts at the frequency of safety.",
+    "prompt": "What vibration-based practice or sound could you bring into your week to soften your system?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_sound_vibration_and_nervous_system_healing_001",
+    "card_type": "flashcard",
+    "question": "How does sound influence the nervous system?",
+    "answer": "Sound affects brainwaves, heart rate, and vagal tone\u2014helping shift between states of alertness and calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_sound_vibration_and_nervous_system_healing_002",
+    "card_type": "flashcard",
+    "question": "What are examples of nervous system-calming sounds?",
+    "answer": "Low-frequency tones, binaural beats, ocean waves, soft humming, or music around 432Hz or 528Hz.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_sound_vibration_and_nervous_system_healing_003",
+    "card_type": "flashcard",
+    "question": "What is vibrational medicine?",
+    "answer": "Using sound or energy frequencies to influence physical and emotional states\u2014often through tools like tuning forks or singing bowls.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_sound_vibration_and_nervous_system_healing_004",
+    "card_type": "flashcard",
+    "question": "Why does the body respond to vibration?",
+    "answer": "Cells and tissues are sensitive to resonance\u2014vibration can help reduce inflammation, activate flow, and support regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_sound_vibration_and_nervous_system_healing_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re a Resonant Being\u2014Tune Gently",
+    "body": "Your body is sound-sensitive. Sometimes healing is less about what you think and more about what you hear and feel.",
+    "prompt": "What sound could you bring into your space this week that helps shift your nervous system into safety?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "question": "What happens when emotional needs go unspoken?",
+    "answer": "They build into resentment, misattunement, or collapse\u2014because your nervous system keeps the score even if your mouth doesn\u2019t.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "emotional needs"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_310_unspoken_needs"
+  },
+  {
+    "question": "Why do people avoid naming their needs?",
+    "answer": "Fear of conflict, shame, past punishment, or beliefs that their needs are 'too much' or invalid.",
+    "tags": {
+      "condition": [
+        "trauma"
+      ],
+      "emotion": [
+        "healing"
+      ],
+      "narrative_type": [
+        "avoidance"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_311_unspoken_needs"
+  },
+  {
+    "question": "How can you repair after hiding a need for too long?",
+    "answer": "Name it gently, own the delay without shame, and explain why you want to express it now.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional safety"
+      ],
+      "narrative_type": [
+        "repair",
+        "self-expression"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_312_unspoken_needs"
+  },
+  {
+    "question": "What does nervous system repair look like after silence?",
+    "answer": "Regulation, honesty, breath, softness, and conversations that honor what was unsaid without blame.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "healing"
+      ],
+      "narrative_type": [
+        "regulation"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_313_unspoken_needs"
+  },
+  {
+    "headline": "You\u2019re Allowed to Need\u2014And Allowed to Name",
+    "body": "Your silence doesn\u2019t make you safer. It makes you smaller. Speak softly. Speak now. It\u2019s time to reenter.",
+    "prompt": "What need has gone unspoken too long\u2014and how might naming it this week restore your internal clarity?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "self-expression",
+        "emotional healing"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_314_unspoken_needs"
+  }
+]

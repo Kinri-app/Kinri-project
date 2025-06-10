@@ -1,0 +1,174 @@
+[
+  {
+    "question": "Why do tone, volume, and pacing matter in communication?",
+    "answer": "They are nervous system signals \u2014 your body hears how something is said before it processes the words.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "tone",
+        "volume",
+        "pacing"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_313_tone_volume_pacing"
+  },
+  {
+    "question": "How can tone affect emotional safety?",
+    "answer": "A harsh or flat tone can trigger defensiveness or fear, while a warm tone builds trust and connection.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional safety",
+        "trust"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "tone"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_314_tone_volume_pacing"
+  },
+  {
+    "question": "What does fast speech signal in a conversation?",
+    "answer": "It can signal anxiety, urgency, or dysregulation \u2014 making it harder for others to stay grounded or track the message.",
+    "tags": {
+      "condition": [
+        "dysregulation"
+      ],
+      "emotion": [
+        "anxiety"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "pacing"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_315_tone_volume_pacing"
+  },
+  {
+    "question": "How does a loud voice impact communication?",
+    "answer": "Raised volume can activate a threat response in the listener, even if it\u2019s not intended as aggressive.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "defensiveness"
+      ],
+      "usage_mode": [
+        "volume"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_316_tone_volume_pacing"
+  },
+  {
+    "question": "What role does pacing play in emotional conversations?",
+    "answer": "Slow pacing helps regulate emotions and gives time for meaning and safety to land between each phrase.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional processing"
+      ],
+      "narrative_type": [
+        "regulation"
+      ],
+      "usage_mode": [
+        "pacing"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_317_tone_volume_pacing"
+  },
+  {
+    "question": "Why might someone unconsciously shift tone or volume?",
+    "answer": "Stress, past trauma, masking, or dysregulation can cause unconscious shifts that impact communication.",
+    "tags": {
+      "condition": [
+        "trauma"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "unconscious cues",
+        "autonomic"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_318_tone_volume_pacing"
+  },
+  {
+    "question": "How can someone regulate their tone during hard conversations?",
+    "answer": "Use breath, soften your jaw, lower your shoulders, and practice intentional pauses while speaking.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "tone control"
+      ],
+      "usage_mode": [
+        "self-regulation",
+        "grounding"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_319_tone_volume_pacing"
+  },
+  {
+    "question": "What happens when tone and words don\u2019t match?",
+    "answer": "The nervous system trusts the tone more than the words, leading to confusion or mistrust.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "incongruence"
+      ],
+      "narrative_type": [
+        "tone mismatch",
+        "trust issues"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_320_tone_volume_pacing"
+  },
+  {
+    "question": "How can you use pacing to co-regulate a conversation?",
+    "answer": "Slow your speech, pause between sentences, and mirror the other person\u2019s rhythm to invite calm.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "attunement"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "co-regulation",
+        "mirroring"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_321_tone_volume_pacing"
+  },
+  {
+    "question": "What\u2019s a good check-in question for self-awareness around tone?",
+    "answer": "\u201cWould I feel safe hearing this tone from someone else right now?\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-awareness"
+      ],
+      "narrative_type": [
+        "tone check",
+        "reflection"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_322_tone_volume_pacing"
+  }
+]

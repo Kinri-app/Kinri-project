@@ -1,0 +1,48 @@
+[
+  {
+    "question": "How does the gut affect mood and mental health?",
+    "answer": "The gut produces neurotransmitters like serotonin and GABA, and its microbes influence emotional regulation.",
+    "tags": [
+      "gut-brain",
+      "mental health",
+      "neurotransmitters"
+    ]
+  },
+  {
+    "question": "What disrupts gut-brain communication?",
+    "answer": "Inflammation, processed food, antibiotics, chronic stress, and poor sleep all reduce microbial diversity and disrupt signaling.",
+    "tags": [
+      "inflammation",
+      "microbiome",
+      "stress"
+    ]
+  },
+  {
+    "question": "What foods support gut and mental health?",
+    "answer": "Fermented foods, prebiotic fiber, colorful vegetables, omega-3 fats, bone broth, and polyphenols.",
+    "tags": [
+      "mood food",
+      "gut health",
+      "emotional nutrition"
+    ]
+  },
+  {
+    "question": "Why are food sensitivities linked to anxiety or depression?",
+    "answer": "They increase systemic inflammation and affect gut permeability, which can heighten emotional dysregulation.",
+    "tags": [
+      "inflammation",
+      "food triggers",
+      "mood"
+    ]
+  },
+  {
+    "headline": "Mental Health Starts in the Gut",
+    "body": "Your belly and brain are in constant conversation. Feed one, and the other learns to soften.",
+    "prompt": "What food or ingredient could you test removing\u2014or adding\u2014to better support emotional steadiness this week?",
+    "tags": [
+      "nutrition",
+      "gut-brain axis",
+      "emotional resilience"
+    ]
+  }
+]

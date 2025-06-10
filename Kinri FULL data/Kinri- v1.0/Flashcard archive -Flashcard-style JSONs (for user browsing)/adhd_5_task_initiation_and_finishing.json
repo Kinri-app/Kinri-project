@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Why is task initiation hard with ADHD?",
+    "answer": "The brain struggles to switch into action without urgency, external pressure, or dopamine-triggering novelty.",
+    "tags": [
+      "ADHD",
+      "task initiation",
+      "motivation"
+    ]
+  },
+  {
+    "question": "What\u2019s one tool to get started when stuck?",
+    "answer": "The 5-minute rule\u2014commit to just 5 minutes. It lowers resistance and activates momentum.",
+    "tags": [
+      "productivity",
+      "habit",
+      "motivation"
+    ]
+  },
+  {
+    "question": "Why do ADHDers often abandon half-finished tasks?",
+    "answer": "Interest drops once novelty fades. Without dopamine, finishing feels boring, pointless, or impossible.",
+    "tags": [
+      "task abandonment",
+      "dopamine",
+      "focus"
+    ]
+  },
+  {
+    "question": "How can systems help ADHDers finish more tasks?",
+    "answer": "Use checklists, body doubling, and visible reminders to close loops and reduce cognitive load.",
+    "tags": [
+      "task management",
+      "accountability",
+      "executive support"
+    ]
+  },
+  {
+    "headline": "Done Is Better Than Perfect",
+    "body": "You don\u2019t need to finish everything flawlessly. You need to keep moving\u2014bit by bit, with support.",
+    "prompt": "What\u2019s one unfinished task you could gently re-approach with a little less pressure today?",
+    "tags": [
+      "completion",
+      "gentle systems",
+      "ADHD strategies"
+    ]
+  }
+]

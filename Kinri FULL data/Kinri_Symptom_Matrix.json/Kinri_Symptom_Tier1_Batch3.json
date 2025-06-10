@@ -1,0 +1,217 @@
+[
+  {
+    "prompt": "Do you often find yourself checking things over and over, just to be sure?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "OCD",
+        "Anxiety"
+      ],
+      "emotion": [
+        "uncertainty",
+        "fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like you're going through the motions without feeling much?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD",
+        "Autism"
+      ],
+      "emotion": [
+        "numbness",
+        "disconnection"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you get overwhelmed by sudden changes to plans or routines?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "OCD",
+        "GAD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "frustration"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes feel empty or like you're not sure who you are?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Depression"
+      ],
+      "emotion": [
+        "emptiness",
+        "identity_confusion"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you struggle to remember parts of your past, especially around intense moments?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Dissociation"
+      ],
+      "emotion": [
+        "confusion",
+        "disconnection"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do loud noises, bright lights, or busy spaces make you feel overloaded?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "ADHD",
+        "PTSD"
+      ],
+      "emotion": [
+        "sensory_overload",
+        "irritation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you\u2019re constantly bracing for something bad to happen?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Anxiety",
+        "OCD"
+      ],
+      "emotion": [
+        "hypervigilance",
+        "anxiety"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find it hard to trust when things are going well?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "suspicion",
+        "fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do your emotions sometimes feel too big for the situation?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD",
+        "Bipolar II"
+      ],
+      "emotion": [
+        "emotional_intensity",
+        "self_doubt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "compare_support"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever thought about hurting yourself, even just in passing?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "BPD"
+      ],
+      "emotion": [
+        "distress",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

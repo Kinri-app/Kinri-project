@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you find yourself avoiding things just because they feel *uncomfortable* — not dangerous?,Like your brain treats discomfort as threat?,Tier 2,"{'GAD': 1.0, 'CPTSD': 0.5, 'OCD': 0.5}"
+Do you tend to second-guess your decisions — even small ones?,"Like you choose, then immediately wonder if it was wrong?",Tier 2,"{'OCD': 1.0, 'GAD': 0.5}"
+Do you struggle to hold attention during conversations — even if you're trying?,Like your brain drifts and you miss part of what was said?,Tier 1,"{'ADHD': 1.0, 'CPTSD': 0.5}"
+Do your emotions sometimes feel too big to manage — even when they don't ‘make sense’?,Like you're *feeling too much* and don’t know where to put it?,Tier 1,"{'BPD': 1.0, 'PMDD': 0.5}"
+"Do you avoid activities you once enjoyed — not because you don’t care, but because you don’t *feel* anything?",Like the color drained out of what used to matter?,Tier 1,"{'Depression': 1.0, 'CPTSD': 0.5}"
+Do you sometimes feel like you're failing at ‘basic life stuff’ that others seem to handle easily?,Like everyday functioning takes you twice the effort?,Tier 2,"{'ADHD': 1.0, 'Depression': 0.5, 'Autism': 0.5}"
+Do you feel emotionally sensitive to rejection or criticism — even subtle things like tone or phrasing?,Like you’re on alert for signs you’ve messed up or disappointed someone?,Tier 1,"{'BPD': 1.0, 'ADHD': 0.5, 'CPTSD': 0.5}"
+"Do you lose things often — keys, wallet, phone — even if you just had them?",Like your hands are faster than your memory?,Tier 1,{'ADHD': 1.0}
+Do you struggle to trust your memory — like you check and re-check things even when you ‘know’ you did it?,Like your brain won’t let you *feel* done?,Tier 2,"{'OCD': 1.0, 'ADHD': 0.5}"
+Do you feel uncomfortable receiving praise — like it doesn’t match how you see yourself?,"Like compliments feel off, or directed at a version of you that isn’t real?",Tier 2,"{'Depression': 1.0, 'CPTSD': 0.5}"

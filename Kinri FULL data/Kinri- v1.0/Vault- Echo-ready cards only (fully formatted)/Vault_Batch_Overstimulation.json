@@ -1,0 +1,523 @@
+[
+  {
+    "id": "overstimulation_1_nervous_system_overload_and_emotional_spillover",
+    "title": "When the World Feels Too Loud",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "overwhelm",
+      "shutdown",
+      "sensory fatigue"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Autism",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt",
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "witnessing",
+    "body": "It\u2019s not that you're broken \u2014 it's that your system was asked to carry too much input without enough space to process. You\u2019re not weak. You\u2019re saturated.",
+    "echo_intro": "If the world\u2019s felt too loud lately, this might be for you.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Core overstimulation concept",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_2_sensory_spikes_and_defensive_withdrawal",
+    "title": "Withdrawal is Not Weakness",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shutdown",
+      "numbness",
+      "sensory avoidance"
+    ],
+    "condition_tags": [
+      "Autism",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "reframe",
+    "tone": "compassionate",
+    "body": "Pulling away from noise, people, or light isn\u2019t giving up. It\u2019s your nervous system protecting itself the only way it knows how. Let it rest.",
+    "echo_intro": "When withdrawal shows up, this might help soften it.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_3_micro_stimuli_macro_impact",
+    "title": "Small Things That Break the Camel",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "irritability",
+      "overload",
+      "panic"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "BPD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "metaphor",
+    "tone": "realistic",
+    "body": "It\u2019s not just the big things. It\u2019s the flickering light, the overlapping voices, the background tension. Your response is valid, even when the trigger seems small.",
+    "echo_intro": "You\u2019re not overreacting \u2014 your system is saturated.",
+    "length_tokens": 50,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Metaphor-based card",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_4_coregulation_and_sensory_reduction",
+    "title": "Reduce, Don\u2019t Escape",
+    "deck_type": "grounding",
+    "emotion_tags": [
+      "panic",
+      "sensory overwhelm"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Autism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "somatic",
+    "tone": "co-regulating",
+    "body": "Lower the lights. Turn down the sound. Breathe slower than you think you need. You don\u2019t have to leave \u2014 you just need to shrink the space around you.",
+    "echo_intro": "This one\u2019s for when you need less, not more.",
+    "length_tokens": 47,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_5_nervous_system_reset_in_micro_doses",
+    "title": "Take Five Seconds",
+    "deck_type": "grounding",
+    "emotion_tags": [
+      "overload",
+      "panic",
+      "fatigue"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull",
+      "echo_prompt"
+    ],
+    "narrative_type": "somatic",
+    "tone": "slow and simple",
+    "body": "Set a five-second timer. That\u2019s all. Close your eyes. Let your body be here, nowhere else. The world can wait. You can\u2019t.",
+    "echo_intro": "Try this if everything feels too much all at once.",
+    "length_tokens": 38,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_6_emotional_processing_backlog",
+    "title": "You\u2019re Not Behind \u2014 You\u2019re Full",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "incompletion",
+      "shutdown",
+      "internal clutter"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "relieving",
+    "body": "If you can\u2019t cry, speak, or focus \u2014 it\u2019s not that you\u2019re behind. It\u2019s that your system is full. Processing can wait. Safety comes first.",
+    "echo_intro": "This card is here to make space, not demand clarity.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_7_noisy_world_and_mental_echo",
+    "title": "Noise Doesn\u2019t Have to Win",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "irritability",
+      "fatigue",
+      "cognitive overload"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "clear and grounded",
+    "body": "Every beep, buzz, or interruption chips away at your ability to stay present. It\u2019s not your fault that modern life overwhelms your nervous system. It was built that way. You weren\u2019t.",
+    "echo_intro": "For when it all feels like too much input from too many places.",
+    "length_tokens": 47,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_8_tired_but_too_alert_to_rest",
+    "title": "Too Tired to Sleep, Too Alert to Rest",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "fatigue",
+      "restlessness",
+      "alertness"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Autism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "empathic",
+    "body": "You\u2019re not wired wrong. Sometimes a nervous system stuck in high alert can\u2019t power down, even when exhaustion hits. That\u2019s not failure \u2014 it\u2019s dysregulated protection.",
+    "echo_intro": "For when you're spinning too fast to land.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_9_background_threat_and_sensory_tension",
+    "title": "Not All Danger Is Loud",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "anxiety",
+      "hypervigilance",
+      "background stress"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "GAD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "metaphor",
+    "tone": "low and validating",
+    "body": "You might not hear a threat \u2014 but your body does. The hum of tension in your shoulders, your jaw, your breath? That\u2019s not random. It\u2019s memory.",
+    "echo_intro": "Sometimes tension means 'I'm still holding something.'",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "For subtle alertness themes",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_10_multitasking_and_emotional_exhaustion",
+    "title": "Multitasking Is a Lie",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "fatigue",
+      "overwhelm",
+      "shutdown"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "BPD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "firm compassion",
+    "body": "Your brain wasn\u2019t made to hold ten threads at once. Switching gears drains fuel. No wonder you're tired. You're not unproductive \u2014 you\u2019re overloaded.",
+    "echo_intro": "You\u2019re not failing at life. You\u2019re juggling too many realities.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Anti-productivity tone",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_11_digital_input_and_internal_clutter",
+    "title": "You\u2019re Not Meant to Absorb It All",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "mental fatigue",
+      "irritability",
+      "inner noise"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Modern Life"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "soothing",
+    "body": "Scrolling, pinging, messaging, remembering \u2014 no wonder your thoughts feel cluttered. Your nervous system needs space between signals. You deserve stillness.",
+    "echo_intro": "A pause might be the medicine here.",
+    "length_tokens": 39,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Digital fatigue framing",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_12_touch_and_temperature_overload",
+    "title": "Too Much on the Skin",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "sensory overload",
+      "touch aversion"
+    ],
+    "condition_tags": [
+      "Autism",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "validating",
+    "body": "You\u2019re not dramatic for hating the tags, the heat, the clothes that don\u2019t feel right. Your skin is trying to talk to you \u2014 and you\u2019re allowed to listen.",
+    "echo_intro": "This is for the body that feels too much, too fast.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_13_invisible_burnout_from_micro_disruptions",
+    "title": "Tiny Things Still Drain You",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "burnout",
+      "overload",
+      "irritability"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Autism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "soft challenge",
+    "body": "It's not weakness. It\u2019s accumulation. Every ding, beep, and interruption pulls energy away \u2014 even when you pretend it doesn\u2019t. You\u2019re not imagining it.",
+    "echo_intro": "Here if your brain feels threadbare after nothing 'big.'",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_14_silent_spaces_and_nervous_system_reset",
+    "title": "Silence Isn\u2019t Boring \u2014 It\u2019s Medicine",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "overwhelm",
+      "rest",
+      "anxiety"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "metaphor",
+    "tone": "slow and spacious",
+    "body": "Your system might crave silence but be afraid of it too. That\u2019s okay. Let stillness be a soft room \u2014 not a punishment. You\u2019re allowed to retreat.",
+    "echo_intro": "When silence scares you \u2014 and heals you \u2014 this might help.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_15_meltdown_recovery_and_post-overload_crash",
+    "title": "After the Storm",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shutdown",
+      "grief",
+      "guilt"
+    ],
+    "condition_tags": [
+      "Autism",
+      "BPD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "tender",
+    "body": "What came after the meltdown wasn\u2019t weakness. It was the natural crash of a body protecting itself too long. You\u2019re not broken \u2014 just overstretched.",
+    "echo_intro": "For post-overload shame or confusion.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_16_emotional_misfire_and_irritability",
+    "title": "It\u2019s Not That You\u2019re Angry \u2014 You\u2019re Fried",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "anger",
+      "short fuse",
+      "emotional overflow"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "grounded and honest",
+    "body": "The sharp snap, the flare, the tight words \u2014 they\u2019re not moral failures. They\u2019re signs that your nervous system is maxed. Recovery starts with naming that truth.",
+    "echo_intro": "This is for the moment after something sharp escapes you.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_17_visual_noise_and_decision_clutter",
+    "title": "Clutter Isn\u2019t Just Around You",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "decision fatigue",
+      "disorganization",
+      "mental clutter"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Executive Dysfunction"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "compassionate",
+    "body": "Messy room. Messy tabs. Messy thoughts. It\u2019s not laziness \u2014 it\u2019s visual input echoing into mental overload. Your system\u2019s drowning in too many open loops.",
+    "echo_intro": "If you're stuck between tabs, piles, or decisions \u2014 try this.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_18_sensory_safe_spots_and_exit_plans",
+    "title": "It\u2019s Okay to Plan Your Exits",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "anxiety",
+      "overstimulation",
+      "planning fatigue"
+    ],
+    "condition_tags": [
+      "Autism",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "reassuring",
+    "body": "Needing to know where the exits are doesn\u2019t mean you\u2019re antisocial. It means you\u2019re trying to survive the noise. That\u2019s wise. That\u2019s strategy. Not failure.",
+    "echo_intro": "For those who plan how to leave \u2014 not to quit, but to breathe.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_19_micropauses_and_controlled_disengagement",
+    "title": "Step Away Without Apology",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "withdrawal",
+      "disconnection",
+      "regulation"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "directive insight",
+    "tone": "affirming",
+    "body": "You\u2019re allowed to pause mid-conversation, leave the room, take five minutes in the bathroom. Your body isn\u2019t abandoning others \u2014 it\u2019s returning to itself.",
+    "echo_intro": "Try this before pushing through the next wave.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "overstimulation_20_sensory_protection_and_emotional_boundary",
+    "title": "Noise-Cancelling Is a Form of Boundary",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "overstimulation",
+      "withdrawal",
+      "protection"
+    ],
+    "condition_tags": [
+      "Autism",
+      "Sensory Processing"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "empowering",
+    "body": "Earplugs. Sunglasses. Screens down. These aren\u2019t escape \u2014 they\u2019re protection. You\u2019re not antisocial. You\u2019re learning how to stay whole.",
+    "echo_intro": "This is your reminder that protection \u2260 avoidance.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Closing card",
+    "version": "v1.0"
+  }
+]

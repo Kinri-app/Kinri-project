@@ -1,0 +1,489 @@
+[
+  {
+    "card_id": "communication_13_nervous_system_communication_and_unspoken_signals_001",
+    "card_type": "flashcard",
+    "question": "What is nervous system communication?",
+    "answer": "The way our bodies send signals of safety or threat through tone, breath, posture, and presence\u2014often before words.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_13_nervous_system_communication_and_unspoken_signals_002",
+    "card_type": "flashcard",
+    "question": "Why are unspoken signals powerful in relationships?",
+    "answer": "They shape how safe we feel with others\u2014your tone or body can regulate or dysregulate far more than content.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_13_nervous_system_communication_and_unspoken_signals_003",
+    "card_type": "flashcard",
+    "question": "What are signs someone\u2019s nervous system is dysregulated during a conversation?",
+    "answer": "Shallow breathing, pacing, crossed arms, fast speech, emotional shutdown, or reactive tone.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_13_nervous_system_communication_and_unspoken_signals_004",
+    "card_type": "flashcard",
+    "question": "How can you respond to someone\u2019s nonverbal distress?",
+    "answer": "Slow your pace, soften your tone, use grounding eye contact, or offer space instead of pushing forward.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_13_nervous_system_communication_and_unspoken_signals_005",
+    "card_type": "vault_card",
+    "headline": "Your Body Speaks Before You Do",
+    "body": "Every posture, breath, and blink tells a story. Speak safety before you speak words. Attune before you advise.",
+    "prompt": "What nonverbal signal could you adjust this week to help a loved one feel safer in your presence?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_16_nervous_system_presence_and_emotional_validation_001",
+    "card_type": "flashcard",
+    "question": "Why is presence powerful in emotional communication?",
+    "answer": "It tells the other person\u2019s nervous system 'you\u2019re not alone'\u2014which calms reactivity and increases connection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_16_nervous_system_presence_and_emotional_validation_002",
+    "card_type": "flashcard",
+    "question": "What is emotional validation?",
+    "answer": "Acknowledging someone\u2019s emotion as real and understandable\u2014without minimizing, fixing, or arguing with it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_16_nervous_system_presence_and_emotional_validation_003",
+    "card_type": "flashcard",
+    "question": "Why does fixing too quickly cause disconnect?",
+    "answer": "It skips over the emotional need\u2014making the person feel unseen or rushed out of their truth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_16_nervous_system_presence_and_emotional_validation_004",
+    "card_type": "flashcard",
+    "question": "What are simple phrases to validate someone emotionally?",
+    "answer": "\u201cThat makes sense.\u201d \u201cI hear you.\u201d \u201cOf course you\u2019d feel that way.\u201d \u201cThat sounds hard.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_16_nervous_system_presence_and_emotional_validation_005",
+    "card_type": "vault_card",
+    "headline": "People Don\u2019t Need Solutions First\u2014They Need to Feel Seen",
+    "body": "You don\u2019t need to fix their pain. You need to stand next to it. Safety starts with presence.",
+    "prompt": "What conversation this week could benefit from more emotional presence and less urgency to fix?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_4_relationship_pitfalls_and_red_flags_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s one major communication red flag in relationships?",
+    "answer": "Stonewalling\u2014refusing to discuss difficult topics or shutting down emotionally during conflict.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_4_relationship_pitfalls_and_red_flags_002",
+    "card_type": "flashcard",
+    "question": "Why is defensiveness harmful?",
+    "answer": "It prevents accountability and often escalates conflict by invalidating the other person\u2019s experience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_4_relationship_pitfalls_and_red_flags_003",
+    "card_type": "flashcard",
+    "question": "How can keeping score damage a relationship?",
+    "answer": "It turns love into a competition instead of collaboration, breeding resentment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_4_relationship_pitfalls_and_red_flags_004",
+    "card_type": "flashcard",
+    "question": "What are signs of unrealistic expectations?",
+    "answer": "Expecting your partner to read your mind or meet all your emotional needs perfectly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_4_relationship_pitfalls_and_red_flags_005",
+    "card_type": "vault_card",
+    "headline": "Red Flags Are Yellow If Caught Early",
+    "body": "Most issues don\u2019t start big\u2014they build. Spotting and softening patterns early can save a great love.",
+    "prompt": "What recurring dynamic might need attention before it becomes resentment?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_7_ifs_trauma_bonds_and_inner_healing_001",
+    "card_type": "flashcard",
+    "question": "Why do people repeat harmful relationship patterns?",
+    "answer": "Unconscious parts seek redemption for childhood wounds\u2014choosing familiar dynamics in hopes of rewriting them.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_7_ifs_trauma_bonds_and_inner_healing_002",
+    "card_type": "flashcard",
+    "question": "What are the four protective modes people use in trauma-bonded relationships?",
+    "answer": "Changing the partner, changing the self, seeking a new redeemer, or despairing entirely.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_7_ifs_trauma_bonds_and_inner_healing_003",
+    "card_type": "flashcard",
+    "question": "How does Internal Family Systems (IFS) support healing?",
+    "answer": "IFS helps you connect with your Exile (inner child), comfort it, and shift from protection-seeking to self-leadership.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_7_ifs_trauma_bonds_and_inner_healing_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the goal of trauma-aware relationship work?",
+    "answer": "To reduce reliance on others to fix your pain\u2014and increase your ability to meet your needs internally first.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_7_ifs_trauma_bonds_and_inner_healing_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need Another Redeemer\u2014You Need You",
+    "body": "You weren\u2019t meant to carry pain into every new bond. Heal the wound, not just the memory.",
+    "prompt": "What painful pattern keeps repeating\u2014and what inner part might still be asking to be seen?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_10_communication_as_coregulation_001",
+    "card_type": "flashcard",
+    "question": "What is co-regulation in communication?",
+    "answer": "It\u2019s the process of nervous systems syncing through tone, presence, and cues\u2014calming each other without words.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_10_communication_as_coregulation_002",
+    "card_type": "flashcard",
+    "question": "How can you tell co-regulation is happening?",
+    "answer": "You feel safer, more grounded, less reactive\u2014and you notice slower breathing, softening, and attunement in both people.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_10_communication_as_coregulation_003",
+    "card_type": "flashcard",
+    "question": "What supports co-regulation during difficult conversations?",
+    "answer": "Lowered voice, calm facial expression, open posture, breath awareness, and non-defensive listening.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_10_communication_as_coregulation_004",
+    "card_type": "flashcard",
+    "question": "What disrupts co-regulation?",
+    "answer": "Tone escalation, fast pace, interruption, dismissiveness, or invalidating emotional cues.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_10_communication_as_coregulation_005",
+    "card_type": "vault_card",
+    "headline": "The Nervous System Speaks First",
+    "body": "You\u2019re not just exchanging words\u2014you\u2019re exchanging signals. Soften your body. Regulate your voice. Speak safety first.",
+    "prompt": "What conversation this week could benefit from leading with co-regulation, not correction?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

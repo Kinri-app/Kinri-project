@@ -1,0 +1,86 @@
+[
+  {
+    "question": "How do boundaries support nervous system regulation?",
+    "answer": "They reduce overstimulation, protect rest time, and limit emotional labor\u2014helping preserve internal energy.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "regulation",
+        "boundaries"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_303_regulation_energy"
+  },
+  {
+    "question": "Why do unspoken boundaries drain energy?",
+    "answer": "When you hold back needs or emotions, the nervous system works overtime managing discomfort or people-pleasing.",
+    "tags": {
+      "condition": [
+        "burnout"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "emotional labor",
+        "overwhelm"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_304_regulation_energy"
+  },
+  {
+    "question": "What are energy-protecting boundary practices?",
+    "answer": "Pre-setting limits, creating buffers in your schedule, saying no early, and exiting draining conversations gently.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "energy conservation",
+        "routine",
+        "communication"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_305_regulation_energy"
+  },
+  {
+    "question": "What\u2019s a sign your energy boundary was ignored?",
+    "answer": "You feel irritable, foggy, resentful, or exhausted after being with someone\u2014even if the interaction was 'fine.'",
+    "tags": {
+      "condition": [
+        "burnout"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "body awareness",
+        "boundaries"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_306_regulation_energy"
+  },
+  {
+    "headline": "Boundaries Save Energy, Not Just Emotions",
+    "body": "Your nervous system runs on limited fuel. Boundaries aren\u2019t just emotional tools\u2014they\u2019re how you stop the leak.",
+    "prompt": "What limit could you set this week that protects your energy\u2014not just your time?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "healing",
+        "boundaries",
+        "resilience"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_307_regulation_energy"
+  }
+]

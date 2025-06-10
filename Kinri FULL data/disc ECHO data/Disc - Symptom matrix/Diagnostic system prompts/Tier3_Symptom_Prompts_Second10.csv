@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+"Do you ever feel like disappearing — not dying, just *not being here* for a while?",Like vanishing would be easier than trying to keep going?,Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"
+Do you feel like you work twice as hard just to seem ‘normal’?,Like holding yourself together takes more effort than people know?,Tier 3,"{'Autism': 0.5, 'CPTSD': 0.5, 'ADHD': 0.25}"
+Do you ever feel like you’re too sensitive for this world — emotionally or physically?,Like you were built without the right armor?,Tier 3,"{'BPD': 0.5, 'CPTSD': 0.5, 'PMDD': 0.25}"
+Do you sometimes feel like your body doesn’t belong to you — like you’re not fully in it?,"Like you're piloting it remotely, or watching from outside?",Tier 3,"{'CPTSD': 0.5, 'PTSD': 0.5, 'Autism': 0.25}"
+Do you feel like your best effort still isn’t enough — like the goalposts keep moving?,"No matter how much you try, it doesn’t really ‘count’ somehow?",Tier 3,"{'Depression': 0.5, 'GAD': 0.5, 'ADHD': 0.25}"
+Do you catch yourself trying to be whoever the room needs — even if it costs you later?,Like you shapeshift to avoid discomfort or rejection?,Tier 3,"{'CPTSD': 0.5, 'BPD': 0.5, 'Autism': 0.25}"
+"Do you ever feel an urge to hurt yourself — not to die, but just to feel *something* again?","Like it might help you feel real again, or at least interrupt the numbness?",Tier 3,"{'BPD': 0.5, 'CPTSD': 0.5, 'Depression': 0.25}"
+Do you sometimes feel like you’ve forgotten who you were — like the old ‘you’ disappeared?,Like you can’t trace the thread back to who you used to be?,Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"
+Do you feel like your needs are too much — so you just stop having them?,Like asking for care feels dangerous or exhausting?,Tier 3,"{'CPTSD': 0.5, 'BPD': 0.5, 'GAD': 0.25}"
+Do you feel scared of how much emotion is inside you — like you're afraid it could break something?,"Like there's more than you know how to carry, and you're holding it in with duct tape?",Tier 3,"{'BPD': 0.5, 'PMDD': 0.5, 'CPTSD': 0.25}"

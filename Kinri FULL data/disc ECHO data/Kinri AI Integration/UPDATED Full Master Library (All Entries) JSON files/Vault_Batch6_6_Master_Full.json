@@ -1,0 +1,588 @@
+[
+  {
+    "card_id": "relationships_3_conflict_resolution_and_growth_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the first step in healthy conflict resolution?",
+    "answer": "Pause, regulate your emotions, and wait until both people are calm enough to discuss productively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_3_conflict_resolution_and_growth_002",
+    "card_type": "flashcard",
+    "question": "Why should couples avoid blame in arguments?",
+    "answer": "Blame creates defensiveness. Focusing on needs and solutions fosters collaboration.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_3_conflict_resolution_and_growth_003",
+    "card_type": "flashcard",
+    "question": "How does teamwork improve conflict outcomes?",
+    "answer": "Approaching disagreements as partners on the same side reframes tension as a shared problem, not a personal attack.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_3_conflict_resolution_and_growth_004",
+    "card_type": "flashcard",
+    "question": "Why should old issues be processed, not buried?",
+    "answer": "Unprocessed emotions resurface in future conflicts\u2014healing past hurts helps clear the air long-term.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_3_conflict_resolution_and_growth_005",
+    "card_type": "vault_card",
+    "headline": "Fight to Repair, Not to Win",
+    "body": "Conflict doesn\u2019t mean failure\u2014it\u2019s how you grow closer when it\u2019s handled with care.",
+    "prompt": "What\u2019s one argument you could revisit calmly to help your partner feel more understood?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_61_nervous_system_nourishment_and_food_simplicity_001",
+    "card_type": "flashcard",
+    "question": "Why does simplicity matter in nervous system healing?",
+    "answer": "Complexity increases cognitive load\u2014simple meals reduce overwhelm and restore calm through predictable nourishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_61_nervous_system_nourishment_and_food_simplicity_002",
+    "card_type": "flashcard",
+    "question": "What are grounding, simple meal examples?",
+    "answer": "Scrambled eggs, oatmeal, broth with greens, banana with nut butter\u2014easy to digest and emotionally neutral.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_61_nervous_system_nourishment_and_food_simplicity_003",
+    "card_type": "flashcard",
+    "question": "How does decision fatigue impact eating patterns?",
+    "answer": "Too many choices lead to skipped meals, reactive eating, or guilt\u2014simplicity helps reduce this stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_61_nervous_system_nourishment_and_food_simplicity_004",
+    "card_type": "flashcard",
+    "question": "How does food simplicity reinforce safety?",
+    "answer": "Predictable meals feel familiar\u2014familiarity lowers threat perception and supports regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_61_nervous_system_nourishment_and_food_simplicity_005",
+    "card_type": "vault_card",
+    "headline": "Simple Meals = Safe Meals",
+    "body": "You don\u2019t need creativity\u2014you need calm. Simplicity is how you remind your nervous system that it\u2019s safe to receive.",
+    "prompt": "What\u2019s one simple meal you could repeat this week that brings relief\u2014not pressure?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_62_nervous_system_support_and_mealtime_environment_001",
+    "card_type": "flashcard",
+    "question": "How does your environment impact digestion and regulation?",
+    "answer": "Noisy, chaotic, or overstimulating environments activate the stress response\u2014reducing digestive and emotional capacity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_62_nervous_system_support_and_mealtime_environment_002",
+    "card_type": "flashcard",
+    "question": "What helps create a calming mealtime environment?",
+    "answer": "Dim lights, soft music, silence, clean space, slow pace, gratitude ritual, and limited tech use.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_62_nervous_system_support_and_mealtime_environment_003",
+    "card_type": "flashcard",
+    "question": "Why is a calm setting important for emotional eaters?",
+    "answer": "It helps regulate the nervous system, making eating feel safe, focused, and emotionally anchored.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_62_nervous_system_support_and_mealtime_environment_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a low-effort way to shift meal energy?",
+    "answer": "Sit down, breathe 3 times before eating, put your phone away, and chew slowly to return to presence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_62_nervous_system_support_and_mealtime_environment_005",
+    "card_type": "vault_card",
+    "headline": "Regulate the Room, Regulate the Meal",
+    "body": "You don\u2019t need to fix your food\u2014you might just need to soften your space. The nervous system eats too.",
+    "prompt": "What could you shift in your environment this week to make food feel more grounding and safe?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_63_nervous_system_reset_and_emotional_nourishment_001",
+    "card_type": "flashcard",
+    "question": "What role does food play in nervous system reset?",
+    "answer": "Calming, mineral-rich meals rebuild energy, lower cortisol, and anchor the system after dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_63_nervous_system_reset_and_emotional_nourishment_002",
+    "card_type": "flashcard",
+    "question": "What meals help during emotional exhaustion?",
+    "answer": "Simple, warm meals like broth with protein, rice bowls, or smoothie with fat and fiber\u2014low pressure, high comfort.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_63_nervous_system_reset_and_emotional_nourishment_003",
+    "card_type": "flashcard",
+    "question": "How does emotional nourishment differ from physical hunger?",
+    "answer": "Emotional nourishment meets the need for safety, comfort, and rhythm\u2014not just calories.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_63_nervous_system_reset_and_emotional_nourishment_004",
+    "card_type": "flashcard",
+    "question": "Why do rituals matter during nervous system reset?",
+    "answer": "They give the brain familiar cues that it\u2019s safe to soften, reducing emotional reactivity and overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_63_nervous_system_reset_and_emotional_nourishment_005",
+    "card_type": "vault_card",
+    "headline": "Food Can Be the First Step Back",
+    "body": "When you can\u2019t think your way to regulation, you can feed your way there. One soft meal. One grounding bite.",
+    "prompt": "What reset food could you return to this week\u2014not for discipline, but for emotional reentry?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_1_emotional_awareness_kindness_connection_001",
+    "card_type": "flashcard",
+    "question": "Why is emotional awareness important in relationships?",
+    "answer": "Understanding your emotions helps you communicate clearly, avoid reactive behaviors, and create emotional safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_1_emotional_awareness_kindness_connection_002",
+    "card_type": "flashcard",
+    "question": "What role does kindness play in relationship strength?",
+    "answer": "Daily kindness builds trust, soothes nervous systems, and reinforces emotional intimacy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_1_emotional_awareness_kindness_connection_003",
+    "card_type": "flashcard",
+    "question": "How can parents model healthy relationships for children?",
+    "answer": "By showing calm communication, emotional regulation, and kindness toward each other.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_1_emotional_awareness_kindness_connection_004",
+    "card_type": "flashcard",
+    "question": "Why are nonverbal expressions of love important?",
+    "answer": "Touch, tone, and eye contact communicate safety and affection often better than words.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_1_emotional_awareness_kindness_connection_005",
+    "card_type": "vault_card",
+    "headline": "Small Acts, Big Connection",
+    "body": "Relationships grow through consistency, calmness, and small daily efforts\u2014not grand romantic gestures.",
+    "prompt": "What small gesture could you make today to show care without needing words?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_2_communication_and_listening_in_love_001",
+    "card_type": "flashcard",
+    "question": "What makes communication effective in relationships?",
+    "answer": "Being present, listening actively, expressing feelings with 'I' statements, and showing empathy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_2_communication_and_listening_in_love_002",
+    "card_type": "flashcard",
+    "question": "How do 'I' statements help avoid conflict?",
+    "answer": "They focus on your feelings instead of blaming your partner, which keeps conversations less defensive.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_2_communication_and_listening_in_love_003",
+    "card_type": "flashcard",
+    "question": "Why are regular check-ins important for couples?",
+    "answer": "They create a safe space to review the relationship, address issues early, and celebrate growth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_2_communication_and_listening_in_love_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a common communication mistake?",
+    "answer": "Jumping into advice or defensiveness instead of truly listening to understand.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "relationships_2_communication_and_listening_in_love_005",
+    "card_type": "vault_card",
+    "headline": "Speak to Understand, Not Just to Be Heard",
+    "body": "Connection deepens when we listen with presence, not just with ears. Slow down. See each other.",
+    "prompt": "When was the last time you listened without planning a reply? Could today be another chance?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

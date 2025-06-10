@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Why do boundary scripts help with emotional safety?",
+    "answer": "Scripts reduce emotional overwhelm and freeze by giving your brain words to anchor to during tense moments.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional safety"
+      ],
+      "narrative_type": [
+        "boundary scripts"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_295_boundary_scripts"
+  },
+  {
+    "question": "What\u2019s a gentle script for declining plans?",
+    "answer": "\"I\u2019m stretched thin right now and need to recharge\u2014thank you for understanding.\"",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "script",
+        "saying no",
+        "self-respect"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_296_boundary_scripts"
+  },
+  {
+    "question": "What\u2019s a script for when a boundary was crossed?",
+    "answer": "\"That didn\u2019t feel okay to me\u2014I want to feel safe with you, so I need to set a clearer boundary.\"",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "assertiveness",
+        "repair",
+        "boundaries"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_297_boundary_scripts"
+  },
+  {
+    "question": "Why is tone as important as language in boundary setting?",
+    "answer": "A calm, non-defensive tone signals safety\u2014while harsh tone, even with kind words, can activate threat response.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "nervous system"
+      ],
+      "usage_mode": [
+        "tone",
+        "relationship tools"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_298_boundary_scripts"
+  },
+  {
+    "headline": "Clarity Isn\u2019t Cruel\u2014It\u2019s Care",
+    "body": "You don\u2019t need to justify your limits. You just need words that hold both firmness and kindness.",
+    "prompt": "What boundary script could help you practice emotional clarity in the week ahead?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "healing"
+      ],
+      "usage_mode": [
+        "communication",
+        "boundaries"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_299_boundary_scripts"
+  }
+]

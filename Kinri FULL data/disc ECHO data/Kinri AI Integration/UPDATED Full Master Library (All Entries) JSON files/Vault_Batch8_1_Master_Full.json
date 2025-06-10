@@ -1,0 +1,590 @@
+[
+  {
+    "card_id": "trauma_17_forgiveness_release_and_letting_go_001",
+    "card_type": "flashcard",
+    "question": "What is forgiveness in a trauma-informed context?",
+    "answer": "It\u2019s not forgetting or excusing\u2014it\u2019s releasing the nervous system from the burden of carrying emotional injury.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_17_forgiveness_release_and_letting_go_002",
+    "card_type": "flashcard",
+    "question": "Why is forced forgiveness harmful?",
+    "answer": "Premature forgiveness can bypass grief, deny justice, and silence parts that still need protection or validation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_17_forgiveness_release_and_letting_go_003",
+    "card_type": "flashcard",
+    "question": "What helps someone begin the process of release?",
+    "answer": "Grieving, expressing anger safely, writing letters (sent or unsent), and recognizing how the pain protected you.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_17_forgiveness_release_and_letting_go_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the role of compassion in letting go?",
+    "answer": "Compassion doesn\u2019t mean agreement\u2014it means choosing to free yourself from entanglement and reclaim your energy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_17_forgiveness_release_and_letting_go_005",
+    "card_type": "vault_card",
+    "headline": "Letting Go Doesn\u2019t Excuse\u2014It Liberates",
+    "body": "Forgiveness is for you. Release is for your nervous system. You\u2019re allowed to be free\u2014even if they never change.",
+    "prompt": "What emotional loop are you still holding\u2014and what might it feel like to finally release it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_12_identity_worthiness_and_self_trust_001",
+    "card_type": "flashcard",
+    "question": "Why does trauma often distort identity?",
+    "answer": "Survival-mode teaches you to adapt to others' needs\u2014leaving your own voice, desires, or self-worth buried.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_12_identity_worthiness_and_self_trust_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s one reason self-trust breaks in trauma survivors?",
+    "answer": "When your instincts were ignored, punished, or led to harm, your nervous system learns not to trust your own signals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_12_identity_worthiness_and_self_trust_003",
+    "card_type": "flashcard",
+    "question": "How do you rebuild a sense of worthiness?",
+    "answer": "Through compassion, safe relationships, setting boundaries, and experiencing love that doesn\u2019t require performance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_12_identity_worthiness_and_self_trust_004",
+    "card_type": "flashcard",
+    "question": "Why is slowness essential in trauma identity work?",
+    "answer": "The nervous system needs time to believe it\u2019s safe to show up authentically\u2014rushing risks retraumatization.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_12_identity_worthiness_and_self_trust_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Unworthy\u2014You Were Unseen",
+    "body": "Your worth didn\u2019t break\u2014it got buried. Healing isn\u2019t becoming someone else. It\u2019s coming home to who you were beneath the defense.",
+    "prompt": "What small choice today would honor the you beneath the mask?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_13_triggers_dissociation_and_pattern_awareness_001",
+    "card_type": "flashcard",
+    "question": "What is dissociation?",
+    "answer": "Dissociation is a trauma response where the mind disconnects from the body or present moment to reduce pain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_13_triggers_dissociation_and_pattern_awareness_002",
+    "card_type": "flashcard",
+    "question": "Why do trauma patterns repeat?",
+    "answer": "The nervous system unconsciously seeks what feels familiar\u2014even if it\u2019s unsafe\u2014to try to resolve unfinished emotional business.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_13_triggers_dissociation_and_pattern_awareness_003",
+    "card_type": "flashcard",
+    "question": "What are signs of being triggered?",
+    "answer": "Heart racing, zoning out, shutting down, rage spikes, or the sense that the moment is bigger than it should be.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_13_triggers_dissociation_and_pattern_awareness_004",
+    "card_type": "flashcard",
+    "question": "How can pattern awareness support healing?",
+    "answer": "Naming the trigger, separating past from present, and bringing curiosity reduces reactivity and increases self-compassion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_13_triggers_dissociation_and_pattern_awareness_005",
+    "card_type": "vault_card",
+    "headline": "It\u2019s Not Overreacting\u2014It\u2019s a Pattern Calling Out",
+    "body": "If your body reacts big, it\u2019s not the present\u2014it\u2019s the echo. You\u2019re not crazy. You\u2019re carrying history.",
+    "prompt": "What trigger came up this week\u2014and what younger part of you might it belong to?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_14_coregulation_isolation_and_emotional_reconnection_001",
+    "card_type": "flashcard",
+    "question": "What is co-regulation?",
+    "answer": "Co-regulation is the way nervous systems sync with each other\u2014calm spreads through safe presence and emotional mirroring.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_14_coregulation_isolation_and_emotional_reconnection_002",
+    "card_type": "flashcard",
+    "question": "Why does trauma often lead to isolation?",
+    "answer": "Hurt teaches you that connection is dangerous or draining, so the body avoids it\u2014even if the heart longs for it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_14_coregulation_isolation_and_emotional_reconnection_003",
+    "card_type": "flashcard",
+    "question": "How can someone begin to reconnect emotionally?",
+    "answer": "Start small\u2014through brief safe eye contact, shared silence, gentle touch, or being around calm, grounded people.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_14_coregulation_isolation_and_emotional_reconnection_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the link between touch and nervous system healing?",
+    "answer": "Warm, safe touch releases oxytocin and cues safety\u2014helping regulate emotions and unwind defensive patterns.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_14_coregulation_isolation_and_emotional_reconnection_005",
+    "card_type": "vault_card",
+    "headline": "You Weren\u2019t Meant to Heal Alone",
+    "body": "Isolation protects\u2014but it also prolongs. Healing speeds up when your nervous system feels another that says, \u2018you\u2019re safe.\u2019",
+    "prompt": "What co-regulation opportunity could you allow yourself this week\u2014just 5% more than usual?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_15_rebuilding_safety_trust_nervous_system_capacity_001",
+    "card_type": "flashcard",
+    "question": "Why does healing require safety first?",
+    "answer": "The nervous system can\u2019t process pain or form secure bonds when it still feels under threat.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_15_rebuilding_safety_trust_nervous_system_capacity_002",
+    "card_type": "flashcard",
+    "question": "What builds nervous system capacity over time?",
+    "answer": "Small doses of discomfort followed by regulation\u2014expanding your window of tolerance and emotional flexibility.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_15_rebuilding_safety_trust_nervous_system_capacity_003",
+    "card_type": "flashcard",
+    "question": "How do trauma survivors rebuild trust?",
+    "answer": "Through consistent experiences of attunement, boundaries, nonjudgmental listening, and emotional repair.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_15_rebuilding_safety_trust_nervous_system_capacity_004",
+    "card_type": "flashcard",
+    "question": "What does titration mean in trauma healing?",
+    "answer": "Introducing emotional material in small doses\u2014just enough to feel and process without becoming overwhelmed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_15_rebuilding_safety_trust_nervous_system_capacity_005",
+    "card_type": "vault_card",
+    "headline": "Safety Isn\u2019t a Feeling\u2014It\u2019s a Practice",
+    "body": "You don\u2019t wait to feel safe to heal. You build safety by showing your system it can come home, again and again.",
+    "prompt": "What action this week could gently remind your body it\u2019s allowed to soften?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_16_parenting_triggers_and_reparenting_001",
+    "card_type": "flashcard",
+    "question": "Why do children often trigger unresolved trauma?",
+    "answer": "They mirror our unmet needs, unprocessed pain, and unhealed dynamics\u2014activating old emotional loops.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_16_parenting_triggers_and_reparenting_002",
+    "card_type": "flashcard",
+    "question": "What does it mean to reparent yourself?",
+    "answer": "It means giving your inner child the safety, attunement, boundaries, and emotional validation you didn\u2019t receive.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_16_parenting_triggers_and_reparenting_003",
+    "card_type": "flashcard",
+    "question": "How can a parent regulate during triggering moments?",
+    "answer": "Pause, breathe, place a hand on your chest or stomach, name what part is activated\u2014and delay reacting.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_16_parenting_triggers_and_reparenting_004",
+    "card_type": "flashcard",
+    "question": "Why is self-compassion crucial in reparenting?",
+    "answer": "You cannot offer your child what you\u2019ve never allowed yourself to receive. Compassion unlocks both healing and modeling.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_16_parenting_triggers_and_reparenting_005",
+    "card_type": "vault_card",
+    "headline": "The Child in You and the Child Beside You Both Deserve Safety",
+    "body": "Reparenting isn\u2019t selfish\u2014it\u2019s how cycles break. The calmer you become, the more peace your children inherit.",
+    "prompt": "What emotional cue from your child this week might actually be a cue from your past self, asking to be heard?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "prompt": "Do you often feel like your thoughts are racing or tangled?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Anxiety",
+        "Bipolar II"
+      ],
+      "emotion": [
+        "mental_noise",
+        "overwhelm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like you're too much for people \u2014 or not enough?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Autism",
+        "CPTSD"
+      ],
+      "emotion": [
+        "shame",
+        "self_doubt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel unsafe even when nothing is happening around you?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Anxiety"
+      ],
+      "emotion": [
+        "hypervigilance",
+        "fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you get stuck in thoughts like 'what if' or 'did I do something wrong'?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "OCD",
+        "GAD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "anxiety",
+        "guilt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "compare_support"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find yourself exhausted by being around people?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "ADHD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "drained",
+        "overwhelm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do your moods shift quickly based on how others treat you?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD"
+      ],
+      "emotion": [
+        "emotional_whiplash",
+        "abandonment_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often feel like you're performing instead of being real?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "masking",
+        "detachment"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find yourself picking fights or withdrawing to avoid being hurt?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "fear",
+        "abandonment_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like you\u2019re watching yourself from the outside?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression",
+        "Autism"
+      ],
+      "emotion": [
+        "dissociation",
+        "numbness"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever had thoughts that scared you \u2014 even though you didn\u2019t act on them?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "OCD",
+        "PTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "distress",
+        "shame"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": true
+  }
+]

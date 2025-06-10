@@ -1,0 +1,889 @@
+[
+  {
+    "card_id": "boundaries_7_boundaries_and_trauma_recovery_001",
+    "card_type": "flashcard",
+    "question": "Why are boundaries often hard after trauma?",
+    "answer": "Trauma teaches the body that saying no is unsafe\u2014leading to fawning, freezing, or over-explaining instead of asserting.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_7_boundaries_and_trauma_recovery_002",
+    "card_type": "flashcard",
+    "question": "How can trauma survivors start building boundaries?",
+    "answer": "Begin with tiny, body-led limits\u2014notice where you say yes when you mean no, and honor the discomfort of practicing truth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_7_boundaries_and_trauma_recovery_003",
+    "card_type": "flashcard",
+    "question": "What helps the nervous system feel safer with boundary-setting?",
+    "answer": "Grounding, supportive scripts, aftercare rituals, and validating the fear as protective\u2014not wrong.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_7_boundaries_and_trauma_recovery_004",
+    "card_type": "flashcard",
+    "question": "Why is practicing boundaries part of reparenting?",
+    "answer": "You become the adult your younger self needed\u2014the one who says, \u2018You don\u2019t have to stay somewhere that hurts.\u2019",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_7_boundaries_and_trauma_recovery_005",
+    "card_type": "vault_card",
+    "headline": "Your No Is Sacred",
+    "body": "You don\u2019t owe your peace to others\u2019 comfort. Boundaries are how you rebuild safety\u2014inside and out.",
+    "prompt": "What boundary this week could honor the part of you that never had one before?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_001",
+    "card_type": "flashcard",
+    "question": "What is emotional eating?",
+    "answer": "Emotional eating is using food to cope with feelings rather than hunger \u2014 often to soothe stress, boredom, sadness, or anxiety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_002",
+    "card_type": "flashcard",
+    "question": "Why is emotional eating common in ADHD?",
+    "answer": "ADHD brains struggle with regulation \u2014 food can become a quick way to manage overstimulation, under-stimulation, or emotional intensity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_003",
+    "card_type": "flashcard",
+    "question": "How does emotional eating reinforce itself?",
+    "answer": "Food offers fast relief. If it lowers stress even briefly, the brain learns to return to it during future distress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between physical and emotional hunger?",
+    "answer": "Physical hunger builds slowly and responds to meals. Emotional hunger comes on fast, is urgent, and may crave specific comfort foods.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_005",
+    "card_type": "flashcard",
+    "question": "Can food be a healthy emotional regulation tool?",
+    "answer": "It can be one tool \u2014 but if it\u2019s the only tool, it may mask needs or worsen shame. Balance is key.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_006",
+    "card_type": "flashcard",
+    "question": "How can you interrupt emotional eating without shame?",
+    "answer": "Pause gently, name the emotion, ask what else you need (like rest or connection), and choose from your coping toolbox.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_007",
+    "card_type": "flashcard",
+    "question": "What emotions commonly trigger eating in ADHD?",
+    "answer": "Boredom, frustration, loneliness, overwhelm, and restlessness are all common emotional eating triggers.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_008",
+    "card_type": "flashcard",
+    "question": "Why doesn\u2019t logic stop emotional eating?",
+    "answer": "Because the urge is emotional, not rational \u2014 addressing the feeling directly is more effective than willpower.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to build emotional regulation capacity?",
+    "answer": "Practice noticing your feelings before reacting, and try using breath, music, movement, or journaling to process them.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_005_emotional_eating_and_regulation_010",
+    "card_type": "flashcard",
+    "question": "Can improving regulation reduce shame around eating?",
+    "answer": "Yes. Building tools increases agency, breaks the cycle, and makes food feel less like the only relief valve.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_001",
+    "card_type": "flashcard",
+    "question": "What is body neutrality?",
+    "answer": "Body neutrality means focusing on what your body does rather than how it looks \u2014 valuing function over appearance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_002",
+    "card_type": "flashcard",
+    "question": "How does body neutrality differ from body positivity?",
+    "answer": "Body neutrality doesn't require loving how you look \u2014 it invites a peaceful relationship with your body regardless of appearance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_003",
+    "card_type": "flashcard",
+    "question": "Why is body neutrality helpful for ADHD or trauma survivors?",
+    "answer": "It reduces pressure to feel confident all the time and allows for gentle reconnection through self-respect and care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_004",
+    "card_type": "flashcard",
+    "question": "What mindset supports body neutrality?",
+    "answer": "Curiosity over judgment. Ask: What is my body telling me? How can I care for it today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_005",
+    "card_type": "flashcard",
+    "question": "How does body neutrality reduce shame?",
+    "answer": "By removing the expectation to feel great or look a certain way, it lowers shame and builds self-trust.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_006",
+    "card_type": "flashcard",
+    "question": "What are some body-neutral affirmations?",
+    "answer": "'My body carries me.' 'I can show care without needing perfection.' 'This body is allowed to take up space.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_007",
+    "card_type": "flashcard",
+    "question": "Can movement support body neutrality?",
+    "answer": "Yes. Movement can be used to connect, regulate, and enjoy the body rather than change its appearance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_008",
+    "card_type": "flashcard",
+    "question": "How does gratitude relate to body neutrality?",
+    "answer": "Gratitude for what your body enables (e.g., breathing, holding, dancing) reinforces its worth beyond looks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_009",
+    "card_type": "flashcard",
+    "question": "Is body neutrality passive or active?",
+    "answer": "It\u2019s an active practice of care, boundaries, and reflection \u2014 not giving up, but letting go of unrealistic ideals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_008_body_neutrality_and_acceptance_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s one small body-neutral practice to try?",
+    "answer": "Thank your body out loud for something it helped you do today \u2014 even if it\u2019s just getting out of bed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_001",
+    "card_type": "flashcard",
+    "question": "What is somatic healing?",
+    "answer": "Somatic healing uses body-based practices to release stored tension, trauma, and disconnection \u2014 helping rebuild safety and trust in the body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_002",
+    "card_type": "flashcard",
+    "question": "Why is the body often a trigger for shame?",
+    "answer": "Many people carry trauma, rejection, or criticism in their body memories \u2014 making physical awareness feel unsafe or uncomfortable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_003",
+    "card_type": "flashcard",
+    "question": "How can breathwork support body image healing?",
+    "answer": "Breathwork calms the nervous system and reconnects you to internal signals, grounding you in safety and presence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_004",
+    "card_type": "flashcard",
+    "question": "What is the role of movement in somatic healing?",
+    "answer": "Movement helps discharge stress, regulate emotions, and reclaim power and presence in your physical experience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_005",
+    "card_type": "flashcard",
+    "question": "How can touch be part of somatic healing?",
+    "answer": "Safe, intentional touch (like hand-on-heart or weighted blankets) can provide co-regulation and restore comfort in the body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_006",
+    "card_type": "flashcard",
+    "question": "What\u2019s a somatic cue that someone feels disconnected from their body?",
+    "answer": "Feeling numb, avoiding mirrors, not noticing pain or hunger, or saying 'I feel like a floating head.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_007",
+    "card_type": "flashcard",
+    "question": "What is titration in somatic healing?",
+    "answer": "Titration means engaging with discomfort slowly, in small doses, so the body can integrate change without overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_008",
+    "card_type": "flashcard",
+    "question": "Why does somatic work help when talk therapy gets stuck?",
+    "answer": "The body stores trauma nonverbally \u2014 somatic methods reach layers that language alone can\u2019t access.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_009",
+    "card_type": "flashcard",
+    "question": "What is body-based affirmation practice?",
+    "answer": "Combining affirmations with gestures (e.g., saying 'I am safe' while placing a hand on your chest) to deepen connection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_010_somatic_healing_for_body_image_010",
+    "card_type": "flashcard",
+    "question": "How does somatic work build long-term confidence?",
+    "answer": "It creates new patterns of safety, self-respect, and embodiment \u2014 helping shift from fear to empowerment over time.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_3_self_trust_and_personal_power_001",
+    "card_type": "flashcard",
+    "question": "How do boundaries strengthen self-trust?",
+    "answer": "Every time you honor your limits, you prove to yourself that your needs matter\u2014and that you\u2019ll protect them.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_3_self_trust_and_personal_power_002",
+    "card_type": "flashcard",
+    "question": "Why do we sometimes override our own boundaries?",
+    "answer": "Fear of rejection, guilt, people-pleasing, or past trauma can disconnect us from our inner 'no.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_3_self_trust_and_personal_power_003",
+    "card_type": "flashcard",
+    "question": "How can boundary setting feel more empowering?",
+    "answer": "Frame it as honoring your nervous system and future\u2014not rejecting others but reclaiming your pace.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_3_self_trust_and_personal_power_004",
+    "card_type": "flashcard",
+    "question": "What happens to the nervous system when boundaries are honored?",
+    "answer": "It learns to feel safe, valued, and less hypervigilant\u2014reducing stress and emotional reactivity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_3_self_trust_and_personal_power_005",
+    "card_type": "vault_card",
+    "headline": "Boundaries Say: 'I\u2019ve Got Me'",
+    "body": "Self-trust doesn\u2019t come from affirmations alone\u2014it comes from protection. Set the limit. Keep the promise.",
+    "prompt": "Where in your life could one clear boundary help restore self-trust this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_4_nervous_system_safety_and_boundary_repair_001",
+    "card_type": "flashcard",
+    "question": "Why is nervous system safety important for boundary setting?",
+    "answer": "Without safety, boundaries feel dangerous\u2014triggering freeze, fawn, or collapse instead of clarity and calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_4_nervous_system_safety_and_boundary_repair_002",
+    "card_type": "flashcard",
+    "question": "How do you repair a boundary you didn\u2019t hold?",
+    "answer": "Acknowledge the moment, reflect on what happened, and recommit to that boundary with self-compassion\u2014not shame.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_4_nervous_system_safety_and_boundary_repair_003",
+    "card_type": "flashcard",
+    "question": "What helps nervous system safety during hard conversations?",
+    "answer": "Grounding beforehand, slowing your pace, naming sensations, and taking pauses to stay present.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_4_nervous_system_safety_and_boundary_repair_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between a boundary and a wall?",
+    "answer": "A boundary invites safe connection. A wall disconnects completely. Boundaries are flexible; walls are reactive.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_4_nervous_system_safety_and_boundary_repair_005",
+    "card_type": "vault_card",
+    "headline": "Boundaries Aren\u2019t Just Spoken\u2014They\u2019re Felt",
+    "body": "Your nervous system knows the difference. Speak from safety, not survival. That\u2019s how you stay anchored.",
+    "prompt": "What conversation or moment this week might need nervous system grounding before a boundary is set?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

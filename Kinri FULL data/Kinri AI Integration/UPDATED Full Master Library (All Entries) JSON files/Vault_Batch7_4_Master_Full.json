@@ -1,0 +1,687 @@
+[
+  {
+    "card_id": "supplements_4_gut_immunity_inflammation_support_001",
+    "card_type": "flashcard",
+    "question": "What does butyrate do in the body?",
+    "answer": "Butyrate is a postbiotic that fuels gut lining cells, reduces inflammation, and supports mood through gut-brain signaling.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_4_gut_immunity_inflammation_support_002",
+    "card_type": "flashcard",
+    "question": "Why are probiotics not always the best solution?",
+    "answer": "They often don\u2019t survive digestion and may not be personalized\u2014postbiotics or prebiotics may offer more stable benefits.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_4_gut_immunity_inflammation_support_003",
+    "card_type": "flashcard",
+    "question": "How does NAC support immunity and detoxification?",
+    "answer": "NAC replenishes glutathione and reduces oxidative stress\u2014key for lung health, immune strength, and liver support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_4_gut_immunity_inflammation_support_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the benefit of sulforaphane from broccoli sprouts?",
+    "answer": "It activates the NRF2 pathway\u2014boosting antioxidant defense, detox capacity, and inflammation resilience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_4_gut_immunity_inflammation_support_005",
+    "card_type": "vault_card",
+    "headline": "Heal the Gut, Calm the Body",
+    "body": "From postbiotics to sulfur-rich sprouts, the path to inflammation relief and gut-brain calm starts with cellular support.",
+    "prompt": "What\u2019s one gut-friendly or anti-inflammatory nutrient you could test this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_8_tools_for_calm_under_pressure_001",
+    "card_type": "flashcard",
+    "question": "What is the value of pre-planned calm tools?",
+    "answer": "Having go-to tools prevents panic decisions and helps the nervous system shift quicker in high-stress moments.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_8_tools_for_calm_under_pressure_002",
+    "card_type": "flashcard",
+    "question": "What are fast-acting tools to calm under pressure?",
+    "answer": "Box breathing, cold water, pressure point stimulation, body tapping, or going outside to reset your sensory input.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_8_tools_for_calm_under_pressure_003",
+    "card_type": "flashcard",
+    "question": "How can visual cues help during overwhelm?",
+    "answer": "Post-its, screen backgrounds, or grounding objects remind you of tools and interrupt emotional spirals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_8_tools_for_calm_under_pressure_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s one mindset that helps under stress?",
+    "answer": "'This is a moment. Not my identity.'\u2014Naming the temporary helps you stay bigger than the moment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_8_tools_for_calm_under_pressure_005",
+    "card_type": "vault_card",
+    "headline": "You Deserve Tools, Not Just Toughness",
+    "body": "You don\u2019t need to push through. You need to pause. Calm is built\u2014one tool, one breath, one anchor at a time.",
+    "prompt": "What tool helps you find calm when the heat rises\u2014and is it accessible when you need it most?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_9_nature_stillness_and_breath_001",
+    "card_type": "flashcard",
+    "question": "How does nature help regulate stress?",
+    "answer": "Natural light, greenery, and outdoor air cue the nervous system to shift into parasympathetic calm and lower cortisol.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_9_nature_stillness_and_breath_002",
+    "card_type": "flashcard",
+    "question": "What makes stillness healing?",
+    "answer": "Stillness interrupts the hyperactive mind, allowing integration, clarity, and a return to baseline calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_9_nature_stillness_and_breath_003",
+    "card_type": "flashcard",
+    "question": "Why is breath your most accessible nervous system tool?",
+    "answer": "It\u2019s immediate, always available, and directly shifts heart rate, brainwaves, and emotional state.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_9_nature_stillness_and_breath_004",
+    "card_type": "flashcard",
+    "question": "How much nature exposure is clinically beneficial?",
+    "answer": "Just 20\u201330 minutes a day in green space significantly reduces anxiety and improves mood.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_9_nature_stillness_and_breath_005",
+    "card_type": "vault_card",
+    "headline": "Return to Earth, Return to You",
+    "body": "You don\u2019t always need a plan. You need sun on your face, breath in your belly, and time to hear yourself think again.",
+    "prompt": "Could you give yourself a 10-minute walk, a still moment, or a breath session this week\u2014and call it healing?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_10_burnout_overload_and_rebuilding_001",
+    "card_type": "flashcard",
+    "question": "What is burnout?",
+    "answer": "A state of emotional, physical, and mental exhaustion caused by prolonged stress and unmet needs for recovery.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_10_burnout_overload_and_rebuilding_002",
+    "card_type": "flashcard",
+    "question": "What are early signs of burnout?",
+    "answer": "Irritability, brain fog, procrastination, fatigue, or feeling numb even toward things you love.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_10_burnout_overload_and_rebuilding_003",
+    "card_type": "flashcard",
+    "question": "Why is rest alone not enough to heal burnout?",
+    "answer": "Rest helps, but rebuilding requires boundary repair, meaning recovery, nervous system healing, and identity reconnection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_10_burnout_overload_and_rebuilding_004",
+    "card_type": "flashcard",
+    "question": "What is the role of small wins in rebuilding?",
+    "answer": "Micro-successes restore confidence, agency, and forward momentum when burnout has erased self-belief.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "stress_anxiety_10_burnout_overload_and_rebuilding_005",
+    "card_type": "vault_card",
+    "headline": "Burnout Isn\u2019t Weakness\u2014It\u2019s a Signal",
+    "body": "You didn\u2019t break. You depleted. And you get to rebuild\u2014not by force, but by rhythm, grace, and rest that matters.",
+    "prompt": "What\u2019s one thing you could do this week that helps rebuild\u2014not just recover\u2014your energy or hope?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_1_foundational_nutrients_001",
+    "card_type": "flashcard",
+    "question": "Why is magnesium important for the brain and body?",
+    "answer": "Magnesium regulates over 300 biochemical reactions including sleep, mood, stress, and muscle function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_1_foundational_nutrients_002",
+    "card_type": "flashcard",
+    "question": "What does vitamin D3 do beyond bone health?",
+    "answer": "It supports immune function, hormonal regulation, and mood\u2014low levels are linked to depression and chronic illness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_1_foundational_nutrients_003",
+    "card_type": "flashcard",
+    "question": "Why are omega-3s essential for brain health?",
+    "answer": "They reduce inflammation, improve neurotransmitter function, and support memory and focus.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_1_foundational_nutrients_004",
+    "card_type": "flashcard",
+    "question": "What is creatine\u2019s role outside of bodybuilding?",
+    "answer": "Creatine enhances cellular energy, improves mood, supports cognition, and may reduce symptoms of depression.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_1_foundational_nutrients_005",
+    "card_type": "vault_card",
+    "headline": "Build Your Base Before You Stack",
+    "body": "Supplements only work when the foundation is solid. These core nutrients power both brain and body daily.",
+    "prompt": "Which foundational nutrient could you check, test, or optimize this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_2_mood_stress_cognitive_support_001",
+    "card_type": "flashcard",
+    "question": "How does L-theanine support focus?",
+    "answer": "It promotes alpha brainwave activity, reducing anxiety and boosting calm alertness\u2014especially when paired with caffeine.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_2_mood_stress_cognitive_support_002",
+    "card_type": "flashcard",
+    "question": "What is Rhodiola Rosea used for?",
+    "answer": "It\u2019s an adaptogen that helps regulate stress, improve mental stamina, and reduce fatigue during high-demand periods.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_2_mood_stress_cognitive_support_003",
+    "card_type": "flashcard",
+    "question": "What does Tyrosine do for the brain?",
+    "answer": "It\u2019s a precursor to dopamine and norepinephrine\u2014boosting mental clarity and performance under stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_2_mood_stress_cognitive_support_004",
+    "card_type": "flashcard",
+    "question": "Why should methylation status matter in supplementing mood?",
+    "answer": "Undermethylators may benefit from targeted B vitamins, while overmethylators can become overstimulated from some stacks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_2_mood_stress_cognitive_support_005",
+    "card_type": "vault_card",
+    "headline": "Mood Isn\u2019t Magic\u2014It\u2019s Chemistry You Can Tune",
+    "body": "With the right stack, your brain can feel sharper, calmer, and more alive. But it starts with understanding what you truly need.",
+    "prompt": "What mental state are you most trying to support\u2014calm, focus, or resilience?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_3_mitochondria_energy_metabolic_repair_001",
+    "card_type": "flashcard",
+    "question": "How does creatine support mitochondrial energy?",
+    "answer": "Creatine improves ATP recycling and helps neurons fire efficiently\u2014enhancing brain and muscle energy metabolism.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_3_mitochondria_energy_metabolic_repair_002",
+    "card_type": "flashcard",
+    "question": "What is Urolithin A and why is it promising?",
+    "answer": "It stimulates mitophagy (clean-up of old mitochondria), boosting energy, longevity, and metabolic health.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_3_mitochondria_energy_metabolic_repair_003",
+    "card_type": "flashcard",
+    "question": "How might Methylene Blue support cognition?",
+    "answer": "It acts as a mitochondrial electron carrier, enhancing cellular energy and offering neuroprotective effects.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_3_mitochondria_energy_metabolic_repair_004",
+    "card_type": "flashcard",
+    "question": "What lifestyle strategy pairs well with these supplements?",
+    "answer": "Intermittent fasting and cold exposure both increase mitochondrial density and energy efficiency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "supplements_3_mitochondria_energy_metabolic_repair_005",
+    "card_type": "vault_card",
+    "headline": "Power the Powerhouse",
+    "body": "Your mitochondria are more than energy\u2014they\u2019re the key to resilience. Stack smart, live long.",
+    "prompt": "What habit or supplement could you add this week to support your cell\u2019s energy factories?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

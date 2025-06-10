@@ -1,0 +1,584 @@
+[
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_001",
+    "card_type": "flashcard",
+    "question": "What is working memory?",
+    "answer": "Working memory is the brain\u2019s ability to hold and use information over short periods \u2014 like mental sticky notes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_002",
+    "card_type": "flashcard",
+    "question": "How does ADHD impact working memory?",
+    "answer": "ADHD often weakens working memory \u2014 leading to forgetfulness, lost steps, and difficulty holding multiple ideas at once.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_003",
+    "card_type": "flashcard",
+    "question": "What are real-life signs of poor working memory?",
+    "answer": "Forgetting what you were about to do, losing your train of thought mid-sentence, or needing to re-read text repeatedly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_004",
+    "card_type": "flashcard",
+    "question": "Why does working memory matter in learning?",
+    "answer": "It holds instructions, math steps, spoken information, and connections \u2014 so you can follow through and apply knowledge.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_005",
+    "card_type": "flashcard",
+    "question": "What helps support working memory in daily life?",
+    "answer": "Visual lists, reminders, note-taking, simplifying tasks, and breaking information into chunks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_006",
+    "card_type": "flashcard",
+    "question": "How can stress affect working memory?",
+    "answer": "Stress shrinks available cognitive space \u2014 blocking access to temporary memory and causing blank-outs or mistakes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_007",
+    "card_type": "flashcard",
+    "question": "Why is talking while doing helpful for ADHD?",
+    "answer": "Speaking thoughts out loud externalizes working memory \u2014 reducing internal load and improving task follow-through.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_008",
+    "card_type": "flashcard",
+    "question": "What\u2019s the role of dopamine in working memory?",
+    "answer": "Dopamine strengthens focus and short-term memory. Low dopamine makes it harder to maintain mental grip.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to train working memory?",
+    "answer": "Games or practices like N-back training, memory palaces, or recalling sequences can stretch memory capacity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_001_working_memory_and_adhd_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps navigate working memory struggles?",
+    "answer": "\u201cI\u2019m not forgetful on purpose \u2014 I\u2019m managing more than most brains. I get to build systems that support me.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_001",
+    "card_type": "flashcard",
+    "question": "What are three foods that boost brain health?",
+    "answer": "Avocados, blueberries, and walnuts provide healthy fats, antioxidants, and anti-inflammatory compounds that support cognition.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_002",
+    "card_type": "flashcard",
+    "question": "Why is sleep essential for memory?",
+    "answer": "Deep and REM sleep help consolidate memories, clear brain toxins, and regulate mood.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_003",
+    "card_type": "flashcard",
+    "question": "What does 'kill ANTs' mean?",
+    "answer": "It stands for 'Automatic Negative Thoughts'\u2014mental habits that erode confidence and memory through repeated self-sabotage.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_004",
+    "card_type": "flashcard",
+    "question": "How does regular movement impact the brain?",
+    "answer": "Exercise increases neurotrophic factors, improving memory, mood, and brain plasticity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_005",
+    "card_type": "vault_card",
+    "headline": "Your Brain Reflects Your Habits",
+    "body": "You\u2019re not just what you eat\u2014you\u2019re what you do, feel, think, and repeat. Memory thrives on ritual.",
+    "prompt": "What one habit could you improve this week to give your brain a daily boost?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_4_cognitive_types_and_learning_styles_001",
+    "card_type": "flashcard",
+    "question": "What are the four cognitive types Jim Kwik uses?",
+    "answer": "Cheetahs (fast movers), Owls (analytical), Dolphins (creative), Elephants (relational and empathetic).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_4_cognitive_types_and_learning_styles_002",
+    "card_type": "flashcard",
+    "question": "How can knowing your cognitive type help learning?",
+    "answer": "It allows you to align your environment and methods with your natural thinking patterns for better retention and flow.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_4_cognitive_types_and_learning_styles_003",
+    "card_type": "flashcard",
+    "question": "What kind of environment suits a Dolphin type?",
+    "answer": "Open, creative spaces with freedom to brainstorm and connect ideas are best for Dolphins.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_4_cognitive_types_and_learning_styles_004",
+    "card_type": "flashcard",
+    "question": "Why is there no 'best' cognitive type?",
+    "answer": "Each has strengths that thrive in different settings\u2014knowing yours helps you leverage it instead of fighting it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_4_cognitive_types_and_learning_styles_005",
+    "card_type": "vault_card",
+    "headline": "Learn Like You\u2019re Built to Learn",
+    "body": "One size doesn\u2019t fit all. Understanding your cognitive type turns frustration into flow.",
+    "prompt": "Which learning environment or strategy best fits your thinking style\u2014and are you using it enough?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_5_practical_learning_tools_and_speed_strategies_001",
+    "card_type": "flashcard",
+    "question": "What is subvocalization and how does it slow reading?",
+    "answer": "Subvocalization is mentally 'saying' words while reading\u2014limiting speed to speech rate instead of visual processing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_5_practical_learning_tools_and_speed_strategies_002",
+    "card_type": "flashcard",
+    "question": "How does a visual pacer help reading?",
+    "answer": "Using a finger or pen to guide your eyes increases reading speed by 25\u201350% by boosting focus and eye coordination.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_5_practical_learning_tools_and_speed_strategies_003",
+    "card_type": "flashcard",
+    "question": "What is the Zeigarnik Effect?",
+    "answer": "Your brain wants to close open loops\u2014starting a task (even a small step) triggers momentum to finish it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_5_practical_learning_tools_and_speed_strategies_004",
+    "card_type": "flashcard",
+    "question": "Why is teaching what you learn so powerful?",
+    "answer": "It reinforces understanding, improves recall, and helps you discover gaps in your knowledge.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_5_practical_learning_tools_and_speed_strategies_005",
+    "card_type": "vault_card",
+    "headline": "Speed Is Not Rushed\u2014It\u2019s Refined",
+    "body": "Learning faster isn\u2019t about pushing harder. It\u2019s about precision tools and frictionless flow.",
+    "prompt": "Which learning tool could you test this week to make study or skill-building more efficient?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_6_lifelong_learning_and_applied_intelligence_001",
+    "card_type": "flashcard",
+    "question": "Why is lifelong learning key to brain health?",
+    "answer": "It strengthens neuroplasticity, builds resilience, and has been linked to longer lifespan and cognitive sharpness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_6_lifelong_learning_and_applied_intelligence_002",
+    "card_type": "flashcard",
+    "question": "What study supported the link between learning and longevity?",
+    "answer": "A study of nuns found that continuous reading and writing kept their minds sharp and extended their lives.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_6_lifelong_learning_and_applied_intelligence_003",
+    "card_type": "flashcard",
+    "question": "What are the only two assets you can\u2019t lose?",
+    "answer": "Knowledge and skill\u2014unlike money or possessions, they stay with you and compound over time.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_6_lifelong_learning_and_applied_intelligence_004",
+    "card_type": "flashcard",
+    "question": "How can you turn knowledge into power?",
+    "answer": "Apply what you learn. Note it, reflect on it, teach it, and implement small actions consistently.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_6_lifelong_learning_and_applied_intelligence_005",
+    "card_type": "vault_card",
+    "headline": "Sharpen It or Lose It",
+    "body": "The brain thrives on challenge. When you stop learning, you stop growing. Keep stacking skills\u2014it\u2019s compounding intelligence.",
+    "prompt": "What\u2019s one thing you\u2019ve learned recently\u2014and how can you apply or teach it to lock it in?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

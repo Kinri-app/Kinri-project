@@ -1,0 +1,875 @@
+[
+  {
+    "card_id": "family_and_parenting_5_emotional_safety_and_nervous_system_repair_001",
+    "card_type": "flashcard",
+    "question": "Why is emotional safety foundational in parenting?",
+    "answer": "Because a regulated child grows from a safe connection\u2014not correction. Safety is the soil where trust grows.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_5_emotional_safety_and_nervous_system_repair_002",
+    "card_type": "flashcard",
+    "question": "What creates emotional safety for children?",
+    "answer": "Attunement, validation, softness, honest repair, and knowing they\u2019re still loved during hard moments.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_5_emotional_safety_and_nervous_system_repair_003",
+    "card_type": "flashcard",
+    "question": "Why do nervous system repairs matter more than perfect behavior?",
+    "answer": "Kids learn from how you return, not just how you respond. Repair teaches them their mess doesn\u2019t cost love.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_5_emotional_safety_and_nervous_system_repair_004",
+    "card_type": "flashcard",
+    "question": "What helps rebuild trust after rupture?",
+    "answer": "Sincere apology, physical closeness, calm tone, and time to reestablish safety through presence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_5_emotional_safety_and_nervous_system_repair_005",
+    "card_type": "vault_card",
+    "headline": "They Don\u2019t Need You to Be Perfect\u2014They Need You to Return",
+    "body": "Your repair is the parenting. Your softness is the memory. You\u2019re allowed to be human as long as you come back with love.",
+    "prompt": "What parenting moment this week might need repair\u2014not punishment or over-explaining\u2014but soft presence?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_001",
+    "card_type": "flashcard",
+    "question": "How does movement regulate the nervous system?",
+    "answer": "Movement discharges stress hormones, boosts dopamine and serotonin, and helps shift out of freeze or overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_002",
+    "card_type": "flashcard",
+    "question": "Why is movement especially helpful for ADHD and trauma?",
+    "answer": "It helps process internal tension nonverbally, bypassing overthinking or emotional overload.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_003",
+    "card_type": "flashcard",
+    "question": "What types of movement support emotional regulation?",
+    "answer": "Walking, dancing, stretching, shaking, or breath-linked flow movement all support regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_004",
+    "card_type": "flashcard",
+    "question": "How does movement support mood stability?",
+    "answer": "It boosts neurotransmitters like endorphins, dopamine, and norepinephrine \u2014 which help stabilize mood and increase resilience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_005",
+    "card_type": "flashcard",
+    "question": "What\u2019s one reason movement reduces anger?",
+    "answer": "It channels fight energy out of the body \u2014 reducing internal buildup and helping the system reset.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_006",
+    "card_type": "flashcard",
+    "question": "Why is gentle movement better than intense workouts when dysregulated?",
+    "answer": "Overexertion can spike cortisol or dissociate you from your body \u2014 gentle movement invites connection and calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_007",
+    "card_type": "flashcard",
+    "question": "How can movement interrupt a shutdown?",
+    "answer": "Gentle stimulation like tapping, swaying, or walking can bring awareness back to the body and re-engage the system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_008",
+    "card_type": "flashcard",
+    "question": "How does pacing and rhythm impact emotional regulation?",
+    "answer": "Rhythmic movement soothes the brainstem \u2014 supporting calm through predictable sensory input.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_009",
+    "card_type": "flashcard",
+    "question": "Can movement help with emotional expression?",
+    "answer": "Yes. Movement can express emotion nonverbally when words feel too hard \u2014 especially with grief, anger, or anxiety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_003_movement_for_emotional_regulation_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps you use movement for regulation?",
+    "answer": "\u201cI\u2019m not exercising to perform. I\u2019m moving to feel, reset, and reconnect.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_001",
+    "card_type": "flashcard",
+    "question": "Why are morning routines helpful for ADHD brains?",
+    "answer": "They reduce decision fatigue, support dopamine regulation, and build a sense of accomplishment early in the day.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s one reason mornings can feel chaotic for ADHD?",
+    "answer": "Time blindness and disorganization make transitions hard \u2014 leading to rushing, skipping steps, or forgetting essentials.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s a dopamine-boosting morning habit?",
+    "answer": "Sunlight, hydration, cold exposure, light cardio, or even music \u2014 all help signal reward and wakefulness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_004",
+    "card_type": "flashcard",
+    "question": "How can you make a routine easier to follow in the morning?",
+    "answer": "Use visual cues, lay things out the night before, and keep steps minimal and repeatable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_005",
+    "card_type": "flashcard",
+    "question": "Why is the first hour of the day so important?",
+    "answer": "It sets your nervous system tone \u2014 calm or chaotic \u2014 and influences focus, energy, and mood all day.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_006",
+    "card_type": "flashcard",
+    "question": "What role does breakfast play in regulation?",
+    "answer": "Protein-rich meals help balance blood sugar and improve focus and emotional regulation throughout the morning.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_007",
+    "card_type": "flashcard",
+    "question": "What is an anchor habit in a morning routine?",
+    "answer": "An anchor habit is a reliable cue or starting action (like brushing teeth or making tea) that leads into your routine.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_008",
+    "card_type": "flashcard",
+    "question": "How can movement in the morning help ADHD symptoms?",
+    "answer": "Even 2\u20135 minutes of stretching, pacing, or bouncing can help regulate emotion and activate motivation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_009",
+    "card_type": "flashcard",
+    "question": "What mindset supports a forgiving morning routine?",
+    "answer": "\u201cDoing it imperfectly still counts. Every step I take matters more than how it looks.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_006_morning_routines_and_momentum_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s one emergency morning routine for hard days?",
+    "answer": "1) drink water, 2) stretch for 30 seconds, 3) take 3 deep breaths \u2014 low effort, high impact.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_001",
+    "card_type": "flashcard",
+    "question": "How does movement support dopamine regulation?",
+    "answer": "Movement boosts dopamine, norepinephrine, and serotonin \u2014 helping regulate mood, attention, and energy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_002",
+    "card_type": "flashcard",
+    "question": "Why is this important for ADHD and low-motivation states?",
+    "answer": "Dopamine deficiency in ADHD leads to boredom and inertia \u2014 movement helps re-engage and activate focus.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_003",
+    "card_type": "flashcard",
+    "question": "What types of movement are most dopamine-supportive?",
+    "answer": "Rhythmic, novel, and emotionally rewarding movements like dance, martial arts, or strength training.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_004",
+    "card_type": "flashcard",
+    "question": "Why does short movement work better than long sessions sometimes?",
+    "answer": "Microbursts are easier to start, increase dopamine quickly, and avoid overwhelm or overexertion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_005",
+    "card_type": "flashcard",
+    "question": "How can movement replace scrolling or snacking as a dopamine hit?",
+    "answer": "Train your brain to associate emotion regulation with movement \u2014 a dance break instead of screen time or snacks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_006",
+    "card_type": "flashcard",
+    "question": "What\u2019s the connection between movement and executive function?",
+    "answer": "Movement activates brain regions tied to planning, focus, working memory, and inhibition \u2014 key for task execution.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_007",
+    "card_type": "flashcard",
+    "question": "How fast can dopamine rise from movement?",
+    "answer": "Dopamine levels can increase within minutes of starting \u2014 often enough to shift mood and motivation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_008",
+    "card_type": "flashcard",
+    "question": "What\u2019s one barrier to using movement for dopamine?",
+    "answer": "The initial mental resistance \u2014 the ADHD brain undervalues delayed benefits and overvalues immediate comfort.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_009",
+    "card_type": "flashcard",
+    "question": "How does novelty play into dopamine-seeking movement?",
+    "answer": "Trying new styles, routes, or music adds stimulation and strengthens motivation through unpredictability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_008_movement_as_dopamine_replacement_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s one mindset shift to make movement more sustainable?",
+    "answer": "\u201cI\u2019m not working out to change my body \u2014 I\u2019m moving to change my brain chemistry and energy.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_1_attunement_and_coregulation_with_children_001",
+    "card_type": "flashcard",
+    "question": "What is emotional attunement with a child?",
+    "answer": "Being present to their emotional state, matching their energy with care, and helping them feel seen and safe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_1_attunement_and_coregulation_with_children_002",
+    "card_type": "flashcard",
+    "question": "How does co-regulation support emotional development?",
+    "answer": "When a child\u2019s nervous system is supported by a regulated adult, they learn how to self-soothe and feel safe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_1_attunement_and_coregulation_with_children_003",
+    "card_type": "flashcard",
+    "question": "What disrupts attunement in parenting?",
+    "answer": "Stress, emotional shutdown, distraction, or lack of repair after disconnection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_1_attunement_and_coregulation_with_children_004",
+    "card_type": "flashcard",
+    "question": "What does attunement look like in practice?",
+    "answer": "Eye contact, soft tone, pausing to breathe with them, and naming their feelings without fixing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_1_attunement_and_coregulation_with_children_005",
+    "card_type": "vault_card",
+    "headline": "Before They Regulate, They Borrow Yours",
+    "body": "You are their nervous system until they have one of their own. Soften yours to teach them safety.",
+    "prompt": "What moment with your child this week could use more presence and co-regulation instead of correction?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_2_regulation_not_reactivity_001",
+    "card_type": "flashcard",
+    "question": "Why is regulation more powerful than rules in parenting?",
+    "answer": "Because kids co-regulate through your energy, not your logic\u2014how you say something matters more than what you say.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_2_regulation_not_reactivity_002",
+    "card_type": "flashcard",
+    "question": "What happens when you parent from reactivity?",
+    "answer": "Your child mirrors your stress, defenses rise, and the nervous system learns fear\u2014not connection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_2_regulation_not_reactivity_003",
+    "card_type": "flashcard",
+    "question": "How can you pause before reacting to a child?",
+    "answer": "Breathe. Touch something grounding. Say 'I need a moment' before speaking or disciplining.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_2_regulation_not_reactivity_004",
+    "card_type": "flashcard",
+    "question": "What supports long-term parenting regulation?",
+    "answer": "Sleep, support, emotional repair, and tools that help you respond instead of reenact your own childhood wounds.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_2_regulation_not_reactivity_005",
+    "card_type": "vault_card",
+    "headline": "You Can\u2019t Regulate Them If You\u2019re Not Regulated First",
+    "body": "Your tone is louder than their behavior. When you regulate, they learn safety\u2014even when things are messy.",
+    "prompt": "What situation this week might go differently if you chose to respond from regulation, not your first reaction?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

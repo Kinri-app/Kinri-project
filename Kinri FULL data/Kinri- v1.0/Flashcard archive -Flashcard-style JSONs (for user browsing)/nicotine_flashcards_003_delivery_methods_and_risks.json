@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What are the main nicotine delivery methods?",
+    "answer": "Common methods include cigarettes, e-cigarettes (vapes), nicotine pouches, gum, patches, inhalers, and lozenges.",
+    "tags": [
+      "nicotine",
+      "delivery methods",
+      "common forms"
+    ]
+  },
+  {
+    "question": "How does smoking deliver nicotine to the brain?",
+    "answer": "Inhaled smoke delivers nicotine to the brain in about 10\u201320 seconds, making it one of the fastest and most addictive forms.",
+    "tags": [
+      "smoking",
+      "inhalation",
+      "brain speed"
+    ]
+  },
+  {
+    "question": "What makes vaping appealing and risky?",
+    "answer": "Vapes deliver nicotine discreetly and with flavored options, but often contain high concentrations and unknown chemical risks.",
+    "tags": [
+      "vaping",
+      "flavors",
+      "risk"
+    ]
+  },
+  {
+    "question": "How do nicotine pouches and gum differ from smoking?",
+    "answer": "They release nicotine slowly through the mouth lining, avoiding combustion and reducing some risks \u2014 but still reinforcing addiction.",
+    "tags": [
+      "nicotine gum",
+      "pouches",
+      "oral delivery"
+    ]
+  },
+  {
+    "question": "Are nicotine patches safer than smoking?",
+    "answer": "Yes. Patches provide steady, controlled nicotine levels without lung damage \u2014 often used in quitting plans.",
+    "tags": [
+      "patches",
+      "harm reduction",
+      "NRT"
+    ]
+  },
+  {
+    "question": "Can nicotine delivery method affect addiction strength?",
+    "answer": "Yes. Faster delivery (like smoking or vaping) tends to create stronger reinforcement and habit formation.",
+    "tags": [
+      "speed of delivery",
+      "addiction strength",
+      "method impact"
+    ]
+  },
+  {
+    "question": "What are the risks of long-term nicotine use?",
+    "answer": "Nicotine may contribute to heart strain, high blood pressure, insulin resistance, and harm adolescent brain development.",
+    "tags": [
+      "cardiovascular risk",
+      "metabolic effects",
+      "brain development"
+    ]
+  },
+  {
+    "question": "Is vaping nicotine-free a safe alternative?",
+    "answer": "Not necessarily. Even nicotine-free vapes may contain harmful chemicals and still reinforce the act of habitual inhalation.",
+    "tags": [
+      "nicotine-free",
+      "vape risks",
+      "habitual behavior"
+    ]
+  },
+  {
+    "question": "How do inhalers differ from other NRT options?",
+    "answer": "Nicotine inhalers mimic the hand-to-mouth behavior of smoking and release controlled doses, often prescribed in quitting plans.",
+    "tags": [
+      "inhaler",
+      "NRT",
+      "behavioral mimic"
+    ]
+  },
+  {
+    "question": "Why does the delivery method matter when quitting?",
+    "answer": "Choosing a slower, less reinforcing method helps reduce cravings and break the behavioral cycle while lowering harm.",
+    "tags": [
+      "quitting strategy",
+      "harm reduction",
+      "behavioral shift"
+    ]
+  }
+]

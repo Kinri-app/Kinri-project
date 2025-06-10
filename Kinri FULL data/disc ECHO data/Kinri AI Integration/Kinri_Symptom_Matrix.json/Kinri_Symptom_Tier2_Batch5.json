@@ -1,0 +1,220 @@
+[
+  {
+    "prompt": "Do you sometimes feel like your body is carrying emotions you haven\u2019t processed yet?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD",
+        "Autism"
+      ],
+      "emotion": [
+        "emotional_residue",
+        "tension"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often compare yourself to others and feel like you're falling short?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Depression",
+        "BPD",
+        "ADHD"
+      ],
+      "emotion": [
+        "insecurity",
+        "shame"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your emotions come out before you\u2019ve had a chance to think?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "ADHD",
+        "PMDD"
+      ],
+      "emotion": [
+        "impulsivity",
+        "regret"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you avoid situations or people that might challenge your emotional stability?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "protective_avoidance",
+        "emotional_instability"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often feel like your nervous system is on edge, even after nothing has gone wrong?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Anxiety",
+        "Autism"
+      ],
+      "emotion": [
+        "nervous_system",
+        "dysregulation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes hurt yourself emotionally before someone else can?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "preemptive_pain",
+        "abandonment_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Do you feel overwhelmed by choice or freeze when decisions pile up?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Autism",
+        "OCD"
+      ],
+      "emotion": [
+        "decision_fatigue",
+        "overwhelm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your mind jumps between ideas so fast you lose track of what matters?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Bipolar II"
+      ],
+      "emotion": [
+        "scatter",
+        "urgency"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like your whole identity is shaped by survival?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD",
+        "Autism"
+      ],
+      "emotion": [
+        "trauma_identity",
+        "exhaustion"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever used pain to feel real \u2014 even if it wasn\u2019t physical?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Depression",
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "pain",
+        "disconnection"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

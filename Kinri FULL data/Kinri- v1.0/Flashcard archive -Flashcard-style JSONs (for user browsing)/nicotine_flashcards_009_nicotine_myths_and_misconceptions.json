@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Is nicotine itself the cause of cancer?",
+    "answer": "No. Nicotine is addictive, but the cancer risk comes mainly from the toxins in burned tobacco \u2014 not nicotine itself.",
+    "tags": [
+      "cancer risk",
+      "nicotine",
+      "myths"
+    ]
+  },
+  {
+    "question": "Is vaping a harmless alternative to smoking?",
+    "answer": "No. Vaping still carries risks, including lung irritation, addiction, and exposure to harmful chemicals \u2014 especially in unregulated products.",
+    "tags": [
+      "vaping",
+      "harm",
+      "misconceptions"
+    ]
+  },
+  {
+    "question": "Can quitting nicotine cold turkey be dangerous?",
+    "answer": "It\u2019s uncomfortable but not physically dangerous for most people \u2014 though medical support may be needed for heavy users or those with health issues.",
+    "tags": [
+      "cold turkey",
+      "withdrawal",
+      "safety"
+    ]
+  },
+  {
+    "question": "Is using nicotine occasionally safe?",
+    "answer": "Even occasional use can reinforce addiction pathways and re-trigger cravings \u2014 especially for former users.",
+    "tags": [
+      "relapse risk",
+      "occasional use",
+      "dopamine"
+    ]
+  },
+  {
+    "question": "Do you have to quit on the first try to succeed?",
+    "answer": "No. Most people try several times before quitting successfully \u2014 each attempt builds knowledge and strength.",
+    "tags": [
+      "quitting process",
+      "relapse",
+      "success path"
+    ]
+  },
+  {
+    "question": "Is nicotine replacement therapy (NRT) just swapping addictions?",
+    "answer": "No. NRT is a controlled step-down tool that avoids harmful smoke and helps manage withdrawal more safely.",
+    "tags": [
+      "NRT",
+      "harm reduction",
+      "tool"
+    ]
+  },
+  {
+    "question": "Does weight gain after quitting mean you failed?",
+    "answer": "No. Temporary weight gain is common and manageable \u2014 it\u2019s a sign your body is adjusting to new chemistry and habits.",
+    "tags": [
+      "weight",
+      "recovery",
+      "normalization"
+    ]
+  },
+  {
+    "question": "Is nicotine only a physical addiction?",
+    "answer": "It\u2019s both physical and psychological \u2014 cravings often come from emotions, habits, and identity, not just chemical need.",
+    "tags": [
+      "psychological addiction",
+      "habits",
+      "identity"
+    ]
+  },
+  {
+    "question": "Does quitting always feel awful?",
+    "answer": "It can be hard, but some people feel relief, pride, and better energy early on \u2014 it varies widely by person and mindset.",
+    "tags": [
+      "early wins",
+      "mindset",
+      "recovery experience"
+    ]
+  },
+  {
+    "question": "Is it too late to quit if you\u2019ve used nicotine for years?",
+    "answer": "Never. The body begins healing within hours of quitting \u2014 it\u2019s never too late to reclaim your health.",
+    "tags": [
+      "reversibility",
+      "healing",
+      "age doesn't matter"
+    ]
+  }
+]

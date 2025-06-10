@@ -1,0 +1,44 @@
+[
+  {
+    "card_id": "dopamine_2_motivation_procrastination_goal_pursuit_005",
+    "card_type": "vault_card",
+    "headline": "Start Before You\u2019re Ready",
+    "body": "Waiting for motivation is a trap. When you move first, your brain follows\u2014and the dopamine rises.",
+    "prompt": "What small, meaningful action could you take today\u2014without needing to feel ready first?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_6_real_motivation_and_delayed_gratification_005",
+    "card_type": "vault_card",
+    "headline": "Train the Climb, Not the High",
+    "body": "Real dopamine mastery isn\u2019t about chasing fireworks\u2014it\u2019s about loving the process that earns the light.",
+    "prompt": "What challenging habit could become enjoyable if you reframed the effort as a signal of growth?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

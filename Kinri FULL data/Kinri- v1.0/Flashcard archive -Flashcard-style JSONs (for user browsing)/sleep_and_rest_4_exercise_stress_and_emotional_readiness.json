@@ -1,0 +1,48 @@
+[
+  {
+    "question": "How does exercise improve sleep quality?",
+    "answer": "Daytime activity increases slow wave (deep) sleep and reduces stress hormones that disrupt rest.",
+    "tags": [
+      "exercise",
+      "deep sleep",
+      "stress reduction"
+    ]
+  },
+  {
+    "question": "Why should intense workouts be timed carefully?",
+    "answer": "Exercising too late can overstimulate the nervous system and delay melatonin release.",
+    "tags": [
+      "workout timing",
+      "melatonin",
+      "overstimulation"
+    ]
+  },
+  {
+    "question": "How does stress impact sleep onset?",
+    "answer": "High cortisol and racing thoughts keep the brain alert, making it hard to wind down.",
+    "tags": [
+      "stress",
+      "cortisol",
+      "insomnia"
+    ]
+  },
+  {
+    "question": "What helps calm the mind before bed?",
+    "answer": "Breathwork, body scans, journaling, and guided meditation reduce cognitive load and relax the nervous system.",
+    "tags": [
+      "calm",
+      "relaxation",
+      "sleep aid"
+    ]
+  },
+  {
+    "headline": "Move During the Day, Calm Down at Night",
+    "body": "Good sleep starts hours before bed. Burn energy early, manage stress, and soften your internal dialogue.",
+    "prompt": "What evening thought loop might need a softer exit this week\u2014and how could you help it wind down?",
+    "tags": [
+      "sleep support",
+      "stress relief",
+      "wind-down"
+    ]
+  }
+]

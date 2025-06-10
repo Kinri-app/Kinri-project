@@ -1,0 +1,168 @@
+[
+  {
+    "question": "What is masking in a learning context?",
+    "answer": "Masking is when students suppress natural behaviors or needs to fit in or avoid judgment \u2014 often at the cost of regulation and authenticity.",
+    "tags": {
+      "condition": [
+        "masking"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "neurodivergence",
+        "education"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_342_teacher_masking"
+  },
+  {
+    "question": "How does masking relate to shame?",
+    "answer": "Masking often forms from shame \u2014 the belief that one's real way of thinking or behaving is 'wrong' or unworthy of acceptance.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "identity",
+        "protection"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_343_teacher_masking"
+  },
+  {
+    "question": "What are signs a student might be masking?",
+    "answer": "They may appear calm but are highly fatigued after class, follow rules rigidly, avoid asking for help, or overperform out of fear.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "masking signs",
+        "overcompensation",
+        "invisible struggle"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_344_teacher_masking"
+  },
+  {
+    "question": "How does shame create learning blocks?",
+    "answer": "Shame disrupts curiosity, lowers motivation, and can trigger shutdown, anxiety, or people-pleasing patterns.",
+    "tags": {
+      "condition": [
+        "shutdown"
+      ],
+      "emotion": [
+        "shame",
+        "motivation"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_345_teacher_masking"
+  },
+  {
+    "question": "Why is perfectionism often linked to masking?",
+    "answer": "Perfectionism can be a coping strategy to avoid criticism or exposure \u2014 especially in neurodivergent or trauma-affected students.",
+    "tags": {
+      "condition": [
+        "trauma"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "perfectionism",
+        "coping"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_346_teacher_masking"
+  },
+  {
+    "question": "What helps reduce shame-based learning blocks?",
+    "answer": "Celebrating effort, validating emotion, normalizing struggle, and creating safe repair after mistakes.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "repair",
+        "validation",
+        "growth mindset"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_347_teacher_masking"
+  },
+  {
+    "question": "What is the cost of chronic masking in education?",
+    "answer": "Emotional exhaustion, identity confusion, burnout, and disconnection from authentic self or joy in learning.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "burnout",
+        "emotional cost",
+        "authenticity"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_348_teacher_masking"
+  },
+  {
+    "question": "How does masking relate to nervous system dysregulation?",
+    "answer": "Masking often keeps the nervous system in a fawn or freeze state \u2014 appearing calm while internally overwhelmed.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "fawn",
+        "freeze"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_349_teacher_masking"
+  },
+  {
+    "question": "How can educators reduce the need for masking?",
+    "answer": "Offer sensory tools, emotional check-ins, flexible expression, and model vulnerability and regulation.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "safety"
+      ],
+      "narrative_type": [
+        "inclusion",
+        "support"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_350_teacher_masking"
+  },
+  {
+    "question": "What mindset helps unmask student potential?",
+    "answer": "\u201cBehavior is communication. When I honor what\u2019s underneath, I free them to show up fully.\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "mindset",
+        "authenticity",
+        "teacher philosophy"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_351_teacher_masking"
+  }
+]

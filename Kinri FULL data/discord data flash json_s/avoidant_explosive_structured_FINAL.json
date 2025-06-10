@@ -1,0 +1,166 @@
+[
+  {
+    "question": "What is avoidant communication?",
+    "answer": "Avoidant communication involves silence, deflection, withdrawal, or pretending nothing\u2019s wrong to avoid discomfort or conflict.",
+    "tags": {
+      "condition": [
+        "shutdown"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "avoidant",
+        "communication pattern"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_316_avoidant_explosive"
+  },
+  {
+    "question": "What is explosive communication?",
+    "answer": "Explosive communication involves emotional outbursts, raised voices, sharp words, or reactive behavior \u2014 often from bottled emotion or dysregulation.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "explosive",
+        "emotional outburst",
+        "reactivity"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_317_avoidant_explosive"
+  },
+  {
+    "question": "Why do people swing between avoidant and explosive communication?",
+    "answer": "Avoidance suppresses needs until the nervous system overloads \u2014 then all the emotion comes out at once.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "swing pattern",
+        "suppression",
+        "overload"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_318_avoidant_explosive"
+  },
+  {
+    "question": "What are common causes of avoidant communication?",
+    "answer": "Fear of rejection, learned conflict avoidance, trauma, or feeling that emotions are 'too much.'",
+    "tags": {
+      "condition": [
+        "shutdown"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "conflict avoidance",
+        "trauma"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_319_avoidant_explosive"
+  },
+  {
+    "question": "What are common causes of explosive communication?",
+    "answer": "Long-term emotional buildup, lack of regulation tools, or growing up around dysregulated models of communication.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "expression"
+      ],
+      "narrative_type": [
+        "dysregulation",
+        "emotional flood"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_320_avoidant_explosive"
+  },
+  {
+    "question": "What helps break the avoidant-explosive cycle?",
+    "answer": "Daily emotional check-ins, low-stakes honesty, practicing boundary setting, and using pause tools before things boil over.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "regulation",
+        "prevention",
+        "tools"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_321_avoidant_explosive"
+  },
+  {
+    "question": "What does avoidant communication sound like?",
+    "answer": "\u201cI\u2019m fine.\u201d \u201cIt\u2019s not a big deal.\u201d \u201cI don\u2019t want to talk about it.\u201d",
+    "tags": {
+      "condition": [
+        "shutdown"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "phrases",
+        "avoidance language"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_322_avoidant_explosive"
+  },
+  {
+    "question": "What does explosive communication sound like?",
+    "answer": "\u201cYou never listen!\u201d \u201cI\u2019m done!\u201d \u201cWhy do I always have to be the one to fix things?\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "phrases",
+        "explosive language",
+        "dysregulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_323_avoidant_explosive"
+  },
+  {
+    "question": "How does shame reinforce this cycle?",
+    "answer": "Shame after an explosion leads to retreat. Shame during avoidance builds resentment \u2014 both fuel the loop.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "shame loop",
+        "avoidance",
+        "anger"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_324_avoidant_explosive"
+  },
+  {
+    "question": "What mindset helps exit the cycle?",
+    "answer": "\u201cMy needs matter. I don\u2019t have to be silent or explosive to be heard. I can speak with care before I overflow.\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "self-worth",
+        "regulated voice",
+        "healing"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_325_avoidant_explosive"
+  }
+]

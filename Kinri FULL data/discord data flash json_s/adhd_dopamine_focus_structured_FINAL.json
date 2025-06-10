@@ -1,0 +1,165 @@
+[
+  {
+    "question": "Why is dopamine important for people with ADHD?",
+    "answer": "Dopamine is a neurotransmitter that regulates motivation, reward, and focus. ADHD is linked to lower baseline dopamine activity, making it harder to sustain attention or feel motivated.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "dopamine",
+        "motivation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_278_adhd_dopamine_focus"
+  },
+  {
+    "question": "How does low dopamine affect behavior in ADHD?",
+    "answer": "It can lead to impulsivity, procrastination, and the constant seeking of stimulation to feel interested or engaged.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "behavior",
+        "impulsivity",
+        "reward system"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_279_adhd_dopamine_focus"
+  },
+  {
+    "question": "What is the dopamine reward prediction error?",
+    "answer": "It\u2019s the brain\u2019s response to whether a reward is better or worse than expected. In ADHD, this system may be dysregulated, making it harder to learn from feedback.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "reward system",
+        "prediction error",
+        "learning"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_280_adhd_dopamine_focus"
+  },
+  {
+    "question": "Why are ADHD brains drawn to novelty and urgency?",
+    "answer": "Novelty and urgency create a temporary dopamine spike, helping the ADHD brain feel focused or motivated \u2014 but this effect is short-lived.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "novelty",
+        "urgency",
+        "dopamine spikes"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_281_adhd_dopamine_focus"
+  },
+  {
+    "question": "What activities naturally boost dopamine?",
+    "answer": "Exercise, music, creative flow, meaningful goals, and social connection can all increase dopamine without relying on instant gratification.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "natural dopamine",
+        "lifestyle",
+        "wellbeing"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_282_adhd_dopamine_focus"
+  },
+  {
+    "question": "How do stimulants work for ADHD?",
+    "answer": "Stimulants like methylphenidate or amphetamines increase dopamine availability in the brain, improving focus, working memory, and task engagement.",
+    "tags": {
+      "condition": [
+        "neurotransmitters"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "stimulants",
+        "medication"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_283_adhd_dopamine_focus"
+  },
+  {
+    "question": "What are dopamine dips and crashes?",
+    "answer": "After a spike in dopamine (from hyperfocus or reward), a drop may follow \u2014 leading to irritability, fatigue, or lack of motivation.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "mood"
+      ],
+      "narrative_type": [
+        "dopamine crash",
+        "energy regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_284_adhd_dopamine_focus"
+  },
+  {
+    "question": "What is the downside of chasing dopamine through screens or sugar?",
+    "answer": "These provide quick hits but lead to tolerance and crashes. Over time, they reduce sensitivity to dopamine and can worsen ADHD symptoms.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "instant gratification",
+        "tolerance",
+        "ADHD management"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_285_adhd_dopamine_focus"
+  },
+  {
+    "question": "How does dopamine affect habit formation in ADHD?",
+    "answer": "Dopamine reinforces behaviors. If a habit is associated with reward or pleasure, the brain is more likely to repeat it \u2014 which can be used for both helpful and harmful patterns.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "habits",
+        "reinforcement",
+        "neuroplasticity"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_286_adhd_dopamine_focus"
+  },
+  {
+    "question": "How can you support dopamine health in ADHD long-term?",
+    "answer": "Sleep, protein intake, exercise, social bonding, and avoiding constant overstimulation all help stabilize and support healthy dopamine regulation.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "dopamine health",
+        "lifestyle",
+        "long-term strategies"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_287_adhd_dopamine_focus"
+  }
+]

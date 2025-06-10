@@ -1,0 +1,976 @@
+[
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_001",
+    "card_type": "flashcard",
+    "question": "What is Borderline Personality Disorder (BPD)?",
+    "answer": "BPD is a mental health condition marked by emotional intensity, unstable relationships, fear of abandonment, and identity challenges.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_002",
+    "card_type": "flashcard",
+    "question": "What are the core traits of BPD?",
+    "answer": "Emotional dysregulation, impulsivity, unstable self-image, intense relationships, fear of abandonment, and chronic emptiness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_003",
+    "card_type": "flashcard",
+    "question": "What causes BPD to develop?",
+    "answer": "BPD can result from genetic sensitivity + invalidating environments, early trauma, or chronic emotional neglect.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_004",
+    "card_type": "flashcard",
+    "question": "Why is BPD often misunderstood?",
+    "answer": "Because symptoms can look like manipulation or mood swings \u2014 when they\u2019re actually driven by fear, pain, and dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_005",
+    "card_type": "flashcard",
+    "question": "What is emotional dysregulation in BPD?",
+    "answer": "It\u2019s the rapid and extreme emotional shifts that feel overwhelming and often hard to explain or control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_006",
+    "card_type": "flashcard",
+    "question": "What is splitting in BPD?",
+    "answer": "Splitting is when someone sees others (or themselves) as all good or all bad \u2014 often triggered by fear or perceived rejection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_007",
+    "card_type": "flashcard",
+    "question": "What is the role of abandonment sensitivity in BPD?",
+    "answer": "Fear of rejection can trigger intense emotional reactions and efforts to avoid being left \u2014 even from imagined threats.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_008",
+    "card_type": "flashcard",
+    "question": "Why is BPD stigmatized?",
+    "answer": "Its emotional volatility and social struggles are often misread as attention-seeking or manipulative \u2014 instead of wounded.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_009",
+    "card_type": "flashcard",
+    "question": "Can people with BPD recover?",
+    "answer": "Yes \u2014 with validation, boundaries, emotional tools, therapy, and safety, many learn to regulate and thrive.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_001_bpd_core_traits_and_misunderstandings_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports compassion for BPD?",
+    "answer": "\u201cThis person isn\u2019t broken \u2014 they\u2019re in pain. What looks like chaos may be survival.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_001",
+    "card_type": "flashcard",
+    "question": "What is memory confidence?",
+    "answer": "It\u2019s the belief that you can remember what matters \u2014 and that forgetting doesn\u2019t mean failure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_002",
+    "card_type": "flashcard",
+    "question": "How does chronic forgetting affect self-trust?",
+    "answer": "It creates fear, shame, and second-guessing \u2014 eroding the ability to rely on yourself or feel competent.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_003",
+    "card_type": "flashcard",
+    "question": "Why is memory confidence often low in ADHD and trauma?",
+    "answer": "Working memory issues, emotional overload, and negative feedback loops make remembering feel unsafe or unreliable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between forgetfulness and unreliability?",
+    "answer": "Forgetfulness is a brain function challenge. Unreliability is a character judgment \u2014 one that usually isn\u2019t fair.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_005",
+    "card_type": "flashcard",
+    "question": "How can external systems support memory confidence?",
+    "answer": "Lists, alarms, notes, or apps create a memory safety net \u2014 reinforcing that success doesn\u2019t rely on recall alone.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_006",
+    "card_type": "flashcard",
+    "question": "Why does shame block memory repair?",
+    "answer": "Shame makes it unsafe to admit you forgot \u2014 reducing help-seeking and reinforcing the loop of avoidance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_007",
+    "card_type": "flashcard",
+    "question": "What helps rebuild memory trust?",
+    "answer": "Start small \u2014 acknowledge when memory works, celebrate support strategies, and create safety around repair.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_008",
+    "card_type": "flashcard",
+    "question": "How does self-talk influence memory confidence?",
+    "answer": "Compassionate self-talk reduces fear and pressure \u2014 making it easier to access memory without freezing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to affirm memory strength?",
+    "answer": "\u201cEven if I forget, I will figure it out. I have tools, and I don\u2019t have to do it all alone.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_007_memory_confidence_and_self_trust_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports memory healing?",
+    "answer": "\u201cMy memory is not broken. It\u2019s responding to my environment. I can build systems that hold me.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_001",
+    "card_type": "flashcard",
+    "question": "What is memory anchoring?",
+    "answer": "It\u2019s the process of linking memories to strong sensory, emotional, or contextual cues \u2014 making them easier to retrieve later.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_002",
+    "card_type": "flashcard",
+    "question": "How does mindfulness support memory formation?",
+    "answer": "Mindfulness increases presence and focus \u2014 helping the brain encode experiences more deeply and accurately.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_003",
+    "card_type": "flashcard",
+    "question": "What are common memory anchors?",
+    "answer": "Smells, songs, locations, emotional states, and repeated phrases \u2014 anything that strengthens the brain\u2019s tagging of the event.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_004",
+    "card_type": "flashcard",
+    "question": "Why does multitasking weaken memory?",
+    "answer": "Divided attention prevents deep encoding \u2014 the brain can\u2019t fully process multiple streams of information at once.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_005",
+    "card_type": "flashcard",
+    "question": "What\u2019s an example of a mindful memory anchor?",
+    "answer": "Repeating a phrase aloud while tapping your fingers, or smelling a scent while learning \u2014 connecting body to information.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_006",
+    "card_type": "flashcard",
+    "question": "How does anxiety block memory retrieval?",
+    "answer": "Stress floods the nervous system, impairing access to stored information and shrinking cognitive bandwidth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_007",
+    "card_type": "flashcard",
+    "question": "What mindfulness practices improve memory?",
+    "answer": "Focused breathwork, guided visualizations, grounding rituals, and present-moment check-ins all improve memory encoding.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_008",
+    "card_type": "flashcard",
+    "question": "Why does repetition help memory anchoring?",
+    "answer": "Each repetition strengthens the neural pathway \u2014 especially when tied to sensory or emotional markers.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_009",
+    "card_type": "flashcard",
+    "question": "How can storytelling act as a memory anchor?",
+    "answer": "Stories wrap facts in emotional and narrative context \u2014 making them easier to remember and share.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_008_mindfulness_and_memory_anchoring_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports mindful memory development?",
+    "answer": "\u201cIf I\u2019m present, I remember better. My attention is the bridge between experience and memory.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_001",
+    "card_type": "flashcard",
+    "question": "How does trauma affect memory?",
+    "answer": "Trauma can fragment memory \u2014 storing pieces out of order or out of conscious awareness, especially under extreme stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_002",
+    "card_type": "flashcard",
+    "question": "What is memory distortion?",
+    "answer": "It\u2019s when memory becomes altered, blurry, or emotionally charged \u2014 often due to survival mode or dissociation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_003",
+    "card_type": "flashcard",
+    "question": "Why are trauma memories often vivid and emotional?",
+    "answer": "The amygdala stores emotional intensity, while the hippocampus may lose timeline context under stress \u2014 making recall intense but disorganized.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_004",
+    "card_type": "flashcard",
+    "question": "What is dissociative amnesia?",
+    "answer": "It\u2019s when the brain suppresses access to traumatic memory to protect the nervous system \u2014 sometimes temporarily or long-term.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_005",
+    "card_type": "flashcard",
+    "question": "Why do some trauma survivors doubt their own memory?",
+    "answer": "Shame, gaslighting, or disorganized recall can create fear that their memory isn\u2019t trustworthy \u2014 even when it\u2019s valid.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_006",
+    "card_type": "flashcard",
+    "question": "Can trauma memories resurface suddenly?",
+    "answer": "Yes. Sensory input, emotional flashbacks, or body memory can trigger recall even years later.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_007",
+    "card_type": "flashcard",
+    "question": "How can body-based practices support memory integration?",
+    "answer": "Grounding, movement, and breathwork help regulate the nervous system, making it safer to explore memory without overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_008",
+    "card_type": "flashcard",
+    "question": "What\u2019s the role of therapy in distorted memory recovery?",
+    "answer": "Trauma-informed therapy can help unpack memory gently \u2014 focusing on emotional truth and safety, not perfect facts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_009",
+    "card_type": "flashcard",
+    "question": "Why is memory accuracy not always necessary for healing?",
+    "answer": "Healing is about how the experience lives in the body now \u2014 not proving details but tending to the emotional imprint.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_009_trauma_and_memory_distortion_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports trauma-related memory work?",
+    "answer": "\u201cI don\u2019t have to remember perfectly to heal. What I feel matters. My story is valid.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_001",
+    "card_type": "flashcard",
+    "question": "What are memory tools?",
+    "answer": "They are strategies and supports \u2014 like mnemonics, lists, visuals, or tech \u2014 that improve recall and reduce mental strain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_002",
+    "card_type": "flashcard",
+    "question": "What is the method of loci?",
+    "answer": "Also called the memory palace, it links facts to visualized spaces in your mind for easier recall.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_003",
+    "card_type": "flashcard",
+    "question": "What are mnemonics?",
+    "answer": "Mnemonics are tricks like acronyms, rhymes, or associations that help encode and retrieve memory.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_004",
+    "card_type": "flashcard",
+    "question": "Why are visuals powerful memory aids?",
+    "answer": "The brain processes visuals faster than text \u2014 turning abstract ideas into memorable imagery boosts recall.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_005",
+    "card_type": "flashcard",
+    "question": "How can spaced repetition help memory?",
+    "answer": "It reinforces information by reviewing it over increasing time intervals \u2014 strengthening long-term storage.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_006",
+    "card_type": "flashcard",
+    "question": "What are flashcards best used for?",
+    "answer": "Retrieval practice \u2014 actively recalling information from memory \u2014 which builds stronger neural pathways.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_007",
+    "card_type": "flashcard",
+    "question": "What tech tools support memory?",
+    "answer": "Apps like Notion, Anki, reminders, smart calendars, and voice memos help externalize and organize memory.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_008",
+    "card_type": "flashcard",
+    "question": "Why does writing by hand boost memory?",
+    "answer": "It activates motor and cognitive systems together \u2014 reinforcing neural encoding and attention.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_009",
+    "card_type": "flashcard",
+    "question": "What is dual coding?",
+    "answer": "Combining words and visuals (like charts or diagrams) to encode memory through multiple systems.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_flashcards_010_memory_tools_tricks_and_tech_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports using memory tools?",
+    "answer": "\u201cUsing tools doesn\u2019t mean I\u2019m weak \u2014 it means I\u2019m smart enough to support how my brain works best.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

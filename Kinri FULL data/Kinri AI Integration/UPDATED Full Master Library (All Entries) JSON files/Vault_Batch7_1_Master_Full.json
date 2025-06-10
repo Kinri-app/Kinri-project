@@ -1,0 +1,784 @@
+[
+  {
+    "card_id": "slowing_down_2_grounding_breath_and_mindful_awareness_001",
+    "card_type": "flashcard",
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "answer": "It\u2019s a method to anchor you in the present by noticing 5 things you see, 4 you touch, 3 you hear, 2 you smell, and 1 you taste.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_2_grounding_breath_and_mindful_awareness_002",
+    "card_type": "flashcard",
+    "question": "How does breathwork regulate the nervous system?",
+    "answer": "Slow, deep breathing activates the parasympathetic nervous system, reducing cortisol and calming the body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_2_grounding_breath_and_mindful_awareness_003",
+    "card_type": "flashcard",
+    "question": "Why is mindful awareness powerful?",
+    "answer": "It helps you observe thoughts and feelings without judgment, reducing reactivity and anxiety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_2_grounding_breath_and_mindful_awareness_004",
+    "card_type": "flashcard",
+    "question": "What are simple ways to ground during the day?",
+    "answer": "Touching textured objects, noticing your breath, walking barefoot, or holding warm tea all ground you physically and mentally.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_2_grounding_breath_and_mindful_awareness_005",
+    "card_type": "vault_card",
+    "headline": "Anchor Yourself to the Now",
+    "body": "When you return to your breath, body, and senses\u2014you return to safety. Grounding is always available.",
+    "prompt": "What\u2019s your go-to grounding method when stress or anxiety rises? Could you try it sooner next time?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_1_sleep_cycles_circadian_rhythms_001",
+    "card_type": "flashcard",
+    "question": "What regulates the body\u2019s internal sleep-wake cycle?",
+    "answer": "The circadian rhythm\u2014driven by light exposure, temperature, and melatonin timing\u2014regulates sleepiness and alertness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_1_sleep_cycles_circadian_rhythms_002",
+    "card_type": "flashcard",
+    "question": "How does light affect sleep quality?",
+    "answer": "Morning sunlight boosts dopamine and aligns your body clock, while blue light at night suppresses melatonin.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_1_sleep_cycles_circadian_rhythms_003",
+    "card_type": "flashcard",
+    "question": "What are the two main stages of sleep and their functions?",
+    "answer": "Deep sleep restores the body and immune system; REM sleep processes emotion and locks in memory.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_1_sleep_cycles_circadian_rhythms_004",
+    "card_type": "flashcard",
+    "question": "How does sleep benefit memory and learning?",
+    "answer": "Sleep transfers short-term memories to long-term storage and prepares the brain to absorb new information.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_1_sleep_cycles_circadian_rhythms_005",
+    "card_type": "vault_card",
+    "headline": "Align with Nature\u2019s Clock",
+    "body": "Your brain craves rhythm. Morning light and bedtime dark are biological cues that optimize sleep and life.",
+    "prompt": "What one habit could help you better sync with your natural sleep-wake rhythm this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_2_sleep_hygiene_and_bedtime_rituals_001",
+    "card_type": "flashcard",
+    "question": "What is sleep hygiene?",
+    "answer": "Sleep hygiene is the set of habits and environmental cues that help support restful, consistent sleep.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_2_sleep_hygiene_and_bedtime_rituals_002",
+    "card_type": "flashcard",
+    "question": "What are key elements of a good bedtime routine?",
+    "answer": "Dim lights, avoid screens, engage in relaxing activities (reading, stretching, meditation), and go to bed at the same time nightly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_2_sleep_hygiene_and_bedtime_rituals_003",
+    "card_type": "flashcard",
+    "question": "Why should screens be avoided before bed?",
+    "answer": "Blue light suppresses melatonin, keeping the brain alert and delaying sleep onset.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_2_sleep_hygiene_and_bedtime_rituals_004",
+    "card_type": "flashcard",
+    "question": "What temperature is ideal for sleep?",
+    "answer": "Around 65\u00b0F or 18\u00b0C\u2014cool temperatures help signal the body that it\u2019s time to sleep.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_2_sleep_hygiene_and_bedtime_rituals_005",
+    "card_type": "vault_card",
+    "headline": "Your Bedtime Is a Signal, Not a Deadline",
+    "body": "Consistency and calming rituals tell your brain it\u2019s safe to shut down. No screens, no chaos\u2014just cues to wind down.",
+    "prompt": "What bedtime habit could you tweak this week to signal your body it\u2019s time for sleep?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_3_nutrition_supplements_and_timing_001",
+    "card_type": "flashcard",
+    "question": "What nutrients support better sleep?",
+    "answer": "Magnesium, tryptophan, calcium, potassium, and melatonin precursors all help relax the body and support sleep cycles.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_3_nutrition_supplements_and_timing_002",
+    "card_type": "flashcard",
+    "question": "Why should heavy meals be avoided before bed?",
+    "answer": "Heavy or spicy foods close to bedtime disrupt digestion and increase sleep latency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_3_nutrition_supplements_and_timing_003",
+    "card_type": "flashcard",
+    "question": "What are good bedtime snacks for sleep?",
+    "answer": "Banana with nut butter, kiwi, tart cherry juice, or warm milk help promote melatonin or serotonin production.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_3_nutrition_supplements_and_timing_004",
+    "card_type": "flashcard",
+    "question": "How does caffeine affect sleep timing?",
+    "answer": "Caffeine\u2019s half-life means it can linger in the body for 6\u20138 hours, making it harder to fall and stay asleep.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_3_nutrition_supplements_and_timing_005",
+    "card_type": "vault_card",
+    "headline": "Fuel Sleep from the Inside",
+    "body": "What you eat and when you eat it directly shapes your body\u2019s ability to rest deeply and recover fully.",
+    "prompt": "What food or drink habit might you adjust to support deeper rest this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_4_exercise_stress_and_emotional_readiness_001",
+    "card_type": "flashcard",
+    "question": "How does exercise improve sleep quality?",
+    "answer": "Daytime activity increases slow wave (deep) sleep and reduces stress hormones that disrupt rest.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_4_exercise_stress_and_emotional_readiness_002",
+    "card_type": "flashcard",
+    "question": "Why should intense workouts be timed carefully?",
+    "answer": "Exercising too late can overstimulate the nervous system and delay melatonin release.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_4_exercise_stress_and_emotional_readiness_003",
+    "card_type": "flashcard",
+    "question": "How does stress impact sleep onset?",
+    "answer": "High cortisol and racing thoughts keep the brain alert, making it hard to wind down.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_4_exercise_stress_and_emotional_readiness_004",
+    "card_type": "flashcard",
+    "question": "What helps calm the mind before bed?",
+    "answer": "Breathwork, body scans, journaling, and guided meditation reduce cognitive load and relax the nervous system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_4_exercise_stress_and_emotional_readiness_005",
+    "card_type": "vault_card",
+    "headline": "Move During the Day, Calm Down at Night",
+    "body": "Good sleep starts hours before bed. Burn energy early, manage stress, and soften your internal dialogue.",
+    "prompt": "What evening thought loop might need a softer exit this week\u2014and how could you help it wind down?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_5_rest_beyond_sleep_nsdr_daytime_calm_001",
+    "card_type": "flashcard",
+    "question": "What is NSDR and how does it differ from sleep?",
+    "answer": "NSDR (non-sleep deep rest) includes techniques like Yoga Nidra and guided relaxation that promote nervous system reset while awake.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_5_rest_beyond_sleep_nsdr_daytime_calm_002",
+    "card_type": "flashcard",
+    "question": "Why is daytime rest important even if you sleep well?",
+    "answer": "Rest during the day reduces stress load, supports emotional resilience, and prevents burnout.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_5_rest_beyond_sleep_nsdr_daytime_calm_003",
+    "card_type": "flashcard",
+    "question": "What are examples of Yin recovery practices?",
+    "answer": "Slow walks, deep breathing, stretching, journaling, or simply sitting in silence with no agenda.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_5_rest_beyond_sleep_nsdr_daytime_calm_004",
+    "card_type": "flashcard",
+    "question": "How does rest build long-term energy?",
+    "answer": "It allows your nervous system to recalibrate\u2014improving sleep quality, focus, and emotional capacity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_5_rest_beyond_sleep_nsdr_daytime_calm_005",
+    "card_type": "vault_card",
+    "headline": "Rest Isn\u2019t Lazy\u2014It\u2019s Strategic",
+    "body": "Your nervous system needs quiet the way muscles need rest. Even warriors pause.",
+    "prompt": "What type of rest could your system use more of this week\u2014movement pause, mind stillness, or emotional space?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_6_sleep_loss_health_effects_and_modern_challenges_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the impact of one night of poor sleep on the immune system?",
+    "answer": "Just one night of 4 hours sleep can drop natural killer cell activity by 70%, increasing illness vulnerability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_6_sleep_loss_health_effects_and_modern_challenges_002",
+    "card_type": "flashcard",
+    "question": "How does sleep deprivation affect memory and learning?",
+    "answer": "It impairs hippocampus activity, reducing memory retention by up to 40%, and limits new learning capacity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_6_sleep_loss_health_effects_and_modern_challenges_003",
+    "card_type": "flashcard",
+    "question": "What health risks are linked to chronic sleep deprivation?",
+    "answer": "Increased risk of cancer, diabetes, cardiovascular disease, and hormonal dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_6_sleep_loss_health_effects_and_modern_challenges_004",
+    "card_type": "flashcard",
+    "question": "How does shift work disrupt sleep health?",
+    "answer": "It misaligns circadian rhythms, impacting hormonal function and is now considered a probable carcinogen by the WHO.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "sleep_and_rest_6_sleep_loss_health_effects_and_modern_challenges_005",
+    "card_type": "vault_card",
+    "headline": "Sleep Loss Costs More Than You Think",
+    "body": "Every missed hour of sleep chips away at your health, clarity, and resilience. Sleep is not optional\u2014it's foundational.",
+    "prompt": "What habit could you shift today to protect your future energy, immunity, and memory?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_1_power_and_practice_of_moving_slower_001",
+    "card_type": "flashcard",
+    "question": "How does slowing down reduce stress?",
+    "answer": "It helps regulate the nervous system, decreases adrenaline, and creates space for calm awareness and recovery.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_1_power_and_practice_of_moving_slower_002",
+    "card_type": "flashcard",
+    "question": "Why is busyness often glorified?",
+    "answer": "Modern culture equates productivity with worth, making stillness feel uncomfortable or unproductive.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_1_power_and_practice_of_moving_slower_003",
+    "card_type": "flashcard",
+    "question": "What are small ways to practice slowing down daily?",
+    "answer": "Eat meals slowly, walk without a phone, pause before responding, and focus on one task at a time.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_1_power_and_practice_of_moving_slower_004",
+    "card_type": "flashcard",
+    "question": "What happens when you savor small moments?",
+    "answer": "Your brain rewires to find joy in ordinary life, boosting mood and increasing present-moment awareness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_1_power_and_practice_of_moving_slower_005",
+    "card_type": "vault_card",
+    "headline": "Slow Is a Skill, Not a Flaw",
+    "body": "Slowness isn\u2019t weakness\u2014it\u2019s wisdom. It\u2019s where clarity lives, joy awakens, and stress melts.",
+    "prompt": "What moment today could you choose to move through more slowly, with full attention?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

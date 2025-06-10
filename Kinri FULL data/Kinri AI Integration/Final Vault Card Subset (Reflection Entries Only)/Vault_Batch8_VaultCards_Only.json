@@ -1,0 +1,172 @@
+[
+  {
+    "card_id": "trauma_11_trauma_informed_communication_and_relational_repair_005",
+    "card_type": "vault_card",
+    "headline": "Talk to the Nervous System, Not Just the Person",
+    "body": "Words land on raw systems. Safety is the message. Speak slowly. Repair fully. Soften where needed.",
+    "prompt": "What recent rupture or tension might benefit from slower communication or a check-in for repair?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_3_shame_rejection_self_worth_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not a Problem\u2014You Have a Pattern",
+    "body": "Shame lies. ADHD isn\u2019t a flaw\u2014it\u2019s a wiring difference. You get to rewrite the story.",
+    "prompt": "What belief about yourself feels heavy\u2014and could you hold it with more compassion today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_5_task_initiation_and_finishing_005",
+    "card_type": "vault_card",
+    "headline": "Done Is Better Than Perfect",
+    "body": "You don\u2019t need to finish everything flawlessly. You need to keep moving\u2014bit by bit, with support.",
+    "prompt": "What\u2019s one unfinished task you could gently re-approach with a little less pressure today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_8_sleep_night_energy_and_dysregulated_rest_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Lazy\u2014You\u2019re Wired Late",
+    "body": "Your night energy isn\u2019t wrong\u2014it\u2019s real. But it needs rhythm, not guilt. Reclaim rest on your terms.",
+    "prompt": "What\u2019s one gentle wind-down ritual you could try this week to support ADHD rest?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_9_routine_batching_and_dopamine_habits_005",
+    "card_type": "vault_card",
+    "headline": "Discipline is a System, Not a Personality Trait",
+    "body": "You don\u2019t need more willpower\u2014you need smoother systems and smarter dopamine. Build the path, not the pressure.",
+    "prompt": "What\u2019s one routine or system you could design today to serve the brain you have\u2014not the one you wish you had?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_12_anxiety_racing_thoughts_and_loop_breaking_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Stuck\u2014You're Spiraling",
+    "body": "And spirals can be softened. You don\u2019t need to outthink your thoughts\u2014you need to ground them.",
+    "prompt": "What thought loop showed up recently\u2014and what grounding anchor could pull you out gently?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_14_masking_burnout_and_identity_fatigue_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Broken\u2014You\u2019re Buried",
+    "body": "Masking isn\u2019t fake\u2014it\u2019s survival. But you deserve to live unfiltered, even gently. Let the real you breathe.",
+    "prompt": "What part of yourself feels hidden right now\u2014and how could you offer it a little safety to show up?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_17_medication_support_and_integrative_strategies_005",
+    "card_type": "vault_card",
+    "headline": "Pills Aren\u2019t Plans\u2014They\u2019re Boosters",
+    "body": "Medication can be a powerful key\u2014but the door still needs structure, rest, and support to swing open fully.",
+    "prompt": "What supportive habit or structure could you build this week\u2014regardless of whether you medicate?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

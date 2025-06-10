@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What\u2019s the impact of one night of poor sleep on the immune system?",
+    "answer": "Just one night of 4 hours sleep can drop natural killer cell activity by 70%, increasing illness vulnerability.",
+    "tags": [
+      "immune function",
+      "sleep loss",
+      "health risk"
+    ]
+  },
+  {
+    "question": "How does sleep deprivation affect memory and learning?",
+    "answer": "It impairs hippocampus activity, reducing memory retention by up to 40%, and limits new learning capacity.",
+    "tags": [
+      "memory",
+      "learning",
+      "sleep deprivation"
+    ]
+  },
+  {
+    "question": "What health risks are linked to chronic sleep deprivation?",
+    "answer": "Increased risk of cancer, diabetes, cardiovascular disease, and hormonal dysregulation.",
+    "tags": [
+      "chronic sleep loss",
+      "cancer",
+      "cardiovascular"
+    ]
+  },
+  {
+    "question": "How does shift work disrupt sleep health?",
+    "answer": "It misaligns circadian rhythms, impacting hormonal function and is now considered a probable carcinogen by the WHO.",
+    "tags": [
+      "shift work",
+      "circadian disruption",
+      "carcinogen"
+    ]
+  },
+  {
+    "headline": "Sleep Loss Costs More Than You Think",
+    "body": "Every missed hour of sleep chips away at your health, clarity, and resilience. Sleep is not optional\u2014it's foundational.",
+    "prompt": "What habit could you shift today to protect your future energy, immunity, and memory?",
+    "tags": [
+      "sleep recovery",
+      "resilience",
+      "long-term health"
+    ]
+  }
+]

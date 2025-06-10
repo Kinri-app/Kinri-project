@@ -1,0 +1,784 @@
+[
+  {
+    "card_id": "somatic_skills_2_clinical_somatics_and_pandiculation_001",
+    "card_type": "flashcard",
+    "question": "What is Clinical Somatic Education?",
+    "answer": "A movement-based method developed by Thomas Hanna to retrain the nervous system, release chronic tension, and restore motor control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_2_clinical_somatics_and_pandiculation_002",
+    "card_type": "flashcard",
+    "question": "What makes Clinical Somatics different from physical therapy or stretching?",
+    "answer": "It uses neuromuscular education and internal awareness, not force or repetition, to restore balance and control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_2_clinical_somatics_and_pandiculation_003",
+    "card_type": "flashcard",
+    "question": "What is pandiculation?",
+    "answer": "It\u2019s a technique involving slow, mindful contraction and release to reset muscle tone through the brain\u2014not force.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_2_clinical_somatics_and_pandiculation_004",
+    "card_type": "flashcard",
+    "question": "How does pandiculation help with chronic pain?",
+    "answer": "It reprograms muscle memory by interrupting habitual tension patterns and teaching muscles to relax again.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_2_clinical_somatics_and_pandiculation_005",
+    "card_type": "vault_card",
+    "headline": "Unlearn the Tension, Relearn Control",
+    "body": "You don\u2019t stretch your way out of pain\u2014you retrain it. Pandiculation gives the brain a new script for movement.",
+    "prompt": "What movement could you do today with more awareness and less force?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_3_somatic_experiencing_and_nervous_system_reset_001",
+    "card_type": "flashcard",
+    "question": "What is somatic experiencing?",
+    "answer": "A trauma healing method developed by Peter Levine that focuses on resolving fight/flight/freeze via body awareness and movement.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_3_somatic_experiencing_and_nervous_system_reset_002",
+    "card_type": "flashcard",
+    "question": "Why does somatic experiencing work?",
+    "answer": "It helps the nervous system complete stuck stress cycles through sensation, instead of being trapped in mental rumination.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_3_somatic_experiencing_and_nervous_system_reset_003",
+    "card_type": "flashcard",
+    "question": "What are core steps of a somatic experiencing practice?",
+    "answer": "Grounding in the environment, tuning into sensations, gentle movement (rocking or stretching), mindful breath, and emotion allowance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_3_somatic_experiencing_and_nervous_system_reset_004",
+    "card_type": "flashcard",
+    "question": "How does rocking or swaying help regulate the nervous system?",
+    "answer": "These primal movements mimic early self-soothing, helping the body discharge tension and return to safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_3_somatic_experiencing_and_nervous_system_reset_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Broken\u2014You\u2019re Unfinished",
+    "body": "Your body knows how to heal. Somatic experiencing gives it permission to finish what trauma interrupted.",
+    "prompt": "What sensation are you aware of right now\u2014and can you stay with it instead of analyzing it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_4_functional_freeze_and_regulation_exercises_001",
+    "card_type": "flashcard",
+    "question": "What is functional freeze?",
+    "answer": "It\u2019s a trauma response where the body locks into stillness and dissociation instead of moving into fight or flight.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_4_functional_freeze_and_regulation_exercises_002",
+    "card_type": "flashcard",
+    "question": "Why is body tapping useful in freeze recovery?",
+    "answer": "It stimulates circulation and body awareness, helping reconnect the brain to areas that feel numb or frozen.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_4_functional_freeze_and_regulation_exercises_003",
+    "card_type": "flashcard",
+    "question": "How does cross-body tapping support nervous system regulation?",
+    "answer": "It brings bilateral stimulation that grounds the body, similar to EMDR, promoting safety and regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_4_functional_freeze_and_regulation_exercises_004",
+    "card_type": "flashcard",
+    "question": "What does vagus nerve activation do?",
+    "answer": "Stimulating the vagus nerve through neck stretches or breathing calms the parasympathetic system and improves resilience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_4_functional_freeze_and_regulation_exercises_005",
+    "card_type": "vault_card",
+    "headline": "Thaw What Froze in Survival",
+    "body": "Your nervous system didn\u2019t fail\u2014it protected you. Now it\u2019s time to move again, slowly and safely.",
+    "prompt": "What\u2019s one movement today\u2014however small\u2014that reminds your body it\u2019s safe to unfreeze?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_3_self_compassion_and_emotional_processing_001",
+    "card_type": "flashcard",
+    "question": "Why is self-compassion important when slowing down?",
+    "answer": "Without it, slowing down can trigger guilt or self-judgment\u2014instead of becoming a healing act, it becomes a shame spiral.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_3_self_compassion_and_emotional_processing_002",
+    "card_type": "flashcard",
+    "question": "How does journaling help emotional processing?",
+    "answer": "It gives your emotions a safe space to be seen, named, and explored\u2014reducing internal pressure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_3_self_compassion_and_emotional_processing_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s one phrase to reframe setbacks with kindness?",
+    "answer": "'It\u2019s okay, I\u2019m human. I can reset and begin again.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_3_self_compassion_and_emotional_processing_004",
+    "card_type": "flashcard",
+    "question": "Why is avoiding emotion unsustainable?",
+    "answer": "Unfelt emotions don\u2019t disappear\u2014they store in the body and surface through tension, illness, or reactive behaviors.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_3_self_compassion_and_emotional_processing_005",
+    "card_type": "vault_card",
+    "headline": "Kindness Is What Makes Slowness Work",
+    "body": "If you slow down but attack yourself in the quiet, you don\u2019t heal. Be gentle\u2014it\u2019s how the shift begins.",
+    "prompt": "What emotional weight could you name and release this week\u2014with kindness, not critique?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_4_presence_simplicity_meaningful_living_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the benefit of single-tasking over multitasking?",
+    "answer": "Single-tasking increases presence, reduces stress, and helps you enjoy and remember what you\u2019re doing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_4_presence_simplicity_meaningful_living_002",
+    "card_type": "flashcard",
+    "question": "How does slow living promote joy?",
+    "answer": "It shifts attention from chasing results to savoring process\u2014turning small acts into meaningful rituals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_4_presence_simplicity_meaningful_living_003",
+    "card_type": "flashcard",
+    "question": "Why does simplicity lead to clarity?",
+    "answer": "It reduces decision fatigue, frees mental bandwidth, and keeps your life aligned with what matters.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_4_presence_simplicity_meaningful_living_004",
+    "card_type": "flashcard",
+    "question": "What mindset supports meaningful daily living?",
+    "answer": "Letting go of outcome obsession and instead valuing how something feels while doing it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_4_presence_simplicity_meaningful_living_005",
+    "card_type": "vault_card",
+    "headline": "The Present Is the Point",
+    "body": "You don\u2019t need a big life to live deeply. Slowing down is how you remember what being alive actually feels like.",
+    "prompt": "What could you do slower, more fully, and more joyfully today\u2014without needing a result?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_5_decluttering_boundaries_mental_space_001",
+    "card_type": "flashcard",
+    "question": "Why does clutter increase stress?",
+    "answer": "It overstimulates your senses and mind, making it harder to focus and feel at ease.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_5_decluttering_boundaries_mental_space_002",
+    "card_type": "flashcard",
+    "question": "How can decluttering improve emotional health?",
+    "answer": "It creates space for stillness and clarity\u2014physically and emotionally\u2014reducing anxiety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_5_decluttering_boundaries_mental_space_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s a digital boundary that reduces mental fatigue?",
+    "answer": "Turning off notifications, setting no-screen hours, or removing apps that pull attention compulsively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_5_decluttering_boundaries_mental_space_004",
+    "card_type": "flashcard",
+    "question": "Why is it hard to say no when overstimulated?",
+    "answer": "Mental clutter lowers self-awareness and reduces energy for boundary-setting\u2014making overcommitment more likely.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_5_decluttering_boundaries_mental_space_005",
+    "card_type": "vault_card",
+    "headline": "Space Creates Calm",
+    "body": "You don\u2019t need more stuff, plans, or input\u2014you need room. Room to feel, to pause, to breathe.",
+    "prompt": "What could you gently clear or cut out this week to regain space for calm?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_6_slow_living_resilience_sustainable_pace_001",
+    "card_type": "flashcard",
+    "question": "Why is slow living a form of resilience?",
+    "answer": "It builds nervous system strength, improves presence, and creates routines that help you withstand life\u2019s storms.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_6_slow_living_resilience_sustainable_pace_002",
+    "card_type": "flashcard",
+    "question": "How does single-tasking support sustainable energy?",
+    "answer": "Focusing on one thing reduces cognitive fatigue, increases quality, and protects your energy from burnout.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_6_slow_living_resilience_sustainable_pace_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s the power of routine in slow living?",
+    "answer": "It removes decision fatigue and builds safety, allowing creativity and connection to flourish.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_6_slow_living_resilience_sustainable_pace_004",
+    "card_type": "flashcard",
+    "question": "Why is embracing your own pace important?",
+    "answer": "Comparing speed to others leads to anxiety\u2014your rhythm is valid, and honoring it supports long-term well-being.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "slowing_down_6_slow_living_resilience_sustainable_pace_005",
+    "card_type": "vault_card",
+    "headline": "Slow Isn\u2019t Falling Behind\u2014It\u2019s Rising Differently",
+    "body": "Your nervous system isn\u2019t a machine. Rhythm matters more than speed. Rest is part of the climb.",
+    "prompt": "Where could you stop rushing this week to gain more long-term strength and clarity?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_1_what_is_somatic_movement_001",
+    "card_type": "flashcard",
+    "question": "What does 'somatic' mean?",
+    "answer": "Somatic comes from the Greek word 'soma,' meaning the body as perceived from within. It emphasizes internal bodily awareness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_1_what_is_somatic_movement_002",
+    "card_type": "flashcard",
+    "question": "What makes somatic movement different from traditional exercise?",
+    "answer": "It focuses on internal sensation over external appearance and uses slow, mindful movement to retrain the nervous system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_1_what_is_somatic_movement_003",
+    "card_type": "flashcard",
+    "question": "Why is slow movement important in somatics?",
+    "answer": "Slow movement gives the nervous system time to observe, learn, and reprogram habitual tension patterns.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_1_what_is_somatic_movement_004",
+    "card_type": "flashcard",
+    "question": "What is the role of daily practice in somatics?",
+    "answer": "Consistent daily exploration creates lasting changes in posture, tension levels, and emotional regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "somatic_skills_1_what_is_somatic_movement_005",
+    "card_type": "vault_card",
+    "headline": "Feel From the Inside First",
+    "body": "Somatic movement isn\u2019t about performing\u2014it\u2019s about listening. The body leads, the mind learns.",
+    "prompt": "What part of your body is asking for attention today\u2014and how can you meet it with awareness?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

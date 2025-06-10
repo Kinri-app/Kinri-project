@@ -1,0 +1,10 @@
+Diagnosis,Score,Echo Tier
+C-PTSD,4.0625,Tier 2 – Moderate signal
+BPD,3.6875,Tier 1 – Light presence
+PMDD,2.0,Tier 1 – Light presence
+Depression,1.875,Tier 0 – Not significant
+GAD,1.5625,Tier 0 – Not significant
+Bipolar II,1.0,Tier 0 – Not significant
+Autism,0.875,Tier 0 – Not significant
+PTSD,0.75,Tier 0 – Not significant
+ADHD,0.5,Tier 0 – Not significant

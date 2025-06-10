@@ -1,0 +1,220 @@
+[
+  {
+    "prompt": "Do you ever feel like your emotions hit harder than others around you \u2014 even for small things?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD",
+        "ADHD"
+      ],
+      "emotion": [
+        "emotional_intensity",
+        "self_doubt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "compare_support"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you get stuck in cycles of overthinking or trying to fix the same thought over and over?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "OCD",
+        "GAD",
+        "Depression"
+      ],
+      "emotion": [
+        "rumination",
+        "uncertainty"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like your body is stuck in survival mode, even when you\u2019re safe?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism"
+      ],
+      "emotion": [
+        "hypervigilance",
+        "tension"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find it hard to tell what you\u2019re feeling \u2014 or name your emotions clearly?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Autism",
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "confusion",
+        "emotional_blunting"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you experience intense emotional crashes after conflict or confrontation?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "shame",
+        "overwhelm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes feel out of control when you\u2019re in a high-energy or hyper-focused state?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Bipolar II",
+        "Autism"
+      ],
+      "emotion": [
+        "intensity",
+        "dysregulation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever question whether your memories are real or accurate?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "OCD",
+        "Autism"
+      ],
+      "emotion": [
+        "confusion",
+        "self_doubt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "memory"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find yourself avoiding tasks because the pressure to do them perfectly feels too heavy?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "OCD",
+        "ADHD",
+        "Anxiety"
+      ],
+      "emotion": [
+        "perfectionism",
+        "avoidance"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your needs are too much \u2014 or that they\u2019ve always been ignored?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "Autism"
+      ],
+      "emotion": [
+        "invalidation",
+        "sadness"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever felt like you were \u2018too much\u2019 \u2014 too sensitive, too reactive, too intense?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD"
+      ],
+      "emotion": [
+        "shame",
+        "self_rejection"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  }
+]

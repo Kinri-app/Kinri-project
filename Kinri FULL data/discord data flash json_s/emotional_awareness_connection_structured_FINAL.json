@@ -1,0 +1,89 @@
+[
+  {
+    "question": "Why is emotional awareness important in communication?",
+    "answer": "Understanding your own emotions helps you express clearly and respond to others with empathy, not reactivity.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "emotional awareness"
+      ],
+      "usage_mode": [
+        "communication",
+        "self-regulation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_314_emotional_awareness_connection"
+  },
+  {
+    "question": "What role does kindness play in connection?",
+    "answer": "Kindness disarms defensiveness, fosters safety, and helps others feel seen, respected, and supported.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "connection",
+        "emotional safety"
+      ],
+      "narrative_type": [
+        "kindness"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_315_emotional_awareness_connection"
+  },
+  {
+    "question": "Why is presence more powerful than advice?",
+    "answer": "Being present regulates the other person's nervous system\u2014it says 'you\u2019re not alone,' which often matters more than fixing.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "presence"
+      ],
+      "narrative_type": [
+        "listening",
+        "co-regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_316_emotional_awareness_connection"
+  },
+  {
+    "question": "How do small gestures strengthen communication?",
+    "answer": "Tone, eye contact, body language, and warmth signal safety\u2014strengthening trust beyond the words you use.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "trust"
+      ],
+      "narrative_type": [
+        "nonverbal",
+        "relationship health"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_317_emotional_awareness_connection"
+  },
+  {
+    "headline": "Presence Is More Powerful Than Precision",
+    "body": "You don\u2019t need the perfect words. You need to show up with care, calm, and curiosity.",
+    "prompt": "What conversation or connection this week could benefit from more emotional presence, not just advice?",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "empathy"
+      ],
+      "narrative_type": [
+        "healing"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_318_emotional_awareness_connection"
+  }
+]

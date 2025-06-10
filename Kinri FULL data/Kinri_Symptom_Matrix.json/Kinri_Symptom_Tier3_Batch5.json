@@ -1,0 +1,216 @@
+[
+  {
+    "prompt": "Do you feel like emotional pain feels safer than emotional vulnerability?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "protective_pain",
+        "vulnerability_avoidance"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you carry grief for the person you might have been without all this pain?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "grief",
+        "lost_potential"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like you\u2019re faking your recovery \u2014 like you\u2019re healing for show?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "performance_shame",
+        "self_doubt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you're chasing healing but never arriving anywhere real?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD"
+      ],
+      "emotion": [
+        "healing_fatigue",
+        "doubt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you struggle to believe that peace is something you can hold without losing it?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD",
+        "BPD"
+      ],
+      "emotion": [
+        "fragility_fear",
+        "peace_mistrust"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like pain is more familiar than happiness?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "pain_familiarity",
+        "joy_avoidance"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your nervous system is always braced for something \u2014 even when things are good?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "Anxiety"
+      ],
+      "emotion": [
+        "nervous_system_bracing",
+        "anticipatory_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you constantly have to prove your pain is real?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD",
+        "Autism"
+      ],
+      "emotion": [
+        "invalidated",
+        "hyper_explanation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like no matter how much you explain, no one fully gets it?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Autism",
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "disconnect",
+        "invisibility"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever wanted to disappear \u2014 not dramatically, but gently, as if you\u2019d never existed?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "suicidal_ideation",
+        "erasure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

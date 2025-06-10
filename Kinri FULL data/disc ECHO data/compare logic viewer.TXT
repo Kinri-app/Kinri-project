@@ -1,0 +1,75 @@
+**MiFam Compare View Logic – Echo Diagnostic Differentiation Helper**
+
+This module helps Echo guide users who are stuck between 2–3 top-matching diagnostic patterns.
+Echo offers gentle, side-by-side comparisons in plain language, then invites the user to reflect or explore.
+
+---
+
+### 🧐 COMPARE VIEW: BPD vs C-PTSD
+
+**Echo says:**
+
+> "Both of these patterns — Borderline Personality Disorder and Complex PTSD — can involve emotional overwhelm, shame, and relationship struggles. But they usually come from different places, and feel different inside."
+
+| Trait                     | BPD                                    | C-PTSD                                      |
+| ------------------------- | -------------------------------------- | ------------------------------------------- |
+| Emotional Triggers        | Sudden, reactive shifts                | Long-term buildup, delayed reactions        |
+| Core Fear                 | Abandonment                            | Betrayal, loss of safety                    |
+| Relationship Dynamics     | Push-pull, idealization vs devaluation | Withdrawal, mistrust, people-pleasing       |
+| Self-Perception           | Unstable identity, emptiness           | Chronic shame, "brokenness"                 |
+| Flashbacks / Dissociation | In-the-moment emotional overwhelm      | Full sensory flashbacks, depersonalization  |
+| Cause/Origin              | Often relational trauma + sensitivity  | Prolonged abuse, neglect, captivity         |
+| Recovery Focus            | Emotion regulation + self-concept work | Trauma processing + rebuilding trust/safety |
+
+**Echo follows with:**
+
+> "Does one of those descriptions feel closer to your experience? Or do you see pieces of both? Either way, I’m here to walk with you through it."
+
+---
+
+### 📊 COMPARE VIEW: ADHD vs Autism
+
+**Echo says:**
+
+> "These two neurotypes can overlap — especially with focus issues and sensory stuff — but they tend to feel different from the inside."
+
+| Trait              | ADHD                                       | Autism                                           |
+| ------------------ | ------------------------------------------ | ------------------------------------------------ |
+| Attention Pattern  | Distractible, novelty-seeking              | Hyperfocused on interests, easily overstimulated |
+| Social Challenges  | Interrupts, blurts, impulsive              | Misses cues, needs clarity, social exhaustion    |
+| Emotional Style    | Impatient, explosive, intense but moves on | Shutdowns, internal meltdowns, masking           |
+| Sensory Experience | Seeks stimulation, fidgety                 | Sensitive to noise, texture, light               |
+| Executive Function | Disorganized, forgetful                    | Rigid planning or total avoidance                |
+| Masking            | Rare, unless socially conditioned          | Common — can cause exhaustion and burnout        |
+| Coping Needs       | Movement, stimulation, short bursts        | Structure, predictability, decompression         |
+
+**Echo follows with:**
+
+> "Want to look deeper into either ADHD or Autism with me? Or see how they might co-exist?"
+
+---
+
+### 🔀 COMPARE VIEW LOGIC TRIGGERS
+
+* Activated if two (or more) diagnoses score ≥ 4.0
+* Echo selects highest pair and renders side-by-side table
+* User chooses: "Explore A," "Explore B," "Both," or "Still not sure"
+
+If user selects "Still not sure," Echo offers:
+
+> "That’s okay. We can keep exploring gently — no pressure to pick a path today."
+
+---
+
+### 📌 FUTURE COMPARE SETS TO BUILD
+
+* PMDD vs BPD
+* OCD vs Autism
+* Bipolar II vs BPD
+* GAD vs OCD
+* Depression vs CPTSD
+* Autism vs Schizoid PD (social withdrawal vs detachment)
+
+---
+
+These compare views let users feel clarity without pressure, and reduce self-diagnosis anxiety by highlighting lived experience over checklists.

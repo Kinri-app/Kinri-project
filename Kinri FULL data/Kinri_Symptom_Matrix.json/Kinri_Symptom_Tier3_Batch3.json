@@ -1,0 +1,218 @@
+[
+  {
+    "prompt": "Do you ever feel like healing is something other people are allowed to do \u2014 but not you?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "unworthiness",
+        "excluded_from_healing"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your personality was built from pain, not preference?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "BPD"
+      ],
+      "emotion": [
+        "trauma_identity",
+        "grief"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find it hard to imagine a future where you feel safe in your own body?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD",
+        "Autism"
+      ],
+      "emotion": [
+        "detachment",
+        "body_mistrust"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your coping mechanisms would be misunderstood if anyone saw them?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "OCD",
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "self_protection"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you carry rage that you rarely let out \u2014 but feel humming underneath?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "PMDD",
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "suppressed_rage",
+        "internal_pressure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like your nervous system can\u2019t handle being loved?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "vulnerability",
+        "attachment_wound"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you have rituals or behaviors that help you feel safe, even if they seem strange?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Autism",
+        "OCD"
+      ],
+      "emotion": [
+        "safety",
+        "self_regulation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like if you stopped masking, your world might fall apart?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Autism",
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "masking_fear",
+        "disintegration"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your needs are too complex for others to hold?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Autism",
+        "CPTSD"
+      ],
+      "emotion": [
+        "emotional_needs",
+        "burden_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever wondered if you'd still be 'you' without all the pain you've carried?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "grief",
+        "identity_loss"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

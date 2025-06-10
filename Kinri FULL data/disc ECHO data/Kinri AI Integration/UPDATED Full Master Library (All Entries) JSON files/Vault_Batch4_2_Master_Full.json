@@ -1,0 +1,695 @@
+[
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting (1)_001",
+    "card_type": "flashcard",
+    "question": "Why is self-compassion essential in parenting?",
+    "answer": "Because perfection isn\u2019t sustainable\u2014self-compassion helps you repair, grow, and model emotional resilience for your child.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting (1)_002",
+    "card_type": "flashcard",
+    "question": "How does shame affect parenting?",
+    "answer": "Shame leads to reactivity, silence, or overcorrection\u2014disconnecting you from your child and your values.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting (1)_003",
+    "card_type": "flashcard",
+    "question": "What does self-compassion look like in real-time?",
+    "answer": "Saying 'I\u2019m doing my best,' pausing to regulate, apologizing gently, or giving yourself grace after missteps.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting (1)_004",
+    "card_type": "flashcard",
+    "question": "How does self-compassion shape parenting culture?",
+    "answer": "It breaks cycles of perfectionism, guilt, and self-abandonment\u2014allowing honesty, repair, and emotional freedom.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting (1)_005",
+    "card_type": "vault_card",
+    "headline": "Your Child Doesn\u2019t Need a Perfect Parent\u2014They Need a Kind One",
+    "body": "The way you speak to yourself is the way they\u2019ll speak to themselves. Let your tone become their inner voice.",
+    "prompt": "What parenting moment this week could use more softness, grace, or internal validation?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_6_parenting_inner_child_while_parenting_real_child_001",
+    "card_type": "flashcard",
+    "question": "Why does parenting trigger your inner child?",
+    "answer": "Because your child\u2019s needs, emotions, or behaviors often mirror unmet needs from your own childhood.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_6_parenting_inner_child_while_parenting_real_child_002",
+    "card_type": "flashcard",
+    "question": "How can you parent both your child and your inner child at once?",
+    "answer": "Pause. Ask who\u2019s activated\u2014your child or your younger self. Then soothe both with validation and regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_6_parenting_inner_child_while_parenting_real_child_003",
+    "card_type": "flashcard",
+    "question": "Why is reparenting yourself vital in conscious parenting?",
+    "answer": "You can\u2019t give what you never got unless you pause to give it to yourself first.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_6_parenting_inner_child_while_parenting_real_child_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a sign your inner child is driving the moment?",
+    "answer": "You feel disproportionate rage, shutdown, or helplessness\u2014more about your pain than your child\u2019s behavior.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_6_parenting_inner_child_while_parenting_real_child_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Raising Two Kids\u2014One Outside, One Inside",
+    "body": "You don\u2019t need to be perfect. You just need to pause long enough to listen to both. That\u2019s the healing.",
+    "prompt": "What part of you is parenting today\u2014and how could you tend to both child and inner child with care?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_8_emotional_regulation_tools_for_parenting_001",
+    "card_type": "flashcard",
+    "question": "Why are emotional regulation tools essential in parenting?",
+    "answer": "You can\u2019t model calm, safe parenting if you\u2019re stuck in survival mode\u2014your nervous system sets the tone.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_8_emotional_regulation_tools_for_parenting_002",
+    "card_type": "flashcard",
+    "question": "What are quick regulation tools parents can use mid-meltdown?",
+    "answer": "Box breathing, sensory grounding, pacing outside, hand on heart, or saying 'I need a minute.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_8_emotional_regulation_tools_for_parenting_003",
+    "card_type": "flashcard",
+    "question": "How do regulation rituals prevent burnout?",
+    "answer": "Daily micro-resets keep the nervous system from boiling over\u2014helping you respond instead of explode.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_8_emotional_regulation_tools_for_parenting_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a misunderstood truth about parenting tools?",
+    "answer": "They aren\u2019t for fixing the child\u2014they\u2019re for keeping the adult emotionally available and grounded.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_8_emotional_regulation_tools_for_parenting_005",
+    "card_type": "vault_card",
+    "headline": "The Tools Aren\u2019t Just for the Kids\u2014They\u2019re for You",
+    "body": "Your child\u2019s emotional safety starts with yours. When you regulate, you invite peace without a word.",
+    "prompt": "What parenting moment this week could benefit from a 30-second reset\u2014so your nervous system can stay online?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_9_parenting_through_overstimulation_and_sensory_fatigue_001",
+    "card_type": "flashcard",
+    "question": "Why is overstimulation common in parenting?",
+    "answer": "Children are loud, chaotic, and constant\u2014parents are often managing input from sound, touch, questions, and pressure all at once.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_9_parenting_through_overstimulation_and_sensory_fatigue_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s a sign of sensory overload in parents?",
+    "answer": "Irritability, shutdown, snapping over small things, or feeling like you need to escape immediately.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_9_parenting_through_overstimulation_and_sensory_fatigue_003",
+    "card_type": "flashcard",
+    "question": "What helps manage overstimulation in the moment?",
+    "answer": "Earplugs, dim lights, removing clutter, asking for space, grounding touch, or stepping away briefly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_9_parenting_through_overstimulation_and_sensory_fatigue_004",
+    "card_type": "flashcard",
+    "question": "Why is overstimulation often misread as 'bad parenting'?",
+    "answer": "Because we expect calm responses at all times\u2014ignoring that sensory thresholds differ and need real care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_9_parenting_through_overstimulation_and_sensory_fatigue_005",
+    "card_type": "vault_card",
+    "headline": "It\u2019s Not Weakness\u2014It\u2019s Wiring",
+    "body": "Overstimulation isn\u2019t a flaw. It\u2019s a threshold. Respect it. Protect it. Build recovery into your rhythm.",
+    "prompt": "What overstimulation pattern have you been pushing through\u2014and how could you pause instead of suppress this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_11_parenting_scripts_and_nervous_system_pacing_001",
+    "card_type": "flashcard",
+    "question": "Why are parenting scripts helpful during dysregulation?",
+    "answer": "They give your brain a safe phrase to grab onto\u2014reducing reactivity and offering nervous system stability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_11_parenting_scripts_and_nervous_system_pacing_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s an example of a calm script mid-conflict?",
+    "answer": "\u201cI\u2019m here. We\u2019re okay. Let\u2019s take a breath and try again.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_11_parenting_scripts_and_nervous_system_pacing_003",
+    "card_type": "flashcard",
+    "question": "What is nervous system pacing in parenting?",
+    "answer": "Adjusting how fast, loud, or emotionally intense you are\u2014based on what your child\u2019s system can tolerate.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_11_parenting_scripts_and_nervous_system_pacing_004",
+    "card_type": "flashcard",
+    "question": "How can parents practice nervous system pacing?",
+    "answer": "Lower volume, slow speech, use silence, pause between sentences, and match energy levels calmly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_11_parenting_scripts_and_nervous_system_pacing_005",
+    "card_type": "vault_card",
+    "headline": "Speak Calm Like It\u2019s a Language",
+    "body": "Your child hears more than words\u2014they feel your pace, tone, and energy. Scripts help. Slowness heals.",
+    "prompt": "What parenting moment this week might need a slower script instead of a louder response?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_12_reparenting_through_present_day_parenting_001",
+    "card_type": "flashcard",
+    "question": "What is reparenting through parenting?",
+    "answer": "Healing your own wounds by offering your child what you never received\u2014while witnessing the emotions it activates in you.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_12_reparenting_through_present_day_parenting_002",
+    "card_type": "flashcard",
+    "question": "Why does parenting sometimes trigger grief?",
+    "answer": "Because giving love, patience, or safety can highlight the pain of not receiving those things yourself.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_12_reparenting_through_present_day_parenting_003",
+    "card_type": "flashcard",
+    "question": "How can you reparent without losing presence with your child?",
+    "answer": "Pause when triggered, validate your inner child, then return to the moment with self-compassion and care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_12_reparenting_through_present_day_parenting_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to notice a reparenting moment?",
+    "answer": "When giving your child something that makes you unexpectedly emotional\u2014it\u2019s likely something you needed too.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_12_reparenting_through_present_day_parenting_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Just Heal Through Therapy\u2014You Heal Through Love",
+    "body": "Each time you give your child the care you never got, a part of you is watching\u2014and softening.",
+    "prompt": "What moment this week could offer both your child and your younger self a little more of what they needed?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_14_generational_trauma_and_conscious_parenting_001",
+    "card_type": "flashcard",
+    "question": "What is generational trauma?",
+    "answer": "Emotional wounds, survival patterns, or unhealed stress passed down through behavior, silence, or emotional absence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_14_generational_trauma_and_conscious_parenting_002",
+    "card_type": "flashcard",
+    "question": "How does conscious parenting disrupt generational trauma?",
+    "answer": "By choosing presence over performance, repair over shame, and awareness over autopilot.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_14_generational_trauma_and_conscious_parenting_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s one sign you\u2019re interrupting a generational pattern?",
+    "answer": "You pause instead of react, you apologize when needed, or you name emotions that were once suppressed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_14_generational_trauma_and_conscious_parenting_004",
+    "card_type": "flashcard",
+    "question": "Why is breaking generational trauma difficult?",
+    "answer": "Because it often requires doing the opposite of what you were taught\u2014while grieving what you never received.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_14_generational_trauma_and_conscious_parenting_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re the Line Where It Ends",
+    "body": "Every moment you pause, protect, or repair\u2014your child\u2019s nervous system learns a new truth. That\u2019s the healing.",
+    "prompt": "What pattern could you pause this week that someone before you never had the chance to question?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "card_id": "boundaries_2_conflict_and_relational_repair_005",
+    "card_type": "vault_card",
+    "headline": "Boundaries Build, Not Break",
+    "body": "When spoken with care, a boundary isn\u2019t a wall\u2014it\u2019s a bridge. It says: I want this to work. Let\u2019s do it safely.",
+    "prompt": "What boundary could help reduce recurring conflict and bring more safety into a current relationship?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_5_scripts_and_communication_tools_005",
+    "card_type": "vault_card",
+    "headline": "Clarity Isn\u2019t Cruel\u2014It\u2019s Care",
+    "body": "You don\u2019t need to justify your limits. You just need words that hold both firmness and kindness.",
+    "prompt": "What boundary script could help you practice emotional clarity in the week ahead?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_8_boundary_fatigue_and_emotional_burnout_005",
+    "card_type": "vault_card",
+    "headline": "It\u2019s Not Just a No\u2014It\u2019s a Nervous System Reset",
+    "body": "Every boundary drains or restores you. Learn when to engage\u2014and when silence, space, or softness is the best line.",
+    "prompt": "Where could you use less explanation\u2014and more quiet confidence\u2014in protecting your space this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

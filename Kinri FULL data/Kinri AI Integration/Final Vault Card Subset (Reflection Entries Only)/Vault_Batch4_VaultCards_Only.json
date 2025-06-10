@@ -1,0 +1,44 @@
+[
+  {
+    "card_id": "dopamine_3_overstimulation_and_dopamine_hijacking_005",
+    "card_type": "vault_card",
+    "headline": "Hijacked by Hacks",
+    "body": "The world is hacking your brain. Take the wheel back\u2014slow down, simplify, and feel again.",
+    "prompt": "What\u2019s one supernormal trigger you could pause today to reclaim your focus?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_5_addiction_withdrawal_pain_pleasure_balance_005",
+    "card_type": "vault_card",
+    "headline": "Face the Craving, Reclaim the Brain",
+    "body": "Addiction isn\u2019t weakness\u2014it\u2019s miswiring. But the path back is paved with space, truth, and structure.",
+    "prompt": "What one habit might be stealing your pleasure tolerance\u2014and could you bind or break from it for 30 days?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

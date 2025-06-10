@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How do hormones influence ADHD symptoms?",
+    "answer": "Hormones like estrogen, progesterone, cortisol, and testosterone affect neurotransmitter levels and brain function, which can impact focus, mood, and energy in ADHD.",
+    "tags": [
+      "hormones",
+      "ADHD",
+      "neurotransmitters"
+    ]
+  },
+  {
+    "question": "Why do ADHD symptoms fluctuate during the menstrual cycle?",
+    "answer": "Estrogen boosts dopamine, so when estrogen drops (before menstruation), ADHD symptoms can worsen due to lower dopamine availability.",
+    "tags": [
+      "menstrual cycle",
+      "estrogen",
+      "dopamine"
+    ]
+  },
+  {
+    "question": "What role does cortisol play in ADHD?",
+    "answer": "Cortisol is a stress hormone that can impact executive function and emotional regulation. Chronic stress can dysregulate the ADHD brain further.",
+    "tags": [
+      "cortisol",
+      "stress",
+      "executive function"
+    ]
+  },
+  {
+    "question": "Can puberty affect ADHD symptoms?",
+    "answer": "Yes. Hormonal shifts during puberty can amplify emotional dysregulation, impulsivity, and attention challenges in both boys and girls.",
+    "tags": [
+      "puberty",
+      "development",
+      "ADHD symptoms"
+    ]
+  },
+  {
+    "question": "How does menopause impact ADHD in women?",
+    "answer": "During menopause, estrogen levels decline, often worsening ADHD symptoms like memory issues, focus problems, and emotional shifts.",
+    "tags": [
+      "menopause",
+      "estrogen decline",
+      "ADHD in women"
+    ]
+  },
+  {
+    "question": "Is there a link between testosterone and ADHD?",
+    "answer": "Testosterone affects motivation and risk-taking. Some studies suggest it may influence how ADHD presents, especially in hyperactive forms.",
+    "tags": [
+      "testosterone",
+      "risk behavior",
+      "gender differences"
+    ]
+  },
+  {
+    "question": "Can hormone replacement therapy help ADHD symptoms?",
+    "answer": "In some cases, HRT can stabilize mood and focus by regulating hormone levels \u2014 especially in menopausal or perimenopausal individuals with ADHD.",
+    "tags": [
+      "HRT",
+      "menopause",
+      "ADHD treatment"
+    ]
+  },
+  {
+    "question": "Do hormonal contraceptives affect ADHD symptoms?",
+    "answer": "Yes. Some people report changes in focus or mood when starting or stopping birth control due to hormone level shifts.",
+    "tags": [
+      "birth control",
+      "hormone fluctuations",
+      "mood"
+    ]
+  },
+  {
+    "question": "How does stress hormone dysregulation relate to burnout in ADHD?",
+    "answer": "ADHD individuals may have irregular cortisol patterns, making them more vulnerable to burnout, fatigue, and emotional crashes after stress.",
+    "tags": [
+      "burnout",
+      "cortisol",
+      "stress response"
+    ]
+  },
+  {
+    "question": "Why is it important to track hormonal patterns in ADHD management?",
+    "answer": "Understanding hormone-related symptom shifts helps tailor strategies for focus, mood, and self-care throughout hormonal cycles.",
+    "tags": [
+      "self-awareness",
+      "symptom tracking",
+      "regulation"
+    ]
+  }
+]

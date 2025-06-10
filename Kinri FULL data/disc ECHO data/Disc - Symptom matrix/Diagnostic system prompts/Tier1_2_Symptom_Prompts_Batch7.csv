@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you ever feel like emotions catch up to you late — hours or days after the event?,"Like your body stores it, and it hits when you’re finally alone?",Tier 2,"{'CPTSD': 1.0, 'Autism': 0.5}"
+Do you struggle to stay on one train of thought without jumping to others?,Like your brain tabs are always switching behind the scenes?,Tier 1,"{'ADHD': 1.0, 'Autism': 0.5}"
+"Do you avoid conflict — not out of fear of anger, but fear of being misunderstood or invalidated?",Like you’d rather retreat than explain your side?,Tier 2,"{'CPTSD': 1.0, 'Autism': 0.5}"
+Do you feel pressure to mask or fake emotional reactions in group settings?,Like you perform what’s expected instead of what’s real?,Tier 2,"{'Autism': 1.0, 'CPTSD': 0.5}"
+Do you feel more clear-headed and emotionally regulated when you're alone?,Like being around people floods your system too fast?,Tier 2,"{'Autism': 1.0, 'CPTSD': 0.5}"
+Do you replay arguments or tense moments long after they’ve passed?,"Like your brain won’t let you ‘drop it,’ even if it’s over?",Tier 1,"{'GAD': 1.0, 'OCD': 0.5}"
+Do you sometimes interrupt people not because you're rude — but because you're afraid you'll forget what you're about to say?,Like it's now or never for your brain to get it out?,Tier 1,{'ADHD': 1.0}
+Do you feel like your moods are tied closely to your hormonal cycle?,"Like there's a rhythm to the highs and lows, and it tracks with your body?",Tier 1,{'PMDD': 1.0}
+"Do you notice that overstimulation makes you irritable — not anxious or sad, just angry?",Like your system flips to frustration when it’s too full?,Tier 2,"{'Autism': 1.0, 'ADHD': 0.5}"
+Do you often feel like there’s no space to *just be* — like you always have to earn your rest or existence?,Like relaxing feels undeserved unless you’ve ‘done enough?’,Tier 2,"{'Depression': 1.0, 'CPTSD': 0.5}"

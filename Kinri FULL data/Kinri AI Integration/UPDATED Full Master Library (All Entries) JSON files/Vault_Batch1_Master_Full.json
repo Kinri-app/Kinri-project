@@ -1,0 +1,511 @@
+[
+  {
+    "card_id": "adhd_13_relationships_intensity_and_emotional_needs_001",
+    "card_type": "flashcard",
+    "question": "Why can relationships be intense for ADHDers?",
+    "answer": "ADHD can amplify emotional highs and lows, causing quick bonding, deep craving for connection, and fear of rejection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_13_relationships_intensity_and_emotional_needs_002",
+    "card_type": "flashcard",
+    "question": "What makes emotional needs complex in ADHD?",
+    "answer": "Needs fluctuate quickly. Rejection sensitivity, dysregulation, and trouble articulating needs make connection harder.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_13_relationships_intensity_and_emotional_needs_003",
+    "card_type": "flashcard",
+    "question": "How can ADHDers build safer relational patterns?",
+    "answer": "Clarify needs, practice self-regulation, create check-in rituals, and set boundaries around emotional spikes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_13_relationships_intensity_and_emotional_needs_004",
+    "card_type": "flashcard",
+    "question": "Why is consistency hard in ADHD intimacy?",
+    "answer": "Low dopamine and task switching can make it hard to maintain daily relational habits\u2014even when love is strong.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_13_relationships_intensity_and_emotional_needs_005",
+    "card_type": "vault_card",
+    "headline": "Love Isn\u2019t Always Steady\u2014But It Can Be Safe",
+    "body": "ADHD doesn\u2019t block intimacy\u2014but it does require emotional tools, clear rituals, and more grace for the waves.",
+    "prompt": "What emotional need in your relationships could you name with more clarity and compassion this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_1_executive_dysfunction_and_task_paralysis_001",
+    "card_type": "flashcard",
+    "question": "What is executive dysfunction in ADHD?",
+    "answer": "It\u2019s the difficulty managing mental processes like planning, focus, memory, and time\u2014making even simple tasks feel overwhelming.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_1_executive_dysfunction_and_task_paralysis_002",
+    "card_type": "flashcard",
+    "question": "What causes task paralysis in ADHD brains?",
+    "answer": "Low dopamine, poor task initiation, emotional overwhelm, or lack of urgency signal make it hard to begin tasks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_1_executive_dysfunction_and_task_paralysis_003",
+    "card_type": "flashcard",
+    "question": "How can someone with ADHD break through a stuck state?",
+    "answer": "Use body doubling, 5-minute rules, visual timers, or change the environment to jumpstart the nervous system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_1_executive_dysfunction_and_task_paralysis_004",
+    "card_type": "flashcard",
+    "question": "Why do ADHD brains often reject planning?",
+    "answer": "Because structure can feel restricting\u2014or because shame from past failures makes planning feel like pressure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_1_executive_dysfunction_and_task_paralysis_005",
+    "card_type": "vault_card",
+    "headline": "Stuck Isn\u2019t Lazy\u2014It\u2019s a Signal",
+    "body": "If you\u2019re frozen, it\u2019s not failure\u2014it\u2019s executive overload. Start small. Start kind. But start.",
+    "prompt": "What\u2019s one micro-action you can take today to tell your brain it\u2019s safe to begin again?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_4_dopamine_and_motivation_struggles_001",
+    "card_type": "flashcard",
+    "question": "Why is dopamine a key issue in ADHD?",
+    "answer": "ADHD brains have impaired dopamine signaling\u2014making it harder to feel motivated without novelty or urgency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_4_dopamine_and_motivation_struggles_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s the link between boredom and dopamine in ADHD?",
+    "answer": "Low dopamine makes boring tasks feel physically painful\u2014so the brain seeks stimulation instead of consistency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_4_dopamine_and_motivation_struggles_003",
+    "card_type": "flashcard",
+    "question": "How can ADHDers boost dopamine naturally?",
+    "answer": "Use novelty, reward loops, movement, music, sunlight, and gamification to engage motivation systems.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_4_dopamine_and_motivation_struggles_004",
+    "card_type": "flashcard",
+    "question": "Why doesn\u2019t willpower work well in ADHD?",
+    "answer": "Willpower relies on sustained dopamine. ADHD brains burn it too fast\u2014systems and dopamine scaffolding work better.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_4_dopamine_and_motivation_struggles_005",
+    "card_type": "vault_card",
+    "headline": "It\u2019s Not Lazy\u2014It\u2019s Chemistry",
+    "body": "Motivation isn\u2019t moral. It\u2019s neurochemical. And there are ways to work with it instead of fighting yourself.",
+    "prompt": "What\u2019s one dopamine-supporting habit you could build into your morning or work time?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_7_rejection_sensitivity_and_emotional_whiplash_001",
+    "card_type": "flashcard",
+    "question": "What is Rejection Sensitive Dysphoria (RSD)?",
+    "answer": "An intense emotional reaction to perceived rejection, failure, or criticism\u2014often linked to ADHD and trauma.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_7_rejection_sensitivity_and_emotional_whiplash_002",
+    "card_type": "flashcard",
+    "question": "How does emotional whiplash show up in ADHD?",
+    "answer": "Mood can shift from joy to shame instantly based on tone, look, or feedback\u2014triggering dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_7_rejection_sensitivity_and_emotional_whiplash_003",
+    "card_type": "flashcard",
+    "question": "Why do ADHDers feel rejection more intensely?",
+    "answer": "Brain wiring amplifies threat detection and emotional memory\u2014so rejection lands harder and lasts longer.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_7_rejection_sensitivity_and_emotional_whiplash_004",
+    "card_type": "flashcard",
+    "question": "What helps manage rejection sensitivity?",
+    "answer": "Self-soothing tools, perspective reframe, communication scripts, and reminders of emotional safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_7_rejection_sensitivity_and_emotional_whiplash_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Too Much\u2014You're Overstimulated",
+    "body": "Emotional swings don\u2019t mean you're broken\u2014they mean you're deeply wired to care. But you can learn to steer the wave.",
+    "prompt": "What part of you panics at rejection\u2014and what could you say to calm it down today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear",
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_10_emotional_dysregulation_and_shame_spirals_001",
+    "card_type": "flashcard",
+    "question": "What is emotional dysregulation in ADHD?",
+    "answer": "It\u2019s the struggle to manage emotional intensity\u2014feeling too much, too fast, with difficulty returning to calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_10_emotional_dysregulation_and_shame_spirals_002",
+    "card_type": "flashcard",
+    "question": "Why do small issues feel massive in ADHD brains?",
+    "answer": "Emotions bypass logic and hit the body\u2014ADHDers may feel the emotional volume without being able to downregulate quickly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_10_emotional_dysregulation_and_shame_spirals_003",
+    "card_type": "flashcard",
+    "question": "What is a shame spiral?",
+    "answer": "When a small mistake triggers a chain of self-criticism, hopelessness, and withdrawal\u2014it\u2019s emotion amplified by old wounds.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_10_emotional_dysregulation_and_shame_spirals_004",
+    "card_type": "flashcard",
+    "question": "What helps exit a shame spiral?",
+    "answer": "Name the emotion, use grounding or breath, speak kindly to yourself, and reconnect with a safe person or truth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_10_emotional_dysregulation_and_shame_spirals_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Broken\u2014You're Flooded",
+    "body": "ADHD doesn\u2019t just distract. It amplifies. And the fix isn\u2019t force\u2014it\u2019s regulation, rhythm, and radical gentleness.",
+    "prompt": "What recent shame spike could you meet with compassion instead of critique this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

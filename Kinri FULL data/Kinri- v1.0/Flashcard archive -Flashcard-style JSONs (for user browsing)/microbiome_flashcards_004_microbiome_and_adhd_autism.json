@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How is the microbiome linked to ADHD and autism?",
+    "answer": "Studies show differences in gut microbial composition in individuals with ADHD and autism, suggesting a possible role in behavior and brain development.",
+    "tags": [
+      "ADHD",
+      "autism",
+      "microbiome"
+    ]
+  },
+  {
+    "question": "What symptoms in ADHD and autism may relate to gut health?",
+    "answer": "GI issues, inflammation, anxiety, emotional regulation, and sensory sensitivity are all areas potentially influenced by the gut microbiome.",
+    "tags": [
+      "GI symptoms",
+      "anxiety",
+      "sensory issues"
+    ]
+  },
+  {
+    "question": "What is the gut-brain-immune axis?",
+    "answer": "It\u2019s the three-way communication system between the gut, brain, and immune system \u2014 which plays a role in neurodevelopmental health.",
+    "tags": [
+      "gut-brain-immune",
+      "neurodevelopment",
+      "regulation"
+    ]
+  },
+  {
+    "question": "What role does inflammation play in neurodivergent conditions?",
+    "answer": "Chronic inflammation from gut dysbiosis may affect brain function, stress response, and behavior in ADHD and autism.",
+    "tags": [
+      "inflammation",
+      "behavior",
+      "brain"
+    ]
+  },
+  {
+    "question": "How do antibiotics and birth method impact neurodivergent kids' microbiomes?",
+    "answer": "C-sections, formula feeding, and early antibiotic use may reduce microbial diversity \u2014 a possible contributor to neurodevelopmental shifts.",
+    "tags": [
+      "birth",
+      "antibiotics",
+      "early life"
+    ]
+  },
+  {
+    "question": "Can probiotic treatments help ADHD or autism symptoms?",
+    "answer": "Some small studies show improvements in GI symptoms, behavior, and mood \u2014 but more research is needed before clear recommendations.",
+    "tags": [
+      "probiotics",
+      "symptom support",
+      "evidence"
+    ]
+  },
+  {
+    "question": "Why might individuals with autism have different gut bacteria?",
+    "answer": "Restricted diets, sensory sensitivities, and stress patterns may shape the gut ecosystem differently in autistic individuals.",
+    "tags": [
+      "autism",
+      "diet",
+      "stress"
+    ]
+  },
+  {
+    "question": "Is microbiome testing useful for ADHD or autism care?",
+    "answer": "Currently, microbiome tests are not diagnostic \u2014 but they may provide insights for personalized gut support strategies.",
+    "tags": [
+      "testing",
+      "personalized care",
+      "limits"
+    ]
+  },
+  {
+    "question": "How does diet impact ADHD/autism through the microbiome?",
+    "answer": "Whole foods, fiber, and fermented foods can support mood, cognition, and inflammation via microbial pathways.",
+    "tags": [
+      "diet",
+      "neurodivergence",
+      "gut-brain axis"
+    ]
+  },
+  {
+    "question": "What is the future of microbiome research in neurodivergence?",
+    "answer": "Future therapies may include psychobiotics, precision probiotics, or diet-based plans targeting specific neurological pathways.",
+    "tags": [
+      "future medicine",
+      "microbiome science",
+      "psychobiotics"
+    ]
+  }
+]

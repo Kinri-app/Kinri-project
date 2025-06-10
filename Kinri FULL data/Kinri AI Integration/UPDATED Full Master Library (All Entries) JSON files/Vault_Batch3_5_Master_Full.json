@@ -1,0 +1,698 @@
+[
+  {
+    "card_id": "communication_15_inner_dialogue_self_talk_and_nervous_system_clarity_001",
+    "card_type": "flashcard",
+    "question": "What is inner dialogue?",
+    "answer": "The ongoing conversation you have with yourself\u2014your thoughts, tone, and beliefs about who you are.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_15_inner_dialogue_self_talk_and_nervous_system_clarity_002",
+    "card_type": "flashcard",
+    "question": "How does negative self-talk affect the nervous system?",
+    "answer": "It keeps the body in stress\u2014activating shame, fear, or collapse and making healing habits harder to access.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_15_inner_dialogue_self_talk_and_nervous_system_clarity_003",
+    "card_type": "flashcard",
+    "question": "What helps shift self-talk from shame to support?",
+    "answer": "Name the critic, respond with compassion, use gentle reframes, and speak to yourself like a trusted friend.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_15_inner_dialogue_self_talk_and_nervous_system_clarity_004",
+    "card_type": "flashcard",
+    "question": "Why is tone more important than content in self-talk?",
+    "answer": "Because your nervous system responds to emotional tone first\u2014harsh words register as threat, even if 'true.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_15_inner_dialogue_self_talk_and_nervous_system_clarity_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Always Talking to Yourself\u2014Make It Safe",
+    "body": "The voice in your head shapes how your body feels. Let your self-talk regulate, not retraumatize.",
+    "prompt": "What phrase could you practice this week that helps your nervous system feel safer inside your own mind?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_2_communication_and_listening_in_love_001",
+    "card_type": "flashcard",
+    "question": "What makes communication effective in relationships?",
+    "answer": "Being present, listening actively, expressing feelings with 'I' statements, and showing empathy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_2_communication_and_listening_in_love_002",
+    "card_type": "flashcard",
+    "question": "How do 'I' statements help avoid conflict?",
+    "answer": "They focus on your feelings instead of blaming your partner, which keeps conversations less defensive.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_2_communication_and_listening_in_love_003",
+    "card_type": "flashcard",
+    "question": "Why are regular check-ins important for couples?",
+    "answer": "They create a safe space to review the relationship, address issues early, and celebrate growth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_2_communication_and_listening_in_love_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a common communication mistake?",
+    "answer": "Jumping into advice or defensiveness instead of truly listening to understand.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_2_communication_and_listening_in_love_005",
+    "card_type": "vault_card",
+    "headline": "Speak to Understand, Not Just to Be Heard",
+    "body": "Connection deepens when we listen with presence, not just with ears. Slow down. See each other.",
+    "prompt": "When was the last time you listened without planning a reply? Could today be another chance?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_3_conflict_resolution_and_emotional_growth_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the first step in healthy conflict resolution?",
+    "answer": "Pause, regulate your emotions, and wait until both people are calm enough to discuss productively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_3_conflict_resolution_and_emotional_growth_002",
+    "card_type": "flashcard",
+    "question": "Why should couples avoid blame in arguments?",
+    "answer": "Blame creates defensiveness. Focusing on needs and solutions fosters collaboration.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_3_conflict_resolution_and_emotional_growth_003",
+    "card_type": "flashcard",
+    "question": "How does teamwork improve conflict outcomes?",
+    "answer": "Approaching disagreements as partners on the same side reframes tension as a shared problem, not a personal attack.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_3_conflict_resolution_and_emotional_growth_004",
+    "card_type": "flashcard",
+    "question": "Why should old issues be processed, not buried?",
+    "answer": "Unprocessed emotions resurface in future conflicts\u2014healing past hurts helps clear the air long-term.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_3_conflict_resolution_and_emotional_growth_005",
+    "card_type": "vault_card",
+    "headline": "Fight to Repair, Not to Win",
+    "body": "Conflict doesn\u2019t mean failure\u2014it\u2019s how you grow closer when it\u2019s handled with care.",
+    "prompt": "What\u2019s one argument you could revisit calmly to help your partner feel more understood?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_6_breakup_recovery_and_emotional_repair_001",
+    "card_type": "flashcard",
+    "question": "Why do breakups feel like grief?",
+    "answer": "You\u2019re not just losing a person\u2014you\u2019re losing a shared future, daily rituals, and emotional regulation partner.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_6_breakup_recovery_and_emotional_repair_002",
+    "card_type": "flashcard",
+    "question": "What coping strategies delay healing?",
+    "answer": "Rebounds, numbing with substances, stalking social media, and suppressing emotions all prolong pain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown",
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_6_breakup_recovery_and_emotional_repair_003",
+    "card_type": "flashcard",
+    "question": "Why is emotional release important post-breakup?",
+    "answer": "Journaling, crying, or talking it out helps metabolize emotion and prevents long-term shutdown.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown",
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_6_breakup_recovery_and_emotional_repair_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the benefit of facing breakup reality head-on?",
+    "answer": "It prevents fantasy rumination and allows your mind to begin emotionally detaching.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_6_breakup_recovery_and_emotional_repair_005",
+    "card_type": "vault_card",
+    "headline": "Let Go With Honesty",
+    "body": "You don\u2019t have to rush the healing\u2014but you do need to let go of the illusion it\u2019s still happening.",
+    "prompt": "What part of the breakup are you still holding on to\u2014and what truth could help release it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_8_emotional_fluency_and_nervous_system_safety_001",
+    "card_type": "flashcard",
+    "question": "What is emotional fluency?",
+    "answer": "The ability to identify, name, and express your emotions clearly\u2014so they don\u2019t turn into reactivity or withdrawal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_8_emotional_fluency_and_nervous_system_safety_002",
+    "card_type": "flashcard",
+    "question": "Why does emotional fluency support nervous system safety?",
+    "answer": "Naming emotions activates the prefrontal cortex, helping regulate the nervous system and reduce fight-or-flight.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_8_emotional_fluency_and_nervous_system_safety_003",
+    "card_type": "flashcard",
+    "question": "What blocks emotional fluency?",
+    "answer": "Shame, childhood suppression, trauma, and lack of language for emotions can all block expression and clarity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_8_emotional_fluency_and_nervous_system_safety_004",
+    "card_type": "flashcard",
+    "question": "How can emotional fluency be practiced?",
+    "answer": "Pause and name what you're feeling, use body scans, practice emotional vocab, and express without apology.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_8_emotional_fluency_and_nervous_system_safety_005",
+    "card_type": "vault_card",
+    "headline": "You Can\u2019t Heal What You Can\u2019t Name",
+    "body": "Emotional fluency isn\u2019t just a communication skill\u2014it\u2019s nervous system medicine. Say it so you can soothe it.",
+    "prompt": "What emotion could you name out loud this week that your body\u2019s been carrying quietly?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_11_vulnerability_safety_and_nervous_system_language_001",
+    "card_type": "flashcard",
+    "question": "Why does vulnerability require safety?",
+    "answer": "Your nervous system sees openness as risk\u2014so if safety isn\u2019t present, it responds with defense or withdrawal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_11_vulnerability_safety_and_nervous_system_language_002",
+    "card_type": "flashcard",
+    "question": "How does nervous system language show up in conversation?",
+    "answer": "Through tone, pace, breath, posture\u2014your body tells the story before your words do.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_11_vulnerability_safety_and_nervous_system_language_003",
+    "card_type": "flashcard",
+    "question": "What supports vulnerability in connection?",
+    "answer": "Slow pace, kind tone, consent to go deeper, and knowing you can pause or repair if needed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_11_vulnerability_safety_and_nervous_system_language_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the risk of sharing too much too fast?",
+    "answer": "It can dysregulate both people\u2014vulnerability without mutual safety can retraumatize instead of repair.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_11_vulnerability_safety_and_nervous_system_language_005",
+    "card_type": "vault_card",
+    "headline": "Vulnerability Doesn\u2019t Mean Exposure\u2014It Means Being Met",
+    "body": "You don\u2019t owe your story to everyone. But you do deserve spaces where your openness is honored\u2014not exploited.",
+    "prompt": "What connection this week might ask for more nervous system safety before emotional openness?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_12_rupture_and_nervous_system_repair_001",
+    "card_type": "flashcard",
+    "question": "What is a communication rupture?",
+    "answer": "A moment of disconnection, misunderstanding, or hurt that disrupts emotional safety in a relationship.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_12_rupture_and_nervous_system_repair_002",
+    "card_type": "flashcard",
+    "question": "Why is nervous system repair more important than being right?",
+    "answer": "Because safety and connection restore trust\u2014logic doesn\u2019t land if the body still feels unsafe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_12_rupture_and_nervous_system_repair_003",
+    "card_type": "flashcard",
+    "question": "What helps repair after a rupture?",
+    "answer": "Acknowledging the hurt, regulating before speaking, using soft tone, and naming intention to reconnect.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_12_rupture_and_nervous_system_repair_004",
+    "card_type": "flashcard",
+    "question": "What blocks repair after conflict?",
+    "answer": "Defensiveness, dismissiveness, urgency to fix, or skipping the emotional processing step.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_12_rupture_and_nervous_system_repair_005",
+    "card_type": "vault_card",
+    "headline": "Repair Builds More Than Connection\u2014It Builds Safety",
+    "body": "You don\u2019t need to be perfect in communication. You need to notice rupture, regulate, and return with care.",
+    "prompt": "What recent moment might need nervous system repair\u2014not explanation, but emotional reconnection?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

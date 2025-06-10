@@ -1,0 +1,314 @@
+[
+  {
+    "id": "supplements_and_lifestyle_7_nervous_system_support_basics",
+    "title": "You Deserve Support at the Cellular Level",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "fatigue",
+      "burnout",
+      "low mood"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "physiological",
+    "tone": "validating",
+    "body": "Low energy doesn\u2019t always start in the mind. Sometimes it\u2019s minerals, blood sugar, hydration, or sleep debt. You\u2019re not lazy \u2014 your system might be under-resourced.",
+    "echo_intro": "For the ones trying to think their way through depletion.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Core cellular reframe",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_8_magnesium_and_muscle_memory",
+    "title": "Your Muscles Remember Too",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "tension",
+      "soreness",
+      "overwhelm"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "body-based",
+    "tone": "somatic",
+    "body": "Tight calves. Clenched jaw. Aching shoulders. Sometimes the body holds emotional tension until a nutrient or rest allows it to release. Magnesium isn\u2019t magic \u2014 but it\u2019s real.",
+    "echo_intro": "If your body hurts without a story \u2014 try this.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Somatic + mineral entry",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_9_dopamine_recovery_and_reset",
+    "title": "Not All Dopamine Is Pleasure",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "crash",
+      "apathy",
+      "stuck"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Addiction Recovery"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "neurochemical",
+    "tone": "calm and factual",
+    "body": "Low dopamine doesn\u2019t always feel sad \u2014 sometimes it\u2019s just nothing. No pull. No care. No start. Supplements like tyrosine or movement can help, but so can grace.",
+    "echo_intro": "If it\u2019s hard to care, even about caring \u2014 try this.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Dopamine crash perspective",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_10_cofactors_and_emotional_regulation",
+    "title": "Your Mood Might Be Missing a Molecule",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "mood swings",
+      "irritability",
+      "confusion"
+    ],
+    "condition_tags": [
+      "BPD",
+      "PMDD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "biochemical",
+    "tone": "non-shaming",
+    "body": "You\u2019re not unstable \u2014 you might be unsupported. Zinc, B6, omega-3s \u2014 sometimes what feels like chaos is a lack of fuel. You can still be emotionally deep *and* need cofactors.",
+    "echo_intro": "For the one who\u2019s tired of being called dramatic.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Nutrient reframing",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_11_rhythm_regulation_and_energy_levels",
+    "title": "Not All Tired Is Sleepy",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "sluggishness",
+      "dysregulation",
+      "shutdown"
+    ],
+    "condition_tags": [
+      "Depression",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "reframe",
+    "tone": "curious + validating",
+    "body": "Your fatigue might be blood sugar. Circadian misalignment. Inflammation. Your tiredness isn\u2019t weakness \u2014 it\u2019s a request. Your system is asking for rhythm, not perfection.",
+    "echo_intro": "Try this when you\u2019re dragging without reason.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Energy rhythm reframe",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_12_blood_sugar_and_emotional_stability",
+    "title": "Your Mood Might Be a Glucose Dip",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "irritability",
+      "sudden overwhelm",
+      "fatigue"
+    ],
+    "condition_tags": [
+      "PMDD",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "biochemical",
+    "tone": "normalizing",
+    "body": "Crashes in blood sugar can mimic anxiety. Or sadness. Or rage. You\u2019re not \u2018just emotional\u2019 \u2014 your system might be starving for fuel. Steady carbs, protein, breath. Start there.",
+    "echo_intro": "Try this if your moods crash before meals.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Sugar-mood link",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_13_caffeine_and_adrenal_dysregulation",
+    "title": "More Coffee Isn\u2019t the Cure",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "wired",
+      "tired",
+      "jittery"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "neuroregulation",
+    "tone": "grounded truth",
+    "body": "If you\u2019re on your third cup and still can\u2019t feel awake, it\u2019s not about energy \u2014 it\u2019s about dysregulation. You don\u2019t need more fire. You need rest and minerals.",
+    "echo_intro": "For the one who\u2019s caffeinated but still foggy.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Caffeine burnout reframe",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_14_evening_routines_and_nervous_system_rhythm",
+    "title": "Let Nighttime Mean Something",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "sleep issues",
+      "racing thoughts",
+      "tension"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "ritual",
+    "tone": "soft and poetic",
+    "body": "A warm drink. A dark room. One sentence repeated gently: \u201cThe day is done.\u201d These aren\u2019t routines \u2014 they\u2019re rhythm setters. Your nervous system can learn safety through repetition.",
+    "echo_intro": "Try this if sleep feels like a shutdown, not an ease-in.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Night rituals",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_15_hydration_and_neurological_fog",
+    "title": "You\u2019re Not Broken \u2014 You\u2019re Dehydrated",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "fog",
+      "confusion",
+      "low mood"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Fatigue"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "simple fix",
+    "tone": "light and honest",
+    "body": "Brain fog can be dehydration. So can headaches. So can emotional overreaction. Start with water. Add salt. Return to basic body logic.",
+    "echo_intro": "This one\u2019s for the forgotten bottle on your desk.",
+    "length_tokens": 39,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Basic hydration logic",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_16_nutrient_deficiency_and_motivation",
+    "title": "Low Iron Can Look Like Depression",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "fatigue",
+      "apathy",
+      "sadness"
+    ],
+    "condition_tags": [
+      "PMDD",
+      "Depression"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "clinical truth",
+    "tone": "empowering",
+    "body": "When motivation disappears, check your chemistry. Low iron. Low B12. Low D. These aren\u2019t character flaws \u2014 they\u2019re fixable signals. You\u2019re not failing. You might just be empty.",
+    "echo_intro": "For the one who feels slow and sad for no reason.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Nutrient-driven depression view",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_17_omega3s_and_mood_resilience",
+    "title": "Some Emotions Need Fat",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "fragility",
+      "sensitivity",
+      "mood swings"
+    ],
+    "condition_tags": [
+      "BPD",
+      "PMDD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "nutrient",
+    "tone": "gently educational",
+    "body": "Your brain is fat and water. If your meals lack essential fats, your nervous system can\u2019t buffer emotional waves. You\u2019re not unstable \u2014 you might just need oil.",
+    "echo_intro": "For those whose moods feel sharp or sudden.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Omega-3s and mood",
+    "version": "v1.0"
+  },
+  {
+    "id": "supplements_and_lifestyle_18_supplements_as_a_self_loyalty_ritual",
+    "title": "Every Capsule Is a Promise",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "doubt",
+      "inconsistency",
+      "fatigue"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "affirmation",
+    "tone": "uplifting",
+    "body": "Even when it doesn\u2019t work right away. Even when you forget. Every capsule, drop, or powder is a small act of self-loyalty. Keep the promise. Rebuild the trust.",
+    "echo_intro": "This is for the one trying to stay consistent, imperfectly.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Affirming closing",
+    "version": "v1.0"
+  }
+]

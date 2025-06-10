@@ -1,0 +1,172 @@
+[
+  {
+    "card_id": "nutrition_14_eating_with_intention_and_emotional_safety_005",
+    "card_type": "vault_card",
+    "headline": "Your Body Digests What You Eat\u2014and How You Feel When You Eat It",
+    "body": "Food isn\u2019t just fuel\u2014it\u2019s felt. Slow down. Offer safety. That\u2019s how you truly feed yourself.",
+    "prompt": "What\u2019s one way you could bring more intention or calm to one meal this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_7_fasting_flexibility_and_biofeedback_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need a Diet\u2014You Need Dialogue With Your Body",
+    "body": "Your body will tell you what works. But only if you slow down enough to hear it.",
+    "prompt": "What signal\u2014hunger, fatigue, clarity\u2014has your body been giving you lately, and are you honoring it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_8_food_identity_and_emotional_belonging_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Just What You Eat\u2014You\u2019re Who You Remember",
+    "body": "Food carries your stories, your culture, your people. You don\u2019t have to abandon them to heal. You get to reweave.",
+    "prompt": "What meal or memory could you reclaim or recreate this week\u2014not just to eat, but to feel at home?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_9_simplicity_meal_planning_food_stress_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need a New Plan\u2014You Need a Calmer One",
+    "body": "Healing food habits don\u2019t start with restriction\u2014they start with simplicity, rhythm, and grace.",
+    "prompt": "What meal or rhythm could you simplify this week to give your brain less to battle and more to build on?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_10_nervous_system_meals_and_daily_stabilizers_005",
+    "card_type": "vault_card",
+    "headline": "Fuel Your Calm",
+    "body": "Regulation isn\u2019t just breathwork\u2014it\u2019s blood sugar, minerals, protein, and rhythm. Your calm needs calories.",
+    "prompt": "What stabilizing food or habit could you anchor into this week to feel more steady inside?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_11_repatterning_food_guilt_and_emotional_repair_005",
+    "card_type": "vault_card",
+    "headline": "You Deserve to Eat Without Apology",
+    "body": "Every meal is a message. You can send safety instead of shame. You can rewrite how food feels.",
+    "prompt": "What belief or rule about eating are you ready to question\u2014and what would feel softer in its place?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_12_nervous_system_crashes_and_eating_recovery_005",
+    "card_type": "vault_card",
+    "headline": "Food Is Nervous System First Aid",
+    "body": "You don\u2019t have to eat perfectly. You just need to eat gently, rhythmically, and with the goal of coming back to life.",
+    "prompt": "What\u2019s one small thing you could eat or sip today\u2014not to fix yourself, but to signal safety?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_13_nutrient_density_food_simplicity_mental_clarity_005",
+    "card_type": "vault_card",
+    "headline": "Food That Feeds You Shouldn\u2019t Drain You",
+    "body": "The clearer your plate, the clearer your mind. Nourishment doesn\u2019t have to be complex to be powerful.",
+    "prompt": "What nutrient-dense food could you bring into your routine that feels easy, energizing, and calming?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

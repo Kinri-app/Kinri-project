@@ -1,0 +1,497 @@
+[
+  {
+    "card_id": "family_and_parenting_10_nervous_system_mismatch_between_parent_and_child_001",
+    "card_type": "flashcard",
+    "question": "What is a nervous system mismatch in parenting?",
+    "answer": "When a parent and child have different regulation styles\u2014one may need calm, the other stimulation or expression.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_10_nervous_system_mismatch_between_parent_and_child_002",
+    "card_type": "flashcard",
+    "question": "Why does mismatch create frustration?",
+    "answer": "Each nervous system interprets the other as 'wrong' or threatening\u2014one may feel dismissed, the other overwhelmed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_10_nervous_system_mismatch_between_parent_and_child_003",
+    "card_type": "flashcard",
+    "question": "How can you bridge a mismatch without dysregulating?",
+    "answer": "Acknowledge both needs, build transitions, and learn to meet in the middle through pacing or shared rituals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_10_nervous_system_mismatch_between_parent_and_child_004",
+    "card_type": "flashcard",
+    "question": "What helps reduce long-term mismatch stress?",
+    "answer": "Routine, shared language, emotional literacy, and accepting that different regulation needs aren\u2019t failures.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_10_nervous_system_mismatch_between_parent_and_child_005",
+    "card_type": "vault_card",
+    "headline": "Different Doesn\u2019t Mean Dangerous",
+    "body": "Your system isn\u2019t broken. Theirs isn\u2019t wrong. You\u2019re just speaking different nervous system languages\u2014learn the bridge.",
+    "prompt": "What moment this week could benefit from you honoring your difference\u2014instead of battling it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_13_family_systems_boundaries_and_emotional_healing_001",
+    "card_type": "flashcard",
+    "question": "What is a family system?",
+    "answer": "A set of roles, patterns, and emotional rules that define how a family functions\u2014often unconsciously.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_13_family_systems_boundaries_and_emotional_healing_002",
+    "card_type": "flashcard",
+    "question": "Why are boundaries hard in family systems?",
+    "answer": "Because systems resist change\u2014your growth may feel like betrayal to those attached to the old dynamic.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_13_family_systems_boundaries_and_emotional_healing_003",
+    "card_type": "flashcard",
+    "question": "What helps shift family dynamics with less conflict?",
+    "answer": "Soft limits, clear language, emotional detachment from outcome, and repetition without reactivity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_13_family_systems_boundaries_and_emotional_healing_004",
+    "card_type": "flashcard",
+    "question": "How does parenting your own child affect your view of your family system?",
+    "answer": "It shows you what was missing, what still hurts, and what you want to do differently\u2014which can activate grief and insight.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_13_family_systems_boundaries_and_emotional_healing_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Breaking the Family\u2014You\u2019re Breaking the Pattern",
+    "body": "Every soft no, every boundary, every repair is a line in a new legacy. The old system ends with you.",
+    "prompt": "What boundary or shift this week could mark a new chapter in how your family system moves forward?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting_001",
+    "card_type": "flashcard",
+    "question": "Why is self-compassion essential in parenting?",
+    "answer": "Because perfection isn\u2019t sustainable\u2014self-compassion helps you repair, grow, and model emotional resilience for your child.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting_002",
+    "card_type": "flashcard",
+    "question": "How does shame affect parenting?",
+    "answer": "Shame leads to reactivity, silence, or overcorrection\u2014disconnecting you from your child and your values.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting_003",
+    "card_type": "flashcard",
+    "question": "What does self-compassion look like in real-time?",
+    "answer": "Saying 'I\u2019m doing my best,' pausing to regulate, apologizing gently, or giving yourself grace after missteps.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting_004",
+    "card_type": "flashcard",
+    "question": "How does self-compassion shape parenting culture?",
+    "answer": "It breaks cycles of perfectionism, guilt, and self-abandonment\u2014allowing honesty, repair, and emotional freedom.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_15_self_compassion_in_parenting_005",
+    "card_type": "vault_card",
+    "headline": "Your Child Doesn\u2019t Need a Perfect Parent\u2014They Need a Kind One",
+    "body": "The way you speak to yourself is the way they\u2019ll speak to themselves. Let your tone become their inner voice.",
+    "prompt": "What parenting moment this week could use more softness, grace, or internal validation?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_001",
+    "card_type": "flashcard",
+    "question": "What are parenting triggers?",
+    "answer": "Moments where your child\u2019s behavior activates an unresolved wound, fear, or unmet need from your own past.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_002",
+    "card_type": "flashcard",
+    "question": "Why is nervous system awareness essential in parenting?",
+    "answer": "Your reactions are shaped by your state\u2014knowing when you\u2019re dysregulated helps you respond with intention, not reenactment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_003",
+    "card_type": "flashcard",
+    "question": "How do you calm a parenting trigger in real time?",
+    "answer": "Pause. Ground. Breathe. Step away if needed. Say 'this is about me, not them.' Return regulated.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_004",
+    "card_type": "flashcard",
+    "question": "What does long-term trigger healing look like?",
+    "answer": "Identifying patterns, doing inner work, building regulation tools, and learning to parent from values, not wounds.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_005",
+    "card_type": "vault_card",
+    "headline": "Your Child Isn\u2019t Causing It\u2014They\u2019re Revealing It",
+    "body": "Your trigger is a teacher. You\u2019re not failing when you react\u2014you\u2019re being invited to repair what\u2019s still tender.",
+    "prompt": "What recurring parenting moment might be about your nervous system\u2014not your child\u2019s behavior?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_7_parenting_without_a_template_001",
+    "card_type": "flashcard",
+    "question": "What does it mean to parent without a template?",
+    "answer": "Raising your children without having had a safe, modeled version of parenting yourself\u2014it\u2019s building while breaking cycles.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_7_parenting_without_a_template_002",
+    "card_type": "flashcard",
+    "question": "Why does parenting without a template feel so hard?",
+    "answer": "Because you\u2019re doing something you\u2019ve never seen\u2014while managing your triggers, shame, and internalized patterns.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_7_parenting_without_a_template_003",
+    "card_type": "flashcard",
+    "question": "What helps guide parenting without a model?",
+    "answer": "Values-based decisions, nervous system awareness, soft accountability, and repairing instead of perfecting.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_7_parenting_without_a_template_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a sign you\u2019re successfully parenting without a template?",
+    "answer": "You pause instead of repeat, repair when you react, and make choices that feel aligned\u2014not automatic.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_7_parenting_without_a_template_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Just Parenting\u2014You\u2019re Rebuilding a Blueprint",
+    "body": "Every time you pause, repair, or respond instead of reenact, you write a new line in your family\u2019s story.",
+    "prompt": "What parenting moment this week could become a template your child gets to keep\u2014even if you never had it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

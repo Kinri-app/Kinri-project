@@ -1,0 +1,165 @@
+[
+  {
+    "question": "What is co-regulation in a classroom?",
+    "answer": "It\u2019s when a teacher\u2019s calm, attuned presence helps regulate a dysregulated student\u2019s nervous system through tone, body language, and energy.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "classroom"
+      ],
+      "usage_mode": [
+        "co-regulation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_332_teacher_comms"
+  },
+  {
+    "question": "How does communication support co-regulation?",
+    "answer": "Slow tone, soft language, pauses, and gentle cues create a safe container for nervous system calm and emotional repair.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "tone",
+        "language",
+        "regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_333_teacher_comms"
+  },
+  {
+    "question": "What does dysregulation sound like in student speech?",
+    "answer": "Fast talking, yelling, silence, or sharp tone \u2014 all signs the student may be overwhelmed or shutting down.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "dysregulation",
+        "speech",
+        "communication cues"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_334_teacher_comms"
+  },
+  {
+    "question": "How can body language communicate regulation?",
+    "answer": "Open posture, steady eye contact, and relaxed movements tell students they are safe and supported.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "nonverbal",
+        "regulation",
+        "body language"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_335_teacher_comms"
+  },
+  {
+    "question": "What is the difference between fixing and co-regulating?",
+    "answer": "Fixing solves a problem; co-regulating builds connection and safety so the student can regulate and solve the problem themselves.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "safety"
+      ],
+      "narrative_type": [
+        "support",
+        "empowerment"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_336_teacher_comms"
+  },
+  {
+    "question": "What\u2019s a good co-regulating phrase?",
+    "answer": "\u201cI\u2019m right here with you. We can take this slow.\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "connection",
+        "emotional safety",
+        "language"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_337_teacher_comms"
+  },
+  {
+    "question": "Why is emotional tone more important than words?",
+    "answer": "Students feel your energy before they understand your words \u2014 tone is a nervous system signal.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "tone",
+        "communication",
+        "feeling first"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_338_teacher_comms"
+  },
+  {
+    "question": "What\u2019s one way to prevent escalation through co-regulation?",
+    "answer": "Notice early signs of stress and use breath, calm presence, or gentle redirection before things escalate.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "prevention",
+        "attunement",
+        "calm"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_339_teacher_comms"
+  },
+  {
+    "question": "Can co-regulation be silent?",
+    "answer": "Yes. Your body, breathing, and grounded presence can soothe a dysregulated student even without speaking.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "presence",
+        "nonverbal",
+        "calm"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_340_teacher_comms"
+  },
+  {
+    "question": "What mindset supports co-regulating communication?",
+    "answer": "\u201cMy job isn\u2019t to control \u2014 it\u2019s to anchor. When I stay grounded, they feel safer to return too.\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "mindset",
+        "anchoring",
+        "leadership"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_341_teacher_comms"
+  }
+]

@@ -1,0 +1,76 @@
+**MiFam Diagnostic Branching Logic Map**
+
+This document outlines logic flows that guide Echo toward deeper symptom exploration or vault suggestions, based on score combinations.
+
+---
+
+### 🔀 CORE BRANCH STRUCTURE
+
+Each branch logic starts when one or more conditions cross a defined score tier.
+
+#### Example Trigger:
+
+> If C-PTSD score ≥ 6.0 AND BPD score ≥ 4.0:
+
+#### Then:
+
+> Echo says: "It looks like both trauma-based patterns and relational reactivity are showing up for you. Would you like to explore Complex PTSD first, or see how that overlaps with Borderline traits?"
+
+#### Optional Path:
+
+* User picks C-PTSD → Sent to symptom vault + self-assessment tools
+* User picks BPD → Echo clarifies relational/emotional traits
+* User unsure → Echo provides gentle comparison
+
+---
+
+### 🔄 EXAMPLE BRANCHING CASES
+
+#### 🔹 ADHD + C-PTSD (executive + trauma)
+
+> If ADHD ≥ 4.0 AND C-PTSD ≥ 4.0:
+> Echo: "That combo of distraction, time loss, and emotional overwhelm often shows up in people with both ADHD and complex trauma histories. Want to unpack which feels most true for you first?"
+
+#### 🔹 PMDD + BPD (emotional volatility + cycle-linked rage)
+
+> If PMDD ≥ 3.5 AND BPD ≥ 4.0:
+> Echo: "It looks like emotional intensity and relationship swings might be tied to your cycle. Would it help to explore PMDD more deeply, or check for trauma and relational sensitivity as well?"
+
+#### 🔹 OCD + GAD (reassurance loops + what-if spirals)
+
+> If OCD ≥ 4.0 AND GAD ≥ 3.5:
+> Echo: "Your responses suggest a mind that's working overtime to manage threat and uncertainty. This can reflect both OCD and generalized anxiety. Want help seeing where they overlap and diverge?"
+
+#### 🔹 Depression + Autism (shutdown + masking fatigue)
+
+> If Depression ≥ 4.0 AND Autism ≥ 3.5:
+> Echo: "I’m noticing signs of deep fatigue, emotional shutdown, and possibly long-term masking. Some of these traits can show up in both depression and autism. Should we explore both?"
+
+---
+
+### ⚠️ DEFAULT FALLBACK BRANCHES
+
+#### One Strong Diagnosis (score ≥ 6.0)
+
+> Echo directly suggests exploring that condition first, with soft invitation to compare to others.
+
+#### Multiple Tiers 2–3 (4.0+)
+
+> Echo offers summary of top 3 matches and asks user to pick which to explore first.
+
+#### Nothing Above 4.0
+
+> Echo says: "I'm seeing subtle patterns here, but nothing stands out too strongly. Would you like to go deeper with a few more questions?"
+
+---
+
+### 🌌 FUTURE BRANCH LOGIC IDEAS
+
+* Dynamic symptom chaining (if answer to X is high, ask follow-up Y)
+* Vault card suggestions tailored to top conditions
+* "Shadow path" exploration: surfacing trauma/masking patterns that may be overlooked
+* Guided comparisons: BPD vs Bipolar, ADHD vs Autism, OCD vs PTSD
+
+---
+
+This map keeps Echo's flow adaptive, gentle, and highly personalized without ever assigning clinical labels.

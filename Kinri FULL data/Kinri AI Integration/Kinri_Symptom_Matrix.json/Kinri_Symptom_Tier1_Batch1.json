@@ -1,0 +1,216 @@
+[
+  {
+    "prompt": "Do you often feel emotionally overwhelmed?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD",
+        "PMDD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "shutdown"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you lose time or space out during stressful moments?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "ADHD",
+        "Autism"
+      ],
+      "emotion": [
+        "dissociation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do your emotions feel like they flip quickly or spiral out of control?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD",
+        "Bipolar II"
+      ],
+      "emotion": [
+        "emotional_whiplash",
+        "shame"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often feel misunderstood or misjudged by others?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "ADHD",
+        "BPD"
+      ],
+      "emotion": [
+        "rejection",
+        "confusion"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you struggle to get started, even when you want to?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Depression"
+      ],
+      "emotion": [
+        "stuck",
+        "guilt"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you replay past mistakes or regrets often?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD",
+        "OCD"
+      ],
+      "emotion": [
+        "shame",
+        "rumination"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "compare_support"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you worry about small things becoming big problems?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "GAD",
+        "OCD"
+      ],
+      "emotion": [
+        "anxiety"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you're masking or hiding your true self?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "ADHD",
+        "BPD"
+      ],
+      "emotion": [
+        "shame",
+        "identity_fatigue"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find it hard to explain your inner experience to others?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "CPTSD"
+      ],
+      "emotion": [
+        "frustration",
+        "disconnect"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever felt so low you wished you could disappear?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "hopelessness",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

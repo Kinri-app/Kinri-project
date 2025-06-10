@@ -1,0 +1,170 @@
+[
+  {
+    "question": "Why do people with ADHD or low self-esteem struggle with comparison?",
+    "answer": "Rejection sensitivity, emotional dysregulation, and a critical inner voice can magnify comparison into shame or hopelessness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "comparison",
+        "self-esteem"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_302_social_comparison"
+  },
+  {
+    "question": "How does social media affect body image?",
+    "answer": "Curated images and highlight reels can create unrealistic standards, increasing self-judgment and dissatisfaction.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "social media",
+        "standards",
+        "distortion"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_303_social_comparison"
+  },
+  {
+    "question": "What is rejection sensitivity dysphoria (RSD)?",
+    "answer": "RSD is an intense emotional response to perceived rejection or failure \u2014 common in ADHD and linked to deep shame or anger.",
+    "tags": {
+      "condition": [
+        "RSD",
+        "ADHD"
+      ],
+      "emotion": [
+        "rejection"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_304_social_comparison"
+  },
+  {
+    "question": "How can comparison affect body perception?",
+    "answer": "It shifts focus away from how your body feels or functions and centers attention on others\u2019 appearance-based ideals.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-image"
+      ],
+      "narrative_type": [
+        "comparison trap",
+        "external focus"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_305_social_comparison"
+  },
+  {
+    "question": "What mindset helps reduce comparison?",
+    "answer": "Focus on personal values, self-respect, and uniqueness \u2014 remembering that your journey is not meant to match anyone else\u2019s.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-respect"
+      ],
+      "narrative_type": [
+        "mindset",
+        "individuality"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_306_social_comparison"
+  },
+  {
+    "question": "Why does rejection feel physically painful?",
+    "answer": "Rejection activates brain regions linked to physical pain \u2014 especially when tied to identity or safety.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "brain",
+        "pain overlap",
+        "emotional regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_307_social_comparison"
+  },
+  {
+    "question": "What helps interrupt social media comparison spirals?",
+    "answer": "Limit exposure, curate who you follow, take breaks, and remind yourself what\u2019s edited or posed.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "comparison spiral"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "media hygiene",
+        "boundaries"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_308_social_comparison"
+  },
+  {
+    "question": "How does belonging reduce rejection pain?",
+    "answer": "Being seen and accepted by even one person buffers rejection\u2019s impact and restores nervous system safety.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "belonging",
+        "social safety",
+        "validation"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_309_social_comparison"
+  },
+  {
+    "question": "What\u2019s one way to reframe rejection?",
+    "answer": "Rejection can be a sign that something or someone wasn\u2019t aligned \u2014 it doesn\u2019t define your worth.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "worthiness"
+      ],
+      "narrative_type": [
+        "alignment"
+      ],
+      "usage_mode": [
+        "reframe"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_310_social_comparison"
+  },
+  {
+    "question": "What\u2019s a mantra for comparison moments?",
+    "answer": "'Their success or beauty is not my failure. My worth is not up for debate.'",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-worth"
+      ],
+      "narrative_type": [
+        "mantra",
+        "affirmation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_311_social_comparison"
+  }
+]

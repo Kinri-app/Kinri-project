@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Why do people with ADHD often struggle with sleep?",
+    "answer": "ADHD impacts the brain\u2019s ability to regulate arousal and transition into rest states, leading to difficulty falling asleep, staying asleep, or waking up refreshed.",
+    "tags": [
+      "ADHD",
+      "sleep",
+      "arousal regulation"
+    ]
+  },
+  {
+    "question": "What is delayed sleep phase syndrome and how is it related to ADHD?",
+    "answer": "It's a condition where the internal body clock is shifted later than normal, causing individuals to fall asleep and wake up much later. This is common in people with ADHD.",
+    "tags": [
+      "circadian rhythm",
+      "sleep disorders",
+      "ADHD"
+    ]
+  },
+  {
+    "question": "How does screen time affect sleep in individuals with ADHD?",
+    "answer": "Screens emit blue light which suppresses melatonin and delays sleep onset. People with ADHD may also hyperfocus on screens, making it harder to disengage and wind down.",
+    "tags": [
+      "screen time",
+      "blue light",
+      "melatonin"
+    ]
+  },
+  {
+    "question": "Why do racing thoughts at night affect ADHD sleep?",
+    "answer": "ADHD brains often stay mentally active even when the body is tired, making it hard to 'shut off' and leading to insomnia or delayed sleep onset.",
+    "tags": [
+      "racing thoughts",
+      "sleep onset",
+      "ADHD"
+    ]
+  },
+  {
+    "question": "Can poor sleep worsen ADHD symptoms?",
+    "answer": "Yes. Sleep deprivation amplifies executive dysfunction, emotional reactivity, and attention issues, creating a negative feedback loop for ADHD symptoms.",
+    "tags": [
+      "executive function",
+      "sleep deprivation",
+      "ADHD symptoms"
+    ]
+  },
+  {
+    "question": "What sleep strategies work well for ADHD brains?",
+    "answer": "Consistent sleep schedules, low-stimulation routines, reduced screen time before bed, weighted blankets, and relaxation techniques can all support better sleep.",
+    "tags": [
+      "sleep hygiene",
+      "bedtime routine",
+      "ADHD strategies"
+    ]
+  },
+  {
+    "question": "How does ADHD medication affect sleep?",
+    "answer": "Stimulant medication can delay sleep if taken too late in the day, while some people find that proper dosing improves regulation and allows for better sleep routines.",
+    "tags": [
+      "stimulants",
+      "medication",
+      "sleep impact"
+    ]
+  },
+  {
+    "question": "What is revenge bedtime procrastination in ADHD?",
+    "answer": "It's staying up late to reclaim personal time or stimulation after a long day, even when one is tired \u2014 a common ADHD behavior that undermines sleep.",
+    "tags": [
+      "sleep procrastination",
+      "ADHD behavior",
+      "self-regulation"
+    ]
+  },
+  {
+    "question": "How does melatonin help ADHD-related sleep issues?",
+    "answer": "Melatonin can support sleep initiation by regulating the body\u2019s circadian rhythm, especially in those with delayed sleep phase syndrome.",
+    "tags": [
+      "melatonin",
+      "circadian rhythm",
+      "sleep aid"
+    ]
+  },
+  {
+    "question": "Why is it important to treat sleep problems in ADHD?",
+    "answer": "Poor sleep worsens cognitive function, emotion regulation, and impulse control. Improving sleep can significantly reduce ADHD-related challenges.",
+    "tags": [
+      "treatment",
+      "cognition",
+      "emotion regulation"
+    ]
+  }
+]

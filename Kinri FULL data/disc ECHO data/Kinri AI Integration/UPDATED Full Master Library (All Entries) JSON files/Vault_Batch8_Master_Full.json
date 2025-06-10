@@ -1,0 +1,796 @@
+[
+  {
+    "card_id": "trauma_11_trauma_informed_communication_and_relational_repair_001",
+    "card_type": "flashcard",
+    "question": "What is trauma-informed communication?",
+    "answer": "It means speaking with awareness of emotional sensitivity, safety needs, and nervous system triggers.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_11_trauma_informed_communication_and_relational_repair_002",
+    "card_type": "flashcard",
+    "question": "Why do trauma survivors struggle with tone or criticism?",
+    "answer": "Their nervous systems often interpret tone shifts or unmet needs as danger, triggering defense or shutdown.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_11_trauma_informed_communication_and_relational_repair_003",
+    "card_type": "flashcard",
+    "question": "What is relational repair?",
+    "answer": "The process of rebuilding trust after rupture\u2014through honesty, safety, accountability, and gentle reconnection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_11_trauma_informed_communication_and_relational_repair_004",
+    "card_type": "flashcard",
+    "question": "What helps partners communicate through trauma lenses?",
+    "answer": "Using 'I' language, slowing down, validating feelings, and checking nervous system safety first.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_11_trauma_informed_communication_and_relational_repair_005",
+    "card_type": "vault_card",
+    "headline": "Talk to the Nervous System, Not Just the Person",
+    "body": "Words land on raw systems. Safety is the message. Speak slowly. Repair fully. Soften where needed.",
+    "prompt": "What recent rupture or tension might benefit from slower communication or a check-in for repair?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_3_shame_rejection_self_worth_001",
+    "card_type": "flashcard",
+    "question": "Why do many ADHDers experience chronic shame?",
+    "answer": "Years of forgetfulness, lateness, and emotional intensity create internal narratives of failure and brokenness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_3_shame_rejection_self_worth_002",
+    "card_type": "flashcard",
+    "question": "What is Rejection Sensitive Dysphoria (RSD)?",
+    "answer": "An intense emotional reaction to perceived rejection or criticism\u2014often out of proportion to the event.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_3_shame_rejection_self_worth_003",
+    "card_type": "flashcard",
+    "question": "How does shame affect self-esteem in ADHD?",
+    "answer": "Shame turns mistakes into identity. Instead of 'I forgot,' it becomes 'I\u2019m unreliable and unworthy.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_3_shame_rejection_self_worth_004",
+    "card_type": "flashcard",
+    "question": "What helps heal ADHD-related shame?",
+    "answer": "Self-compassion, community, trauma-informed reflection, and reframing mistakes as symptoms\u2014not moral failings.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_3_shame_rejection_self_worth_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not a Problem\u2014You Have a Pattern",
+    "body": "Shame lies. ADHD isn\u2019t a flaw\u2014it\u2019s a wiring difference. You get to rewrite the story.",
+    "prompt": "What belief about yourself feels heavy\u2014and could you hold it with more compassion today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_5_task_initiation_and_finishing_001",
+    "card_type": "flashcard",
+    "question": "Why is task initiation hard with ADHD?",
+    "answer": "The brain struggles to switch into action without urgency, external pressure, or dopamine-triggering novelty.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_5_task_initiation_and_finishing_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s one tool to get started when stuck?",
+    "answer": "The 5-minute rule\u2014commit to just 5 minutes. It lowers resistance and activates momentum.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_5_task_initiation_and_finishing_003",
+    "card_type": "flashcard",
+    "question": "Why do ADHDers often abandon half-finished tasks?",
+    "answer": "Interest drops once novelty fades. Without dopamine, finishing feels boring, pointless, or impossible.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_5_task_initiation_and_finishing_004",
+    "card_type": "flashcard",
+    "question": "How can systems help ADHDers finish more tasks?",
+    "answer": "Use checklists, body doubling, and visible reminders to close loops and reduce cognitive load.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_5_task_initiation_and_finishing_005",
+    "card_type": "vault_card",
+    "headline": "Done Is Better Than Perfect",
+    "body": "You don\u2019t need to finish everything flawlessly. You need to keep moving\u2014bit by bit, with support.",
+    "prompt": "What\u2019s one unfinished task you could gently re-approach with a little less pressure today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_8_sleep_night_energy_and_dysregulated_rest_001",
+    "card_type": "flashcard",
+    "question": "Why do many ADHDers feel most alert at night?",
+    "answer": "Dopamine and focus systems finally activate when external pressure fades and stimulation decreases.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_8_sleep_night_energy_and_dysregulated_rest_002",
+    "card_type": "flashcard",
+    "question": "What causes ADHD sleep struggles?",
+    "answer": "Delayed melatonin release, overthinking, screen exposure, and difficulty transitioning from stimulation to rest.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_8_sleep_night_energy_and_dysregulated_rest_003",
+    "card_type": "flashcard",
+    "question": "Why is rest often mistaken for laziness in ADHD?",
+    "answer": "ADHD brains may crash from overstimulation or mask fatigue with scrolling\u2014rest becomes chaotic, not restful.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_8_sleep_night_energy_and_dysregulated_rest_004",
+    "card_type": "flashcard",
+    "question": "What supports better sleep for ADHD brains?",
+    "answer": "Consistent rhythm, dim lights, low-stim wind-down, NSDR, weighted blankets, and breathwork.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_8_sleep_night_energy_and_dysregulated_rest_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Lazy\u2014You\u2019re Wired Late",
+    "body": "Your night energy isn\u2019t wrong\u2014it\u2019s real. But it needs rhythm, not guilt. Reclaim rest on your terms.",
+    "prompt": "What\u2019s one gentle wind-down ritual you could try this week to support ADHD rest?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_9_routine_batching_and_dopamine_habits_001",
+    "card_type": "flashcard",
+    "question": "Why is routine hard for ADHD brains?",
+    "answer": "Novelty fades quickly, executive dysfunction disrupts sequencing, and boredom triggers avoidance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_9_routine_batching_and_dopamine_habits_002",
+    "card_type": "flashcard",
+    "question": "What is task batching and why does it help?",
+    "answer": "It groups similar tasks into focused blocks, reducing task switching and boosting dopamine efficiency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_9_routine_batching_and_dopamine_habits_003",
+    "card_type": "flashcard",
+    "question": "How can dopamine support routines?",
+    "answer": "Pair routines with reward\u2014like music, movement, visuals, or stacking habits with existing dopamine triggers.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_9_routine_batching_and_dopamine_habits_004",
+    "card_type": "flashcard",
+    "question": "Why do systems matter more than discipline in ADHD?",
+    "answer": "Systems remove decision fatigue, protect energy, and help tasks run without relying on willpower alone.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_9_routine_batching_and_dopamine_habits_005",
+    "card_type": "vault_card",
+    "headline": "Discipline is a System, Not a Personality Trait",
+    "body": "You don\u2019t need more willpower\u2014you need smoother systems and smarter dopamine. Build the path, not the pressure.",
+    "prompt": "What\u2019s one routine or system you could design today to serve the brain you have\u2014not the one you wish you had?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_12_anxiety_racing_thoughts_and_loop_breaking_001",
+    "card_type": "flashcard",
+    "question": "Why is anxiety common in ADHD brains?",
+    "answer": "ADHD involves nervous system dysregulation\u2014racing thoughts, forgetfulness, and overwhelm can spiral into chronic worry.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_12_anxiety_racing_thoughts_and_loop_breaking_002",
+    "card_type": "flashcard",
+    "question": "What causes thought loops in ADHD?",
+    "answer": "Hyperfocus + emotional intensity + executive dysfunction = repetitive, often fear-based, thought spirals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_12_anxiety_racing_thoughts_and_loop_breaking_003",
+    "card_type": "flashcard",
+    "question": "How can you interrupt a mental loop?",
+    "answer": "Use sensory resets, body movement, external verbalization, or structured journaling to re-route the nervous system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_12_anxiety_racing_thoughts_and_loop_breaking_004",
+    "card_type": "flashcard",
+    "question": "What nighttime habit helps reduce racing thoughts?",
+    "answer": "Brain dumps\u2014writing worries or tasks down to externalize and reduce cognitive load before bed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_12_anxiety_racing_thoughts_and_loop_breaking_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Stuck\u2014You're Spiraling",
+    "body": "And spirals can be softened. You don\u2019t need to outthink your thoughts\u2014you need to ground them.",
+    "prompt": "What thought loop showed up recently\u2014and what grounding anchor could pull you out gently?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_14_masking_burnout_and_identity_fatigue_001",
+    "card_type": "flashcard",
+    "question": "What is masking in ADHD?",
+    "answer": "Suppressing ADHD traits to appear more 'normal' or socially acceptable\u2014often unconsciously\u2014to avoid judgment or rejection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_14_masking_burnout_and_identity_fatigue_002",
+    "card_type": "flashcard",
+    "question": "Why does masking lead to burnout?",
+    "answer": "Constant self-monitoring and identity suppression drain energy, erode authenticity, and cause nervous system exhaustion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_14_masking_burnout_and_identity_fatigue_003",
+    "card_type": "flashcard",
+    "question": "What are signs of identity fatigue?",
+    "answer": "Confusion about who you are, mood crashes, sensory shutdown, resentment, or a need to disappear after socializing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_14_masking_burnout_and_identity_fatigue_004",
+    "card_type": "flashcard",
+    "question": "How can ADHDers unmask safely?",
+    "answer": "Find safe people, express slowly, rest often, and learn self-acceptance tools to reclaim your energy and truth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_14_masking_burnout_and_identity_fatigue_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Broken\u2014You\u2019re Buried",
+    "body": "Masking isn\u2019t fake\u2014it\u2019s survival. But you deserve to live unfiltered, even gently. Let the real you breathe.",
+    "prompt": "What part of yourself feels hidden right now\u2014and how could you offer it a little safety to show up?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_17_medication_support_and_integrative_strategies_001",
+    "card_type": "flashcard",
+    "question": "How do ADHD medications help?",
+    "answer": "They increase dopamine and norepinephrine levels, improving focus, motivation, and impulse control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_17_medication_support_and_integrative_strategies_002",
+    "card_type": "flashcard",
+    "question": "What are common challenges with ADHD meds?",
+    "answer": "Side effects like appetite loss, sleep disruption, or emotional blunting\u2014and they may not solve executive dysfunction alone.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_17_medication_support_and_integrative_strategies_003",
+    "card_type": "flashcard",
+    "question": "Why are tools still needed even with medication?",
+    "answer": "Meds help with activation, but routines, coaching, environment, and emotional regulation are still essential.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_17_medication_support_and_integrative_strategies_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a holistic ADHD support strategy?",
+    "answer": "Balance meds (if used) with sleep, movement, nutrition, emotional regulation, and structured support systems.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_17_medication_support_and_integrative_strategies_005",
+    "card_type": "vault_card",
+    "headline": "Pills Aren\u2019t Plans\u2014They\u2019re Boosters",
+    "body": "Medication can be a powerful key\u2014but the door still needs structure, rest, and support to swing open fully.",
+    "prompt": "What supportive habit or structure could you build this week\u2014regardless of whether you medicate?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

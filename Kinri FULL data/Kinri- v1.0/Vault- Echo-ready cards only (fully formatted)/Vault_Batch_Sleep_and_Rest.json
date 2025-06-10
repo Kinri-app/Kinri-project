@@ -1,0 +1,365 @@
+[
+  {
+    "id": "sleep_and_rest_7_you_are_not_lazy_you_are_exhausted",
+    "title": "You Are Not Lazy \u2014 You Are Exhausted",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "fatigue",
+      "shame",
+      "burnout"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "grounded compassion",
+    "body": "You\u2019re not unmotivated \u2014 you\u2019re depleted. And in a world that calls exhaustion laziness, resting becomes an act of resistance. You\u2019re not behind. You\u2019re healing.",
+    "echo_intro": "Try this if the shame hits when you rest.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Core shame-to-rest reframe",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_8_burnout_and_nervous_system_flatline",
+    "title": "Crash Doesn\u2019t Mean You Failed",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shutdown",
+      "burnout",
+      "numbness"
+    ],
+    "condition_tags": [
+      "Depression",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "realism",
+    "tone": "soft and sober",
+    "body": "After the push comes the crash. That doesn\u2019t mean you broke \u2014 it means you used up everything you had. Rest isn\u2019t a reward. It\u2019s required.",
+    "echo_intro": "This one's for the post-sprint stillness that feels wrong.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_9_sleep_dysfunction_and_overthinking",
+    "title": "Your Brain Doesn\u2019t Know It\u2019s Safe",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "hyperarousal",
+      "insomnia",
+      "overthinking"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "neurobiological",
+    "tone": "anchoring and kind",
+    "body": "If your mind races at night, you\u2019re not broken \u2014 you\u2019re vigilant. A hyper-alert nervous system can\u2019t turn off easily. You\u2019re not failing at sleep \u2014 your system just needs help feeling safe.",
+    "echo_intro": "If sleep feels impossible no matter how tired you are, try this.",
+    "length_tokens": 47,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Neuro-informed sleep struggle framing",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_10_rest_as_a_form_of_belonging",
+    "title": "You Don\u2019t Have to Earn Rest",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shame",
+      "self-worth",
+      "hyperproductivity"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "value reframe",
+    "tone": "calm and firm",
+    "body": "You were taught to earn stillness. To prove you deserve softness. But rest isn\u2019t a privilege \u2014 it\u2019s a birthright. Let that truth sink into your bones.",
+    "echo_intro": "Try this if rest still feels undeserved.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_11_daytime_napping_and_collapse_repair",
+    "title": "Let the Nap Be Sacred",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "fatigue",
+      "shutdown",
+      "guilt"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "gentle permission",
+    "tone": "sacred and slow",
+    "body": "Midday sleep isn\u2019t failure \u2014 it\u2019s recalibration. If you collapse into naps, it\u2019s because your system found a crack in the day to repair itself. That\u2019s not weakness. That\u2019s wisdom.",
+    "echo_intro": "This one\u2019s for the nap guilt.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_12_nervous_system_rest_patterns",
+    "title": "Rest Doesn\u2019t Always Look Like Sleep",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "shutdown",
+      "burnout",
+      "unrest"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Autism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "clarifying",
+    "tone": "softening",
+    "body": "Stillness isn\u2019t always quiet. Rest can look like pacing, staring, humming, sitting still but alive inside. There\u2019s no one right way to calm a storm.",
+    "echo_intro": "If you can\u2019t lie down but still feel tired \u2014 this might help.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Clarifies atypical rest",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_13_trusting_the_downshift",
+    "title": "Your Body Knows How to Rest \u2014 If You Let It",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "resistance",
+      "control",
+      "nervous system"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Autism"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "embodied trust",
+    "tone": "reassuring",
+    "body": "You don\u2019t have to force sleep. You have to make room for it. When you stop performing calm and allow it to unfold, your body can guide the rest of the way.",
+    "echo_intro": "Try this when control is louder than exhaustion.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_14_insomnia_and_nighttime_hypervigilance",
+    "title": "Of Course You Can\u2019t Sleep \u2014 You\u2019re Scanning for Danger",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "hypervigilance",
+      "anxiety",
+      "insomnia"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Trauma"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "trauma-aware",
+    "tone": "validating",
+    "body": "Your insomnia isn\u2019t random. It\u2019s a signal \u2014 that your system doesn\u2019t feel safe enough to power down. Let\u2019s meet that fear gently, without blame.",
+    "echo_intro": "If sleep won\u2019t come, and you don\u2019t know why \u2014 this might help.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Trauma-aware validation",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_15_nervous_system_downshifting",
+    "title": "Soften First \u2014 Then Sleep",
+    "deck_type": "grounding",
+    "emotion_tags": [
+      "tension",
+      "nervous system activation"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "somatic",
+    "tone": "co-regulating",
+    "body": "Drop your shoulders. Relax your jaw. Wiggle your toes. You don\u2019t need to be still yet \u2014 just softer. The body winds down in steps, not all at once.",
+    "echo_intro": "Try this as a body-led step into rest.",
+    "length_tokens": 39,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Somatic softener",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_16_guilt_about_not_feeling_refreshed",
+    "title": "Rest Doesn\u2019t Always Refill Right Away",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "guilt",
+      "fatigue",
+      "self-blame"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Depression"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "gentle honesty",
+    "body": "You might wake up tired even after a full night. That\u2019s not failure \u2014 that\u2019s depletion. The deeper the exhaustion, the longer the repair. Give it time.",
+    "echo_intro": "This one\u2019s for the mornings where rest didn\u2019t feel like enough.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_17_nighttime_rituals_and_body_signaling",
+    "title": "You Can Teach Your Body It\u2019s Safe to Sleep",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "safety",
+      "regulation",
+      "calm"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "ritual",
+    "tone": "calm and steady",
+    "body": "Warm tea. Dim lights. A single sentence whispered nightly: \u201cYou\u2019re done for today.\u201d These aren\u2019t routines \u2014 they\u2019re signals. Repetition becomes safety. And safety invites sleep.",
+    "echo_intro": "If sleep feels foreign, rituals might open the door.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_18_repair_not_shutdown",
+    "title": "You Deserve Rest Before You Break",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "overload",
+      "shutdown",
+      "resentment"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "directive",
+    "tone": "challenging and kind",
+    "body": "You don\u2019t need to reach the edge before you rest. You deserve restoration *before* collapse. Build pauses into your life \u2014 not just recoveries.",
+    "echo_intro": "Let this reframe the cycle of crash-and-crawl.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Encourages preemptive rest",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_19_cultural_trauma_and_rest_resistance",
+    "title": "Who Taught You Rest Was Weak?",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "shame",
+      "hypervigilance",
+      "internalized capitalism"
+    ],
+    "condition_tags": [
+      "BPD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "cultural",
+    "tone": "radical truth",
+    "body": "Rest is not lazy. Rest is not selfish. Rest is not indulgent. These are stories we inherited \u2014 not truths we have to obey. Reclaim what heals you.",
+    "echo_intro": "This one's for generational productivity shame.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Systemic deprogramming",
+    "version": "v1.0"
+  },
+  {
+    "id": "sleep_and_rest_20_no_shame_in_stopping",
+    "title": "You Can Stop Without Explaining",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "guilt",
+      "self-worth",
+      "retreat"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "People-Pleasing"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct boundary",
+    "tone": "liberating",
+    "body": "Not every pause needs a reason. Not every stop needs a justification. Rest isn\u2019t a failure to keep going \u2014 it\u2019s an act of self-respect.",
+    "echo_intro": "For the one who still apologizes for resting.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Closing empowerment card",
+    "version": "v1.0"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What environmental factors often overstimulate neurodivergent workers?",
+    "answer": "Harsh lighting, noise, visual clutter, strong smells, or unpredictable interruptions can trigger overwhelm.",
+    "tags": [
+      "sensory",
+      "overstimulation",
+      "neurodivergence"
+    ]
+  },
+  {
+    "question": "How can workspaces support sensory regulation?",
+    "answer": "Calm lighting, noise control, tidy visuals, clear layouts, and personal adjustments like headphones or fidget tools.",
+    "tags": [
+      "workspace",
+      "regulation",
+      "environment"
+    ]
+  },
+  {
+    "question": "Why is physical environment autonomy helpful?",
+    "answer": "Being able to adjust lighting, posture, or noise gives the nervous system agency and control\u2014preventing overwhelm.",
+    "tags": [
+      "autonomy",
+      "nervous system",
+      "agency"
+    ]
+  },
+  {
+    "question": "What are subtle signals that a space is overstimulating you?",
+    "answer": "Fidgeting, zoning out, snapping at others, or losing track of tasks are often nervous system red flags.",
+    "tags": [
+      "stress cues",
+      "awareness",
+      "environmental design"
+    ]
+  },
+  {
+    "headline": "Your Nervous System Works There Too",
+    "body": "Productivity doesn\u2019t require sensory strain. Your focus thrives when your environment doesn\u2019t demand constant adaptation.",
+    "prompt": "What one adjustment could help your nervous system feel more at ease at work this week?",
+    "tags": [
+      "environment",
+      "calm",
+      "sensory balance"
+    ]
+  }
+]

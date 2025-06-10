@@ -1,0 +1,89 @@
+{
+  "scores": {
+    "ADHD": 1.75,
+    "BPD": 1.75,
+    "Bipolar_II": 0.75,
+    "CPTSD": 1.375,
+    "OCD": -0.75,
+    "Depression": 1.5,
+    "PMDD": 1.0,
+    "GAD": 0.5,
+    "Autism": 1.0,
+    "PTSD": 0.5
+  },
+  "tiers": {
+    "ADHD": "Tier 0",
+    "BPD": "Tier 0",
+    "Bipolar_II": "Tier 0",
+    "CPTSD": "Tier 0",
+    "OCD": "Tier 0",
+    "Depression": "Tier 0",
+    "PMDD": "Tier 0",
+    "GAD": "Tier 0",
+    "Autism": "Tier 0",
+    "PTSD": "Tier 0"
+  },
+  "symptoms_answered": [
+    "impulsivity",
+    "shame",
+    "time_blindness"
+  ],
+  "flagged": []
+}
+
+
+
+---------------------------------------------------------------------
+Run 2
+
+ Tier Highlights:
+BPD → Tier 2 (Moderate signal — triggers Echo branch or vault card)
+
+ADHD, CPTSD, Depression, Bipolar II, PMDD → Tier 1 (Light presence — noted by Echo)
+
+Everything else → Tier 0 (filtered out of immediate dialogue)
+
+{
+  "scores": {
+    "ADHD": 2.5,
+    "BPD": 4.0,
+    "Bipolar_II": 2.0,
+    "CPTSD": 3.5,
+    "OCD": -1.0,
+    "Depression": 2.5,
+    "PMDD": 2.0,
+    "GAD": 1.0,
+    "Autism": 1.25,
+    "PTSD": 0.5
+  },
+  "tiers": {
+    "ADHD": "Tier 1",
+    "BPD": "Tier 2",
+    "Bipolar_II": "Tier 1",
+    "CPTSD": "Tier 1",
+    "OCD": "Tier 0",
+    "Depression": "Tier 1",
+    "PMDD": "Tier 1",
+    "GAD": "Tier 0",
+    "Autism": "Tier 0",
+    "PTSD": "Tier 0"
+  },
+  "symptoms_answered": [
+    "impulsivity",
+    "shame",
+    "time_blindness",
+    "emotional_reactivity",
+    "self_image_confusion"
+  ],
+  "flagged": []
+}
+
+
+🔁 Echo Logic Triggers:
+Echo Response: “BPD is showing up strongly. Want to explore how that fits?”
+
+Follow-Up Offer: “We’re also seeing some signs of ADHD, CPTSD, and mood patterns like Bipolar II. Would a comparison help?”
+
+Optional Vault Card: “Want to see how emotional whiplash shows up for others with BPD?”
+
+

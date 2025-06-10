@@ -1,0 +1,494 @@
+[
+  {
+    "id": "modern_life_1_too_much_too_fast",
+    "title": "It Wasn\u2019t Meant to Move This Fast",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "fatigue",
+      "disorientation",
+      "stress"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Modern Life"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "slow and grounding",
+    "body": "This pace isn\u2019t human. It\u2019s machine-level, metric-driven speed. No wonder your nervous system can't keep up. You're not weak \u2014 you're resisting an inhuman design.",
+    "echo_intro": "When everything's rushing past you, this might help.",
+    "length_tokens": 46,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Opening perspective-setting card",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_2_social_overload_and_performance_pressure",
+    "title": "You\u2019re Not Meant to Be Seen This Much",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "hypervigilance",
+      "burnout",
+      "self-consciousness"
+    ],
+    "condition_tags": [
+      "BPD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "insight",
+    "tone": "witnessing",
+    "body": "Eyes on you. DMs waiting. Camera always on. Performing all day, every day. That pressure\u2019s not imagined \u2014 it\u2019s real. And your exhaustion is valid.",
+    "echo_intro": "For the one who feels constantly watched.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "For digital and social exhaustion",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_3_endless_notifications_and_dopamine_loops",
+    "title": "Your Brain Isn\u2019t Broken \u2014 It\u2019s Overstimulated",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "dopamine crash",
+      "attention fatigue",
+      "digital overwhelm"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Addiction"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "neurobiological",
+    "tone": "compassionate and clear",
+    "body": "It\u2019s not laziness. It\u2019s not lack of discipline. Your brain is trying to keep up with a system that rewards constant seeking. You deserve stillness. You need fewer pings, not more willpower.",
+    "echo_intro": "When dopamine is crashing and the feed won\u2019t stop scrolling \u2014 try this.",
+    "length_tokens": 47,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_4_always_on_never_done",
+    "title": "You Were Not Meant to Be Always On",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "anxiety",
+      "tension",
+      "chronic alertness"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "directive insight",
+    "tone": "firm but gentle",
+    "body": "If you're never allowed to feel 'done,' you're going to stay stuck in overdrive. Constant pressure isn't motivating \u2014 it's corrosive. Your nervous system needs an off switch.",
+    "echo_intro": "For the one who can't remember the last time they felt finished.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Link to vagus/sleep follow-up",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_5_performance_identity_and_productivity_worth",
+    "title": "You Are Not Your Output",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "self-worth",
+      "productivity shame",
+      "perfectionism"
+    ],
+    "condition_tags": [
+      "BPD",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "core value",
+    "tone": "compassionate and steady",
+    "body": "This system taught you to earn rest. To earn care. But you don\u2019t have to produce to deserve gentleness. You don\u2019t have to impress to be loved.",
+    "echo_intro": "Try this if your inner critic speaks in calendar invites.",
+    "length_tokens": 46,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Core identity reframe",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_6_calendar_life_and_rigid_structure_collapse",
+    "title": "You\u2019re Not a Schedule \u2014 You\u2019re a Nervous System",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "burnout",
+      "control",
+      "overplanning"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Executive Dysfunction"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "gentle confrontation",
+    "tone": "realigning",
+    "body": "Over-structuring is a trauma response. Trying to calendar your way out of chaos doesn\u2019t make you weak \u2014 it means you\u2019re scared, smart, and trying. But rest isn\u2019t found in spreadsheets.",
+    "echo_intro": "This one\u2019s for the planners whose plans still fall apart.",
+    "length_tokens": 47,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Use as a soft challenge card",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_7_decision_fatigue_and_constant_microchoices",
+    "title": "You Weren\u2019t Built for 500 Choices a Day",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "fatigue",
+      "indecision",
+      "executive overload"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "relieving",
+    "body": "Your nervous system burns fuel on decisions. Even small ones. Constant choice is a hidden stressor \u2014 and you\u2019re not weak for feeling drained by it.",
+    "echo_intro": "If your brain shuts down after one more choice, this might help.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Decision fatigue framing",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_8_news_doomscrolling_and_empathy_crash",
+    "title": "You\u2019re Not Apathetic \u2014 You\u2019re Flooded",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "empathy fatigue",
+      "detachment",
+      "overwhelm"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Depression"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "gentle",
+    "body": "You\u2019re not heartless for feeling numb after the news. You\u2019re flooded. There\u2019s a limit to how much tragedy one heart can hold at once. That\u2019s not apathy \u2014 that\u2019s overflow.",
+    "echo_intro": "For the one who feels too much and nothing all at once.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Crisis fatigue",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_9_constant_availability_and_response_guilt",
+    "title": "Not Every Ping Deserves a Response",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "social guilt",
+      "overwhelm",
+      "responsibility fatigue"
+    ],
+    "condition_tags": [
+      "People-Pleasing",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "insight",
+    "tone": "boundary-affirming",
+    "body": "You\u2019re not obligated to reply right away. Or at all. Constant availability is not love \u2014 it\u2019s a boundary leak. You\u2019re allowed to protect your quiet.",
+    "echo_intro": "Try this if unread messages weigh more than they should.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_10_algorithmic_identity_and_self_erasure",
+    "title": "You\u2019re Not an Algorithm",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "identity loss",
+      "comparison",
+      "self-erasure"
+    ],
+    "condition_tags": [
+      "BPD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "centering",
+    "body": "You\u2019re not here to optimize for engagement. You\u2019re not a brand. You\u2019re not a product. You\u2019re a person \u2014 and you don\u2019t have to perform to be seen.",
+    "echo_intro": "For when you're tired of performing someone else\u2019s version of you.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Algorithm/self-concept tension",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_11_scrolling_numbness_and_dopamine_loops",
+    "title": "It\u2019s Not You \u2014 It\u2019s the Loop",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "boredom",
+      "dopamine crash",
+      "numbing"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Addiction"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "neurobiological",
+    "tone": "neutral + clear",
+    "body": "That dead feeling while scrolling isn\u2019t laziness \u2014 it\u2019s a symptom of dopamine depletion. You\u2019re seeking stimulation, but you\u2019re hitting static. Step back. Breathe. Reground.",
+    "echo_intro": "This one\u2019s for the scrolling fatigue spiral.",
+    "length_tokens": 47,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Modern loop framing",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_12_sunday_scaries_and_the_return_to_productivity",
+    "title": "The Dread Isn\u2019t Just in Your Head",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "anticipation anxiety",
+      "shame",
+      "resistance"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Depression"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "emotional realism",
+    "tone": "validating",
+    "body": "Dreading Monday doesn\u2019t mean you\u2019re lazy \u2014 it means your body doesn\u2019t feel safe where it\u2019s being sent. That\u2019s wisdom, not dysfunction. Listen to it.",
+    "echo_intro": "If you feel the anxiety before the week even begins \u2014 read this.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_13_attention_economy_and_inner_noise",
+    "title": "They Profit From Your Fracture",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "distractibility",
+      "internal noise",
+      "frustration"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Overstimulation"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "fierce clarity",
+    "body": "You\u2019re not weak for being pulled in a thousand directions \u2014 you were trained that way. Every notification, every scroll, was built to split your attention. Fighting it is resistance. Not failure.",
+    "echo_intro": "For when it feels like your mind belongs to someone else.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_14_hustle_culture_and_rest_defensiveness",
+    "title": "Rest Is a Rebellion",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shame",
+      "guilt",
+      "inadequacy"
+    ],
+    "condition_tags": [
+      "BPD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "cultural",
+    "tone": "radical compassion",
+    "body": "You weren\u2019t made to be productive 24/7. You were made to breathe. To pause. To live. Resting isn\u2019t quitting \u2014 it\u2019s refusal. Refusal to treat yourself like a machine.",
+    "echo_intro": "If guilt kicks in when you rest \u2014 this might help.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_15_constant_curation_and_self_doubt",
+    "title": "You Don\u2019t Have to Be an Aesthetic",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "comparison",
+      "doubt",
+      "identity confusion"
+    ],
+    "condition_tags": [
+      "BPD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "metaphor",
+    "tone": "affirming",
+    "body": "You\u2019re not your feed. You\u2019re not your photos. You\u2019re not the person someone imagines when they scroll. You\u2019re more alive, more messy, more real \u2014 and that\u2019s the point.",
+    "echo_intro": "When self-doubt starts speaking in filters \u2014 read this.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_16_productivity_collapse_and_silent_panic",
+    "title": "It\u2019s Not That You\u2019re Lazy \u2014 It\u2019s That You\u2019re Done",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shutdown",
+      "numbness",
+      "panic"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Depression"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "slow + kind",
+    "body": "The collapse after a full push isn\u2019t failure. It\u2019s your system hitting its threshold. You didn\u2019t choose to stop \u2014 you used everything you had. That matters.",
+    "echo_intro": "This one\u2019s for the crash that comes after holding it all together.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_17_comparison_and_not_enoughness",
+    "title": "You\u2019re Not Behind \u2014 You\u2019re On Your Path",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "comparison",
+      "shame",
+      "grief"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Depression"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "emotional realism",
+    "tone": "gentle truth",
+    "body": "Everyone\u2019s highlight reel is someone else\u2019s low point. You\u2019re not failing \u2014 you\u2019re unfolding. At your pace. In your time. You\u2019re not late. You\u2019re alive.",
+    "echo_intro": "This one\u2019s for the timeline guilt that creeps in at night.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_18_detachment_and_emotional_flatness",
+    "title": "Numbness Is a Signal Too",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "dissociation",
+      "emotional flatness"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Shutdown"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "somatic reflection",
+    "tone": "anchoring",
+    "body": "It\u2019s okay if joy feels far away. If even anger doesn\u2019t rise. Numbness is a form of protection \u2014 not failure. Let it speak. Let it soften. You don\u2019t have to force the spark.",
+    "echo_intro": "When you can\u2019t feel much \u2014 try this instead of panicking.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Emotional flattening card",
+    "version": "v1.0"
+  },
+  {
+    "id": "modern_life_19_fear_of_rest_and_internal_policing",
+    "title": "You\u2019re Allowed to Do Nothing",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shame",
+      "fear of slowing down"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "direct",
+    "tone": "liberating",
+    "body": "Doing nothing is not wasting time \u2014 it\u2019s resisting colonized productivity. If rest feels wrong, it\u2019s because your value\u2019s been tied to output. But you were valuable before all that.",
+    "echo_intro": "Try this if doing nothing feels dangerous.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Closing reframe card",
+    "version": "v1.0"
+  }
+]

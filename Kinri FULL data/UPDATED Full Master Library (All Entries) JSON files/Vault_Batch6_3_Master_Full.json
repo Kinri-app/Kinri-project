@@ -1,0 +1,790 @@
+[
+  {
+    "card_id": "nutrition_46_nervous_system_nourishment_and_dopamine_aware_eating_001",
+    "card_type": "flashcard",
+    "question": "How does food affect dopamine?",
+    "answer": "Protein-rich meals support dopamine production\u2014while sugar and ultra-processed foods spike and crash levels.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_46_nervous_system_nourishment_and_dopamine_aware_eating_002",
+    "card_type": "flashcard",
+    "question": "What foods support sustainable dopamine health?",
+    "answer": "Eggs, fish, nuts, leafy greens, bananas, dark chocolate, fermented foods, and clean hydration.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_46_nervous_system_nourishment_and_dopamine_aware_eating_003",
+    "card_type": "flashcard",
+    "question": "Why do some people crave intense food experiences?",
+    "answer": "Low baseline dopamine or chronic stress can drive the brain to seek exaggerated sensory stimulation from food.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_46_nervous_system_nourishment_and_dopamine_aware_eating_004",
+    "card_type": "flashcard",
+    "question": "How can dopamine-aware eating help reduce emotional reactivity?",
+    "answer": "It stabilizes mood and energy\u2014reducing the rollercoaster of spikes, crashes, and urgent cravings.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_46_nervous_system_nourishment_and_dopamine_aware_eating_005",
+    "card_type": "vault_card",
+    "headline": "Fuel for Focus, Calm, and Clarity",
+    "body": "Dopamine doesn\u2019t need fireworks\u2014it needs rhythm. Eat for balance, not just buzz, and your mind will follow.",
+    "prompt": "What dopamine-supporting food could you build into your week to sharpen your mood and soften your reactivity?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_39_nervous_system_recovery_and_rhythmic_eating_001",
+    "card_type": "flashcard",
+    "question": "What is rhythmic eating?",
+    "answer": "Eating at consistent times each day to support blood sugar, mood, and nervous system regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_39_nervous_system_recovery_and_rhythmic_eating_002",
+    "card_type": "flashcard",
+    "question": "Why is rhythm more important than perfect food choices?",
+    "answer": "Predictability calms the body\u2014food rhythm is a signal of safety, while stress about choices can worsen regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_39_nervous_system_recovery_and_rhythmic_eating_003",
+    "card_type": "flashcard",
+    "question": "How can rhythm repair disordered eating patterns?",
+    "answer": "Rhythm rebuilds trust, reduces survival eating, and allows the nervous system to anticipate nourishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_39_nervous_system_recovery_and_rhythmic_eating_004",
+    "card_type": "flashcard",
+    "question": "What helps nervous system recovery after dysregulation?",
+    "answer": "Warm, consistent meals, protein, minerals, and reducing inflammatory or chaotic food inputs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_39_nervous_system_recovery_and_rhythmic_eating_005",
+    "card_type": "vault_card",
+    "headline": "You Heal in Rhythm, Not in Perfection",
+    "body": "Your nervous system doesn\u2019t need another rule\u2014it needs rhythm. Predictable care is the medicine.",
+    "prompt": "What rhythm could you reinforce this week that tells your body: \u2018nourishment is coming\u2019?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_40_regulation_first_food_second_001",
+    "card_type": "flashcard",
+    "question": "Why should nervous system regulation come before food decisions?",
+    "answer": "When dysregulated, food choices become reactive, shame-driven, or chaotic\u2014regulation restores clarity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_40_regulation_first_food_second_002",
+    "card_type": "flashcard",
+    "question": "What helps regulate before a meal?",
+    "answer": "Slow breathing, grounding touch, silence, gentle movement, or stepping outside help shift into rest-digest mode.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_40_regulation_first_food_second_003",
+    "card_type": "flashcard",
+    "question": "How can emotional hunger be distinguished from physical hunger?",
+    "answer": "Emotional hunger is urgent, mind-based, and attached to specific foods\u2014physical hunger builds slowly and responds to nutrients.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_40_regulation_first_food_second_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the benefit of delaying food until calm returns?",
+    "answer": "It helps reduce binge cycles and lets the body receive food more peacefully and effectively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_40_regulation_first_food_second_005",
+    "card_type": "vault_card",
+    "headline": "Feed the Calm Before You Feed the Craving",
+    "body": "Your nervous system deserves a seat at the table. Regulate first\u2014then let food become the reward, not the rescue.",
+    "prompt": "What small act of calm could you build before your next meal to anchor your system first?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_41_nervous_system_eating_predictability_over_perfection_001",
+    "card_type": "flashcard",
+    "question": "Why does predictability support nervous system healing?",
+    "answer": "It reduces stress by creating reliable inputs\u2014your body can relax when it knows food is coming.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_41_nervous_system_eating_predictability_over_perfection_002",
+    "card_type": "flashcard",
+    "question": "What does perfection in eating often lead to?",
+    "answer": "All-or-nothing cycles, shame spirals, and rigid thinking that disconnects you from your body\u2019s needs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_41_nervous_system_eating_predictability_over_perfection_003",
+    "card_type": "flashcard",
+    "question": "What builds food safety over time?",
+    "answer": "Gentle rhythms, compassion when dysregulated, and consistency without harsh expectations.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_41_nervous_system_eating_predictability_over_perfection_004",
+    "card_type": "flashcard",
+    "question": "How does perfection block nervous system repair?",
+    "answer": "It keeps the body in hypervigilance\u2014regulation comes from soft, repeatable patterns that feel doable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_41_nervous_system_eating_predictability_over_perfection_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need Perfect Meals\u2014You Need Predictable Ones",
+    "body": "Your calm isn\u2019t earned through control\u2014it\u2019s built through rhythm. Show up again, softly, and you\u2019ll rebuild trust.",
+    "prompt": "What food rhythm feels doable\u2014even on your hard days\u2014and how can you repeat it this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_42_nervous_system_eating_and_self_regulation_practice_001",
+    "card_type": "flashcard",
+    "question": "What is nervous system eating?",
+    "answer": "Eating in a way that supports emotional regulation, predictability, and calm\u2014especially during stress or burnout.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_42_nervous_system_eating_and_self_regulation_practice_002",
+    "card_type": "flashcard",
+    "question": "Why is food rhythm more effective than food rules?",
+    "answer": "Rules trigger shame and restriction. Rhythm builds trust, stability, and nourishment you can sustain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_42_nervous_system_eating_and_self_regulation_practice_003",
+    "card_type": "flashcard",
+    "question": "What meals support emotional regulation best?",
+    "answer": "Protein + fat + slow carb meals with warm elements, minerals, and low sensory overload.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_42_nervous_system_eating_and_self_regulation_practice_004",
+    "card_type": "flashcard",
+    "question": "How does self-regulation relate to food habits?",
+    "answer": "When dysregulated, eating becomes reactive. Self-regulation restores choice, awareness, and care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_42_nervous_system_eating_and_self_regulation_practice_005",
+    "card_type": "vault_card",
+    "headline": "Eat to Regulate, Not to Perform",
+    "body": "This isn\u2019t about macros. It\u2019s about nervous system care. You don\u2019t need perfect food\u2014you need a pattern that holds you.",
+    "prompt": "What would it feel like to eat like you trust your body again\u2014even just one meal this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_43_nervous_system_trust_food_safety_self_belonging_001",
+    "card_type": "flashcard",
+    "question": "Why is food safety part of nervous system healing?",
+    "answer": "Your system needs to trust that nourishment is available, gentle, and not shame-based to regulate effectively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_43_nervous_system_trust_food_safety_self_belonging_002",
+    "card_type": "flashcard",
+    "question": "What breaks food trust?",
+    "answer": "Restriction, guilt, trauma, unpredictable patterns, or eating during shutdowns without presence or choice.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_43_nervous_system_trust_food_safety_self_belonging_003",
+    "card_type": "flashcard",
+    "question": "How can food rituals build belonging?",
+    "answer": "Rituals like shared meals, gratitude, lighting a candle, or using grounding objects create emotional anchoring and connection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_43_nervous_system_trust_food_safety_self_belonging_004",
+    "card_type": "flashcard",
+    "question": "Why is food shame so damaging?",
+    "answer": "It teaches the body that nourishment is unsafe\u2014triggering emotional restriction, control, and disconnection from cues.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_43_nervous_system_trust_food_safety_self_belonging_005",
+    "card_type": "vault_card",
+    "headline": "Belonging Starts at the Table",
+    "body": "You don\u2019t just feed your body\u2014you feed your story. Make meals that say: I belong here. I\u2019m safe. I\u2019m enough.",
+    "prompt": "What food ritual could help your nervous system feel more trust, presence, or emotional safety this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_44_nervous_system_nourishment_and_calm_metabolism_001",
+    "card_type": "flashcard",
+    "question": "What is calm metabolism?",
+    "answer": "A state where your body can digest, absorb, and convert food into energy without stress signals disrupting the process.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_44_nervous_system_nourishment_and_calm_metabolism_002",
+    "card_type": "flashcard",
+    "question": "Why does stress block proper metabolism?",
+    "answer": "Stress diverts blood away from digestion and reduces enzyme production, impairing nutrient breakdown and absorption.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_44_nervous_system_nourishment_and_calm_metabolism_003",
+    "card_type": "flashcard",
+    "question": "What helps restore metabolic calm?",
+    "answer": "Warm meals, slow eating, stable rhythms, minerals, hydration, and meals eaten in a relaxed environment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_44_nervous_system_nourishment_and_calm_metabolism_004",
+    "card_type": "flashcard",
+    "question": "How does nervous system nourishment support calm metabolism?",
+    "answer": "Feeding consistently with calming foods sends safety signals\u2014regulating hormones, blood sugar, and gut function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_44_nervous_system_nourishment_and_calm_metabolism_005",
+    "card_type": "vault_card",
+    "headline": "You Can\u2019t Heal What You Can\u2019t Digest",
+    "body": "Healing isn\u2019t just about what you eat. It\u2019s about how you eat it\u2014and how safe your system feels when you do.",
+    "prompt": "What meal or rhythm helps you feel metabolically calm\u2014and could you lean on it more this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_45_nervous_system_nourishment_and_meal_anchors_001",
+    "card_type": "flashcard",
+    "question": "What are meal anchors?",
+    "answer": "Meals that provide consistent cues of nourishment and safety\u2014used as emotional and metabolic anchors throughout the day.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_45_nervous_system_nourishment_and_meal_anchors_002",
+    "card_type": "flashcard",
+    "question": "Why do meal anchors support calm?",
+    "answer": "They reduce decision fatigue, regulate blood sugar, and send steady signals of safety to the body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_45_nervous_system_nourishment_and_meal_anchors_003",
+    "card_type": "flashcard",
+    "question": "What makes a good anchor meal?",
+    "answer": "Predictable, grounding meals like oatmeal with fat and protein, broth with greens, or eggs with toast and greens.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_45_nervous_system_nourishment_and_meal_anchors_004",
+    "card_type": "flashcard",
+    "question": "How can rituals reinforce these meals?",
+    "answer": "Using the same dish, lighting a candle, saying gratitude, or pairing it with rest cues like silence or breathwork.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_45_nervous_system_nourishment_and_meal_anchors_005",
+    "card_type": "vault_card",
+    "headline": "Anchor Before You Aim",
+    "body": "You don\u2019t need to start perfect\u2014you need to start stable. Anchor meals give your body rhythm to rest on.",
+    "prompt": "What meal feels easiest to anchor into your week\u2014and could you make it your nervous system\u2019s daily touchstone?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

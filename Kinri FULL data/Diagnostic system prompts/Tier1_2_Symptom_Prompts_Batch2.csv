@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you often start tasks but struggle to finish them?,Like you get halfway through and then stall out for no clear reason?,Tier 2,"{'ADHD': 1.0, 'Depression': 0.5}"
+Do you notice your energy or motivation shift drastically depending on your environment?,"Like some spaces light you up, while others drain you instantly?",Tier 2,"{'ADHD': 0.5, 'Autism': 0.5, 'Depression': 0.5}"
+Do you tend to avoid medical settings or find them especially stressful?,"Like appointments, hospitals, or even just check-ups cause you panic or shutdown?",Tier 2,"{'CPTSD': 1.0, 'Autism': 0.5}"
+Do you sometimes feel like you can't explain what's wrong — even when you're clearly struggling?,Like the words vanish or your brain fogs up under pressure?,Tier 2,"{'CPTSD': 1.0, 'Autism': 0.5, 'Depression': 0.5}"
+Do you feel like your emotional responses are more intense than others in the same situation?,Like you're ‘too much’ or *feel* things too loudly?,Tier 1,"{'BPD': 1.0, 'PMDD': 0.5}"
+Do you have trouble transitioning between activities — even small ones?,Like shifting gears takes more mental effort than people expect?,Tier 1,"{'Autism': 1.0, 'ADHD': 0.5}"
+Do you frequently seek reassurance from people — even after they’ve already answered?,"Like you know you’ve asked, but you still need to hear it again?",Tier 1,"{'OCD': 1.0, 'GAD': 0.5, 'BPD': 0.5}"
+Do you feel chronically unsafe — even when you're in a safe place?,"Like your body won't let you relax, no matter what’s around you?",Tier 1,"{'CPTSD': 1.0, 'PTSD': 0.5, 'GAD': 0.5}"
+"Do you sometimes say ‘yes’ to things you don’t want, just to avoid the discomfort of saying no?",Like peacekeeping takes priority over your own wants?,Tier 2,"{'CPTSD': 1.0, 'BPD': 0.5, 'GAD': 0.5}"
+Do you ever feel like your thoughts are too loud to fall asleep — even when you're exhausted?,"Like your brain won’t power down, no matter how tired your body is?",Tier 1,"{'GAD': 1.0, 'OCD': 0.5, 'ADHD': 0.5}"

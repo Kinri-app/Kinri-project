@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What are three foods that boost brain health?",
+    "answer": "Avocados, blueberries, and walnuts provide healthy fats, antioxidants, and anti-inflammatory compounds that support cognition.",
+    "tags": [
+      "brain foods",
+      "nutrition",
+      "memory"
+    ]
+  },
+  {
+    "question": "Why is sleep essential for memory?",
+    "answer": "Deep and REM sleep help consolidate memories, clear brain toxins, and regulate mood.",
+    "tags": [
+      "sleep",
+      "REM",
+      "brain detox"
+    ]
+  },
+  {
+    "question": "What does 'kill ANTs' mean?",
+    "answer": "It stands for 'Automatic Negative Thoughts'\u2014mental habits that erode confidence and memory through repeated self-sabotage.",
+    "tags": [
+      "negative thoughts",
+      "self-talk",
+      "mental hygiene"
+    ]
+  },
+  {
+    "question": "How does regular movement impact the brain?",
+    "answer": "Exercise increases neurotrophic factors, improving memory, mood, and brain plasticity.",
+    "tags": [
+      "exercise",
+      "brain health",
+      "neuroplasticity"
+    ]
+  },
+  {
+    "headline": "Your Brain Reflects Your Habits",
+    "body": "You\u2019re not just what you eat\u2014you\u2019re what you do, feel, think, and repeat. Memory thrives on ritual.",
+    "prompt": "What one habit could you improve this week to give your brain a daily boost?",
+    "tags": [
+      "optimization",
+      "rituals",
+      "brain care"
+    ]
+  }
+]

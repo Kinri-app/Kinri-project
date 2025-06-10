@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you ever feel like you're *pretending* to be okay more than you actually are?,Like you’ve mastered looking fine while quietly falling apart inside?,Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"
+Do you sometimes feel deeply unseen — even in rooms full of people?,Like you're physically there but emotionally invisible?,Tier 3,"{'CPTSD': 0.5, 'Depression': 0.5, 'Autism': 0.25}"
+Do you catch yourself trying to control tiny details when you feel emotionally out of control?,"Like lining things up or rewriting the same sentence — not because you want to, but because it soothes something?",Tier 3,"{'OCD': 0.5, 'CPTSD': 0.5, 'Autism': 0.25}"
+Do you ever get a surge of panic with no warning — like your body suddenly flips into alarm mode?,Like fear arrives before a thought explains it?,Tier 3,"{'PTSD': 0.5, 'GAD': 0.5, 'CPTSD': 0.25}"
+"Do you sometimes feel like your brain keeps switching tabs, but never settles on one thing?",Like there's noise in the background of everything you do?,Tier 3,"{'ADHD': 0.5, 'Autism': 0.5, 'GAD': 0.25}"
+Do you ever feel broken in a way that doesn’t show on the outside?,"Like there’s a crack somewhere no one else sees, but you feel it every day?",Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"
+Do you hold in how you're feeling so you don’t ‘ruin the vibe’ for others?,Like protecting the peace means swallowing your truth?,Tier 3,"{'CPTSD': 0.5, 'GAD': 0.5, 'Autism': 0.25}"
+Do you sometimes want connection but push people away when they get too close?,Like closeness burns and distance feels safer — even if it hurts?,Tier 3,"{'BPD': 0.5, 'CPTSD': 0.5, 'PMDD': 0.25}"
+Do you feel like you're running from something you can’t name — even when life is calm?,Like you’re chased by something that lives inside you?,Tier 3,"{'CPTSD': 0.5, 'GAD': 0.5, 'Depression': 0.25}"
+"Do you ever feel like the world is happening *at* you, not with you?","Like you're just reacting to it all, trying not to break?",Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'Autism': 0.25}"

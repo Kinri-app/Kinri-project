@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is boundary fatigue?",
+    "answer": "It\u2019s the emotional exhaustion that comes from constantly defending your limits, especially in unsafe or invalidating environments.",
+    "tags": {
+      "condition": [
+        "boundary fatigue"
+      ],
+      "emotion": [
+        "emotional exhaustion",
+        "burnout"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_300_boundary_fatigue"
+  },
+  {
+    "question": "Why does boundary burnout happen faster for trauma survivors?",
+    "answer": "Because they\u2019re often hypervigilant, over-explaining, or managing guilt around saying no\u2014depleting emotional energy.",
+    "tags": {
+      "condition": [
+        "trauma",
+        "people-pleasing"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "emotional regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_301_boundary_fatigue"
+  },
+  {
+    "question": "How can someone protect their energy when boundaries get pushed often?",
+    "answer": "Use shorter scripts, limit justification, create buffer zones, and lean into systems instead of constant confrontation.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "energy management",
+        "protection",
+        "boundaries"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_302_boundary_fatigue"
+  },
+  {
+    "question": "What helps recover from boundary burnout?",
+    "answer": "Rest, validation, emotional decompression, and reconnecting with what your boundaries are protecting\u2014not just who they\u2019re pushing back.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "healing",
+        "resilience",
+        "self-care"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_303_boundary_fatigue"
+  },
+  {
+    "headline": "It\u2019s Not Just a No\u2014It\u2019s a Nervous System Reset",
+    "body": "Every boundary drains or restores you. Learn when to engage\u2014and when silence, space, or softness is the best line.",
+    "prompt": "Where could you use less explanation\u2014and more quiet confidence\u2014in protecting your space this week?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "emotional healing"
+      ],
+      "usage_mode": [
+        "boundaries",
+        "self-regulation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_304_boundary_fatigue"
+  }
+]

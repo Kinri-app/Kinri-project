@@ -1,0 +1,865 @@
+[
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_001",
+    "card_type": "flashcard",
+    "question": "Why is dopamine important for people with ADHD?",
+    "answer": "Dopamine is a neurotransmitter that regulates motivation, reward, and focus. ADHD is linked to lower baseline dopamine activity, making it harder to sustain attention or feel motivated.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_002",
+    "card_type": "flashcard",
+    "question": "How does low dopamine affect behavior in ADHD?",
+    "answer": "It can lead to impulsivity, procrastination, and the constant seeking of stimulation to feel interested or engaged.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_003",
+    "card_type": "flashcard",
+    "question": "What is the dopamine reward prediction error?",
+    "answer": "It\u2019s the brain\u2019s response to whether a reward is better or worse than expected. In ADHD, this system may be dysregulated, making it harder to learn from feedback.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_004",
+    "card_type": "flashcard",
+    "question": "Why are ADHD brains drawn to novelty and urgency?",
+    "answer": "Novelty and urgency create a temporary dopamine spike, helping the ADHD brain feel focused or motivated \u2014 but this effect is short-lived.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_005",
+    "card_type": "flashcard",
+    "question": "What activities naturally boost dopamine?",
+    "answer": "Exercise, music, creative flow, meaningful goals, and social connection can all increase dopamine without relying on instant gratification.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_006",
+    "card_type": "flashcard",
+    "question": "How do stimulants work for ADHD?",
+    "answer": "Stimulants like methylphenidate or amphetamines increase dopamine availability in the brain, improving focus, working memory, and task engagement.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_007",
+    "card_type": "flashcard",
+    "question": "What are dopamine dips and crashes?",
+    "answer": "After a spike in dopamine (from hyperfocus or reward), a drop may follow \u2014 leading to irritability, fatigue, or lack of motivation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_008",
+    "card_type": "flashcard",
+    "question": "What is the downside of chasing dopamine through screens or sugar?",
+    "answer": "These provide quick hits but lead to tolerance and crashes. Over time, they reduce sensitivity to dopamine and can worsen ADHD symptoms.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_009",
+    "card_type": "flashcard",
+    "question": "How does dopamine affect habit formation in ADHD?",
+    "answer": "Dopamine reinforces behaviors. If a habit is associated with reward or pleasure, the brain is more likely to repeat it \u2014 which can be used for both helpful and harmful patterns.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_243_purely_dopamine_focus_010",
+    "card_type": "flashcard",
+    "question": "How can you support dopamine health in ADHD long-term?",
+    "answer": "Sleep, protein intake, exercise, social bonding, and avoiding constant overstimulation all help stabilize and support healthy dopamine regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_001",
+    "card_type": "flashcard",
+    "question": "How do hormones influence ADHD symptoms?",
+    "answer": "Hormones like estrogen, progesterone, cortisol, and testosterone affect neurotransmitter levels and brain function, which can impact focus, mood, and energy in ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_002",
+    "card_type": "flashcard",
+    "question": "Why do ADHD symptoms fluctuate during the menstrual cycle?",
+    "answer": "Estrogen boosts dopamine, so when estrogen drops (before menstruation), ADHD symptoms can worsen due to lower dopamine availability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_003",
+    "card_type": "flashcard",
+    "question": "What role does cortisol play in ADHD?",
+    "answer": "Cortisol is a stress hormone that can impact executive function and emotional regulation. Chronic stress can dysregulate the ADHD brain further.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_004",
+    "card_type": "flashcard",
+    "question": "Can puberty affect ADHD symptoms?",
+    "answer": "Yes. Hormonal shifts during puberty can amplify emotional dysregulation, impulsivity, and attention challenges in both boys and girls.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_005",
+    "card_type": "flashcard",
+    "question": "How does menopause impact ADHD in women?",
+    "answer": "During menopause, estrogen levels decline, often worsening ADHD symptoms like memory issues, focus problems, and emotional shifts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_006",
+    "card_type": "flashcard",
+    "question": "Is there a link between testosterone and ADHD?",
+    "answer": "Testosterone affects motivation and risk-taking. Some studies suggest it may influence how ADHD presents, especially in hyperactive forms.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_007",
+    "card_type": "flashcard",
+    "question": "Can hormone replacement therapy help ADHD symptoms?",
+    "answer": "In some cases, HRT can stabilize mood and focus by regulating hormone levels \u2014 especially in menopausal or perimenopausal individuals with ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_008",
+    "card_type": "flashcard",
+    "question": "Do hormonal contraceptives affect ADHD symptoms?",
+    "answer": "Yes. Some people report changes in focus or mood when starting or stopping birth control due to hormone level shifts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_009",
+    "card_type": "flashcard",
+    "question": "How does stress hormone dysregulation relate to burnout in ADHD?",
+    "answer": "ADHD individuals may have irregular cortisol patterns, making them more vulnerable to burnout, fatigue, and emotional crashes after stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_246_hormones_and_adhd_010",
+    "card_type": "flashcard",
+    "question": "Why is it important to track hormonal patterns in ADHD management?",
+    "answer": "Understanding hormone-related symptom shifts helps tailor strategies for focus, mood, and self-care throughout hormonal cycles.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_001",
+    "card_type": "flashcard",
+    "question": "How can ADHD, BPD, and autism overlap in symptoms?",
+    "answer": "All three can involve emotional dysregulation, sensory issues, social difficulty, and executive dysfunction, making diagnosis and self-understanding complex.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_002",
+    "card_type": "flashcard",
+    "question": "What makes emotional regulation difficult in both ADHD and BPD?",
+    "answer": "Both conditions involve heightened emotional reactivity and difficulty calming down after being triggered, though BPD often includes identity instability and fear of abandonment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_003",
+    "card_type": "flashcard",
+    "question": "How do masking behaviors appear in autism and ADHD?",
+    "answer": "Masking is the act of hiding one\u2019s natural responses to fit in socially \u2014 common in both autism and ADHD, especially in women and AFAB individuals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_004",
+    "card_type": "flashcard",
+    "question": "Why is misdiagnosis common between BPD and ADHD?",
+    "answer": "Emotional reactivity and impulsivity can be present in both, but the underlying causes differ \u2014 BPD is rooted in attachment trauma; ADHD in neurological wiring.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_005",
+    "card_type": "flashcard",
+    "question": "How does sensory sensitivity differ between ADHD and autism?",
+    "answer": "Autistic individuals may have stronger or more consistent sensory aversions, while ADHD-related sensitivity can fluctuate with mood or focus level.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_006",
+    "card_type": "flashcard",
+    "question": "What does \u2018double empathy problem\u2019 mean in autism?",
+    "answer": "It refers to mutual misunderstanding between neurotypical and autistic people, where both sides may struggle to understand each other's emotional or social cues.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_007",
+    "card_type": "flashcard",
+    "question": "Can someone be autistic and have ADHD or BPD?",
+    "answer": "Yes. Co-occurrence is common. Each condition influences the other and requires tailored strategies for support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_008",
+    "card_type": "flashcard",
+    "question": "What helps distinguish BPD from autism or ADHD?",
+    "answer": "BPD is rooted in unstable relationships, identity shifts, and trauma. Autism is more about sensory processing and social communication differences. ADHD affects focus and impulse control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_009",
+    "card_type": "flashcard",
+    "question": "How can self-compassion help with multiple diagnoses?",
+    "answer": "It reduces shame, supports emotional resilience, and creates space for healing \u2014 essential when navigating overlapping traits or labels.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_249_mental_health_bpd_autism_010",
+    "card_type": "flashcard",
+    "question": "Why is community support vital for ADHD, BPD, or autistic individuals?",
+    "answer": "Feeling understood, accepted, and reflected by others with similar experiences builds resilience and counters isolation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_16_strengths_insight_and_neurodivergent_genius_001",
+    "card_type": "flashcard",
+    "question": "What strengths often come with ADHD?",
+    "answer": "Creativity, pattern recognition, deep empathy, humor, out-of-the-box thinking, and hyperfocus in areas of passion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_16_strengths_insight_and_neurodivergent_genius_002",
+    "card_type": "flashcard",
+    "question": "Why is insight a hidden superpower in ADHDers?",
+    "answer": "They often think multidimensionally, draw intuitive connections, and spot truth or hypocrisy quickly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_16_strengths_insight_and_neurodivergent_genius_003",
+    "card_type": "flashcard",
+    "question": "How does trauma mask ADHD gifts?",
+    "answer": "When you spend years just trying to survive or fit in, your brain suppresses the freedom to explore brilliance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_16_strengths_insight_and_neurodivergent_genius_004",
+    "card_type": "flashcard",
+    "question": "How can ADHDers reclaim their strengths?",
+    "answer": "By creating safe spaces to explore, trusting their pace, and choosing projects aligned with interest\u2014not pressure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_16_strengths_insight_and_neurodivergent_genius_005",
+    "card_type": "vault_card",
+    "headline": "Your Brain Was Built for Brilliance\u2014Just Not in a Box",
+    "body": "You were never meant to blend. You were meant to beam. Your path isn\u2019t lesser\u2014it\u2019s lateral.",
+    "prompt": "What strength of yours has been buried under shame\u2014and could you let it speak louder this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_001",
+    "card_type": "flashcard",
+    "question": "Why do people with ADHD often struggle with sleep?",
+    "answer": "ADHD impacts the brain\u2019s ability to regulate arousal and transition into rest states, leading to difficulty falling asleep, staying asleep, or waking up refreshed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_002",
+    "card_type": "flashcard",
+    "question": "What is delayed sleep phase syndrome and how is it related to ADHD?",
+    "answer": "It's a condition where the internal body clock is shifted later than normal, causing individuals to fall asleep and wake up much later. This is common in people with ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_003",
+    "card_type": "flashcard",
+    "question": "How does screen time affect sleep in individuals with ADHD?",
+    "answer": "Screens emit blue light which suppresses melatonin and delays sleep onset. People with ADHD may also hyperfocus on screens, making it harder to disengage and wind down.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_004",
+    "card_type": "flashcard",
+    "question": "Why do racing thoughts at night affect ADHD sleep?",
+    "answer": "ADHD brains often stay mentally active even when the body is tired, making it hard to 'shut off' and leading to insomnia or delayed sleep onset.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_005",
+    "card_type": "flashcard",
+    "question": "Can poor sleep worsen ADHD symptoms?",
+    "answer": "Yes. Sleep deprivation amplifies executive dysfunction, emotional reactivity, and attention issues, creating a negative feedback loop for ADHD symptoms.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_006",
+    "card_type": "flashcard",
+    "question": "What sleep strategies work well for ADHD brains?",
+    "answer": "Consistent sleep schedules, low-stimulation routines, reduced screen time before bed, weighted blankets, and relaxation techniques can all support better sleep.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_007",
+    "card_type": "flashcard",
+    "question": "How does ADHD medication affect sleep?",
+    "answer": "Stimulant medication can delay sleep if taken too late in the day, while some people find that proper dosing improves regulation and allows for better sleep routines.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_008",
+    "card_type": "flashcard",
+    "question": "What is revenge bedtime procrastination in ADHD?",
+    "answer": "It's staying up late to reclaim personal time or stimulation after a long day, even when one is tired \u2014 a common ADHD behavior that undermines sleep.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_009",
+    "card_type": "flashcard",
+    "question": "How does melatonin help ADHD-related sleep issues?",
+    "answer": "Melatonin can support sleep initiation by regulating the body\u2019s circadian rhythm, especially in those with delayed sleep phase syndrome.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_240_sleep_and_adhd_010",
+    "card_type": "flashcard",
+    "question": "Why is it important to treat sleep problems in ADHD?",
+    "answer": "Poor sleep worsens cognitive function, emotion regulation, and impulse control. Improving sleep can significantly reduce ADHD-related challenges.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

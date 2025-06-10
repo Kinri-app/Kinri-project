@@ -1,0 +1,87 @@
+[
+  {
+    "question": "How do boundaries support identity development?",
+    "answer": "They help you define who you are, what matters to you, and where your values begin and end.",
+    "tags": {
+      "condition": [
+        "identity"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "boundaries",
+        "self-definition"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_298_clarity_identity"
+  },
+  {
+    "question": "What happens when your boundaries aren\u2019t clear?",
+    "answer": "You lose track of your needs, absorb others\u2019 emotions, and confuse people-pleasing with connection.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional regulation"
+      ],
+      "narrative_type": [
+        "people-pleasing",
+        "identity loss"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_299_clarity_identity"
+  },
+  {
+    "question": "How does boundary clarity reduce emotional dysregulation?",
+    "answer": "It removes guesswork, reduces internal pressure, and allows your nervous system to anticipate safety instead of chaos.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "regulation",
+        "safety",
+        "communication"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_300_clarity_identity"
+  },
+  {
+    "question": "What\u2019s one question to clarify if a boundary is needed?",
+    "answer": "Do I feel resentful, overextended, or unseen in this dynamic\u2014and what truth have I not spoken yet?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "clarity",
+        "emotional insight",
+        "self-awareness"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_301_clarity_identity"
+  },
+  {
+    "headline": "Boundaries Don\u2019t Just Protect You\u2014They Define You",
+    "body": "The more clearly you set them, the more you meet yourself. You can\u2019t belong to others if you don\u2019t belong to you.",
+    "prompt": "What dynamic in your life could benefit from boundary clarity\u2014not to push away, but to come home to yourself?",
+    "tags": {
+      "condition": [
+        "identity"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "boundaries"
+      ],
+      "usage_mode": [
+        "self-connection"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "boundary_flashcards_302_clarity_identity"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How does the microbiome begin developing in infancy?",
+    "answer": "Colonization starts during birth and is shaped by delivery method, breastfeeding, skin contact, and early environment.",
+    "tags": [
+      "infancy",
+      "colonization",
+      "birth"
+    ]
+  },
+  {
+    "question": "How does delivery method affect the newborn microbiome?",
+    "answer": "Vaginal birth exposes babies to beneficial maternal microbes, while C-sections may lead to a different microbial profile.",
+    "tags": [
+      "vaginal birth",
+      "C-section",
+      "initial microbes"
+    ]
+  },
+  {
+    "question": "Why is breastfeeding important for microbiome development?",
+    "answer": "Breast milk contains beneficial bacteria and prebiotics (HMOs) that promote growth of protective gut microbes.",
+    "tags": [
+      "breastfeeding",
+      "HMOs",
+      "infant gut"
+    ]
+  },
+  {
+    "question": "How does early diet influence childhood microbiome?",
+    "answer": "A varied, fiber-rich diet helps build a diverse microbiome that supports immunity, metabolism, and emotional resilience.",
+    "tags": [
+      "diet",
+      "fiber",
+      "immune support"
+    ]
+  },
+  {
+    "question": "What role does the microbiome play in childhood immunity?",
+    "answer": "It trains the immune system, helps distinguish threats from harmless agents, and regulates inflammation.",
+    "tags": [
+      "immunity",
+      "training",
+      "regulation"
+    ]
+  },
+  {
+    "question": "Can antibiotic use in childhood affect long-term health?",
+    "answer": "Yes. Early antibiotics can reduce diversity and may increase risk of allergies, asthma, and obesity.",
+    "tags": [
+      "antibiotics",
+      "diversity loss",
+      "risk factors"
+    ]
+  },
+  {
+    "question": "Is there a link between early microbiome and behavior?",
+    "answer": "Emerging research suggests the early microbiome may influence brain development, mood regulation, and cognitive function.",
+    "tags": [
+      "behavior",
+      "brain development",
+      "gut-brain"
+    ]
+  },
+  {
+    "question": "How does exposure to nature affect the childhood microbiome?",
+    "answer": "Playing outdoors introduces a wide range of environmental microbes that can strengthen microbial resilience and immune diversity.",
+    "tags": [
+      "nature",
+      "microbial exposure",
+      "resilience"
+    ]
+  },
+  {
+    "question": "What is the 'hygiene hypothesis'?",
+    "answer": "It suggests that limited microbial exposure in early life may increase susceptibility to allergies and autoimmune issues.",
+    "tags": [
+      "hygiene hypothesis",
+      "immune development",
+      "microbial exposure"
+    ]
+  },
+  {
+    "question": "How can parents support their child's microbiome?",
+    "answer": "Offer diverse whole foods, minimize unnecessary antibiotics, encourage outdoor play, and support regular sleep and stress management.",
+    "tags": [
+      "parenting",
+      "gut support",
+      "child health"
+    ]
+  }
+]

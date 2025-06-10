@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What is sleep hygiene?",
+    "answer": "Sleep hygiene is the set of habits and environmental cues that help support restful, consistent sleep.",
+    "tags": [
+      "sleep hygiene",
+      "habits",
+      "routine"
+    ]
+  },
+  {
+    "question": "What are key elements of a good bedtime routine?",
+    "answer": "Dim lights, avoid screens, engage in relaxing activities (reading, stretching, meditation), and go to bed at the same time nightly.",
+    "tags": [
+      "bedtime",
+      "routine",
+      "relaxation"
+    ]
+  },
+  {
+    "question": "Why should screens be avoided before bed?",
+    "answer": "Blue light suppresses melatonin, keeping the brain alert and delaying sleep onset.",
+    "tags": [
+      "blue light",
+      "screen time",
+      "melatonin"
+    ]
+  },
+  {
+    "question": "What temperature is ideal for sleep?",
+    "answer": "Around 65\u00b0F or 18\u00b0C\u2014cool temperatures help signal the body that it\u2019s time to sleep.",
+    "tags": [
+      "bedroom environment",
+      "temperature",
+      "rest"
+    ]
+  },
+  {
+    "headline": "Your Bedtime Is a Signal, Not a Deadline",
+    "body": "Consistency and calming rituals tell your brain it\u2019s safe to shut down. No screens, no chaos\u2014just cues to wind down.",
+    "prompt": "What bedtime habit could you tweak this week to signal your body it\u2019s time for sleep?",
+    "tags": [
+      "routine",
+      "wind-down",
+      "night cues"
+    ]
+  }
+]

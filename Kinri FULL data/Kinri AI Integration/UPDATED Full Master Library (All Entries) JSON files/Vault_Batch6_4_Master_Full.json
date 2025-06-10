@@ -1,0 +1,800 @@
+[
+  {
+    "card_id": "nutrition_54_emotional_eating_shame_and_self_forgiveness_001",
+    "card_type": "flashcard",
+    "question": "Why does emotional eating often trigger shame?",
+    "answer": "Because we\u2019ve been taught that food should be logical\u2014using it for comfort is seen as failure, not self-soothing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_54_emotional_eating_shame_and_self_forgiveness_002",
+    "card_type": "flashcard",
+    "question": "How can you reframe emotional eating as a message?",
+    "answer": "It signals a need\u2014for connection, rest, relief, or softness\u2014not just a loss of willpower.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_54_emotional_eating_shame_and_self_forgiveness_003",
+    "card_type": "flashcard",
+    "question": "What helps release shame around food?",
+    "answer": "Curiosity, journaling, identifying triggers, building emotional regulation skills, and soft internal dialogue.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_54_emotional_eating_shame_and_self_forgiveness_004",
+    "card_type": "flashcard",
+    "question": "Why is self-forgiveness important in nutrition recovery?",
+    "answer": "Without it, the cycle of guilt and overcorrection continues\u2014making peace is the only true reset.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_54_emotional_eating_shame_and_self_forgiveness_005",
+    "card_type": "vault_card",
+    "headline": "Your Body Isn\u2019t Betraying You\u2014It\u2019s Asking for Help",
+    "body": "Emotional eating isn\u2019t weakness. It\u2019s a coping mechanism. You can outgrow it with safety\u2014not shame.",
+    "prompt": "What\u2019s one thing you could say to yourself after emotional eating that sounds more like care than critique?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_47_food_as_recovery_not_reward_or_restriction_001",
+    "card_type": "flashcard",
+    "question": "Why is food often tied to reward or punishment?",
+    "answer": "Conditioning from childhood, diet culture, and trauma teach the body to associate food with control, not care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_47_food_as_recovery_not_reward_or_restriction_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s the risk of using food as emotional reward?",
+    "answer": "It can create dependence on external stimuli to regulate emotions, instead of learning internal regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_47_food_as_recovery_not_reward_or_restriction_003",
+    "card_type": "flashcard",
+    "question": "How can you shift food from reward to recovery?",
+    "answer": "Choose meals for nervous system support, not to earn them\u2014focus on safety, rhythm, and nourishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_47_food_as_recovery_not_reward_or_restriction_004",
+    "card_type": "flashcard",
+    "question": "Why does restriction backfire in healing?",
+    "answer": "It tells the nervous system that nourishment is scarce, increasing anxiety, reactivity, and binge risk.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_47_food_as_recovery_not_reward_or_restriction_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Have to Earn Food\u2014You Just Have to Heal",
+    "body": "Food isn\u2019t a bribe or a punishment. It\u2019s recovery. Eat like your system deserves safety, not scorekeeping.",
+    "prompt": "What meal could you offer yourself this week\u2014not because you earned it, but because you\u2019re rebuilding?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_48_eating_after_freeze_crash_or_emotional_collapse_001",
+    "card_type": "flashcard",
+    "question": "Why is eating hard after emotional collapse?",
+    "answer": "The body is in shutdown mode\u2014digestion pauses, appetite fades, and food can feel like another demand.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_48_eating_after_freeze_crash_or_emotional_collapse_002",
+    "card_type": "flashcard",
+    "question": "What helps reintroduce food after a freeze state?",
+    "answer": "Start with warm, soft foods\u2014bone broth, soup, eggs, or toast\u2014offered gently without pressure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_48_eating_after_freeze_crash_or_emotional_collapse_003",
+    "card_type": "flashcard",
+    "question": "What mindset shift helps support eating after shutdown?",
+    "answer": "See food as co-regulation\u2014not performance. It\u2019s a way to remind your system it\u2019s safe again.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_48_eating_after_freeze_crash_or_emotional_collapse_004",
+    "card_type": "flashcard",
+    "question": "What are signs you're ready to eat again?",
+    "answer": "Slight hunger, warmth returning to the body, grounding, or a felt need for energy or comfort.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_48_eating_after_freeze_crash_or_emotional_collapse_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need to Eat Perfect\u2014You Need to Eat Safe",
+    "body": "After collapse, your job isn\u2019t to eat clean\u2014it\u2019s to eat gently. You\u2019re not fixing. You\u2019re returning.",
+    "prompt": "What small meal could remind your system it\u2019s okay to come back to life this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_49_eating_for_stability_rhythm_and_emotional_resilience_001",
+    "card_type": "flashcard",
+    "question": "Why is rhythm more powerful than restriction?",
+    "answer": "Rhythm builds safety and consistency\u2014restriction teaches the body to fear nourishment and triggers dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_49_eating_for_stability_rhythm_and_emotional_resilience_002",
+    "card_type": "flashcard",
+    "question": "What meals help build stability?",
+    "answer": "Warm, grounding meals with protein, fat, and minerals\u2014e.g., broth with greens, eggs with veg, or rice bowls.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_49_eating_for_stability_rhythm_and_emotional_resilience_003",
+    "card_type": "flashcard",
+    "question": "Why does consistency build nervous system trust?",
+    "answer": "It shows your system that food is reliable\u2014not chaotic\u2014helping lower stress and increase emotional bandwidth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_49_eating_for_stability_rhythm_and_emotional_resilience_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the emotional power of simple meals?",
+    "answer": "Simplicity reduces decision fatigue, provides predictability, and prevents emotional burnout around food.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_49_eating_for_stability_rhythm_and_emotional_resilience_005",
+    "card_type": "vault_card",
+    "headline": "Predictable Nourishment Is Powerful",
+    "body": "You don\u2019t need to innovate\u2014you need to stabilize. Calm meals, repeated with care, rebuild emotional strength.",
+    "prompt": "What 1\u20132 meals could you repeat this week as your nervous system\u2019s rhythm anchors?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_50_nervous_system_nutrition_and_self_regulation_001",
+    "card_type": "flashcard",
+    "question": "How does nutrition impact self-regulation?",
+    "answer": "Balanced meals stabilize blood sugar and reduce stress hormone spikes\u2014improving mood, focus, and emotional control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_50_nervous_system_nutrition_and_self_regulation_002",
+    "card_type": "flashcard",
+    "question": "What nutrients support emotional steadiness?",
+    "answer": "Magnesium, omega-3s, B vitamins, amino acids, and trace minerals all support neurotransmitter and nervous system balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_50_nervous_system_nutrition_and_self_regulation_003",
+    "card_type": "flashcard",
+    "question": "What happens when regulation is missing in eating?",
+    "answer": "Disordered patterns like skipping, bingeing, or restricting emerge\u2014often from nervous system dysregulation, not willpower.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_50_nervous_system_nutrition_and_self_regulation_004",
+    "card_type": "flashcard",
+    "question": "What habits help nourish regulation long-term?",
+    "answer": "Hydration, simple meals, consistent rhythms, mindful eating, and releasing guilt after dysregulated days.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_50_nervous_system_nutrition_and_self_regulation_005",
+    "card_type": "vault_card",
+    "headline": "Regulation Starts With Fuel",
+    "body": "You can\u2019t regulate on empty. Calm doesn\u2019t come from willpower\u2014it comes from nourishment, rhythm, and repair.",
+    "prompt": "What food or rhythm could help you stabilize your emotional baseline this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_51_food_as_emotional_repair_not_judgment_001",
+    "card_type": "flashcard",
+    "question": "How can food become a form of emotional repair?",
+    "answer": "By choosing meals with care, warmth, and consistency\u2014meals become messages of safety, not self-punishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_51_food_as_emotional_repair_not_judgment_002",
+    "card_type": "flashcard",
+    "question": "What blocks emotional repair through food?",
+    "answer": "Shame, perfectionism, overthinking, and the belief that only 'clean' eating is worthy or healing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_51_food_as_emotional_repair_not_judgment_003",
+    "card_type": "flashcard",
+    "question": "What helps shift food from judgment to support?",
+    "answer": "Replace rules with rhythm, pressure with curiosity, and shame with soft rituals that offer repair.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_51_food_as_emotional_repair_not_judgment_004",
+    "card_type": "flashcard",
+    "question": "How does emotional safety impact digestion?",
+    "answer": "Stress impairs digestion\u2014emotional calm helps the body absorb, process, and benefit from what you eat.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_51_food_as_emotional_repair_not_judgment_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Allowed to Eat Without a Verdict",
+    "body": "You\u2019re not being judged. You\u2019re being rebuilt. Food can be your comfort, your ritual, your emotional anchor\u2014not your enemy.",
+    "prompt": "What could you eat this week that offers emotional care, not correction?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_52_nervous_system_eating_and_internal_dialogue_repair_001",
+    "card_type": "flashcard",
+    "question": "Why does internal dialogue affect food choices?",
+    "answer": "Shame or self-criticism distorts hunger, increases guilt, and turns meals into stressors instead of support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_52_nervous_system_eating_and_internal_dialogue_repair_002",
+    "card_type": "flashcard",
+    "question": "How can you repair food-related self-talk?",
+    "answer": "Speak gently before and after meals, notice critical thoughts, and replace them with kindness and curiosity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_52_nervous_system_eating_and_internal_dialogue_repair_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s one phrase to replace food shame?",
+    "answer": "'This meal is nourishment, not a test.' Or 'I\u2019m feeding my healing, not proving anything.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_52_nervous_system_eating_and_internal_dialogue_repair_004",
+    "card_type": "flashcard",
+    "question": "Why is kindness a regulation tool?",
+    "answer": "Gentle words soothe the nervous system, reduce cortisol, and create emotional safety in the body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_52_nervous_system_eating_and_internal_dialogue_repair_005",
+    "card_type": "vault_card",
+    "headline": "How You Speak About Food Is How You Speak to Your Body",
+    "body": "Every thought is an ingredient. If your self-talk is toxic, your meals can\u2019t land as safety. Repair the voice. The body will follow.",
+    "prompt": "What phrase could replace judgment this week and help your nervous system feel safer when eating?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_53_nervous_system_eating_and_emotional_anchoring_001",
+    "card_type": "flashcard",
+    "question": "What is emotional anchoring through food?",
+    "answer": "Using meals as consistent cues of care and presence\u2014building emotional safety and routine through repetition.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_53_nervous_system_eating_and_emotional_anchoring_002",
+    "card_type": "flashcard",
+    "question": "Why do anchor meals help regulate emotions?",
+    "answer": "They reduce unpredictability and decision fatigue\u2014helping the body feel held when life feels chaotic.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_53_nervous_system_eating_and_emotional_anchoring_003",
+    "card_type": "flashcard",
+    "question": "What types of food create emotional grounding?",
+    "answer": "Warm, mineral-rich, soft foods like soups, oatmeal, stews, or protein-rich bowls with steady macros.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_53_nervous_system_eating_and_emotional_anchoring_004",
+    "card_type": "flashcard",
+    "question": "How can you create rituals around anchor meals?",
+    "answer": "Same dish, time, or music. Adding silence or gratitude. Let the meal become more than fuel\u2014it\u2019s a signal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_53_nervous_system_eating_and_emotional_anchoring_005",
+    "card_type": "vault_card",
+    "headline": "When Life Is Loud, Let Meals Be Your Anchor",
+    "body": "Food doesn\u2019t just fill you\u2014it grounds you. Repetition can be a rope. Simplicity can be a safety net.",
+    "prompt": "What meal could become your nervous system\u2019s anchor this week, not just for nourishment\u2014but for calm?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What does butyrate do in the body?",
+    "answer": "Butyrate is a postbiotic that fuels gut lining cells, reduces inflammation, and supports mood through gut-brain signaling.",
+    "tags": [
+      "butyrate",
+      "gut health",
+      "inflammation"
+    ]
+  },
+  {
+    "question": "Why are probiotics not always the best solution?",
+    "answer": "They often don\u2019t survive digestion and may not be personalized\u2014postbiotics or prebiotics may offer more stable benefits.",
+    "tags": [
+      "probiotics",
+      "microbiome",
+      "gut strategy"
+    ]
+  },
+  {
+    "question": "How does NAC support immunity and detoxification?",
+    "answer": "NAC replenishes glutathione and reduces oxidative stress\u2014key for lung health, immune strength, and liver support.",
+    "tags": [
+      "NAC",
+      "glutathione",
+      "immune support"
+    ]
+  },
+  {
+    "question": "What\u2019s the benefit of sulforaphane from broccoli sprouts?",
+    "answer": "It activates the NRF2 pathway\u2014boosting antioxidant defense, detox capacity, and inflammation resilience.",
+    "tags": [
+      "sulforaphane",
+      "NRF2",
+      "antioxidants"
+    ]
+  },
+  {
+    "headline": "Heal the Gut, Calm the Body",
+    "body": "From postbiotics to sulfur-rich sprouts, the path to inflammation relief and gut-brain calm starts with cellular support.",
+    "prompt": "What\u2019s one gut-friendly or anti-inflammatory nutrient you could test this week?",
+    "tags": [
+      "gut health",
+      "inflammation",
+      "immune function"
+    ]
+  }
+]

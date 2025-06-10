@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is dysbiosis?",
+    "answer": "Dysbiosis is an imbalance in the gut microbiome, where harmful microbes outnumber or suppress beneficial ones.",
+    "tags": [
+      "dysbiosis",
+      "gut imbalance",
+      "microbiome"
+    ]
+  },
+  {
+    "question": "What are common causes of dysbiosis?",
+    "answer": "Antibiotics, stress, poor diet, infections, environmental toxins, and low fiber intake can all contribute to dysbiosis.",
+    "tags": [
+      "causes",
+      "diet",
+      "antibiotics"
+    ]
+  },
+  {
+    "question": "What symptoms are associated with dysbiosis?",
+    "answer": "Bloating, gas, fatigue, food sensitivities, skin issues, anxiety, and brain fog can all be signs of microbial imbalance.",
+    "tags": [
+      "symptoms",
+      "gut-brain",
+      "digestive issues"
+    ]
+  },
+  {
+    "question": "How does dysbiosis drive inflammation?",
+    "answer": "Harmful bacteria can damage the gut lining and release endotoxins (like LPS), triggering immune responses and systemic inflammation.",
+    "tags": [
+      "inflammation",
+      "endotoxins",
+      "LPS"
+    ]
+  },
+  {
+    "question": "What is LPS and why is it harmful?",
+    "answer": "LPS (lipopolysaccharide) is a toxin from gram-negative bacteria that, when leaked into the bloodstream, activates the immune system and promotes chronic inflammation.",
+    "tags": [
+      "LPS",
+      "toxins",
+      "immune activation"
+    ]
+  },
+  {
+    "question": "Can dysbiosis affect mental health?",
+    "answer": "Yes. Dysbiosis has been linked to depression, anxiety, and cognitive changes via the gut-brain axis and inflammatory pathways.",
+    "tags": [
+      "mental health",
+      "gut-brain",
+      "inflammatory mood"
+    ]
+  },
+  {
+    "question": "How can diet help correct dysbiosis?",
+    "answer": "A fiber-rich, whole-food diet with fermented foods and minimal ultra-processed ingredients can support microbial balance.",
+    "tags": [
+      "diet",
+      "gut repair",
+      "fiber"
+    ]
+  },
+  {
+    "question": "What role do probiotics play in correcting dysbiosis?",
+    "answer": "Probiotics can help reintroduce beneficial strains, crowd out pathogens, and restore microbial diversity.",
+    "tags": [
+      "probiotics",
+      "restoration",
+      "diversity"
+    ]
+  },
+  {
+    "question": "How does stress impact dysbiosis and inflammation?",
+    "answer": "Chronic stress alters gut motility, reduces protective bacteria, and increases inflammatory cytokines \u2014 all of which worsen dysbiosis.",
+    "tags": [
+      "stress",
+      "cytokines",
+      "gut function"
+    ]
+  },
+  {
+    "question": "Is inflammation from dysbiosis reversible?",
+    "answer": "Yes. With dietary changes, lifestyle support, and sometimes supplementation, the gut can often rebalance and reduce inflammation.",
+    "tags": [
+      "healing",
+      "reversal",
+      "gut resilience"
+    ]
+  }
+]

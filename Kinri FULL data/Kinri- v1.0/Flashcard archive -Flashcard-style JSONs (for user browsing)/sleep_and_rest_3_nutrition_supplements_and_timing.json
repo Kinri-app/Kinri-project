@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What nutrients support better sleep?",
+    "answer": "Magnesium, tryptophan, calcium, potassium, and melatonin precursors all help relax the body and support sleep cycles.",
+    "tags": [
+      "nutrition",
+      "sleep support",
+      "micronutrients"
+    ]
+  },
+  {
+    "question": "Why should heavy meals be avoided before bed?",
+    "answer": "Heavy or spicy foods close to bedtime disrupt digestion and increase sleep latency.",
+    "tags": [
+      "digestion",
+      "meal timing",
+      "sleep latency"
+    ]
+  },
+  {
+    "question": "What are good bedtime snacks for sleep?",
+    "answer": "Banana with nut butter, kiwi, tart cherry juice, or warm milk help promote melatonin or serotonin production.",
+    "tags": [
+      "bedtime snack",
+      "serotonin",
+      "melatonin"
+    ]
+  },
+  {
+    "question": "How does caffeine affect sleep timing?",
+    "answer": "Caffeine\u2019s half-life means it can linger in the body for 6\u20138 hours, making it harder to fall and stay asleep.",
+    "tags": [
+      "caffeine",
+      "stimulants",
+      "sleep disruption"
+    ]
+  },
+  {
+    "headline": "Fuel Sleep from the Inside",
+    "body": "What you eat and when you eat it directly shapes your body\u2019s ability to rest deeply and recover fully.",
+    "prompt": "What food or drink habit might you adjust to support deeper rest this week?",
+    "tags": [
+      "sleep and diet",
+      "evening routine",
+      "wellness"
+    ]
+  }
+]

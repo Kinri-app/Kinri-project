@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you often feel like you're performing rather than participating in life?,"Like you're playing a role to get through the day, instead of actually being *in* the day?",Tier 3,"{'CPTSD': 0.5, 'Autism': 0.5, 'Depression': 0.25}"
+Do you find yourself zoning out mid-conversation or while doing something familiar?,Like your body’s doing the thing but your brain has slipped somewhere else?,Tier 3,"{'ADHD': 0.5, 'CPTSD': 0.5, 'Depression': 0.25}"
+Do you often feel like you're too much *and* not enough at the same time?,Like you're overwhelming people and still somehow falling short?,Tier 3,"{'BPD': 0.5, 'CPTSD': 0.5, 'Depression': 0.25}"
+Do you catch yourself apologizing for things that aren’t your fault?,Like defaulting to ‘sorry’ — even when you didn’t actually do anything wrong?,Tier 3,"{'GAD': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"
+Do compliments ever feel hard to believe — like they’re meant for someone else?,"Like praise doesn’t quite land, or it bounces off before you can feel it?",Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'Autism': 0.25}"
+Do you tend to minimize your own pain — even while helping others through theirs?,"Like you’re allowed to support everyone, but don’t know how to receive it yourself?",Tier 3,"{'CPTSD': 0.5, 'Depression': 0.5, 'GAD': 0.25}"
+Do you feel like your reactions are sometimes bigger than the moment that caused them?,Like something small triggers something *big* in you?,Tier 3,"{'BPD': 0.5, 'PMDD': 0.5, 'CPTSD': 0.25}"
+Do you feel like your brain jumps ahead — narrating worst-case scenarios before they happen?,Like it auto-loads catastrophe without your permission?,Tier 3,"{'GAD': 0.5, 'OCD': 0.5, 'CPTSD': 0.25}"
+"Do you ever struggle to feel truly ‘rested’ — even after breaks, weekends, or sleep?","Like rest isn't enough, because your *mind* never stops?",Tier 3,"{'ADHD': 0.5, 'Depression': 0.5, 'CPTSD': 0.25}"
+Do you ever feel like you're faking being human more than actually being one?,Like there's a manual everyone got that you missed — and you’re just trying to copy the moves?,Tier 3,"{'Autism': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"

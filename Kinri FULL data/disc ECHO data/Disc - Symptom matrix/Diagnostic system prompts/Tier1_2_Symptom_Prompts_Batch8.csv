@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you feel like your emotions are all-or-nothing — either flooding or numb?,Like there’s no middle gear — it’s silence or storm?,Tier 1,"{'BPD': 1.0, 'CPTSD': 0.5}"
+Do you keep detailed mental or physical ‘safety routines’ — even if others don’t understand them?,Like certain habits or checks make you feel safe or in control?,Tier 2,"{'OCD': 1.0, 'Autism': 0.5}"
+Do you mentally prepare for conversations — like you rehearse what to say in advance?,Like real-time dialogue feels risky or unpredictable unless prepped?,Tier 2,"{'Autism': 1.0, 'GAD': 0.5}"
+Do you often feel like people misunderstand your tone — even when you’re trying to be clear?,"Like your intent gets lost and you feel guilty, awkward, or frustrated?",Tier 2,"{'Autism': 1.0, 'BPD': 0.5}"
+Do you have moments of intense self-hate or disgust — even if they don’t last long?,Like a switch flips and you turn against yourself hard?,Tier 1,"{'BPD': 1.0, 'Depression': 0.5}"
+Do you sometimes feel like you’re just ‘playing the role’ of being okay — especially around others?,Like it’s all performance until you’re finally alone?,Tier 2,"{'Depression': 1.0, 'CPTSD': 0.5}"
+Do you start new projects or ideas with excitement — but abandon them quickly?,"Like your brain runs on bursts, then fizzles out?",Tier 1,"{'ADHD': 1.0, 'Bipolar_II': 0.5}"
+Do you feel tension in your body most of the time — like your muscles are always slightly braced?,"Like your nervous system never fully settles, even when you're safe?",Tier 1,"{'CPTSD': 1.0, 'GAD': 0.5}"
+Do you tend to mentally script or over-plan social interactions ahead of time?,Like being spontaneous feels unsafe or risky in conversation?,Tier 2,"{'Autism': 1.0, 'OCD': 0.5}"
+Do you ever feel like you're chasing a version of yourself you can’t quite reach?,"Like there's a ‘you’ you’re supposed to be, and you’re always falling short?",Tier 2,"{'Depression': 1.0, 'CPTSD': 0.5}"

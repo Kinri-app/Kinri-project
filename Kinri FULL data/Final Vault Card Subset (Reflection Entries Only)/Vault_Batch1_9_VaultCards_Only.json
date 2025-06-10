@@ -1,0 +1,44 @@
+[
+  {
+    "card_id": "dopamine_4_reset_and_healthy_recovery_005",
+    "card_type": "vault_card",
+    "headline": "Reset Is Not Deprivation\u2014It\u2019s Recovery",
+    "body": "When your brain rests, it resets. When it resets, it sees clearly. Recovery is clarity.",
+    "prompt": "What overstimulating habit could you pause this week to give your brain a clearer baseline?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_1_basics_and_brain_pathways_005",
+    "card_type": "vault_card",
+    "headline": "Not Just Pleasure\u2014Power",
+    "body": "Dopamine is about drive, not just delight. Understand it, and you understand your urges.",
+    "prompt": "Where in your life are you chasing dopamine spikes\u2014and where could you build healthier baselines?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

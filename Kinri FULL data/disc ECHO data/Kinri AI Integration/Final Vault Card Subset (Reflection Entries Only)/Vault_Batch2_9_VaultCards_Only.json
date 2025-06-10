@@ -1,0 +1,86 @@
+[
+  {
+    "card_id": "flashcard_test_export_005",
+    "card_type": "vault_card",
+    "headline": "Your Brain Believes What You Tell It",
+    "body": "If you argue for your limitations, you get to keep them. Speak the version of you that you want to become.",
+    "prompt": "What\u2019s one negative label you\u2019ve internalized\u2014and what empowering alternative could you claim instead?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_nervous_system_regulation_through_sound_and_vibration_005",
+    "card_type": "vault_card",
+    "headline": "Your Nervous System Responds to Frequency Before Language",
+    "body": "Before you think, you feel. Before you speak, you vibrate. Sound heals where words can\u2019t always reach.",
+    "prompt": "What sound-based practice could you use this week to regulate without needing to explain anything?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "frequency_and_the_body_1_sound_vibration_and_nervous_system_regulation_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Just Hear Sound\u2014You Feel It",
+    "body": "The body is a tuning fork. What you surround yourself with vibrates through your nervous system. Choose tone with intention.",
+    "prompt": "What sound or frequency could you use this week to support your regulation and clarity?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_2_the_3ms_and_pie_005",
+    "card_type": "vault_card",
+    "headline": "Put the Puzzle Together\u2014Mindset, Method, Motivation",
+    "body": "If you have the mindset but not the method, you\u2019ll fail. If you have the method but no motivation, you\u2019ll quit. Build all three.",
+    "prompt": "Which of your current goals could benefit from better mindset, motivation, or method support?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

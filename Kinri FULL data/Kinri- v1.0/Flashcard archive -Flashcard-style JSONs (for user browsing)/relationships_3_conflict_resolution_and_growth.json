@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What\u2019s the first step in healthy conflict resolution?",
+    "answer": "Pause, regulate your emotions, and wait until both people are calm enough to discuss productively.",
+    "tags": [
+      "conflict resolution",
+      "regulation",
+      "communication"
+    ]
+  },
+  {
+    "question": "Why should couples avoid blame in arguments?",
+    "answer": "Blame creates defensiveness. Focusing on needs and solutions fosters collaboration.",
+    "tags": [
+      "blame",
+      "solution-focused",
+      "empathy"
+    ]
+  },
+  {
+    "question": "How does teamwork improve conflict outcomes?",
+    "answer": "Approaching disagreements as partners on the same side reframes tension as a shared problem, not a personal attack.",
+    "tags": [
+      "teamwork",
+      "mindset",
+      "repair"
+    ]
+  },
+  {
+    "question": "Why should old issues be processed, not buried?",
+    "answer": "Unprocessed emotions resurface in future conflicts\u2014healing past hurts helps clear the air long-term.",
+    "tags": [
+      "emotional repair",
+      "resentment",
+      "healing"
+    ]
+  },
+  {
+    "headline": "Fight to Repair, Not to Win",
+    "body": "Conflict doesn\u2019t mean failure\u2014it\u2019s how you grow closer when it\u2019s handled with care.",
+    "prompt": "What\u2019s one argument you could revisit calmly to help your partner feel more understood?",
+    "tags": [
+      "conflict repair",
+      "growth",
+      "trust"
+    ]
+  }
+]

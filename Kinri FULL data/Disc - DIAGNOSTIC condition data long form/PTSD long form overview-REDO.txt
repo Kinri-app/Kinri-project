@@ -1,0 +1,718 @@
+PTSD Diagnostic Vault – MiFam Internal Longform
+PART 1 of 5
+(Clinical Criteria, Subtypes, and Symptom Clusters)
+
+🧩 Clinical Criteria
+Trauma is required for diagnosis across DSM-5 and ICD-10/11.
+
+DSM-5:
+
+Trauma = exposure to actual/threatened death, serious injury, or sexual violence
+
+Includes: direct experience, witnessing, learning it happened to a loved one, or repeated exposure (e.g. first responders)
+
+ICD-11:
+
+Trauma = exposure to extremely threatening or horrific event(s)
+
+Slightly narrower: fewer peripheral symptoms, more focus on core trauma response
+
+DSM-5 Symptom Clusters (4):
+
+Intrusion: Flashbacks, nightmares, unwanted distressing memories
+
+Avoidance: Of trauma reminders (internal or external)
+
+Negative Cognitions & Mood: Guilt, shame, numbness, distorted beliefs
+
+Hyperarousal/Reactivity: Startle, poor sleep, irritability, reckless behavior
+
+ICD-11 Symptom Clusters (3):
+
+Re-experiencing the trauma
+
+Avoidance of reminders
+
+Persistent sense of current threat
+
+Specifiers & Durations:
+
+DSM-5: Delayed onset, dissociative subtype, symptoms lasting >1 month
+
+ICD-11: Streamlined criteria but separates out Complex PTSD
+
+🧬 Subtypes
+Dissociative Subtype (DSM-5)
+Includes depersonalization (feeling unreal, disconnected from self)
+
+And/or derealization (world feels unreal or distant)
+
+Common in those with chronic or early trauma
+
+Often co-occurs with emotional numbing, high-functioning masking
+
+Complex PTSD (CPTSD – ICD-11)
+Includes all standard PTSD symptoms plus:
+
+Affective dysregulation (outbursts, numbness, shutdowns)
+
+Negative self-concept (“I’m broken,” “I’m to blame”)
+
+Interpersonal disturbances (avoidance, fear, emotional detachment)
+
+CPTSD tends to arise from chronic interpersonal trauma, such as:
+
+Childhood abuse
+
+Domestic violence
+
+Human trafficking
+
+Torture, captivity, war imprisonment
+
+DSM-5 does not formally recognize CPTSD as a diagnosis — symptoms get spread across PTSD, BPD, depression, etc.
+
+🌪️ Symptom Clusters & Real-World Experience
+🔁 Intrusions
+Flashbacks: “Reliving” the trauma, full sensory and emotional intensity
+
+Nightmares: Can be literal or symbolic
+
+Intrusive memories/images: Unwanted and distressing
+
+Physiological reactivity to reminders (e.g. heart racing when passing the assault site)
+
+🚪 Avoidance
+External: Avoiding people, places, conversations, or media related to trauma
+
+Internal: Shutting down thoughts or emotions related to it
+
+May lead to isolation, self-distraction, or substance use
+
+⚠️ Hyperarousal
+Hypervigilance: Constant scanning for danger
+
+Exaggerated startle: Jumps easily at noises, touch
+
+Insomnia or disrupted sleep
+
+Irritability, aggressive outbursts
+
+Recklessness: Fast driving, risky sex, substance use
+
+Difficulty concentrating or remembering details
+
+🧱 Negative Mood & Cognitions (DSM only)
+Persistent guilt or shame
+
+Feeling detached from others
+
+Blaming oneself or others for the trauma
+
+Belief that the world is completely dangerous
+
+Loss of interest in previously enjoyed activities
+
+Inability to feel joy, love, or satisfaction
+ Flashbacks vs Intrusions vs Dissociation
+🔹 Intrusions
+Sudden, distressing memories/images
+
+You still know it’s a memory, even if upsetting
+
+Often verbal or visual: “I keep seeing it happen in my head”
+
+🔹 Flashbacks
+Full-body reliving
+
+Feels like the event is happening right now
+
+Loss of awareness of present time/place
+
+Can be partial (emotional flooding) or full (screaming, hiding, reacting physically)
+
+The body reacts like it’s under threat again
+
+🔹 Dissociation
+General disconnection from self or surroundings
+
+Depersonalization: “I’m not real / not in my body”
+
+Derealization: “This world isn’t real / I’m in a dream”
+
+Can involve memory loss (dissociative amnesia)
+
+Common during or after trauma — brain “checks out” for protection
+
+🧒 Age Differences
+🧒 Children
+Trauma reenactment in play or drawings
+
+Clinginess, regression (bedwetting, thumb-sucking)
+
+Somatic symptoms: headaches, stomachaches
+
+May not verbalize trauma
+
+🧑 Adolescents
+Risk-taking: drugs, sex, aggression
+
+Drop in school performance
+
+May be mislabeled as “bad behavior” or “oppositional”
+
+Increased suicide risk if PTSD is untreated
+
+🧔 Adults
+Stronger verbal/cognitive symptoms
+
+Intrusive memories more prominent than reenactment
+
+Often experience shame, guilt, avoidance, numbness
+
+⚧️ Gender Differences
+♀️ Women
+2x more likely to develop PTSD than men
+
+More internalizing: anxiety, guilt, dissociation
+
+Trauma often interpersonal (e.g. sexual abuse, domestic violence)
+
+More likely to seek therapy
+
+♂️ Men
+More externalizing: anger, aggression, substance use
+
+More likely to suppress emotion
+
+Higher prevalence of combat, accident trauma
+
+Less likely to disclose symptoms or seek help
+
+🎭 High-Functioning / Masked PTSD
+Appears successful or “fine” on the outside
+
+May excel at work, caregiving, or managing crises
+
+Internally: nightmares, panic attacks, numbing, hypervigilance
+
+Uses overcontrol, perfectionism, distraction
+
+Rarely asks for help — often praised for resilience, which reinforces silence
+
+Collapses may occur later if coping mechanisms fail
+
+⚖️ Comorbidities & Common Overlaps
+🧨 Mood/Anxiety Disorders
+Depression: Guilt, anhedonia, hopelessness
+
+GAD/Panic: Constant worry, body tension, hyperarousal
+
+Often co-occurs, reinforcing emotional shutdown
+
+🍷 Substance Use
+Self-medicating to escape flashbacks, anxiety, or numbness
+
+Alcohol, opioids, stimulants commonly used
+
+Substance use increases risk of retraumatization
+
+😖 Chronic Pain / Fibromyalgia
+Trauma stored in the body → tension, inflammation
+
+PTSD linked to IBS, headaches, muscle pain
+
+Pain often flares with stress or trauma triggers
+
+🔁 OCD / Eating Disorders
+Compulsions may form around control, safety, or ritual
+
+Eating disorders can be a control mechanism or body-based trauma response
+
+🔀 Diagnostic Confusions
+BPD: Both involve emotional reactivity, impulsivity, dissociation, self-harm — but BPD centers on abandonment and identity instability
+
+ASD (Acute Stress Disorder): Symptoms occur <1 month post-trauma
+
+DID: Multiple identity states, significant memory gaps — trauma is usually early and extreme
+
+Psychosis: Flashbacks or dissociation can resemble hallucinations — but PTSD patients usually retain insight (“I felt like I was back there” vs “I am back there”)
+
+🧠 Neurobiological Changes in PTSD
+🧨 Amygdala
+Brain's alarm system — detects threats
+
+Overactive in PTSD → constant false alarms
+
+Hyper-responsiveness = exaggerated fear, startle, anxiety
+
+🧠 Hippocampus
+Encodes memory & context
+
+Often shrinks in PTSD
+
+Can’t distinguish “then” from “now” → flashbacks, fragmented memory
+
+Memories feel present, not past
+
+🧠 Prefrontal Cortex (PFC)
+Logical, emotional regulator (“brake system”)
+
+Underactive in PTSD → poor emotional control, impaired fear extinction
+
+Explains: “I know I’m safe, but I can’t feel safe”
+
+💉 HPA Axis Dysfunction
+Hypothalamic-Pituitary-Adrenal (HPA) Axis = stress hormone system
+
+Cortisol either:
+
+Stays elevated → chronic stress
+
+Drops too low → burnout, immune suppression
+
+Adrenaline spikes → restlessness, rage, insomnia
+
+Over time, contributes to autoimmune, GI, and heart issues
+
+🔌 Polyvagal Theory & Nervous System
+Vagal Pathways:
+Ventral Vagal (safe & social) → calm, connected
+
+Sympathetic (danger) → fight/flight
+
+Dorsal Vagal (life threat) → freeze/collapse
+
+PTSD often causes:
+
+Stuck in fight/flight: panic, rage, insomnia
+
+Or freeze/shutdown: numb, dissociated, depressive
+
+Signs of Polyvagal Imbalance
+Constant hyperawareness or freeze
+
+Social withdrawal
+
+Poor vagal tone = low resilience to stress
+
+Recovery Implications
+Safe co-regulation helps restore ventral vagal state
+
+Tools: eye contact, soothing voices, breathwork, physical rhythm (walking, drumming, rocking)
+
+🧒 ACEs & Developmental Trauma
+ACEs = Adverse Childhood Experiences
+Abuse, neglect, household dysfunction
+
+High ACE score = greater risk for:
+
+PTSD
+
+Depression/anxiety
+
+Addiction
+
+Heart disease
+
+Early death
+
+Effects of Early Trauma
+Brain architecture develops under threat
+
+Hypervigilance, poor emotional regulation
+
+Attachment system disrupted: distrust, disorganized bonds
+
+CPTSD and personality fragmentation common
+
+Neglect vs Event-Based Trauma
+Neglect (emotional or physical) can be just as traumatic
+
+Lack of attunement = developmental voids
+
+Often overlooked but leads to long-term emotional dysregulation
+
+🧍 Somatic Markers of Trauma
+“The body keeps the score” — trauma stored in muscles, fascia, organs
+
+Symptoms include:
+
+Chronic pain/tension (neck, jaw, back)
+
+Migraines, gut issues, IBS
+
+Chronic fatigue
+
+Breath-holding, shallow breathing
+
+Restlessness or frozen stillness
+
+Somatic flashbacks = body remembers even when mind doesn't
+
+Triggers can be physical: scent, touch, body position
+
+Somatic Survival Responses
+Startle reflex: flinching, ducking, sudden heart spikes
+
+Freeze/collapse: shutdown, heaviness, detachment
+
+Fight/flight activation: pacing, clenched fists/jaw, rage
+
+Sensory flashbacks: “I feel it again in my stomach/throat/skin”
+
+Attachment & Trust Wounds
+Trauma — especially interpersonal — shatters core trust
+
+Survivors may:
+
+Avoid closeness (“People = danger”)
+
+Cling tightly (“Please don’t leave me”)
+
+Constantly second-guess others' motives
+
+Fear of betrayal, abandonment, rejection
+
+Hypervigilant for signs of being hurt again
+
+💏 Intimacy & Sexuality
+Touch and closeness = triggers
+
+Sexual trauma:
+
+Touch may feel violating
+
+“Freeze” response activates during intimacy
+
+Shame, disgust toward own body
+
+Other trauma:
+
+Emotional unavailability
+
+Shutdowns during sex
+
+Aversion to being vulnerable
+
+👪 Parenting Under PTSD
+Can swing between extremes:
+
+Overprotection (“Nothing bad will ever happen to my kids”)
+
+Detachment (“I love them, but I feel nothing”)
+
+Common triggers:
+
+Child reaching same age as parent's trauma
+
+Loud crying, tantrums, unpredictability
+
+Kids may internalize: “I make mum/dad upset”
+
+Risk of repeating generational trauma if unaddressed
+
+But: trauma-aware parents often deeply empathetic and protective once supported
+
+🪞 Trauma & Self-Identity
+PTSD warps the sense of self
+
+Common self-beliefs:
+
+“I’m broken”
+
+“It was my fault”
+
+“I’m disgusting/weak/unlovable”
+
+Survivor identity can be:
+
+Empowering (“I lived”)
+
+Limiting (“I’ll never be more than this”)
+
+Some feel “frozen” at the age of the trauma
+
+Memory fragmentation affects coherence: “I don’t know who I am”
+
+😞 Shame & Guilt
+Shame = “I am bad”
+
+Guilt = “I did something bad”
+
+PTSD survivors may feel:
+
+“I should’ve fought harder”
+
+“I let it happen”
+
+“Others had it worse, I’m weak”
+
+Survivor’s guilt: “Why did I live when they didn’t?”
+
+These beliefs fuel isolation and depression
+
+💊 Evidence-Based Therapies
+🔁 Prolonged Exposure (PE)
+Safely and gradually face avoided memories/triggers
+
+Habituate the nervous system
+
+Reduces fear and avoidance loops
+
+🧠 Cognitive Processing Therapy (CPT)
+Identify and challenge “stuck points”
+
+Example: “It was my fault” → “I did what I could to survive”
+
+Helps reframe guilt, shame, trust beliefs
+
+🧒 Trauma-Focused CBT (TF-CBT)
+Youth-specific
+
+Includes caregivers
+
+Combines coping skills + exposure + trauma narrative
+
+👁️ EMDR (Eye Movement Desensitization & Reprocessing)
+Recall traumatic memory while following bilateral stimulation
+
+“Unlocks” the trauma and reprocesses it
+
+Memory loses its emotional intensity
+
+Popular because no need to retell full narrative repeatedly
+
+🧩 Internal Family Systems (IFS)
+Works with “parts” (e.g., angry part, protector, exiled child)
+
+Heals by creating internal dialogue and trust
+
+Useful in CPTSD or dissociative cases
+
+🧘 Somatic Therapies
+Somatic Experiencing (SE): Track sensations, release trauma energy
+
+TRE: Evoke tremors to discharge survival responses
+
+Trauma-informed Yoga: Grounding through breath and posture
+
+Sensorimotor Psychotherapy: Combines somatic and attachment work
+
+💊 Medication Supports
+SSRIs: Sertraline, Paroxetine — first-line for mood/anxiety/PTSD
+
+Prazosin: Great for trauma nightmares
+
+SNRIs: Venlafaxine — sometimes used
+
+Beta-blockers / Antipsychotics: Off-label for extreme arousal/anger
+
+MDMA-Assisted Therapy (experimental):
+
+Opens trust, compassion during trauma processing
+
+High remission rates in trials
+
+🌱 Lifestyle & Peer-Based Healing
+Group therapy / peer circles
+
+Normalizes symptoms
+
+Breaks shame
+
+Spiritual practice / ritual
+
+Sense of meaning, release
+
+Nature, movement, routine
+
+Daily grounding
+
+Nervous system regulation
+
+Animals
+
+Unconditional co-regulation
+
+Trauma service dogs can interrupt flashbacks
+
+ Trauma-Informed Care
+Shift from: “What’s wrong with you?”
+To: “What happened to you?”
+
+Core principles:
+
+Safety (physical + emotional)
+
+Trustworthiness
+
+Choice and collaboration
+
+Empowerment
+
+Cultural humility
+
+In practice:
+
+Always explain what you're doing
+
+Offer choices wherever possible
+
+Watch for nonverbal distress
+
+Don't push trauma stories before trust is built
+
+Avoid using authority or force — it echoes abusers
+
+🔁 Avoiding Re-Traumatization
+Happens when current interactions replicate the dynamics of past trauma
+
+Loss of control
+
+Invalidation
+
+Invasive procedures
+
+Harsh tone or judgment
+
+Examples:
+
+Medical exams without proper consent
+
+Courtrooms that force graphic retelling
+
+Shelters with authoritarian rules
+
+Therapy that dives in too deep, too fast
+
+Prevent it with:
+
+Grounding techniques
+
+Opt-outs
+
+Permission-based processes
+
+Consistent respect
+
+🚫 Misdiagnosis & Invalidation
+Commonly misdiagnosed as:
+
+BPD
+
+ADHD
+
+Bipolar II
+
+Psychosis
+
+Especially common in:
+
+Women
+
+Neurodivergent individuals
+
+People of color
+
+Invalidation compounds trauma:
+
+“You’re overreacting”
+
+“That was a long time ago”
+
+“Others had it worse”
+
+“It doesn’t sound traumatic to me”
+
+Healing starts with:
+
+Being believed
+
+Being listened to
+
+Being honored for surviving
+
+🌍 Systemic & Collective Trauma
+War, Conflict, Displacement
+Veterans, refugees, civilians
+
+Complex grief, moral injury, cultural dislocation
+
+“Delayed PTSD” common after war ends
+
+Domestic & Sexual Violence
+Often ongoing, repetitive
+
+Systemic barriers to justice
+
+May be retraumatized by police, courts, media
+
+Medical Trauma
+Painful procedures
+
+Forced treatment
+
+Being ignored or dismissed
+
+Especially prevalent in childbirth, psychiatric settings, disability care
+
+Racial & Intergenerational Trauma
+Historical atrocities leave epigenetic and cultural scars
+
+Everyday microaggressions build into chronic stress
+
+Collective trauma passed down through family lines
+
+🧠 PTSD in Neurodivergent Individuals
+Autism:
+
+May experience non-traditional trauma (sensory overload, forced compliance)
+
+Symptoms often missed or misread
+
+Expression may be more physical or behavioral
+
+ADHD:
+
+May develop PTSD from repeated failure or punishment
+
+Emotional dysregulation overlaps
+
+High impulsivity increases risk of exposure to trauma
+
+Key Issues:
+
+Less likely to be believed
+
+More likely to be misunderstood
+
+May need adapted therapy (visuals, pacing, fewer metaphors)
+
+🌱 Reframing & Post-Traumatic Growth
+PTSD symptoms = adaptations that helped you survive
+
+Hypervigilance = “I had to stay alert”
+
+Numbness = “I couldn’t afford to feel it all”
+
+Flashbacks = “My brain trying to process unfinished danger”
+
+Survivor > Victim — but growth is not obligatory
+
+PTG (Post-Traumatic Growth) may include:
+
+Greater compassion
+
+Reordered priorities
+
+New life purpose
+
+Stronger boundaries
+
+Connection to spirituality
+
+Identity clarity (“This changed me, but didn’t break me”)
+
+Recovery = not the erasure of scars, but the integration of pain into a fuller self
+

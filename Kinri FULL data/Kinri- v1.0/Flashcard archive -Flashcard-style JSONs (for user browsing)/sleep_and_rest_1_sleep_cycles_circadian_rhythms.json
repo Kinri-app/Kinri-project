@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What regulates the body\u2019s internal sleep-wake cycle?",
+    "answer": "The circadian rhythm\u2014driven by light exposure, temperature, and melatonin timing\u2014regulates sleepiness and alertness.",
+    "tags": [
+      "circadian rhythm",
+      "melatonin",
+      "light exposure"
+    ]
+  },
+  {
+    "question": "How does light affect sleep quality?",
+    "answer": "Morning sunlight boosts dopamine and aligns your body clock, while blue light at night suppresses melatonin.",
+    "tags": [
+      "sunlight",
+      "blue light",
+      "sleep regulation"
+    ]
+  },
+  {
+    "question": "What are the two main stages of sleep and their functions?",
+    "answer": "Deep sleep restores the body and immune system; REM sleep processes emotion and locks in memory.",
+    "tags": [
+      "REM",
+      "deep sleep",
+      "recovery"
+    ]
+  },
+  {
+    "question": "How does sleep benefit memory and learning?",
+    "answer": "Sleep transfers short-term memories to long-term storage and prepares the brain to absorb new information.",
+    "tags": [
+      "memory consolidation",
+      "learning",
+      "cognitive function"
+    ]
+  },
+  {
+    "headline": "Align with Nature\u2019s Clock",
+    "body": "Your brain craves rhythm. Morning light and bedtime dark are biological cues that optimize sleep and life.",
+    "prompt": "What one habit could help you better sync with your natural sleep-wake rhythm this week?",
+    "tags": [
+      "sleep optimization",
+      "rhythm",
+      "habit shift"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Why is magnesium important for the brain and body?",
+    "answer": "Magnesium regulates over 300 biochemical reactions including sleep, mood, stress, and muscle function.",
+    "tags": [
+      "magnesium",
+      "sleep",
+      "stress regulation"
+    ]
+  },
+  {
+    "question": "What does vitamin D3 do beyond bone health?",
+    "answer": "It supports immune function, hormonal regulation, and mood\u2014low levels are linked to depression and chronic illness.",
+    "tags": [
+      "vitamin D3",
+      "immune health",
+      "mood"
+    ]
+  },
+  {
+    "question": "Why are omega-3s essential for brain health?",
+    "answer": "They reduce inflammation, improve neurotransmitter function, and support memory and focus.",
+    "tags": [
+      "omega-3",
+      "brain function",
+      "inflammation"
+    ]
+  },
+  {
+    "question": "What is creatine\u2019s role outside of bodybuilding?",
+    "answer": "Creatine enhances cellular energy, improves mood, supports cognition, and may reduce symptoms of depression.",
+    "tags": [
+      "creatine",
+      "energy",
+      "cognition"
+    ]
+  },
+  {
+    "headline": "Build Your Base Before You Stack",
+    "body": "Supplements only work when the foundation is solid. These core nutrients power both brain and body daily.",
+    "prompt": "Which foundational nutrient could you check, test, or optimize this week?",
+    "tags": [
+      "supplement basics",
+      "testing",
+      "health foundation"
+    ]
+  }
+]

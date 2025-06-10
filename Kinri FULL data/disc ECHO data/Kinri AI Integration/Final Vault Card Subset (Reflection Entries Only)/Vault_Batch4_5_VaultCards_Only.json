@@ -1,0 +1,23 @@
+[
+  {
+    "card_id": "memory_3_brain_health_and_optimization_005",
+    "card_type": "vault_card",
+    "headline": "Your Brain Reflects Your Habits",
+    "body": "You\u2019re not just what you eat\u2014you\u2019re what you do, feel, think, and repeat. Memory thrives on ritual.",
+    "prompt": "What one habit could you improve this week to give your brain a daily boost?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

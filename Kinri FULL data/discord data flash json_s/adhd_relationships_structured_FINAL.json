@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Why can relationships be intense for ADHDers?",
+    "answer": "ADHD can amplify emotional highs and lows, causing quick bonding, deep craving for connection, and fear of rejection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "emotional intensity"
+      ],
+      "narrative_type": [
+        "relationships"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_279_adhd_relationships"
+  },
+  {
+    "question": "What makes emotional needs complex in ADHD?",
+    "answer": "Needs fluctuate quickly. Rejection sensitivity, dysregulation, and trouble articulating needs make connection harder.",
+    "tags": {
+      "condition": [
+        "RSD"
+      ],
+      "emotion": [
+        "emotional needs"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_280_adhd_relationships"
+  },
+  {
+    "question": "How can ADHDers build safer relational patterns?",
+    "answer": "Clarify needs, practice self-regulation, create check-in rituals, and set boundaries around emotional spikes.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "self-regulation"
+      ],
+      "usage_mode": [
+        "relationship tools",
+        "boundaries"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_281_adhd_relationships"
+  },
+  {
+    "question": "Why is consistency hard in ADHD intimacy?",
+    "answer": "Low dopamine and task switching can make it hard to maintain daily relational habits\u2014even when love is strong.",
+    "tags": {
+      "condition": [
+        "relational ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "consistency",
+        "dopamine"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_282_adhd_relationships"
+  },
+  {
+    "headline": "Love Isn\u2019t Always Steady\u2014But It Can Be Safe",
+    "body": "ADHD doesn\u2019t block intimacy\u2014but it does require emotional tools, clear rituals, and more grace for the waves.",
+    "prompt": "What emotional need in your relationships could you name with more clarity and compassion this week?",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional expression",
+        "connection"
+      ],
+      "narrative_type": [
+        "ADHD intimacy"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_283_adhd_relationships"
+  }
+]

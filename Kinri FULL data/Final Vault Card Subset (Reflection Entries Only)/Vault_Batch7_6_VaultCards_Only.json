@@ -1,0 +1,113 @@
+[
+  {
+    "card_id": "trauma_10_emotional_regulation_and_grounding_techniques_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need to Feel Fine\u2014You Need to Feel Safe",
+    "body": "The goal isn\u2019t perfect calm. It\u2019s gentle reconnection with the moment you\u2019re in\u2014until your system softens.",
+    "prompt": "What tool helps you shift from overwhelm to a little more presence\u2014and could you use it sooner next time?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_6_nervous_system_regulation_and_repatterning_005",
+    "card_type": "vault_card",
+    "headline": "Regulation Rewires the Story",
+    "body": "You don\u2019t heal by forcing the pain out\u2014you heal by giving your body a new ending, over and over.",
+    "prompt": "What nervous system tool helps you return to safety\u2014and could you make it a daily rhythm?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_7_emotional_numbing_shutdown_freeze_recovery_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Cold\u2014You Froze to Survive",
+    "body": "Numbness is not the absence of feeling\u2014it\u2019s the body protecting what it wasn\u2019t yet safe to feel. Start gentle.",
+    "prompt": "What small act of warmth, movement, or permission could help thaw your system this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_8_shame_self_worth_internalized_beliefs_005",
+    "card_type": "vault_card",
+    "headline": "Shame Is a Shadow\u2014Not the Truth",
+    "body": "You were never the problem. Your beliefs were built to protect you. You get to choose new ones now.",
+    "prompt": "What belief are you still carrying that was never yours to begin with?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_9_reconnection_joy_post_traumatic_growth_005",
+    "card_type": "vault_card",
+    "headline": "Pain Isn\u2019t the End\u2014It\u2019s the Portal",
+    "body": "You\u2019re not here to suffer forever. You\u2019re here to feel again. Joy isn\u2019t a betrayal\u2014it\u2019s a return.",
+    "prompt": "What quiet joy could you allow this week\u2014not to erase pain, but to live alongside it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

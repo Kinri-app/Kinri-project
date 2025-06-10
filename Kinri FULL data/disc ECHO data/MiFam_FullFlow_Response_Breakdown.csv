@@ -1,0 +1,49 @@
+Symptom,User Score (0–4),Normalized Score,Diagnosis,Weight,Score Contribution
+Time Blindness,4,1.0,ADHD,1.0,1.0
+Time Blindness,4,1.0,Depression,0.5,0.5
+Time Blindness,4,1.0,Autism,0.5,0.5
+Time Blindness,4,1.0,PTSD,0.5,0.5
+Shame or Worthlessness,3,0.75,Depression,1.0,0.75
+Shame or Worthlessness,3,0.75,C-PTSD,1.0,0.75
+Shame or Worthlessness,3,0.75,BPD,1.0,0.75
+Shame or Worthlessness,3,0.75,PMDD,1.0,0.75
+Shame or Worthlessness,3,0.75,GAD,0.5,0.375
+Shame or Worthlessness,3,0.75,Autism,0.5,0.375
+Difficulty Prioritizing / Executive Dysfunction,4,1.0,ADHD,1.0,1.0
+Difficulty Prioritizing / Executive Dysfunction,4,1.0,Depression,1.0,1.0
+Difficulty Prioritizing / Executive Dysfunction,4,1.0,Autism,0.75,0.75
+Difficulty Prioritizing / Executive Dysfunction,4,1.0,C-PTSD,0.5,0.5
+Difficulty Prioritizing / Executive Dysfunction,4,1.0,PMDD,0.5,0.5
+Fear of Abandonment,2,0.5,BPD,1.0,0.5
+Fear of Abandonment,2,0.5,C-PTSD,0.75,0.375
+Fear of Abandonment,2,0.5,GAD,0.5,0.25
+Fear of Abandonment,2,0.5,Autism,0.25,0.125
+Over-Attunement to Others' Moods,2,0.5,C-PTSD,1.0,0.5
+Over-Attunement to Others' Moods,2,0.5,BPD,0.75,0.375
+Over-Attunement to Others' Moods,2,0.5,GAD,0.5,0.25
+Over-Attunement to Others' Moods,2,0.5,Autism,0.25,0.125
+Over-Attunement to Others' Moods,2,0.5,PMDD,0.25,0.125
+Suicidal Thoughts or Fantasies,3,0.75,Depression,1.0,0.75
+Suicidal Thoughts or Fantasies,3,0.75,BPD,1.0,0.75
+Suicidal Thoughts or Fantasies,3,0.75,C-PTSD,1.0,0.75
+Suicidal Thoughts or Fantasies,3,0.75,PMDD,1.0,0.75
+Suicidal Thoughts or Fantasies,3,0.75,PTSD,0.5,0.375
+Suicidal Thoughts or Fantasies,3,0.75,Bipolar II,0.5,0.375
+Extreme Sensitivity to Criticism,3,0.75,BPD,1.0,0.75
+Extreme Sensitivity to Criticism,3,0.75,C-PTSD,1.0,0.75
+Extreme Sensitivity to Criticism,3,0.75,ADHD,0.75,0.5625
+Extreme Sensitivity to Criticism,3,0.75,GAD,0.5,0.375
+Extreme Sensitivity to Criticism,3,0.75,Depression,0.5,0.375
+Self-Image Confusion or Identity Shifts,3,0.75,BPD,1.0,0.75
+Self-Image Confusion or Identity Shifts,3,0.75,C-PTSD,1.0,0.75
+Self-Image Confusion or Identity Shifts,3,0.75,Depression,0.5,0.375
+Self-Image Confusion or Identity Shifts,3,0.75,Autism,0.25,0.1875
+Difficulty Regulating Emotions,4,1.0,BPD,1.0,1.0
+Difficulty Regulating Emotions,4,1.0,C-PTSD,1.0,1.0
+Difficulty Regulating Emotions,4,1.0,PMDD,1.0,1.0
+Difficulty Regulating Emotions,4,1.0,ADHD,0.5,0.5
+Difficulty Regulating Emotions,4,1.0,Bipolar II,0.5,0.5
+Flashbacks (Emotional or Visual),3,0.75,PTSD,1.0,0.75
+Flashbacks (Emotional or Visual),3,0.75,C-PTSD,1.0,0.75
+Flashbacks (Emotional or Visual),3,0.75,BPD,0.25,0.1875
+Flashbacks (Emotional or Visual),3,0.75,GAD,0.25,0.1875

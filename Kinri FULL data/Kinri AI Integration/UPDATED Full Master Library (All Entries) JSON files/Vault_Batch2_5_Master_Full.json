@@ -1,0 +1,800 @@
+[
+  {
+    "card_id": "dopamine_2_motivation_procrastination_goal_pursuit_001",
+    "card_type": "flashcard",
+    "question": "Why does procrastination often happen?",
+    "answer": "It\u2019s triggered by dopamine troughs\u2014when your brain resists tasks that don\u2019t deliver immediate pleasure or progress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_2_motivation_procrastination_goal_pursuit_002",
+    "card_type": "flashcard",
+    "question": "What helps overcome dopamine resistance?",
+    "answer": "Effortful action\u2014even a small hard step\u2014begins to elevate dopamine and rebuild momentum.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_2_motivation_procrastination_goal_pursuit_003",
+    "card_type": "flashcard",
+    "question": "Why is waiting for motivation flawed?",
+    "answer": "Motivation follows action\u2014not the other way around. Action raises dopamine, which fuels more action.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_2_motivation_procrastination_goal_pursuit_004",
+    "card_type": "flashcard",
+    "question": "How can we make effort feel rewarding?",
+    "answer": "Reframe friction as progress. Dopamine increases when effort itself is tied to identity and long-term meaning.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_2_motivation_procrastination_goal_pursuit_005",
+    "card_type": "vault_card",
+    "headline": "Start Before You\u2019re Ready",
+    "body": "Waiting for motivation is a trap. When you move first, your brain follows\u2014and the dopamine rises.",
+    "prompt": "What small, meaningful action could you take today\u2014without needing to feel ready first?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_6_real_motivation_and_delayed_gratification_001",
+    "card_type": "flashcard",
+    "question": "How does delayed gratification support dopamine health?",
+    "answer": "Spacing out rewards lowers baseline disruption, trains resilience, and keeps motivation sustainable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_6_real_motivation_and_delayed_gratification_002",
+    "card_type": "flashcard",
+    "question": "Why is it helpful to make effort feel rewarding?",
+    "answer": "Framing effort as meaningful increases dopamine during hard work, reducing burnout and boosting satisfaction.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_6_real_motivation_and_delayed_gratification_003",
+    "card_type": "flashcard",
+    "question": "What mindset increases dopamine resilience?",
+    "answer": "Growth mindset\u2014viewing struggle as progress, using phrases like 'I can\u2019t yet' instead of giving up.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_6_real_motivation_and_delayed_gratification_004",
+    "card_type": "flashcard",
+    "question": "How does long-term vision support motivation?",
+    "answer": "It provides context and meaning, anchoring daily actions to identity-based goals and deeper purpose.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_6_real_motivation_and_delayed_gratification_005",
+    "card_type": "vault_card",
+    "headline": "Train the Climb, Not the High",
+    "body": "Real dopamine mastery isn\u2019t about chasing fireworks\u2014it\u2019s about loving the process that earns the light.",
+    "prompt": "What challenging habit could become enjoyable if you reframed the effort as a signal of growth?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_001",
+    "card_type": "flashcard",
+    "question": "What is rejection sensitivity dysphoria (RSD)?",
+    "answer": "RSD is an intense emotional response to perceived criticism, rejection, or disapproval \u2014 common in ADHD and trauma histories.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_002",
+    "card_type": "flashcard",
+    "question": "How does rejection sensitivity affect communication?",
+    "answer": "It can lead to over-interpreting tone or pauses as criticism, causing defensiveness, shutdowns, or emotional spirals mid-convo.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_003",
+    "card_type": "flashcard",
+    "question": "Why is RSD common in neurodivergent individuals?",
+    "answer": "Many have experienced repeated invalidation, correction, or social confusion \u2014 wiring the brain to expect criticism.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_004",
+    "card_type": "flashcard",
+    "question": "What helps regulate a rejection spiral in real time?",
+    "answer": "Pause, breathe, label the feeling, and ask: \u201cIs this a story I\u2019m telling myself, or something I can clarify?\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_005",
+    "card_type": "flashcard",
+    "question": "How does RSD affect listening?",
+    "answer": "It can make feedback feel like a personal attack, making it hard to stay open or reflect instead of react.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_006",
+    "card_type": "flashcard",
+    "question": "What phrases help de-escalate RSD mid-conversation?",
+    "answer": "\u201cI care about you. This isn\u2019t criticism \u2014 I\u2019m trying to connect.\u201d or \u201cWe\u2019re on the same team.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_007",
+    "card_type": "flashcard",
+    "question": "How can a partner support someone with RSD?",
+    "answer": "Use gentle tone, affirm care often, clarify intentions, and allow space for regulation before continuing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_008",
+    "card_type": "flashcard",
+    "question": "Can RSD cause communication avoidance?",
+    "answer": "Yes. Fear of saying the wrong thing or being judged may lead to silence, people-pleasing, or withdrawal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_009",
+    "card_type": "flashcard",
+    "question": "Why is self-compassion key in RSD recovery?",
+    "answer": "It helps break the shame loop and builds a sense of internal safety, so feedback isn\u2019t experienced as rejection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_008_rejection_sensitivity_in_conversation_010",
+    "card_type": "flashcard",
+    "question": "What mindset shift supports healthier conversations with RSD?",
+    "answer": "Assume positive intent unless clarified otherwise \u2014 and ask instead of assuming.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_001",
+    "card_type": "flashcard",
+    "question": "What is validation in communication?",
+    "answer": "Validation is showing someone that their thoughts, emotions, or experiences make sense \u2014 even if you don\u2019t fully agree.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_002",
+    "card_type": "flashcard",
+    "question": "Why is validation important?",
+    "answer": "It reduces shame, builds safety, and shows you care more about their experience than being right.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_003",
+    "card_type": "flashcard",
+    "question": "What is reflective listening?",
+    "answer": "It\u2019s listening actively and repeating back the essence of what was said to confirm you heard it accurately.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s an example of reflective listening?",
+    "answer": "\u201cSo what I\u2019m hearing is, you felt really overwhelmed when that happened \u2014 is that right?\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_005",
+    "card_type": "flashcard",
+    "question": "How does validation reduce conflict?",
+    "answer": "It helps the other person feel seen and lowers their defenses \u2014 making resolution easier.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_006",
+    "card_type": "flashcard",
+    "question": "Why might someone struggle to validate?",
+    "answer": "They may fear agreeing with something they disagree with \u2014 but validation is about empathy, not agreement.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_007",
+    "card_type": "flashcard",
+    "question": "What is invalidation?",
+    "answer": "Invalidation is dismissing or minimizing someone\u2019s emotions \u2014 saying things like 'you\u2019re overreacting' or 'just calm down.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_008",
+    "card_type": "flashcard",
+    "question": "How can validation support trauma healing?",
+    "answer": "When someone\u2019s pain is met with empathy instead of dismissal, it creates corrective emotional experiences.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_009",
+    "card_type": "flashcard",
+    "question": "What are some validating phrases?",
+    "answer": "\u201cThat makes sense.\u201d \u201cI get why that was hard.\u201d \u201cI\u2019d probably feel that way too in your shoes.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_013_validation_and_reflective_listening_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports reflective listening?",
+    "answer": "Curiosity over control. Your goal is to understand, not fix, defend, or debate.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_001",
+    "card_type": "flashcard",
+    "question": "What is a shutdown in communication?",
+    "answer": "A shutdown is when someone becomes emotionally overwhelmed or dissociated, making it hard to speak, think, or respond.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_002",
+    "card_type": "flashcard",
+    "question": "What causes shutdowns in a conversation?",
+    "answer": "Overstimulation, emotional flooding, trauma triggers, or feeling unsafe can all lead to a shutdown response.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_003",
+    "card_type": "flashcard",
+    "question": "What does a shutdown look like?",
+    "answer": "Flat tone, silence, blank stare, turned away body, inability to answer questions, or minimal responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_004",
+    "card_type": "flashcard",
+    "question": "Why is it important to recognize a shutdown?",
+    "answer": "Trying to push through it can increase distress. Recognition allows for regulation, not escalation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_005",
+    "card_type": "flashcard",
+    "question": "What should you do when someone shuts down?",
+    "answer": "Lower your tone, pause the conversation, give space, or offer grounding support if it\u2019s wanted.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_006",
+    "card_type": "flashcard",
+    "question": "What can you say if you\u2019re the one shutting down?",
+    "answer": "\u201cI want to talk but I\u2019m overwhelmed. Can we take a break and come back when I feel safe again?\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_007",
+    "card_type": "flashcard",
+    "question": "What helps prevent shutdowns before they happen?",
+    "answer": "Early check-ins, pacing hard topics slowly, reducing sensory input, and agreeing on pause signals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_008",
+    "card_type": "flashcard",
+    "question": "Can you communicate effectively during a shutdown?",
+    "answer": "Not usually. The brain prioritizes survival over language \u2014 safety must return before clarity is possible.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_009",
+    "card_type": "flashcard",
+    "question": "What body cues might signal an incoming shutdown?",
+    "answer": "Sudden fatigue, blank thoughts, cold limbs, holding breath, or feeling far away from your body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_018_communicating_during_shutdowns_010",
+    "card_type": "flashcard",
+    "question": "What is a long-term approach to reduce shutdowns?",
+    "answer": "Practicing nervous system regulation daily, building repair trust with your partner, and pacing emotional exposure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

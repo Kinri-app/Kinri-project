@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the gut-brain axis?",
+    "answer": "The gut-brain axis is the bidirectional communication system between the gut microbiome and the brain, involving nerves, hormones, and immune signals.",
+    "tags": [
+      "gut-brain axis",
+      "microbiome",
+      "communication"
+    ]
+  },
+  {
+    "question": "How does the gut microbiome influence mental health?",
+    "answer": "It produces neurotransmitters like serotonin and GABA, regulates inflammation, and affects stress response \u2014 all crucial for mood and cognition.",
+    "tags": [
+      "neurotransmitters",
+      "mood",
+      "mental health"
+    ]
+  },
+  {
+    "question": "What is the role of the vagus nerve in the gut-brain axis?",
+    "answer": "The vagus nerve is a major pathway linking gut signals to the brain, transmitting messages about gut health, inflammation, and stress.",
+    "tags": [
+      "vagus nerve",
+      "nervous system",
+      "gut-brain"
+    ]
+  },
+  {
+    "question": "How does gut inflammation affect the brain?",
+    "answer": "Gut inflammation can increase systemic inflammation and disrupt the blood-brain barrier, contributing to anxiety, depression, and brain fog.",
+    "tags": [
+      "inflammation",
+      "blood-brain barrier",
+      "cognition"
+    ]
+  },
+  {
+    "question": "Can probiotics impact mental health?",
+    "answer": "Certain probiotics, known as psychobiotics, may reduce anxiety and depressive symptoms by modulating gut-brain communication and inflammation.",
+    "tags": [
+      "probiotics",
+      "psychobiotics",
+      "mental health"
+    ]
+  },
+  {
+    "question": "What lifestyle factors support the gut-brain connection?",
+    "answer": "Fiber-rich diet, stress reduction, sleep, exercise, and fermented foods all strengthen the gut-brain axis.",
+    "tags": [
+      "lifestyle",
+      "diet",
+      "gut-brain health"
+    ]
+  },
+  {
+    "question": "Is there a link between the microbiome and conditions like ADHD or autism?",
+    "answer": "Emerging research suggests microbiome differences in neurodivergent individuals, possibly influencing behavior and sensory regulation via the gut-brain axis.",
+    "tags": [
+      "ADHD",
+      "autism",
+      "microbiome research"
+    ]
+  },
+  {
+    "question": "What is the enteric nervous system?",
+    "answer": "The enteric nervous system is a network of neurons in the gut often called the 'second brain' \u2014 it regulates digestion and interacts with the brain.",
+    "tags": [
+      "enteric nervous system",
+      "gut",
+      "second brain"
+    ]
+  },
+  {
+    "question": "How does stress impact the gut-brain axis?",
+    "answer": "Chronic stress disrupts gut microbes, reduces beneficial bacteria, increases gut permeability, and sends danger signals to the brain.",
+    "tags": [
+      "stress",
+      "gut dysbiosis",
+      "permeability"
+    ]
+  },
+  {
+    "question": "Can improving gut health improve mood?",
+    "answer": "Yes. Supporting gut health with diet, probiotics, and lifestyle changes has shown promise in improving emotional resilience and mental clarity.",
+    "tags": [
+      "mood",
+      "diet",
+      "gut health"
+    ]
+  }
+]

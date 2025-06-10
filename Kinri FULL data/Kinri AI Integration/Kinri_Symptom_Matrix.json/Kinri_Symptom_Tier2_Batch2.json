@@ -1,0 +1,220 @@
+[
+  {
+    "prompt": "Do you feel like your sense of self shifts depending on who you\u2019re with?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "identity_confusion",
+        "adaptation_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do your thoughts ever spiral into worst-case scenarios, even when things are fine?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "GAD",
+        "OCD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "catastrophizing",
+        "worry"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes feel like you're watching your life instead of living it?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "Depression"
+      ],
+      "emotion": [
+        "dissociation",
+        "detachment"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel panicky or overstimulated in crowds or noisy environments?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Autism",
+        "PTSD",
+        "ADHD"
+      ],
+      "emotion": [
+        "sensory_overload",
+        "panic"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do your moods swing in ways that feel outside your control?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Bipolar II",
+        "PMDD"
+      ],
+      "emotion": [
+        "mood_swings",
+        "instability"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you\u2019re always scanning for danger or betrayal?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD",
+        "GAD"
+      ],
+      "emotion": [
+        "hypervigilance",
+        "mistrust"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you get intense cravings for stimulation, movement, or novelty?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Bipolar II"
+      ],
+      "emotion": [
+        "boredom",
+        "restlessness"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever obsess about needing to fix or undo something you regret?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "OCD",
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "guilt",
+        "rumination"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "compare_support"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like people expect you to be okay when you're not?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "Depression"
+      ],
+      "emotion": [
+        "invisibility",
+        "pressure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever self-harmed, or felt the urge to, as a way to manage overwhelming emotion?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "self_harm_urge",
+        "emotional_pain"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

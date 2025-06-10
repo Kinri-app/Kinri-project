@@ -1,0 +1,87 @@
+[
+  {
+    "question": "What is a habit cycle?",
+    "answer": "A loop of cue \u2192 craving \u2192 response \u2192 reward\u2014your brain builds routines to meet needs efficiently, even when they're unhealthy.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "habits",
+        "neuroscience",
+        "reward loop"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_301_habit_cycles_triggers"
+  },
+  {
+    "question": "Why do emotional triggers reinforce habits?",
+    "answer": "Because your brain links emotional states to familiar coping behaviors\u2014even if the behavior doesn't truly help.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "triggers",
+        "behavior"
+      ],
+      "usage_mode": [
+        "emotional regulation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_302_habit_cycles_triggers"
+  },
+  {
+    "question": "How can you identify your habit triggers?",
+    "answer": "Track when the habit shows up\u2014what were you feeling, where were you, and what need were you trying to meet?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "self-awareness",
+        "pattern recognition"
+      ],
+      "usage_mode": [
+        "tracking"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_303_habit_cycles_triggers"
+  },
+  {
+    "question": "What makes changing habits so difficult?",
+    "answer": "The nervous system sees familiar habits as safety\u2014even if they're harmful. Change can feel like threat.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [
+        "resistance"
+      ],
+      "narrative_type": [
+        "healing"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_304_habit_cycles_triggers"
+  },
+  {
+    "headline": "You Don\u2019t Break Habits\u2014You Replace Them",
+    "body": "Your brain loves routine. The key isn\u2019t force\u2014it\u2019s finding a new pattern that feels safer, softer, and more aligned.",
+    "prompt": "What habit loop has been speaking the loudest lately\u2014and what new response could you gently test this week?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "healing",
+        "habits",
+        "emotional triggers"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_305_habit_cycles_triggers"
+  }
+]

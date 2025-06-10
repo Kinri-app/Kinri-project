@@ -1,0 +1,88 @@
+[
+  {
+    "question": "Why does your environment matter in habit formation?",
+    "answer": "Environment cues habits\u2014what you see, feel, and access shapes what you default to when energy is low.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "environment",
+        "habit design",
+        "behavioral cues"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_309_environment_design"
+  },
+  {
+    "question": "What makes an environment unsafe for habit change?",
+    "answer": "Overwhelm, clutter, overstimulation, and emotional pressure make change feel chaotic instead of supportive.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [
+        "resistance"
+      ],
+      "narrative_type": [
+        "stress"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_310_environment_design"
+  },
+  {
+    "question": "How can you design for habit success?",
+    "answer": "Make cues visible, simplify setup, reduce friction, and create soothing anchors around the new habit.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "behavioral science",
+        "habit stacking",
+        "setup"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_311_environment_design"
+  },
+  {
+    "question": "What helps the nervous system feel safe with change?",
+    "answer": "Calm light, soft structure, low-pressure reminders, and choosing environments where you feel supported.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional safety"
+      ],
+      "narrative_type": [
+        "healing"
+      ],
+      "usage_mode": [
+        "environment design"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_312_environment_design"
+  },
+  {
+    "headline": "Change What\u2019s Around You to Support What\u2019s Within You",
+    "body": "Your habits are shaped by your surroundings. Build a world that holds the version of you you\u2019re becoming.",
+    "prompt": "What part of your environment could be changed this week to make your next habit feel 50% safer?",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "environmental cues",
+        "healing"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "habit_flashcards_313_environment_design"
+  }
+]

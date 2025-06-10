@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the microbiome\u2019s role in future precision medicine?",
+    "answer": "Microbiome analysis may be used to tailor personalized diets, medications, and therapies based on individual gut profiles.",
+    "tags": [
+      "precision medicine",
+      "personalization",
+      "future health"
+    ]
+  },
+  {
+    "question": "What are psychobiotics?",
+    "answer": "Psychobiotics are specific probiotics or microbial compounds that influence mental health through the gut-brain axis.",
+    "tags": [
+      "psychobiotics",
+      "mental health",
+      "gut-brain"
+    ]
+  },
+  {
+    "question": "How might microbiome science help treat chronic illness?",
+    "answer": "By restoring gut balance, reducing inflammation, and enhancing metabolic function, microbiome-based therapies may support conditions like diabetes, IBD, and depression.",
+    "tags": [
+      "chronic illness",
+      "gut therapies",
+      "inflammation"
+    ]
+  },
+  {
+    "question": "What is metagenomics in microbiome research?",
+    "answer": "Metagenomics is the study of genetic material from entire microbial communities \u2014 allowing researchers to map complex microbiome function.",
+    "tags": [
+      "metagenomics",
+      "gene mapping",
+      "microbial communities"
+    ]
+  },
+  {
+    "question": "What\u2019s the potential of microbiome transplants?",
+    "answer": "Fecal microbiota transplants (FMT) and future engineered microbial cocktails may treat infections, dysbiosis, and even brain-related conditions.",
+    "tags": [
+      "FMT",
+      "microbial cocktails",
+      "gut reset"
+    ]
+  },
+  {
+    "question": "Could microbiome data predict disease risk?",
+    "answer": "Possibly. Ongoing research explores using gut profiles to forecast risks for obesity, allergies, mood disorders, and more.",
+    "tags": [
+      "predictive health",
+      "gut profile",
+      "risk assessment"
+    ]
+  },
+  {
+    "question": "What are next-generation probiotics?",
+    "answer": "These are highly specific strains or genetically engineered microbes designed to target precise functions or symptoms.",
+    "tags": [
+      "next-gen probiotics",
+      "biotech",
+      "targeted treatment"
+    ]
+  },
+  {
+    "question": "How might artificial intelligence (AI) help microbiome science?",
+    "answer": "AI can analyze massive microbiome datasets to uncover patterns, predict outcomes, and design personalized interventions.",
+    "tags": [
+      "AI",
+      "data science",
+      "pattern analysis"
+    ]
+  },
+  {
+    "question": "What barriers exist to microbiome-based treatments?",
+    "answer": "Variability between individuals, ethical concerns, regulation, and the complexity of microbial ecosystems present ongoing challenges.",
+    "tags": [
+      "barriers",
+      "ethics",
+      "regulation"
+    ]
+  },
+  {
+    "question": "Why is microbiome science considered revolutionary?",
+    "answer": "It challenges traditional models by revealing how microbes shape health, emotion, and disease \u2014 offering entirely new avenues for treatment.",
+    "tags": [
+      "paradigm shift",
+      "new medicine",
+      "revolution"
+    ]
+  }
+]

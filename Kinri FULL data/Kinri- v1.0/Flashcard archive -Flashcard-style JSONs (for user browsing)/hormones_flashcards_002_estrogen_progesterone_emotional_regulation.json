@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is estrogen?",
+    "answer": "Estrogen is a primary sex hormone involved in reproduction, but it also supports mood, cognition, bone health, and serotonin production.",
+    "tags": [
+      "estrogen",
+      "hormones",
+      "mood"
+    ]
+  },
+  {
+    "question": "What is progesterone?",
+    "answer": "Progesterone is a hormone that balances estrogen, supports sleep, calms the nervous system, and helps regulate cycles and mood.",
+    "tags": [
+      "progesterone",
+      "calm",
+      "balance"
+    ]
+  },
+  {
+    "question": "How do estrogen and progesterone affect the brain?",
+    "answer": "Estrogen supports serotonin, dopamine, and cognitive clarity; progesterone helps GABA activity, reducing anxiety and promoting rest.",
+    "tags": [
+      "neurotransmitters",
+      "estrogen",
+      "progesterone"
+    ]
+  },
+  {
+    "question": "What happens when estrogen drops?",
+    "answer": "Low estrogen can lead to mood swings, anxiety, brain fog, low motivation, and increased sensitivity to stress.",
+    "tags": [
+      "low estrogen",
+      "mood swings",
+      "stress"
+    ]
+  },
+  {
+    "question": "How does progesterone affect sleep and anxiety?",
+    "answer": "Progesterone boosts GABA, a calming neurotransmitter \u2014 when it\u2019s low, sleep and emotional regulation suffer.",
+    "tags": [
+      "progesterone",
+      "GABA",
+      "sleep"
+    ]
+  },
+  {
+    "question": "When do estrogen and progesterone naturally fluctuate?",
+    "answer": "They shift throughout the menstrual cycle, drop during perimenopause, and change with age, stress, or certain medications.",
+    "tags": [
+      "cycle",
+      "perimenopause",
+      "fluctuation"
+    ]
+  },
+  {
+    "question": "How can hormonal shifts mimic mental health disorders?",
+    "answer": "Sudden drops or imbalances in estrogen and progesterone can look like anxiety, depression, or ADHD exacerbation.",
+    "tags": [
+      "hormonal mood",
+      "diagnosis confusion",
+      "mental health"
+    ]
+  },
+  {
+    "question": "What lifestyle factors support estrogen and progesterone balance?",
+    "answer": "Stress management, blood sugar stability, sleep, movement, and healthy fat intake support hormone balance.",
+    "tags": [
+      "hormone balance",
+      "nutrition",
+      "lifestyle"
+    ]
+  },
+  {
+    "question": "How do birth control and HRT affect these hormones?",
+    "answer": "They can regulate, suppress, or replace natural levels \u2014 impacting emotional regulation depending on the person and formula.",
+    "tags": [
+      "birth control",
+      "HRT",
+      "mood"
+    ]
+  },
+  {
+    "question": "What\u2019s one early sign of hormone-related dysregulation?",
+    "answer": "Increased mood swings or anxiety right before your cycle or with sleep changes can signal shifting hormone levels.",
+    "tags": [
+      "early signs",
+      "hormonal mood",
+      "regulation"
+    ]
+  }
+]

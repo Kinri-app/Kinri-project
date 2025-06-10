@@ -1,0 +1,798 @@
+[
+  {
+    "card_id": "nutrition_20_safe_reintroduction_and_food_neutrality_001",
+    "card_type": "flashcard",
+    "question": "What is food neutrality?",
+    "answer": "Seeing food without moral judgment\u2014removing the labels of 'good' or 'bad' to reduce shame and restore choice.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_20_safe_reintroduction_and_food_neutrality_002",
+    "card_type": "flashcard",
+    "question": "Why is reintroduction important after restriction?",
+    "answer": "Avoided foods may trigger fear, guilt, or binge cycles\u2014slow reintroduction helps restore safety and balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_20_safe_reintroduction_and_food_neutrality_003",
+    "card_type": "flashcard",
+    "question": "How can you make reintroduction feel safer?",
+    "answer": "Start small, eat with support, avoid distractions, and reflect on emotional and physical responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_20_safe_reintroduction_and_food_neutrality_004",
+    "card_type": "flashcard",
+    "question": "What mindset shift helps reduce food guilt?",
+    "answer": "Every food is information, not a test. Your body knows how to sort, adapt, and recalibrate.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_20_safe_reintroduction_and_food_neutrality_005",
+    "card_type": "vault_card",
+    "headline": "Food Is Not a Test\u2014It\u2019s a Relationship",
+    "body": "You don\u2019t pass or fail meals. You rebuild trust, one bite at a time. All foods belong when shame steps back.",
+    "prompt": "What food have you feared\u2014and what would it mean to approach it with neutrality, not judgment, this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_21_nervous_system_meals_and_recovery_states_001",
+    "card_type": "flashcard",
+    "question": "What is the goal of nervous system meals?",
+    "answer": "To provide steady fuel, reduce inflammation, and support emotional regulation with mineral-rich, grounding foods.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_21_nervous_system_meals_and_recovery_states_002",
+    "card_type": "flashcard",
+    "question": "How does eating during recovery differ from peak performance fueling?",
+    "answer": "Recovery needs warmth, simplicity, hydration, and safety. Peak fueling needs energy, activation, and brain support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_21_nervous_system_meals_and_recovery_states_003",
+    "card_type": "flashcard",
+    "question": "What foods help after nervous system crashes?",
+    "answer": "Broth, bananas, oats, eggs, smoothies, salt, and lightly cooked meals that are easy to digest and soothing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_21_nervous_system_meals_and_recovery_states_004",
+    "card_type": "flashcard",
+    "question": "How can meal timing help with emotional repair?",
+    "answer": "Predictable meals reduce survival stress\u2014creating rhythmic safety and teaching your body that support is coming.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_21_nervous_system_meals_and_recovery_states_005",
+    "card_type": "vault_card",
+    "headline": "Regulate First\u2014Fuel Second",
+    "body": "When your nervous system is fried, don\u2019t eat for macros\u2014eat for medicine. Give it softness, minerals, and safety.",
+    "prompt": "What does your nervous system need from food right now: energy, safety, or softness?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_22_meal_freedom_structure_and_personalization_001",
+    "card_type": "flashcard",
+    "question": "What is nutritional freedom?",
+    "answer": "It means eating with flexibility, self-trust, and alignment to your needs\u2014not rigid rules or fear-based plans.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_22_meal_freedom_structure_and_personalization_002",
+    "card_type": "flashcard",
+    "question": "Why does structure help more than restriction?",
+    "answer": "Structure gives rhythm, which builds nervous system trust\u2014restriction increases stress and reactive eating.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_22_meal_freedom_structure_and_personalization_003",
+    "card_type": "flashcard",
+    "question": "How can someone personalize their eating strategy?",
+    "answer": "Track energy, mood, digestion, and cravings\u2014not just calories\u2014to create a pattern that works for your body.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_22_meal_freedom_structure_and_personalization_004",
+    "card_type": "flashcard",
+    "question": "What helps build long-term nutrition resilience?",
+    "answer": "Flexible meals, curiosity, forgiveness for off days, and a focus on consistency over perfection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_22_meal_freedom_structure_and_personalization_005",
+    "card_type": "vault_card",
+    "headline": "Your Body Isn\u2019t a Formula\u2014It\u2019s a Feedback Loop",
+    "body": "Nutrition that works is responsive, not rigid. You\u2019re allowed to eat like someone who listens to themselves.",
+    "prompt": "What part of your food routine needs more structure\u2014or more freedom\u2014this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_15_nervous_system_rebuilding_and_minerals_001",
+    "card_type": "flashcard",
+    "question": "What minerals are most critical for nervous system health?",
+    "answer": "Magnesium, potassium, sodium, and calcium\u2014essential for nerve conduction, hydration, and muscle balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_15_nervous_system_rebuilding_and_minerals_002",
+    "card_type": "flashcard",
+    "question": "How does trauma or stress deplete minerals?",
+    "answer": "Stress increases cortisol and adrenaline, which flush out key minerals and increase the body\u2019s demand for replenishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_15_nervous_system_rebuilding_and_minerals_003",
+    "card_type": "flashcard",
+    "question": "What foods help restore minerals?",
+    "answer": "Leafy greens, sea salt, coconut water, bone broth, seeds, citrus, and quality electrolytes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_15_nervous_system_rebuilding_and_minerals_004",
+    "card_type": "flashcard",
+    "question": "Why is mineral balance important during nervous system recovery?",
+    "answer": "Without balance, you may experience fatigue, anxiety, dizziness, muscle cramps, or poor sleep\u2014even if eating enough.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_15_nervous_system_rebuilding_and_minerals_005",
+    "card_type": "vault_card",
+    "headline": "Your Calm Runs on Minerals",
+    "body": "You don\u2019t just calm down with breathwork\u2014you calm down with chemistry. And minerals are the wiring that carry peace.",
+    "prompt": "What mineral-rich food or drink could you add in this week to help your nervous system recharge?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_16_food_as_communication_rhythm_relationship_001",
+    "card_type": "flashcard",
+    "question": "How is food a form of communication?",
+    "answer": "What, when, and how we eat sends signals about safety, control, care, connection, and belonging.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_16_food_as_communication_rhythm_relationship_002",
+    "card_type": "flashcard",
+    "question": "Why is rhythm important in food relationships?",
+    "answer": "Rhythm builds nervous system trust\u2014predictable meals create emotional grounding and reduce reactivity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_16_food_as_communication_rhythm_relationship_003",
+    "card_type": "flashcard",
+    "question": "How can eating patterns reflect self-worth?",
+    "answer": "Skipping meals, overeating, or choosing foods that make us feel bad may signal emotional neglect or shame.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_16_food_as_communication_rhythm_relationship_004",
+    "card_type": "flashcard",
+    "question": "What food ritual supports nervous system trust?",
+    "answer": "Gentle, consistent mealtimes with grounding cues like warm food, soft lighting, or silence build calm and connection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_16_food_as_communication_rhythm_relationship_005",
+    "card_type": "vault_card",
+    "headline": "Food Is Not Just Fuel\u2014It\u2019s Language",
+    "body": "Every bite is a message. You can use food to speak safety, intention, and love\u2014starting with yourself.",
+    "prompt": "What food rhythm or ritual could you shift this week to reflect more trust or care?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_17_gut_healing_calm_digestive_safety_001",
+    "card_type": "flashcard",
+    "question": "Why is the gut so sensitive to stress?",
+    "answer": "The gut is wired to the brain via the vagus nerve\u2014stress disrupts digestion, reduces blood flow, and triggers inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_17_gut_healing_calm_digestive_safety_002",
+    "card_type": "flashcard",
+    "question": "What are signs your digestion is dysregulated?",
+    "answer": "Bloating, cramping, nausea, irregular bowels, fatigue after meals, or discomfort with certain foods.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_17_gut_healing_calm_digestive_safety_003",
+    "card_type": "flashcard",
+    "question": "What foods support gut healing?",
+    "answer": "Cooked vegetables, bone broth, fermented foods, low-FODMAP options, collagen, and anti-inflammatory herbs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_17_gut_healing_calm_digestive_safety_004",
+    "card_type": "flashcard",
+    "question": "What rituals help calm digestion?",
+    "answer": "Deep breathing before eating, chewing slowly, warm liquids, mindful posture, and eating in quiet environments.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_17_gut_healing_calm_digestive_safety_005",
+    "card_type": "vault_card",
+    "headline": "You Can\u2019t Heal if You Can\u2019t Digest",
+    "body": "Your gut isn\u2019t just what you eat\u2014it\u2019s how safe you feel when you eat it. Calm your system. Then nourish it.",
+    "prompt": "What\u2019s one ritual you could try this week to bring more calm to your meals?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_18_nervous_system_eating_and_calm_focused_fueling_001",
+    "card_type": "flashcard",
+    "question": "What is nervous system eating?",
+    "answer": "Choosing foods and rhythms that support calm, clarity, and regulation instead of just reacting to cravings or fatigue.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_18_nervous_system_eating_and_calm_focused_fueling_002",
+    "card_type": "flashcard",
+    "question": "How does eating for focus differ from eating for calm?",
+    "answer": "Focus-supporting foods are protein-rich, energizing, and dopamine-friendly; calm meals are warm, grounding, and mineral-rich.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_18_nervous_system_eating_and_calm_focused_fueling_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s a good nervous system breakfast?",
+    "answer": "Protein + fat + fiber + minerals\u2014e.g., eggs, avocado, spinach, and salt for blood sugar and brain support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_18_nervous_system_eating_and_calm_focused_fueling_004",
+    "card_type": "flashcard",
+    "question": "Why is the nervous system impacted by how we eat?",
+    "answer": "Fast, chaotic eating keeps the body in stress mode\u2014slowness and intention trigger the rest-digest state.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_18_nervous_system_eating_and_calm_focused_fueling_005",
+    "card_type": "vault_card",
+    "headline": "Fuel Like Your Calm Depends On It",
+    "body": "Because it does. Your nervous system needs minerals, rhythm, warmth, and protein\u2014not just calories.",
+    "prompt": "What meal this week could you prep or approach with more intention\u2014aimed at calm or clarity?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_19_food_trauma_safety_and_rebuilding_trust_001",
+    "card_type": "flashcard",
+    "question": "What is food trauma?",
+    "answer": "Emotional or physical experiences where food became linked to control, shame, fear, or emotional neglect.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_19_food_trauma_safety_and_rebuilding_trust_002",
+    "card_type": "flashcard",
+    "question": "How does food trauma show up later in life?",
+    "answer": "Controlling food, binge-restrict cycles, body shame, meal anxiety, or dissociation during eating.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_19_food_trauma_safety_and_rebuilding_trust_003",
+    "card_type": "flashcard",
+    "question": "What heals food-based trauma?",
+    "answer": "Gentle rituals, safe self-expression, slow reconnection to hunger and fullness cues, and self-trust rebuilding.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_19_food_trauma_safety_and_rebuilding_trust_004",
+    "card_type": "flashcard",
+    "question": "Why does nervous system safety matter in eating recovery?",
+    "answer": "Without safety, the body stays in survival mode\u2014healing requires a felt sense of permission to receive nourishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_19_food_trauma_safety_and_rebuilding_trust_005",
+    "card_type": "vault_card",
+    "headline": "You Deserve to Eat in Peace",
+    "body": "You were never supposed to fear food. You were supposed to be fed. Healing is giving that gift back to yourself.",
+    "prompt": "What food story still holds pain\u2014and what truth could begin to rewrite it with love?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

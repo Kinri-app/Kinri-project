@@ -1,0 +1,85 @@
+[
+  {
+    "question": "What practices help restore baseline dopamine levels?",
+    "answer": "Sunlight, cold exposure, movement, NSDR (non-sleep deep rest), and creative rest rebuild dopamine balance.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "baseline",
+        "restoration"
+      ],
+      "usage_mode": [
+        "dopamine reset"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_334_dopamine_reset"
+  },
+  {
+    "question": "How long does it take to reset dopamine sensitivity?",
+    "answer": "Anywhere from 2 to 6 weeks, depending on prior overstimulation and consistency of recovery habits.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "dopamine timeline",
+        "reset process",
+        "neuroplasticity"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_335_dopamine_reset"
+  },
+  {
+    "question": "What\u2019s the risk of relying on quick dopamine boosters?",
+    "answer": "It leads to a crash cycle\u2014temporary pleasure followed by a deeper trough that weakens motivation and focus.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "dopamine crash",
+        "overreliance",
+        "fatigue"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_336_dopamine_reset"
+  },
+  {
+    "question": "Why is deliberate discomfort useful in recovery?",
+    "answer": "Cold, stillness, and effortful focus build dopamine resilience\u2014training the brain to find pleasure in effort again.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "resilience"
+      ],
+      "narrative_type": [
+        "neurotraining",
+        "mental strength"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_337_dopamine_reset"
+  },
+  {
+    "headline": "Reset Is Not Deprivation\u2014It\u2019s Recovery",
+    "body": "When your brain rests, it resets. When it resets, it sees clearly. Recovery is clarity.",
+    "prompt": "What overstimulating habit could you pause this week to give your brain a clearer baseline?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "reset",
+        "clarity",
+        "dopamine repair"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_338_dopamine_reset"
+  }
+]

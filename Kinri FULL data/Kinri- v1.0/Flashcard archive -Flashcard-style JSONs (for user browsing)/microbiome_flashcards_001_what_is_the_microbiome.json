@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the microbiome?",
+    "answer": "The microbiome refers to the trillions of microorganisms \u2014 including bacteria, viruses, fungi, and more \u2014 that live in and on the human body, especially the gut.",
+    "tags": [
+      "microbiome",
+      "gut",
+      "microorganisms"
+    ]
+  },
+  {
+    "question": "Where is the microbiome located in the body?",
+    "answer": "While microbes live throughout the body (skin, mouth, lungs), the largest and most diverse population is in the gastrointestinal tract, particularly the colon.",
+    "tags": [
+      "gut",
+      "digestive system",
+      "microbiota"
+    ]
+  },
+  {
+    "question": "What is the difference between 'microbiota' and 'microbiome'?",
+    "answer": "'Microbiota' refers to the actual organisms, while 'microbiome' includes both the organisms and their collective genetic material and functions.",
+    "tags": [
+      "microbiota",
+      "genetics",
+      "definitions"
+    ]
+  },
+  {
+    "question": "How does the microbiome affect human health?",
+    "answer": "It supports digestion, synthesizes vitamins, regulates immunity, protects against pathogens, and communicates with the brain through chemical signaling.",
+    "tags": [
+      "digestion",
+      "immune system",
+      "brain-gut"
+    ]
+  },
+  {
+    "question": "Is the microbiome unique to each person?",
+    "answer": "Yes. Each person has a unique microbial signature shaped by birth method, diet, environment, medications, and genetics.",
+    "tags": [
+      "individuality",
+      "diversity",
+      "personalized health"
+    ]
+  },
+  {
+    "question": "How many microbes are in the human body compared to human cells?",
+    "answer": "The body contains roughly the same number of microbial and human cells \u2014 around 30\u201340 trillion of each.",
+    "tags": [
+      "microbial cells",
+      "human body",
+      "statistics"
+    ]
+  },
+  {
+    "question": "How does the microbiome develop early in life?",
+    "answer": "Initial colonization begins at birth, influenced by delivery method, breastfeeding, and environment \u2014 and continues evolving throughout early childhood.",
+    "tags": [
+      "birth",
+      "breastfeeding",
+      "early development"
+    ]
+  },
+  {
+    "question": "What factors influence the makeup of the microbiome?",
+    "answer": "Diet, stress, medications (especially antibiotics), sleep, exercise, environment, and age all shape the composition and diversity of the microbiome.",
+    "tags": [
+      "diet",
+      "lifestyle",
+      "diversity"
+    ]
+  },
+  {
+    "question": "What is a healthy microbiome?",
+    "answer": "A healthy microbiome is diverse, balanced, and adaptable \u2014 containing a wide variety of beneficial microbes with no harmful overgrowths.",
+    "tags": [
+      "balance",
+      "health",
+      "diversity"
+    ]
+  },
+  {
+    "question": "Why is microbiome research important?",
+    "answer": "It helps us understand the links between microbes and diseases \u2014 including obesity, autoimmune conditions, depression, and even cancer \u2014 and may guide future treatments.",
+    "tags": [
+      "research",
+      "chronic illness",
+      "future medicine"
+    ]
+  }
+]

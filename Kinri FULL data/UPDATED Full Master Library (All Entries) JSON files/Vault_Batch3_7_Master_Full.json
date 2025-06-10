@@ -1,0 +1,777 @@
+[
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_001",
+    "card_type": "flashcard",
+    "question": "Is communication just about the words we use?",
+    "answer": "No. Nonverbal cues like tone, body language, and pacing often carry more meaning than words themselves.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_002",
+    "card_type": "flashcard",
+    "question": "Does being honest mean saying everything you feel?",
+    "answer": "Not always. Healthy honesty includes timing, tone, and regulation \u2014 not just blurting out raw emotion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_003",
+    "card_type": "flashcard",
+    "question": "Is staying silent better than saying the wrong thing?",
+    "answer": "Silence can protect, but chronic silence creates distance. Repairable words often build more trust than unspoken thoughts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_004",
+    "card_type": "flashcard",
+    "question": "If someone doesn\u2019t respond, are they ignoring you?",
+    "answer": "Not necessarily. They might be overwhelmed, processing, shut down, or unsure how to respond safely.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_005",
+    "card_type": "flashcard",
+    "question": "Does a calm tone always mean someone is okay?",
+    "answer": "No. Some people mask distress with calmness \u2014 especially if they\u2019ve learned to downplay their needs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_006",
+    "card_type": "flashcard",
+    "question": "Can logic fix every misunderstanding?",
+    "answer": "No. Emotional misattunement often needs presence and empathy \u2014 not explanation or logic.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_007",
+    "card_type": "flashcard",
+    "question": "Is overexplaining a sign of good communication?",
+    "answer": "Overexplaining can stem from anxiety, masking, or fear of rejection \u2014 clear, regulated speech is more effective.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_008",
+    "card_type": "flashcard",
+    "question": "Is it weak to show emotion during communication?",
+    "answer": "Not at all. Regulated emotional expression builds trust, vulnerability, and depth in relationships.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_009",
+    "card_type": "flashcard",
+    "question": "Does conflict mean a relationship is unhealthy?",
+    "answer": "Not necessarily. Conflict is normal \u2014 avoidance is often more harmful than open, respectful disagreement.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_020_communication_misconceptions_010",
+    "card_type": "flashcard",
+    "question": "Is 'I didn\u2019t mean it like that' a valid repair?",
+    "answer": "Intent matters, but impact matters more. A real repair acknowledges how the message was received.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_001",
+    "card_type": "flashcard",
+    "question": "What is co-regulation in communication?",
+    "answer": "Co-regulation is when one person's calm nervous system helps soothe and stabilize another through voice, body, and presence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_002",
+    "card_type": "flashcard",
+    "question": "How can speech help regulate someone emotionally?",
+    "answer": "A calm, steady tone with slow pacing and gentle words can signal safety and help de-escalate stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_003",
+    "card_type": "flashcard",
+    "question": "What phrases support co-regulation?",
+    "answer": "\u201cI\u2019m here.\u201d \u201cTake your time.\u201d \u201cWe don\u2019t have to solve this right now.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_004",
+    "card_type": "flashcard",
+    "question": "Why is breath important in co-regulation?",
+    "answer": "Your breathing influences your tone and presence \u2014 slow breath anchors safety and reduces urgency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_005",
+    "card_type": "flashcard",
+    "question": "What does it mean to 'lend your nervous system'?",
+    "answer": "It means using your own calm presence to help someone else stabilize without needing to fix or explain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_006",
+    "card_type": "flashcard",
+    "question": "How does silence play a role in co-regulation?",
+    "answer": "Gentle, attuned silence gives space for emotion to move and helps avoid overwhelm or pressure to speak.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_007",
+    "card_type": "flashcard",
+    "question": "What does dysregulated speech sound like?",
+    "answer": "Fast, loud, sharp, or flat \u2014 it can feel jarring and signal threat to a sensitive nervous system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_008",
+    "card_type": "flashcard",
+    "question": "How can co-regulation reduce shame?",
+    "answer": "It helps someone feel seen and accepted while they\u2019re vulnerable \u2014 reducing isolation and self-criticism.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_009",
+    "card_type": "flashcard",
+    "question": "What mindset helps when offering co-regulation?",
+    "answer": "\u201cI don\u2019t have to fix this. I just need to be here, calm, and open.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_011_co_regulation_through_speech_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s a body cue that co-regulation is working?",
+    "answer": "Softer shoulders, slowed breath, more eye contact, or someone finally exhaling deeply.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_001",
+    "card_type": "flashcard",
+    "question": "What makes an apology trust-building instead of hollow?",
+    "answer": "A real apology includes ownership, empathy, and a change in behavior \u2014 not just saying 'I\u2019m sorry.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_002",
+    "card_type": "flashcard",
+    "question": "What is a performative apology?",
+    "answer": "It\u2019s an apology focused on making the speaker feel better or avoid discomfort \u2014 without real repair or accountability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_003",
+    "card_type": "flashcard",
+    "question": "Why is 'I\u2019m sorry you feel that way' not a real apology?",
+    "answer": "It avoids ownership and shifts blame onto the other person\u2019s feelings instead of your own behavior.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s a better way to apologize for causing hurt?",
+    "answer": "\u201cI see how my tone impacted you, and I understand why that hurt. That wasn\u2019t okay, and I\u2019m committed to changing it.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_005",
+    "card_type": "flashcard",
+    "question": "Why is tone important in apologies?",
+    "answer": "Even sincere words lose meaning if spoken with defensiveness, sarcasm, or detachment \u2014 your nervous system tells the truth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_006",
+    "card_type": "flashcard",
+    "question": "What role does timing play in apologies?",
+    "answer": "Apologizing too early or late can block repair \u2014 timing matters for emotional readiness and impact.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_007",
+    "card_type": "flashcard",
+    "question": "What\u2019s a sign someone truly wants to repair trust?",
+    "answer": "They listen without interrupting, take responsibility, ask what would help, and don\u2019t demand immediate forgiveness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_008",
+    "card_type": "flashcard",
+    "question": "Can you repair even if you didn\u2019t mean to hurt someone?",
+    "answer": "Yes. Intent doesn\u2019t erase impact. Repair means caring about how your actions were experienced, not just what you intended.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s a nonverbal form of apology?",
+    "answer": "Gentle eye contact, softened posture, body space, and attuned presence can all communicate remorse.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_015_apologies_that_build_trust_010",
+    "card_type": "flashcard",
+    "question": "Why does repair strengthen relationships?",
+    "answer": "It shows the relationship matters more than being right \u2014 creating resilience, safety, and deeper intimacy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_001",
+    "card_type": "flashcard",
+    "question": "What are nervous system cues during conflict?",
+    "answer": "They are physical or behavioral signs that your body is shifting into fight, flight, freeze, or fawn \u2014 often before you\u2019re fully aware.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_002",
+    "card_type": "flashcard",
+    "question": "What does fight mode look like in communication?",
+    "answer": "Raised voice, fast speech, interrupting, strong eye contact, or trying to win the conversation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_003",
+    "card_type": "flashcard",
+    "question": "What does flight mode look like?",
+    "answer": "Avoiding eye contact, backing away, needing to leave, or changing the subject to avoid emotional intensity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_004",
+    "card_type": "flashcard",
+    "question": "What are freeze signals during conflict?",
+    "answer": "Flat expression, sudden silence, lost words, numbness, or dissociation from what\u2019s happening.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_005",
+    "card_type": "flashcard",
+    "question": "What does fawn mode look like?",
+    "answer": "People-pleasing, over-apologizing, rushing to end the conflict by taking the blame, even if it isn\u2019t yours.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_006",
+    "card_type": "flashcard",
+    "question": "Why is it important to notice these cues?",
+    "answer": "They let you pause before reacting \u2014 giving your nervous system a chance to regulate before responding.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_007",
+    "card_type": "flashcard",
+    "question": "How can breath signal dysregulation?",
+    "answer": "Shallow, fast, or held breath can indicate rising stress or fear \u2014 a cue to slow down or pause.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_008",
+    "card_type": "flashcard",
+    "question": "What are facial signs of nervous system stress?",
+    "answer": "Tight jaw, clenched teeth, flared nostrils, furrowed brow, or a frozen mask-like expression.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s a quick tool to check your state during conflict?",
+    "answer": "Ask yourself: 'Am I trying to connect or defend?' Your answer reveals your nervous system mode.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "communication_flashcards_017_nervous_system_cues_during_conflict_010",
+    "card_type": "flashcard",
+    "question": "What helps regulate during a nervous system spike?",
+    "answer": "Step away, feel your feet, slow your breath, or speak aloud what\u2019s happening in your body to discharge intensity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

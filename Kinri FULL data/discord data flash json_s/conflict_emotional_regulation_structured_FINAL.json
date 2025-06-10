@@ -1,0 +1,170 @@
+[
+  {
+    "question": "Why is emotional regulation important during conflict?",
+    "answer": "When we\u2019re dysregulated, we lose access to empathy, logic, and listening \u2014 making resolution nearly impossible.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional safety"
+      ],
+      "narrative_type": [
+        "conflict",
+        "regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_323_conflict_emotional_regulation"
+  },
+  {
+    "question": "What does dysregulation look like in an argument?",
+    "answer": "Raised voice, rapid speech, interrupting, shutting down, fidgeting, or hyperfocus on being right.",
+    "tags": {
+      "condition": [
+        "dysregulation"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "behavior",
+        "signs"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_324_conflict_emotional_regulation"
+  },
+  {
+    "question": "What\u2019s the first step to regulating mid-conflict?",
+    "answer": "Pause. Breathe. Name what\u2019s happening internally. Slowing the moment reduces escalation.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "calm"
+      ],
+      "narrative_type": [
+        "awareness"
+      ],
+      "usage_mode": [
+        "pause"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_325_conflict_emotional_regulation"
+  },
+  {
+    "question": "Why is self-awareness key during arguments?",
+    "answer": "Noticing your tone, posture, or rising intensity lets you shift before things spiral out of control.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-awareness"
+      ],
+      "narrative_type": [
+        "emotional regulation",
+        "conflict"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_326_conflict_emotional_regulation"
+  },
+  {
+    "question": "How does the nervous system affect conflict response?",
+    "answer": "A threatened nervous system flips into fight, flight, or freeze \u2014 impairing connection and communication.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "fight or flight",
+        "freeze"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_327_conflict_emotional_regulation"
+  },
+  {
+    "question": "What helps two people stay regulated during a disagreement?",
+    "answer": "Slower pacing, reflective language, calm tone, body breaks, and mutual repair skills.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "co-regulation",
+        "repair",
+        "pacing"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_328_conflict_emotional_regulation"
+  },
+  {
+    "question": "What is the 'window of tolerance' in conflict?",
+    "answer": "It\u2019s the emotional zone where you can stay grounded, think clearly, and engage \u2014 outside of it, reactivity takes over.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "window of tolerance",
+        "resilience",
+        "capacity"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_329_conflict_emotional_regulation"
+  },
+  {
+    "question": "What are healthy conflict repair phrases?",
+    "answer": "\u201cI\u2019m noticing I\u2019m reactive. Can we take a pause?\u201d or \u201cI care more about connection than being right.\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "phrases",
+        "regulation"
+      ],
+      "usage_mode": [
+        "repair"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_330_conflict_emotional_regulation"
+  },
+  {
+    "question": "Why is conflict not inherently bad?",
+    "answer": "Conflict can strengthen connection when handled with respect, safety, and curiosity \u2014 it shows what matters.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "conflict growth",
+        "healthy expression",
+        "intimacy"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_331_conflict_emotional_regulation"
+  },
+  {
+    "question": "What\u2019s one body-based tool for emotional regulation?",
+    "answer": "Hand on heart, box breathing, grounding through feet, or stepping outside for 2 minutes.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "body tools",
+        "regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_332_conflict_emotional_regulation"
+  }
+]

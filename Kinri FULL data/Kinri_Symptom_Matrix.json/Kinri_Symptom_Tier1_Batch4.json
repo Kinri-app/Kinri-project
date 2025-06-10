@@ -1,0 +1,221 @@
+[
+  {
+    "prompt": "Do you often second-guess what you said, even hours after a conversation?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "OCD",
+        "GAD",
+        "Autism"
+      ],
+      "emotion": [
+        "self_doubt",
+        "anxiety"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "rumination"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes feel emotionally detached even when you care deeply?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "numbness",
+        "disconnect"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often take on the emotions of people around you without meaning to?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Autism",
+        "CPTSD"
+      ],
+      "emotion": [
+        "flooded",
+        "absorption"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your energy levels are unpredictable or chaotic?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Bipolar II",
+        "ADHD",
+        "PMDD"
+      ],
+      "emotion": [
+        "instability",
+        "overwhelm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you try to anticipate what others want or need, just to stay safe?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD",
+        "Autism"
+      ],
+      "emotion": [
+        "fawn",
+        "fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you have rituals, routines, or habits that help you feel in control?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "OCD",
+        "Autism",
+        "GAD"
+      ],
+      "emotion": [
+        "control",
+        "safety"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your body reacts before your mind understands what\u2019s wrong?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD"
+      ],
+      "emotion": [
+        "anxiety",
+        "confusion"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel a strong sense of guilt or responsibility even when things aren't your fault?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "OCD",
+        "GAD"
+      ],
+      "emotion": [
+        "guilt",
+        "shame"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever act impulsively and feel confused about why you did it?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "BPD",
+        "Bipolar II"
+      ],
+      "emotion": [
+        "conflict",
+        "regret"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "impulsivity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever seriously thought about ending your life?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "hopelessness",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

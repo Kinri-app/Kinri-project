@@ -1,0 +1,6 @@
+phrase,tone_function,emotion_state,context_type,tags_optional_additions
+If it feels okay with you...,"['softener', 'invite']","['hesitation', 'uncertainty']",intro,"['consent', 'trauma-informed']"
+You’re not doing anything wrong — this is just a lot.,"['validate', 'soothe']","['overwhelm', 'shame']",mid_session,"['co-regulation', 'freeze-compatible']"
+Even numbness is a kind of message.,"['reframe', 'validate']","['numbness', 'dissociation']",body_scan,"['somatic', 'neurodivergent-context']"
+You’re not too much for this space. You’re exactly where you need to be.,"['validate', 'anchor']","['shame', 'overwhelm']",emotional_interrupt,"['IFS', 'trauma-informed']"
+You are not the voice attacking you. You are the one it's trying to protect — badly.,"['reframe', 'de-shame']","['self-attack', 'inner critic']",mid_session,"['IFS', 'child-part-safe']"

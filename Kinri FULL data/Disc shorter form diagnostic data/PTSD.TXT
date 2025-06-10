@@ -1,0 +1,184 @@
+# PTSD Diagnostic Vault – MiFam Internal Longform
+
+## 1. Clinical Criteria
+
+* Trauma required in all frameworks.
+* DSM-5: Actual/threatened death, serious injury, or sexual violence.
+* ICD-11: Extremely threatening/horrific event(s).
+* DSM-5: Four symptom clusters.
+* ICD-11: Three core clusters.
+* Specifiers: Delayed onset, dissociative subtype (DSM); CPTSD (ICD-11).
+
+## 2. Subtypes
+
+### Dissociative Subtype (DSM-5)
+
+* Depersonalization and/or derealization.
+* Common in chronic trauma.
+
+### Complex PTSD (CPTSD – ICD-11)
+
+* PTSD + DSO (affective dysregulation, negative self-concept, interpersonal issues).
+* Common in prolonged interpersonal trauma.
+
+## 3. Symptom Clusters & Lived Experience
+
+### Intrusions
+
+* Flashbacks, nightmares, intrusive memories.
+
+### Avoidance
+
+* Internal (thoughts, feelings) and external (places, people).
+
+### Hyperarousal
+
+* Hypervigilance, startle reflex, poor sleep, irritability.
+
+### Negative Mood & Cognition (DSM only)
+
+* Shame, guilt, detachment, pessimism, memory issues.
+
+## 4. Flashbacks, Dissociation, and Emotional States
+
+* Flashbacks: Full reliving of trauma.
+* Intrusions: Distressing memories while aware of present.
+* Dissociation: Disconnection from self/world.
+* Numbing ↔ Hyperarousal pendulum.
+
+## 5. Age and Gender Variations
+
+### Children
+
+* Reenactment play, regression, physical symptoms.
+
+### Adolescents
+
+* Risk-taking, school issues, mislabeling.
+
+### Adults
+
+* Verbal/cognitive expression, more internalized symptoms.
+
+### Gender Differences
+
+* Women: Internalizing, sexual/interpersonal trauma.
+* Men: Externalizing, suppression, combat trauma.
+
+## 6. High-Functioning / Masked PTSD
+
+* Appears normal externally.
+* Internal distress: nightmares, panic, overcontrol.
+* Often unrecognized and untreated.
+
+## 7. Comorbidities & Diagnostic Overlaps
+
+* Depression, anxiety, substance use, chronic pain.
+* OCD, eating disorders, ADHD-like symptoms.
+* BPD, DID, psychosis, ASD misdiagnoses.
+
+## 8. Neurobiology & Developmental Roots
+
+### Brain Structures
+
+* Amygdala: Overactive.
+* Hippocampus: Shrinking/dysregulated.
+* Prefrontal Cortex: Underactive.
+
+### HPA Axis Dysfunction
+
+* Cortisol dysregulation, chronic stress chemistry.
+
+### Polyvagal Theory
+
+* Ventral vagal (safe), sympathetic (fight/flight), dorsal vagal (freeze).
+
+### Developmental Trauma & ACEs
+
+* Early trauma rewires brain.
+* Attachment disruptions.
+* Neglect = invisible trauma.
+
+### Somatic Impact
+
+* Stored in body: pain, gut issues, fatigue.
+* Body-based flashbacks and reactions.
+
+## 9. Identity & Relationships
+
+### Attachment and Trust
+
+* Avoidance, fear of closeness, hypervigilance.
+
+### Intimacy and Sexual Function
+
+* Triggered by touch, shutdowns, flashbacks during sex.
+
+### Parenting
+
+* Overprotection or emotional detachment.
+* Intergenerational trauma.
+
+### Self-Identity
+
+* Shame, fractured sense of self.
+* Frozen development, survivor vs victim identity.
+
+## 10. Shame, Guilt, and Internal Conflict
+
+* “I deserved it”/“It’s my fault.”
+* Survivor’s guilt.
+* Internal critics and moral injury.
+
+## 11. Treatment Approaches
+
+### Talk Therapies
+
+* PE, CPT, TF-CBT, EMDR.
+* IFS, STAIR, narrative therapy.
+
+### Somatic Therapies
+
+* SE, TRE, trauma-informed yoga, sensorimotor work.
+
+### Medications
+
+* SSRIs/SNRIs, prazosin, MDMA-assisted psychotherapy.
+
+### Lifestyle Supports
+
+* Nature, exercise, sleep, pets.
+* Peer support, group therapy, spirituality.
+
+## 12. Trauma-Informed Care
+
+* Respect, safety, autonomy.
+* “What happened to you?” over “What’s wrong with you?”
+* Avoid force, surprises, disempowering systems.
+
+## 13. Re-Traumatization & Misdiagnosis
+
+* Medical, legal, and systemic retraumatization.
+* Misdiagnosis: BPD, ADHD, bipolar, schizophrenia.
+
+## 14. Systemic & Collective Trauma
+
+* War, displacement, DV, racism.
+* Historical and intergenerational trauma.
+
+## 15. PTSD in Neurodivergent Individuals
+
+* Autism: sensory-based trauma, misunderstood.
+* ADHD: rejection, failure, increased risk.
+* Adapted therapy needed.
+
+## 16. Recovery & Reframing
+
+* Adaptive responses, not defects.
+* Survivor > victim.
+* Post-Traumatic Growth (PTG): deeper purpose, resilience, empathy.
+* Recovery is nonlinear but possible.
+
+---
+
+This version is now tidy, categorized, and fully stored in Canvas for use in MiFam, flashcards, insight decks, or public education.

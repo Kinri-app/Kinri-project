@@ -1,0 +1,205 @@
+## Autism Diagnostic Vault – MiFam
+
+### 1. Clinical Criteria
+
+* **DSM-5:**
+
+  * Core domains: (A) social communication deficits, (B) restricted/repetitive behaviors
+  * Must meet all 3 social criteria + at least 2 of 4 behavior criteria
+  * Specifiers: intellectual/language impairments, severity levels
+
+* **ICD-10:**
+
+  * Separate categories: Childhood Autism, Asperger’s, Atypical Autism, etc.
+  * Requires symptom onset before age 3 (for Childhood Autism)
+  * Social + communication + RRBs evaluated separately
+
+* **ICD-11:**
+
+  * Unified ASD diagnosis (like DSM-5)
+  * No strict age 3 cutoff, but symptoms must emerge during developmental period
+  * Includes sensory reactivity; specifiers for ID and language level
+
+* **Key Differences:**
+
+  * ICD-10 uses subtypes, DSM-5/ICD-11 use spectrum
+  * ICD-11 merges social/communication domain; includes sensory issues
+
+---
+
+### 2. Real-World Symptoms
+
+* **Child vs Adult:**
+
+  * Children: delays in eye contact, pretend play, meltdowns, routine rigidity
+  * Adults: masking, subtle social misunderstandings, burnout, anxiety
+
+* **Masking & Camouflage:**
+
+  * Especially common in girls and late-diagnosed adults
+  * Leads to exhaustion, misdiagnosis, or delayed diagnosis
+
+* **Overt Traits:**
+
+  * Echolalia, stimming, meltdowns, speech delays, clear routine needs
+
+* **Subtle Traits:**
+
+  * Literal thinking, need for clarity, social fatigue, “quirky” interests
+
+* **Behavioral & Sensory Examples:**
+
+  * Preference for sameness, distress at change
+  * Sensory hypersensitivity or seeking (e.g. sounds, textures)
+  * Stimming used for self-regulation
+
+---
+
+### 3. Commonly Confused Conditions
+
+* **ADHD vs ASD:**
+
+  * ADHD = inattention/impulsivity; ASD = social decoding difficulty + RRBs
+  * ADHDers seek novelty; autistics seek predictability
+
+* **OCD vs ASD:**
+
+  * OCD compulsions = anxiety-driven; ASD routines = comfort-driven
+  * OCD = ego-dystonic; ASD = ego-syntonic
+
+* **Social Anxiety vs ASD:**
+
+  * Anxiety = fear of judgment; ASD = difference in social understanding
+
+* **GAD vs ASD:**
+
+  * GAD = constant worry; ASD = sensory/social stress-driven anxiety
+
+* **Schizoid PD vs ASD:**
+
+  * Schizoid = true disinterest in people; ASD = social struggle, not apathy
+
+* **Other Confusions:**
+
+  * Language disorders, Social (Pragmatic) Communication Disorder
+  * Reactive Attachment Disorder, Avoidant Personality, Schizotypal PD
+
+---
+
+### 4. Comorbidities
+
+* **Neurodevelopmental:**
+
+  * ADHD (\~50%+ comorbidity)
+  * Intellectual Disability (\~30–40%)
+
+* **Psychiatric:**
+
+  * Anxiety (\~30–40%), Depression (\~20–30%)
+  * OCD, Bipolar (\~11%), Schizophrenia (\~5–7%)
+
+* **Medical:**
+
+  * Epilepsy (20–30%), GI issues (20–70%)
+  * Sleep disorders (50–80%)
+
+* **Other:**
+
+  * Sensory processing, Feeding/Eating issues, Motor coordination problems
+
+---
+
+### 5. Neuroscience
+
+* **Brain Structure & Connectivity:**
+
+  * Early overgrowth, altered pruning, local overconnectivity, long-range underconnectivity
+
+* **Region-Specific Differences:**
+
+  * Amygdala, fusiform gyrus, prefrontal cortex, cerebellum, mirror neuron system
+
+* **Cognitive Theories:**
+
+  * Theory of Mind Deficit (Mindblindness)
+  * Executive Dysfunction
+  * Weak Central Coherence
+  * Predictive Coding / Intense World Theory
+
+* **Genetics & Neurodevelopment:**
+
+  * High heritability (70–80%)
+  * Syndromes: Fragile X, Tuberous Sclerosis, Rett, Down Syndrome
+  * Polygenic & de novo mutations; prenatal influences
+
+---
+
+### 6. Real-Life Examples
+
+* Sensory overload in public (supermarket meltdown)
+* Masking and burnout in working adult
+* Special interest monologue in teenager
+* Morning routine disruption (meltdown from change)
+* Public stimming & misunderstanding
+* Literal communication misfire (sarcasm misread)
+* Meltdown vs tantrum (emotion overflow)
+
+---
+
+### 7. Treatments & Supports
+
+* **Medical:**
+
+  * For comorbidities: stimulants, SSRIs, antipsychotics (Risperidone), melatonin, etc.
+
+* **Therapies:**
+
+  * ABA (modern forms), ESDM, Floortime, PRT
+  * Speech therapy (including AAC)
+  * OT (sensory integration, daily living)
+  * PT (motor development)
+  * CBT (adapted)
+  * Social skills groups
+
+* **Education:**
+
+  * IEPs, visual supports, structured teaching (TEACCH), life skills training
+
+* **Environmental:**
+
+  * Sensory-friendly spaces, visual schedules, timers, AAC, routines
+  * Accommodations (headphones, stim tools, fidgets, quiet zones)
+
+* **Holistic:**
+
+  * Diet (with caution), exercise, mindfulness, music/art therapy
+  * Community inclusion, family education/support
+
+---
+
+### 8. Sensitivity Areas
+
+* **Stigma & Language:**
+
+  * Identity-first vs person-first; avoid “suffers from” or “high-functioning”
+  * Embrace neurodiversity
+
+* **Gendered Presentation:**
+
+  * Girls, women, and nonbinary individuals often mask; underdiagnosed
+  * “Female phenotype” includes social mimicry, internalized distress
+
+* **Trauma Intersection:**
+
+  * Autistics vulnerable to trauma; trauma-informed care is essential
+  * Masking, restraint, or misunderstanding can create long-term distress
+
+* **Late Diagnosis:**
+
+  * Brings relief + grief; reframe history with compassion
+  * Identity shifts and self-acceptance journey
+
+* **Respect & Autonomy:**
+
+  * Include autistic voices, honor sensory preferences, support communication modes
+  * Focus on strengths and self-determined goals

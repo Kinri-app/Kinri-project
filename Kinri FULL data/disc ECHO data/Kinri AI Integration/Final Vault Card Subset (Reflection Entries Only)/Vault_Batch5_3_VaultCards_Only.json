@@ -1,0 +1,130 @@
+[
+  {
+    "card_id": "nutrition_6_meal_timing_rhythm_and_regulation_005",
+    "card_type": "vault_card",
+    "headline": "Eat Like You\u2019re Building Stability",
+    "body": "Your nervous system thrives on rhythm. It doesn\u2019t want perfection\u2014it wants predictability and fuel.",
+    "prompt": "What rhythm shift\u2014like consistent meals or a solid breakfast\u2014could you test this week for more calm?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_1_foundations_of_nutritional_healing_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Just Feed the Body\u2014You Feed the Brain",
+    "body": "Every cell runs on nutrients. Healing begins when nourishment is consistent, calming, and conscious.",
+    "prompt": "What\u2019s one small upgrade you could make to how you feed your brain this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_2_mood_gut_and_mental_health_connections_005",
+    "card_type": "vault_card",
+    "headline": "Mental Health Starts in the Gut",
+    "body": "Your belly and brain are in constant conversation. Feed one, and the other learns to soften.",
+    "prompt": "What food or ingredient could you test removing\u2014or adding\u2014to better support emotional steadiness this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_3_micronutrient_deficiencies_and_mood_imbalances_005",
+    "card_type": "vault_card",
+    "headline": "You Can\u2019t Think Clearly Without the Right Fuel",
+    "body": "Mood and memory need minerals. If your brain feels dim or unstable\u2014check what it\u2019s running on.",
+    "prompt": "What nutrient have you been meaning to check or add back in\u2014and could this week be the time?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_4_emotional_eating_cravings_blood_sugar_005",
+    "card_type": "vault_card",
+    "headline": "Your Cravings Aren\u2019t Just Hunger\u2014They\u2019re Messages",
+    "body": "Cravings speak the language of need: rest, regulation, or nourishment. You can listen without shame.",
+    "prompt": "What craving has been showing up this week\u2014and what core need might it really be pointing toward?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_5_nervous_system_nourishment_and_brain_support_005",
+    "card_type": "vault_card",
+    "headline": "The Brain Runs on What You Feed It",
+    "body": "You don\u2019t just regulate emotions\u2014you feed the cells that feel them. Nourish your system, and it will support you back.",
+    "prompt": "What small upgrade could you make to feed your focus, calm, or resilience this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

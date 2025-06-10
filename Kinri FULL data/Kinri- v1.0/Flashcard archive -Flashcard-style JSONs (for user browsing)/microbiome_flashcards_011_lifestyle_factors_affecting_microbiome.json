@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How does stress affect the microbiome?",
+    "answer": "Chronic stress can reduce microbial diversity, promote inflammation, and weaken the gut lining by altering nervous system signals.",
+    "tags": [
+      "stress",
+      "diversity",
+      "gut lining"
+    ]
+  },
+  {
+    "question": "What is the effect of sleep on the microbiome?",
+    "answer": "Poor or irregular sleep disrupts circadian rhythms and may negatively affect microbial balance and immune regulation.",
+    "tags": [
+      "sleep",
+      "circadian rhythm",
+      "immune function"
+    ]
+  },
+  {
+    "question": "How does exercise support the gut microbiome?",
+    "answer": "Regular physical activity enhances microbial diversity, supports digestion, and reduces inflammation.",
+    "tags": [
+      "exercise",
+      "diversity",
+      "gut health"
+    ]
+  },
+  {
+    "question": "What role does sunlight play in microbiome health?",
+    "answer": "Sunlight boosts vitamin D production, which helps regulate immunity and supports microbial balance.",
+    "tags": [
+      "sunlight",
+      "vitamin D",
+      "immune system"
+    ]
+  },
+  {
+    "question": "Can screen time or tech habits impact the gut?",
+    "answer": "Excessive screen time often leads to sedentary behavior, irregular eating, and sleep disruption \u2014 all of which influence gut health.",
+    "tags": [
+      "tech",
+      "sedentary lifestyle",
+      "sleep disruption"
+    ]
+  },
+  {
+    "question": "How do toxins like alcohol and smoking affect the microbiome?",
+    "answer": "They reduce microbial diversity, increase permeability, and promote inflammation \u2014 damaging long-term gut function.",
+    "tags": [
+      "toxins",
+      "alcohol",
+      "smoking"
+    ]
+  },
+  {
+    "question": "What\u2019s the microbiome impact of high antibiotic use?",
+    "answer": "Frequent antibiotics can wipe out beneficial bacteria and lead to dysbiosis and opportunistic overgrowths.",
+    "tags": [
+      "antibiotics",
+      "dysbiosis",
+      "microbial loss"
+    ]
+  },
+  {
+    "question": "How do relationships and social connection affect the gut?",
+    "answer": "Positive social interactions reduce stress and support vagus nerve activity, which helps maintain gut balance.",
+    "tags": [
+      "social health",
+      "vagus nerve",
+      "gut-brain"
+    ]
+  },
+  {
+    "question": "Does travel or relocation impact the microbiome?",
+    "answer": "Yes. Changes in diet, water, environment, and routine can shift microbial composition \u2014 sometimes permanently.",
+    "tags": [
+      "travel",
+      "environmental shift",
+      "microbial change"
+    ]
+  },
+  {
+    "question": "What\u2019s a foundational lifestyle habit to support the gut?",
+    "answer": "Maintaining regular sleep, movement, meals, hydration, and stress relief creates a stable foundation for microbial health.",
+    "tags": [
+      "habits",
+      "gut support",
+      "balance"
+    ]
+  }
+]

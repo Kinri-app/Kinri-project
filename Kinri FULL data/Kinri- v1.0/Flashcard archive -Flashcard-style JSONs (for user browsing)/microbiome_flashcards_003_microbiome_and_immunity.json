@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How does the microbiome support the immune system?",
+    "answer": "The microbiome trains immune cells, defends against pathogens, and regulates inflammation to maintain immune balance.",
+    "tags": [
+      "immune system",
+      "defense",
+      "inflammation"
+    ]
+  },
+  {
+    "question": "What is immune tolerance and how does the microbiome influence it?",
+    "answer": "Immune tolerance is the ability to avoid attacking harmless substances. A diverse microbiome helps the immune system learn what is safe.",
+    "tags": [
+      "immune tolerance",
+      "allergy prevention",
+      "microbial education"
+    ]
+  },
+  {
+    "question": "How does dysbiosis affect immunity?",
+    "answer": "An imbalanced microbiome can lead to chronic inflammation, increased infection risk, and a higher chance of autoimmune conditions.",
+    "tags": [
+      "dysbiosis",
+      "chronic inflammation",
+      "autoimmunity"
+    ]
+  },
+  {
+    "question": "What role do short-chain fatty acids (SCFAs) play in immunity?",
+    "answer": "SCFAs, produced by gut bacteria, reduce inflammation and help maintain the gut barrier \u2014 both essential for immune regulation.",
+    "tags": [
+      "SCFAs",
+      "gut barrier",
+      "immune regulation"
+    ]
+  },
+  {
+    "question": "How does the microbiome prevent infections?",
+    "answer": "Healthy microbes compete with harmful pathogens for space and resources, producing antimicrobial compounds and blocking invaders.",
+    "tags": [
+      "pathogen defense",
+      "protective microbes",
+      "infection prevention"
+    ]
+  },
+  {
+    "question": "Can antibiotics weaken the immune system?",
+    "answer": "Yes. Antibiotics disrupt beneficial microbes, which can reduce immune resilience and increase vulnerability to infections or allergies.",
+    "tags": [
+      "antibiotics",
+      "immune disruption",
+      "microbiome damage"
+    ]
+  },
+  {
+    "question": "What is the gut-associated lymphoid tissue (GALT)?",
+    "answer": "GALT is immune tissue in the gut lining that works closely with the microbiome to monitor and respond to microbial signals.",
+    "tags": [
+      "GALT",
+      "gut immunity",
+      "immune coordination"
+    ]
+  },
+  {
+    "question": "Why is early-life microbiome development important for immunity?",
+    "answer": "A healthy early microbiome helps train the immune system to respond appropriately, reducing future risk of allergies or autoimmunity.",
+    "tags": [
+      "early life",
+      "immune training",
+      "microbial exposure"
+    ]
+  },
+  {
+    "question": "How does diet impact immune-microbiome interactions?",
+    "answer": "Fiber, polyphenols, and fermented foods feed microbes that support immune function, while processed foods can fuel inflammation.",
+    "tags": [
+      "diet",
+      "immune nutrition",
+      "gut health"
+    ]
+  },
+  {
+    "question": "Can improving gut health strengthen immunity?",
+    "answer": "Yes. Enhancing microbial diversity through diet and lifestyle supports immune resilience and reduces chronic inflammation.",
+    "tags": [
+      "immune support",
+      "microbial diversity",
+      "resilience"
+    ]
+  }
+]

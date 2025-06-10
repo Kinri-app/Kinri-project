@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you get emotionally drained by small talk or surface-level interactions?,Like shallow conversation takes more out of you than deep ones?,Tier 2,"{'Autism': 1.0, 'CPTSD': 0.5}"
+"Do you often worry people are mad at you, even when they haven’t said anything?",Like your brain fills in silence with fear of being in trouble?,Tier 2,"{'GAD': 1.0, 'BPD': 0.5}"
+Do you feel like your brain goes blank in high-pressure situations — even if you prepared?,Like you had the answer… until the moment you needed it?,Tier 2,"{'ADHD': 1.0, 'CPTSD': 0.5, 'Autism': 0.5}"
+Do you find routine calming — even if you don’t always stick to one?,Like structure gives your brain space to breathe?,Tier 1,"{'Autism': 1.0, 'OCD': 0.5}"
+Do you feel deep shame or self-judgment after expressing anger?,"Like the moment it’s out, you regret ever letting it show?",Tier 2,"{'BPD': 1.0, 'CPTSD': 0.5, 'Depression': 0.5}"
+Do you feel like you lose control of your emotions around your cycle?,"Like something takes over for a few days, then lifts after your period starts?",Tier 1,"{'PMDD': 1.0, 'BPD': 0.5}"
+"Do you often feel like you’re ‘behind’ — in work, life, goals — even if others say you’re doing fine?",Like you’re constantly catching up to an invisible standard?,Tier 2,"{'ADHD': 1.0, 'Depression': 0.5, 'GAD': 0.5}"
+Do you have strong emotional responses to being misunderstood?,Like not being seen accurately hits deeper than it should?,Tier 1,"{'Autism': 1.0, 'BPD': 0.5}"
+Do you feel like your brain runs best at night — even if it wrecks your sleep?,"Like you come alive after the sun sets, but regret it the next day?",Tier 2,"{'ADHD': 1.0, 'Bipolar_II': 0.5}"
+Do you avoid certain people or places because of old emotional memories tied to them?,"Even if the threat is gone, the feeling sticks?",Tier 1,"{'CPTSD': 1.0, 'PTSD': 0.5}"

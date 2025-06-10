@@ -1,0 +1,73 @@
+{
+  "user_id": "demo_user_001",
+  "session_id": "session_2024_05_17_A",
+  "symptom_responses": [
+    {
+      "symptom": "Time Blindness",
+      "score": 9
+    },
+    {
+      "symptom": "Emotional Reactivity",
+      "score": 8
+    },
+    {
+      "symptom": "Impulsivity",
+      "score": 7
+    },
+    {
+      "symptom": "Rejection Sensitivity",
+      "score": 8
+    },
+    {
+      "symptom": "Overthinking",
+      "score": 7
+    },
+    {
+      "symptom": "Shutdown / Numbness",
+      "score": 6
+    },
+    {
+      "symptom": "Sensory Overload",
+      "score": 5
+    }
+  ],
+  "normalized_scores": {
+    "ADHD": 4.0,
+    "BPD": 4.5,
+    "CPTSD": 6.3,
+    "Autism": 2.8,
+    "Depression": 2.6
+  },
+  "diagnostic_tiers": {
+    "ADHD": "Tier 2 \u2013 Moderate alignment",
+    "BPD": "Tier 2 \u2013 Moderate alignment",
+    "CPTSD": "Tier 3 \u2013 Strong pattern",
+    "Autism": "Tier 1 \u2013 Light presence",
+    "Depression": "Tier 1 \u2013 Light presence"
+  },
+  "branches_triggered": [
+    "Impulsivity Follow-Up",
+    "Overthinking Follow-Up"
+  ],
+  "compare_views": [
+    "CPTSD vs BPD"
+  ],
+  "vault_cards_shown": [
+    "Emotional Overwhelm from CPTSD",
+    "Fear of Abandonment from BPD"
+  ],
+  "red_flags": [],
+  "user_preferences": {
+    "tone": "gentle",
+    "mode": "text-only",
+    "voice_mode": "off"
+  },
+  "session_summary": {
+    "main_insights": [
+      "Strong CPTSD signal with overlapping emotional dysregulation",
+      "Moderate impulsivity and attention traits suggest ADHD and BPD overlap",
+      "Some sensory reactivity linked to Autism and emotional shutdowns"
+    ],
+    "echo_closure": "You explored patterns around trauma, emotion, and impulsivity. These reflections don't define you \u2014 but they can help you understand what\u2019s showing up. Want to revisit this later or explore a different angle?"
+  }
+}

@@ -1,0 +1,684 @@
+[
+  {
+    "card_id": "boundaries_2_conflict_and_relational_repair_001",
+    "card_type": "flashcard",
+    "question": "How do unclear boundaries create conflict?",
+    "answer": "Unspoken limits lead to resentment, burnout, or emotional outbursts when needs aren\u2019t respected or expressed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_2_conflict_and_relational_repair_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s the link between boundaries and repair?",
+    "answer": "Clear boundaries help define repair expectations, restore safety, and prevent repeated emotional harm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_2_conflict_and_relational_repair_003",
+    "card_type": "flashcard",
+    "question": "How can you assert a boundary without escalating conflict?",
+    "answer": "Use calm tone, clear language, and emphasize needs without blame\u2014for example, 'I need space to reset, not because I\u2019m angry.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_2_conflict_and_relational_repair_004",
+    "card_type": "flashcard",
+    "question": "Why do some people feel guilty about setting boundaries?",
+    "answer": "Because early experiences taught them that saying no = rejection or conflict\u2014they associate boundaries with harm, not care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_2_conflict_and_relational_repair_005",
+    "card_type": "vault_card",
+    "headline": "Boundaries Build, Not Break",
+    "body": "When spoken with care, a boundary isn\u2019t a wall\u2014it\u2019s a bridge. It says: I want this to work. Let\u2019s do it safely.",
+    "prompt": "What boundary could help reduce recurring conflict and bring more safety into a current relationship?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_5_scripts_and_communication_tools_001",
+    "card_type": "flashcard",
+    "question": "Why do boundary scripts help with emotional safety?",
+    "answer": "Scripts reduce emotional overwhelm and freeze by giving your brain words to anchor to during tense moments.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_5_scripts_and_communication_tools_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s a gentle script for declining plans?",
+    "answer": "\"I\u2019m stretched thin right now and need to recharge\u2014thank you for understanding.\"",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_5_scripts_and_communication_tools_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s a script for when a boundary was crossed?",
+    "answer": "\"That didn\u2019t feel okay to me\u2014I want to feel safe with you, so I need to set a clearer boundary.\"",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_5_scripts_and_communication_tools_004",
+    "card_type": "flashcard",
+    "question": "Why is tone as important as language in boundary setting?",
+    "answer": "A calm, non-defensive tone signals safety\u2014while harsh tone, even with kind words, can activate threat response.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_5_scripts_and_communication_tools_005",
+    "card_type": "vault_card",
+    "headline": "Clarity Isn\u2019t Cruel\u2014It\u2019s Care",
+    "body": "You don\u2019t need to justify your limits. You just need words that hold both firmness and kindness.",
+    "prompt": "What boundary script could help you practice emotional clarity in the week ahead?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_8_boundary_fatigue_and_emotional_burnout_001",
+    "card_type": "flashcard",
+    "question": "What is boundary fatigue?",
+    "answer": "It\u2019s the emotional exhaustion that comes from constantly defending your limits, especially in unsafe or invalidating environments.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_8_boundary_fatigue_and_emotional_burnout_002",
+    "card_type": "flashcard",
+    "question": "Why does boundary burnout happen faster for trauma survivors?",
+    "answer": "Because they\u2019re often hypervigilant, over-explaining, or managing guilt around saying no\u2014depleting emotional energy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_8_boundary_fatigue_and_emotional_burnout_003",
+    "card_type": "flashcard",
+    "question": "How can someone protect their energy when boundaries get pushed often?",
+    "answer": "Use shorter scripts, limit justification, create buffer zones, and lean into systems instead of constant confrontation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_8_boundary_fatigue_and_emotional_burnout_004",
+    "card_type": "flashcard",
+    "question": "What helps recover from boundary burnout?",
+    "answer": "Rest, validation, emotional decompression, and reconnecting with what your boundaries are protecting\u2014not just who they\u2019re pushing back.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "boundaries_8_boundary_fatigue_and_emotional_burnout_005",
+    "card_type": "vault_card",
+    "headline": "It\u2019s Not Just a No\u2014It\u2019s a Nervous System Reset",
+    "body": "Every boundary drains or restores you. Learn when to engage\u2014and when silence, space, or softness is the best line.",
+    "prompt": "Where could you use less explanation\u2014and more quiet confidence\u2014in protecting your space this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_001",
+    "card_type": "flashcard",
+    "question": "How does movement impact body confidence?",
+    "answer": "Movement builds a sense of strength, capability, and connection with the body \u2014 shifting focus from looks to function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_002",
+    "card_type": "flashcard",
+    "question": "Why is movement helpful for ADHD regulation?",
+    "answer": "It helps release excess energy, boosts dopamine, and supports emotional and sensory regulation \u2014 improving mood and confidence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_003",
+    "card_type": "flashcard",
+    "question": "What types of movement build body trust?",
+    "answer": "Gentle, joyful, or expressive movement (like stretching, walking, dancing) can help rebuild trust and reduce shame.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_004",
+    "card_type": "flashcard",
+    "question": "Can exercise improve body image without changing appearance?",
+    "answer": "Yes. Feeling stronger or more capable often improves self-worth, even if physical appearance doesn\u2019t change.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_005",
+    "card_type": "flashcard",
+    "question": "Why do traditional fitness spaces feel intimidating?",
+    "answer": "They may center weight loss or comparison, which can trigger shame, insecurity, or past trauma.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_006",
+    "card_type": "flashcard",
+    "question": "What is movement rejection?",
+    "answer": "Avoiding physical activity due to past embarrassment, trauma, or negative associations \u2014 common in neurodivergent or bullied individuals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_007",
+    "card_type": "flashcard",
+    "question": "How can someone reconnect with movement?",
+    "answer": "Start with low-pressure, sensory-friendly movement. Track how it makes you feel emotionally, not just physically.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_008",
+    "card_type": "flashcard",
+    "question": "What mindset helps when restarting movement?",
+    "answer": "Focus on what movement gives you \u2014 energy, relief, grounding \u2014 rather than using it as punishment or control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_009",
+    "card_type": "flashcard",
+    "question": "How does body neutrality support movement?",
+    "answer": "By valuing what your body can do instead of how it looks, you reduce pressure and open space for self-respect.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_006_movement_and_self_confidence_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s one small action to build movement confidence?",
+    "answer": "Find one type of movement that feels good and doable today \u2014 even if it\u2019s just stretching for two minutes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_001",
+    "card_type": "flashcard",
+    "question": "Why do people with ADHD or low self-esteem struggle with comparison?",
+    "answer": "Rejection sensitivity, emotional dysregulation, and a critical inner voice can magnify comparison into shame or hopelessness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_002",
+    "card_type": "flashcard",
+    "question": "How does social media affect body image?",
+    "answer": "Curated images and highlight reels can create unrealistic standards, increasing self-judgment and dissatisfaction.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_003",
+    "card_type": "flashcard",
+    "question": "What is rejection sensitivity dysphoria (RSD)?",
+    "answer": "RSD is an intense emotional response to perceived rejection or failure \u2014 common in ADHD and linked to deep shame or anger.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_004",
+    "card_type": "flashcard",
+    "question": "How can comparison affect body perception?",
+    "answer": "It shifts focus away from how your body feels or functions and centers attention on others\u2019 appearance-based ideals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_005",
+    "card_type": "flashcard",
+    "question": "What mindset helps reduce comparison?",
+    "answer": "Focus on personal values, self-respect, and uniqueness \u2014 remembering that your journey is not meant to match anyone else\u2019s.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_006",
+    "card_type": "flashcard",
+    "question": "Why does rejection feel physically painful?",
+    "answer": "Rejection activates brain regions linked to physical pain \u2014 especially when tied to identity or safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_007",
+    "card_type": "flashcard",
+    "question": "What helps interrupt social media comparison spirals?",
+    "answer": "Limit exposure, curate who you follow, take breaks, and remind yourself what\u2019s edited or posed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_008",
+    "card_type": "flashcard",
+    "question": "How does belonging reduce rejection pain?",
+    "answer": "Being seen and accepted by even one person buffers rejection\u2019s impact and restores nervous system safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to reframe rejection?",
+    "answer": "Rejection can be a sign that something or someone wasn\u2019t aligned \u2014 it doesn\u2019t define your worth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_009_social_comparison_and_rejection_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s a mantra for comparison moments?",
+    "answer": "'Their success or beauty is not my failure. My worth is not up for debate.'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

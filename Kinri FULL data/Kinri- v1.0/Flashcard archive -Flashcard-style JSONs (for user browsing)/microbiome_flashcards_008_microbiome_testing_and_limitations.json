@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is microbiome testing?",
+    "answer": "Microbiome testing analyzes a stool sample to identify and quantify the bacteria, fungi, and other microbes in your gut.",
+    "tags": [
+      "microbiome testing",
+      "gut analysis",
+      "stool sample"
+    ]
+  },
+  {
+    "question": "What can microbiome tests tell you?",
+    "answer": "They provide information on microbial diversity, presence of certain strains, potential overgrowths, and digestive markers like inflammation.",
+    "tags": [
+      "microbial diversity",
+      "gut health",
+      "test results"
+    ]
+  },
+  {
+    "question": "What are the limitations of current microbiome tests?",
+    "answer": "They often can't measure function or activity, may miss some species, and results can vary widely between labs and testing methods.",
+    "tags": [
+      "testing limits",
+      "accuracy",
+      "lab differences"
+    ]
+  },
+  {
+    "question": "Are microbiome tests used for diagnosis?",
+    "answer": "No. Microbiome tests are not approved for diagnosing diseases and should be interpreted cautiously alongside symptoms and clinical context.",
+    "tags": [
+      "diagnosis",
+      "caution",
+      "medical use"
+    ]
+  },
+  {
+    "question": "Can microbiome results change quickly?",
+    "answer": "Yes. The microbiome shifts with diet, sleep, stress, medication, and environment \u2014 so a test reflects a moment in time, not a fixed state.",
+    "tags": [
+      "dynamic",
+      "lifestyle impact",
+      "snapshot"
+    ]
+  },
+  {
+    "question": "How reliable are direct-to-consumer microbiome kits?",
+    "answer": "Some provide useful insights, but many lack validation, use proprietary scoring, or offer overly simplified interpretations.",
+    "tags": [
+      "consumer kits",
+      "validity",
+      "oversimplification"
+    ]
+  },
+  {
+    "question": "What\u2019s more important than a test result?",
+    "answer": "Symptoms, habits, diet quality, and long-term patterns often offer better insight into gut health than one-time test data.",
+    "tags": [
+      "symptom tracking",
+      "habit over data",
+      "context"
+    ]
+  },
+  {
+    "question": "Can microbiome tests help personalize health plans?",
+    "answer": "They may guide probiotic or diet choices, but their use should be thoughtful and ideally overseen by a knowledgeable practitioner.",
+    "tags": [
+      "personalization",
+      "guidance",
+      "functional medicine"
+    ]
+  },
+  {
+    "question": "What should you watch out for in microbiome marketing?",
+    "answer": "Beware of bold claims, fear-based language, or selling expensive supplements based solely on test results.",
+    "tags": [
+      "marketing",
+      "red flags",
+      "critical thinking"
+    ]
+  },
+  {
+    "question": "Is microbiome testing a growing field?",
+    "answer": "Yes. It's rapidly evolving, and future tests may provide deeper, more accurate insights into gut function and health.",
+    "tags": [
+      "future research",
+      "evolving science",
+      "biotech"
+    ]
+  }
+]

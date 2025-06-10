@@ -1,0 +1,86 @@
+[
+  {
+    "card_id": "adhd_2_time_blindness_and_future_fog_005",
+    "card_type": "vault_card",
+    "headline": "Time Isn\u2019t Just a Clock\u2014It\u2019s a Feeling",
+    "body": "If time feels unreal, you\u2019re not broken\u2014you\u2019re unlinked. Give time shape. Make it visual. Make it matter.",
+    "prompt": "What\u2019s one way you could make time feel more real or visible today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_6_hyperfocus_flow_and_focus_rebounds_005",
+    "card_type": "vault_card",
+    "headline": "Focus Isn\u2019t Always Control",
+    "body": "Sometimes your brain locks in to survive. Learn to ride the wave\u2014and come up for air with care.",
+    "prompt": "What signal tells you you\u2019ve been in hyperfocus too long\u2014and what gentle exit strategy could you use?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_11_sensory_sensitivity_and_nervous_system_overload_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Overreacting\u2014You're Overstimulated",
+    "body": "Sensory regulation isn\u2019t a luxury. It\u2019s your baseline. Design the world so your brain doesn\u2019t have to fight it.",
+    "prompt": "What\u2019s one sensory shift\u2014light, sound, texture\u2014you could change to give your brain more ease this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_15_burnout_and_cycle_awareness_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Failing\u2014You're Fried",
+    "body": "Burnout doesn\u2019t mean you're weak\u2014it means you ran without fuel. You deserve sustainable effort, not survival mode.",
+    "prompt": "What system, break, or boundary could help future-you avoid another crash this month?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

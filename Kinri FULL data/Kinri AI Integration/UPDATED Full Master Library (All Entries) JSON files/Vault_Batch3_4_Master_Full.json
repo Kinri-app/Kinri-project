@@ -1,0 +1,600 @@
+[
+  {
+    "card_id": "changing_habits_13_emotional_safety_and_habit_maintenance_001",
+    "card_type": "flashcard",
+    "question": "Why is emotional safety essential for habit maintenance?",
+    "answer": "Because stress or shame sabotage habits\u2014safety helps your nervous system stay regulated and consistent.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_13_emotional_safety_and_habit_maintenance_002",
+    "card_type": "flashcard",
+    "question": "What mindset supports sustainable habit maintenance?",
+    "answer": "Grace over grit. Rhythm over rules. Progress over perfection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_13_emotional_safety_and_habit_maintenance_003",
+    "card_type": "flashcard",
+    "question": "How do you know a habit is emotionally safe?",
+    "answer": "It doesn\u2019t trigger panic, pressure, or fear of failure\u2014it fits like a rhythm, not a rule.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_13_emotional_safety_and_habit_maintenance_004",
+    "card_type": "flashcard",
+    "question": "What supports long-term habit rhythm?",
+    "answer": "Micro check-ins, soft boundaries, environmental support, and making room for life without self-abandonment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_13_emotional_safety_and_habit_maintenance_005",
+    "card_type": "vault_card",
+    "headline": "The Habits That Last Are the Ones That Feel Like Home",
+    "body": "Your nervous system doesn\u2019t want intensity. It wants rhythm. Build the habit into safety\u2014not shame.",
+    "prompt": "What habit this week could feel more like a ritual of care\u2014and less like a test of control?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_3_motivation_dopamine_and_tiny_wins_001",
+    "card_type": "flashcard",
+    "question": "What is dopamine\u2019s role in habit formation?",
+    "answer": "Dopamine tracks progress and reward\u2014small wins create momentum by keeping the brain engaged and motivated.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_3_motivation_dopamine_and_tiny_wins_002",
+    "card_type": "flashcard",
+    "question": "Why do tiny wins matter more than big goals?",
+    "answer": "They build trust with the nervous system, avoid overwhelm, and provide quick feedback loops for progress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_3_motivation_dopamine_and_tiny_wins_003",
+    "card_type": "flashcard",
+    "question": "How can you stack dopamine to support change?",
+    "answer": "Pair the new habit with movement, sunlight, music, or visual progress tracking for built-in reward.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_3_motivation_dopamine_and_tiny_wins_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s one sign your change is too dopamine-depleting?",
+    "answer": "You dread it, avoid it, or feel flat after\u2014even when you \u2018succeed.\u2019 There\u2019s no reward loop.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_3_motivation_dopamine_and_tiny_wins_005",
+    "card_type": "vault_card",
+    "headline": "Motivation Isn\u2019t Magic\u2014It\u2019s Momentum",
+    "body": "You don\u2019t need to hype yourself up. You need to build small wins that your brain wants to repeat.",
+    "prompt": "What\u2019s one habit you could shrink this week to a dopamine-rich micro-step you\u2019ll actually want to keep?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_5_habit_stacking_anchors_and_daily_cues_001",
+    "card_type": "flashcard",
+    "question": "What is habit stacking?",
+    "answer": "Pairing a new habit with an existing one\u2014using the existing routine as an anchor to build change.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_5_habit_stacking_anchors_and_daily_cues_002",
+    "card_type": "flashcard",
+    "question": "Why do anchors help new habits stick?",
+    "answer": "Anchors create predictability and reduce decision fatigue\u2014your brain doesn\u2019t need to remember, just follow rhythm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_5_habit_stacking_anchors_and_daily_cues_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s an example of a strong daily cue?",
+    "answer": "After brushing teeth, drink water. After putting on shoes, do one squat. Link habits to things you already do.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_5_habit_stacking_anchors_and_daily_cues_004",
+    "card_type": "flashcard",
+    "question": "How do cues reduce habit resistance?",
+    "answer": "They automate action\u2014removing the need for motivation by using environmental or time-based reminders.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_5_habit_stacking_anchors_and_daily_cues_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need More Discipline\u2014You Need Better Anchors",
+    "body": "Let your habits piggyback on your life. If you already do it daily, make it the launchpad for what\u2019s next.",
+    "prompt": "What habit could you anchor to something you already do this week\u2014so your brain doesn\u2019t have to start from scratch?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_8_habit_shame_recovery_and_nervous_system_repair_001",
+    "card_type": "flashcard",
+    "question": "Why does habit shame block recovery?",
+    "answer": "Shame keeps the nervous system in defense mode\u2014making it harder to start again or feel safe with small wins.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_8_habit_shame_recovery_and_nervous_system_repair_002",
+    "card_type": "flashcard",
+    "question": "What helps shift out of habit shame?",
+    "answer": "Curiosity, language reframing, removing moral labels (good/bad), and rebuilding the habit from emotional safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_8_habit_shame_recovery_and_nervous_system_repair_003",
+    "card_type": "flashcard",
+    "question": "Why is nervous system repair key in habit change?",
+    "answer": "Your habits don\u2019t just live in willpower\u2014they live in regulation. Calm creates the space for growth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_8_habit_shame_recovery_and_nervous_system_repair_004",
+    "card_type": "flashcard",
+    "question": "What does \u2018emotional safety before strategy\u2019 mean in habit building?",
+    "answer": "Without safety, the strategy feels like pressure. Safety makes the strategy sustainable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_8_habit_shame_recovery_and_nervous_system_repair_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Failing\u2014You\u2019re Frightened",
+    "body": "If the habit feels hard, it\u2019s not because you\u2019re broken\u2014it\u2019s because your body still doesn\u2019t feel safe to grow.",
+    "prompt": "What habit needs more safety and softness\u2014not just a new plan\u2014to become possible again?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_9_identity_change_and_habit_integration_001",
+    "card_type": "flashcard",
+    "question": "Why is identity important in habit change?",
+    "answer": "Lasting habits stick when they align with who you believe you are\u2014not just what you\u2019re trying to do.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_9_identity_change_and_habit_integration_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between behavior and identity change?",
+    "answer": "Behavior is action. Identity is belief. Habits anchored in identity require less motivation and create long-term alignment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_9_identity_change_and_habit_integration_003",
+    "card_type": "flashcard",
+    "question": "How do you shift identity gently during habit building?",
+    "answer": "Use affirmations like 'I\u2019m someone who shows up,' celebrate consistency, and watch how your language shapes belief.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_9_identity_change_and_habit_integration_004",
+    "card_type": "flashcard",
+    "question": "What are signs a habit has integrated into your identity?",
+    "answer": "You don\u2019t negotiate it anymore. It feels like you\u2014not like pressure or performance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_9_identity_change_and_habit_integration_005",
+    "card_type": "vault_card",
+    "headline": "Your Habits Don\u2019t Just Shape Your Life\u2014They Shape Your Story",
+    "body": "To become someone new, act like someone new. Not with force, but with love. Bit by bit, belief by belief.",
+    "prompt": "What habit this week could reflect who you\u2019re becoming\u2014not just what you\u2019re trying to fix?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_11_nervous_system_healing_and_long_term_change_001",
+    "card_type": "flashcard",
+    "question": "Why does nervous system healing matter for lasting habit change?",
+    "answer": "Because habits don\u2019t live in willpower\u2014they live in regulation. Without safety, change feels like threat.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_11_nervous_system_healing_and_long_term_change_002",
+    "card_type": "flashcard",
+    "question": "What blocks long-term habit success?",
+    "answer": "Shame, perfectionism, high-pressure starts, and strategies that ignore the body\u2019s capacity or state.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_11_nervous_system_healing_and_long_term_change_003",
+    "card_type": "flashcard",
+    "question": "How do you know a habit has become sustainable?",
+    "answer": "It fits into your life without pressure. Your body doesn\u2019t flinch when it\u2019s time to do it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_11_nervous_system_healing_and_long_term_change_004",
+    "card_type": "flashcard",
+    "question": "What mindset helps support change over time?",
+    "answer": "Healing over hustle. Rhythm over rules. Consistency over intensity. Curiosity over control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "changing_habits_11_nervous_system_healing_and_long_term_change_005",
+    "card_type": "vault_card",
+    "headline": "Regulation Makes Room for Change",
+    "body": "You can\u2019t build long-term habits in short-term panic. Heal first. Then the habit can land and last.",
+    "prompt": "What habit could become more sustainable this week by prioritizing nervous system safety over outcome?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

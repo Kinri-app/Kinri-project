@@ -1,0 +1,89 @@
+[
+  {
+    "question": "What is rupture in parent-child relationships?",
+    "answer": "A disconnection moment\u2014yelling, misunderstanding, withdrawal\u2014that shakes a child\u2019s sense of safety or attunement.",
+    "tags": {
+      "condition": [
+        "rupture"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "connection",
+        "parenting"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_327_parenting_repair"
+  },
+  {
+    "question": "Why is repair more powerful than perfection?",
+    "answer": "Children don\u2019t need flawless parents\u2014they need adults who can admit, repair, and reconnect after missteps.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "emotional safety",
+        "trust"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "repair"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_328_parenting_repair"
+  },
+  {
+    "question": "How can you repair after a parenting rupture?",
+    "answer": "Acknowledge the moment, name your emotion, affirm the relationship, and offer safety through tone and presence.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "healing"
+      ],
+      "narrative_type": [
+        "reconnection"
+      ],
+      "usage_mode": [
+        "co-regulation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_329_parenting_repair"
+  },
+  {
+    "question": "What teaches a child that repair is safe?",
+    "answer": "Repeated experiences of soft reentry, calm apologies, and the assurance that love isn\u2019t lost when there\u2019s conflict.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "emotional healing",
+        "safety"
+      ],
+      "usage_mode": [
+        "parenting repair"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_330_parenting_repair"
+  },
+  {
+    "headline": "The Moment You Return Builds More Than the Moment You Broke",
+    "body": "Repair rewires what rupture once taught. When you reconnect, your child learns they are still lovable in conflict.",
+    "prompt": "What repair could you offer this week to show your child that connection isn\u2019t broken by missteps?",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "healing"
+      ],
+      "narrative_type": [
+        "parenting",
+        "connection"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_331_parenting_repair"
+  }
+]

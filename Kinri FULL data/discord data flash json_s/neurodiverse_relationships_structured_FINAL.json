@@ -1,0 +1,170 @@
+[
+  {
+    "question": "What is a neurodiverse relationship?",
+    "answer": "A relationship where one or more partners has a different neurotype \u2014 such as ADHD, autism, or sensory processing differences.",
+    "tags": {
+      "condition": [
+        "neurodivergence"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "relationships"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_336_neurodiverse_relationships"
+  },
+  {
+    "question": "Why can communication feel harder in neurodiverse relationships?",
+    "answer": "Differences in tone interpretation, emotional regulation, pacing, or processing speed can lead to misunderstandings or mismatches.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "miscommunication",
+        "processing"
+      ],
+      "usage_mode": [
+        "tone"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_337_neurodiverse_relationships"
+  },
+  {
+    "question": "What are common strengths in neurodiverse communication?",
+    "answer": "Directness, depth, honesty, creative metaphors, and unconventional emotional insight.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "expression"
+      ],
+      "narrative_type": [
+        "strengths",
+        "authenticity"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_338_neurodiverse_relationships"
+  },
+  {
+    "question": "What helps reduce miscommunication in neurodiverse couples?",
+    "answer": "Clarifying intent, asking for feedback, and not assuming tone or silence always means conflict.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "repair"
+      ],
+      "usage_mode": [
+        "clarity",
+        "feedback"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_339_neurodiverse_relationships"
+  },
+  {
+    "question": "How does sensory sensitivity affect communication?",
+    "answer": "Overwhelm from noise, light, or touch may cause shutdowns or short replies that get misread as disinterest or coldness.",
+    "tags": {
+      "condition": [
+        "shutdown",
+        "tone mismatch"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "sensory"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_340_neurodiverse_relationships"
+  },
+  {
+    "question": "Why is pacing important in neurodiverse conversations?",
+    "answer": "Some people need more time to process and respond \u2014 rushing can lead to missed meaning or increased anxiety.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "safety"
+      ],
+      "narrative_type": [
+        "pacing",
+        "processing time"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_341_neurodiverse_relationships"
+  },
+  {
+    "question": "What tools help neurodiverse couples communicate better?",
+    "answer": "Written notes, communication cards, visual check-ins, shared scripts, and structured check-ins.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "tools",
+        "communication supports",
+        "structure"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_342_neurodiverse_relationships"
+  },
+  {
+    "question": "How can partners support each other during shutdowns?",
+    "answer": "Allow quiet time without pressure to explain. Offer grounding support like presence, touch (if wanted), or calm breathing.",
+    "tags": {
+      "condition": [
+        "shutdown",
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "co-regulation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_343_neurodiverse_relationships"
+  },
+  {
+    "question": "What\u2019s one phrase to normalize different needs?",
+    "answer": "\u201cIt\u2019s okay that we need different things to feel safe when talking \u2014 let\u2019s find a middle ground.\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "normalization",
+        "middle ground",
+        "flexibility"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_344_neurodiverse_relationships"
+  },
+  {
+    "question": "What mindset helps neurodiverse communication thrive?",
+    "answer": "Curiosity over assumption. Trust that different doesn\u2019t mean wrong \u2014 just a new language to learn together.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "mindset",
+        "curiosity",
+        "shared language"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_345_neurodiverse_relationships"
+  }
+]

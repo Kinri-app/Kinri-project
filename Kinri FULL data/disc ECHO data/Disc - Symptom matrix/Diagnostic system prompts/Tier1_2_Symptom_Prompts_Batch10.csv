@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you find it hard to distinguish between being lazy and being exhausted?,Like you’re not sure if you're avoiding or just depleted?,Tier 2,"{'Depression': 1.0, 'CPTSD': 0.5}"
+Do you often feel emotionally ‘leaky’ — like small things spill out big reactions?,Like your threshold for holding it in is lower than others’?,Tier 1,"{'BPD': 1.0, 'PMDD': 0.5}"
+Do you need a long time to recover from social events — even fun ones?,Like your nervous system needs a cooldown after connection?,Tier 1,"{'Autism': 1.0, 'CPTSD': 0.5}"
+Do you sometimes fear being ‘too much’ for people — even when you try to be careful?,Like your emotions or needs might overwhelm others?,Tier 2,"{'BPD': 1.0, 'CPTSD': 0.5}"
+Do you find yourself analyzing how you’re being perceived in real time?,Like your brain is running commentary on how you’re coming across?,Tier 2,"{'GAD': 1.0, 'BPD': 0.5}"
+Do you often struggle to follow instructions unless you understand *why* they matter?,Like you can’t hold the steps if the meaning isn’t clear?,Tier 1,"{'ADHD': 1.0, 'Autism': 0.5}"
+Do you get emotionally overwhelmed by kindness or affection?,Like it’s almost too much to receive — even if you crave it?,Tier 2,"{'BPD': 1.0, 'CPTSD': 0.5}"
+Do you sometimes feel panicky in public spaces — even if nothing specific is happening?,Like the energy around you triggers something old and wordless?,Tier 2,"{'PTSD': 1.0, 'CPTSD': 0.5}"
+"Do you feel like your mind goes quiet when you’re upset — not racing, just *blank*?","Like there’s nothing to say or think, just shutdown?",Tier 1,"{'CPTSD': 1.0, 'Depression': 0.5}"
+Do you sometimes avoid joy or excitement because you’re afraid it won’t last?,Like letting yourself feel good might trigger a crash later?,Tier 2,"{'Depression': 1.0, 'BPD': 0.5}"

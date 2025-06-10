@@ -1,0 +1,113 @@
+[
+  {
+    "card_id": "adhd_13_relationships_intensity_and_emotional_needs_005",
+    "card_type": "vault_card",
+    "headline": "Love Isn\u2019t Always Steady\u2014But It Can Be Safe",
+    "body": "ADHD doesn\u2019t block intimacy\u2014but it does require emotional tools, clear rituals, and more grace for the waves.",
+    "prompt": "What emotional need in your relationships could you name with more clarity and compassion this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_1_executive_dysfunction_and_task_paralysis_005",
+    "card_type": "vault_card",
+    "headline": "Stuck Isn\u2019t Lazy\u2014It\u2019s a Signal",
+    "body": "If you\u2019re frozen, it\u2019s not failure\u2014it\u2019s executive overload. Start small. Start kind. But start.",
+    "prompt": "What\u2019s one micro-action you can take today to tell your brain it\u2019s safe to begin again?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_4_dopamine_and_motivation_struggles_005",
+    "card_type": "vault_card",
+    "headline": "It\u2019s Not Lazy\u2014It\u2019s Chemistry",
+    "body": "Motivation isn\u2019t moral. It\u2019s neurochemical. And there are ways to work with it instead of fighting yourself.",
+    "prompt": "What\u2019s one dopamine-supporting habit you could build into your morning or work time?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_7_rejection_sensitivity_and_emotional_whiplash_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Too Much\u2014You're Overstimulated",
+    "body": "Emotional swings don\u2019t mean you're broken\u2014they mean you're deeply wired to care. But you can learn to steer the wave.",
+    "prompt": "What part of you panics at rejection\u2014and what could you say to calm it down today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear",
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_10_emotional_dysregulation_and_shame_spirals_005",
+    "card_type": "vault_card",
+    "headline": "You're Not Broken\u2014You're Flooded",
+    "body": "ADHD doesn\u2019t just distract. It amplifies. And the fix isn\u2019t force\u2014it\u2019s regulation, rhythm, and radical gentleness.",
+    "prompt": "What recent shame spike could you meet with compassion instead of critique this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

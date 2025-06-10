@@ -1,0 +1,513 @@
+[
+  {
+    "card_id": "trauma_10_emotional_regulation_and_grounding_techniques_001",
+    "card_type": "flashcard",
+    "question": "Why is emotional regulation difficult after trauma?",
+    "answer": "The nervous system may default to survival states\u2014fight, flight, freeze\u2014making calm feel unfamiliar or unsafe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_10_emotional_regulation_and_grounding_techniques_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s one fast way to ground when overwhelmed?",
+    "answer": "Touch something cold, plant your feet, look around and name objects\u2014bring awareness to the present.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_10_emotional_regulation_and_grounding_techniques_003",
+    "card_type": "flashcard",
+    "question": "How does naming emotions support regulation?",
+    "answer": "Naming activates the thinking brain (prefrontal cortex), which helps calm the reactive system and increase clarity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_10_emotional_regulation_and_grounding_techniques_004",
+    "card_type": "flashcard",
+    "question": "Why are gentle tools more effective than force?",
+    "answer": "Force increases shutdown or reactivity. Gentle regulation tools meet the nervous system where it is.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_10_emotional_regulation_and_grounding_techniques_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need to Feel Fine\u2014You Need to Feel Safe",
+    "body": "The goal isn\u2019t perfect calm. It\u2019s gentle reconnection with the moment you\u2019re in\u2014until your system softens.",
+    "prompt": "What tool helps you shift from overwhelm to a little more presence\u2014and could you use it sooner next time?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_6_nervous_system_regulation_and_repatterning_001",
+    "card_type": "flashcard",
+    "question": "Why is nervous system regulation foundational in trauma recovery?",
+    "answer": "Without safety in the body, the brain can't access memory integration, trust, or relational presence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_6_nervous_system_regulation_and_repatterning_002",
+    "card_type": "flashcard",
+    "question": "What is a window of tolerance?",
+    "answer": "It\u2019s the range of activation where a person can function and feel without shutting down or flipping out.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_6_nervous_system_regulation_and_repatterning_003",
+    "card_type": "flashcard",
+    "question": "What are some somatic tools for nervous system reset?",
+    "answer": "Gentle rocking, cold water, cross-body tapping, long exhales, and grounding through feet or touch.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_6_nervous_system_regulation_and_repatterning_004",
+    "card_type": "flashcard",
+    "question": "Why is slowness key in repatterning trauma responses?",
+    "answer": "The body needs safety and time to create new associations\u2014it learns through felt repetition, not logic.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_6_nervous_system_regulation_and_repatterning_005",
+    "card_type": "vault_card",
+    "headline": "Regulation Rewires the Story",
+    "body": "You don\u2019t heal by forcing the pain out\u2014you heal by giving your body a new ending, over and over.",
+    "prompt": "What nervous system tool helps you return to safety\u2014and could you make it a daily rhythm?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_7_emotional_numbing_shutdown_freeze_recovery_001",
+    "card_type": "flashcard",
+    "question": "What is emotional numbing?",
+    "answer": "A trauma response where the body blocks emotional sensation to protect from overwhelm\u2014often mistaken for apathy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_7_emotional_numbing_shutdown_freeze_recovery_002",
+    "card_type": "flashcard",
+    "question": "What does a freeze state feel like?",
+    "answer": "Stillness, fog, immobility, or blankness\u2014where fight and flight aren't available and presence is hard to access.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_7_emotional_numbing_shutdown_freeze_recovery_003",
+    "card_type": "flashcard",
+    "question": "Why does trauma shut down emotion?",
+    "answer": "When emotions were unsafe or ignored in the past, the brain learns to block them to prevent re-traumatization.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_7_emotional_numbing_shutdown_freeze_recovery_004",
+    "card_type": "flashcard",
+    "question": "What helps thaw freeze and emotional shutdown?",
+    "answer": "Small movement, safe connection, warmth, gentle stimulation (like light touch or rocking), and voice or sound.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_7_emotional_numbing_shutdown_freeze_recovery_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Cold\u2014You Froze to Survive",
+    "body": "Numbness is not the absence of feeling\u2014it\u2019s the body protecting what it wasn\u2019t yet safe to feel. Start gentle.",
+    "prompt": "What small act of warmth, movement, or permission could help thaw your system this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_8_shame_self_worth_internalized_beliefs_001",
+    "card_type": "flashcard",
+    "question": "Why is shame such a strong trauma imprint?",
+    "answer": "Shame convinces us we are the problem, not the experience\u2014silencing expression and cutting off healing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_8_shame_self_worth_internalized_beliefs_002",
+    "card_type": "flashcard",
+    "question": "What are internalized beliefs from early trauma?",
+    "answer": "Thoughts like 'I\u2019m too much,' 'I don\u2019t matter,' or 'I have to earn love' that stem from repeated emotional injury.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_8_shame_self_worth_internalized_beliefs_003",
+    "card_type": "flashcard",
+    "question": "How does shame affect behavior in adulthood?",
+    "answer": "It creates self-abandonment, people-pleasing, chronic overgiving, or emotional shutdowns.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_8_shame_self_worth_internalized_beliefs_004",
+    "card_type": "flashcard",
+    "question": "What helps shift internalized shame beliefs?",
+    "answer": "IFS parts work, journaling, self-compassion, and having new relational experiences where you are safe and seen.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_8_shame_self_worth_internalized_beliefs_005",
+    "card_type": "vault_card",
+    "headline": "Shame Is a Shadow\u2014Not the Truth",
+    "body": "You were never the problem. Your beliefs were built to protect you. You get to choose new ones now.",
+    "prompt": "What belief are you still carrying that was never yours to begin with?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_9_reconnection_joy_post_traumatic_growth_001",
+    "card_type": "flashcard",
+    "question": "What is post-traumatic growth?",
+    "answer": "It\u2019s the emotional and psychological growth that can emerge after deep pain\u2014like clarity, purpose, compassion, and new strength.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_9_reconnection_joy_post_traumatic_growth_002",
+    "card_type": "flashcard",
+    "question": "Why is reconnecting with joy important after trauma?",
+    "answer": "Joy reclaims life from pain. It helps the nervous system experience safety, trust, and aliveness again.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_9_reconnection_joy_post_traumatic_growth_003",
+    "card_type": "flashcard",
+    "question": "What does reconnection look like in trauma healing?",
+    "answer": "Small pleasures, meaningful relationships, spiritual anchoring, creative expression, and presence in daily life.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_9_reconnection_joy_post_traumatic_growth_004",
+    "card_type": "flashcard",
+    "question": "How can joy coexist with grief?",
+    "answer": "Grief and joy are both part of wholeness. Feeling joy doesn\u2019t betray pain\u2014it honors survival and humanity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_9_reconnection_joy_post_traumatic_growth_005",
+    "card_type": "vault_card",
+    "headline": "Pain Isn\u2019t the End\u2014It\u2019s the Portal",
+    "body": "You\u2019re not here to suffer forever. You\u2019re here to feel again. Joy isn\u2019t a betrayal\u2014it\u2019s a return.",
+    "prompt": "What quiet joy could you allow this week\u2014not to erase pain, but to live alongside it?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

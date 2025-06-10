@@ -1,0 +1,219 @@
+[
+  {
+    "prompt": "Do you often feel like you\u2019re falling behind, no matter how hard you try?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Depression"
+      ],
+      "emotion": [
+        "shame",
+        "failure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you struggle to relax even in safe environments?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Anxiety",
+        "Autism"
+      ],
+      "emotion": [
+        "hypervigilance",
+        "tension"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often criticize yourself in your head?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "OCD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "shame",
+        "self_criticism"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "compare_support"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find comfort in repetition or familiar routines?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Autism",
+        "OCD"
+      ],
+      "emotion": [
+        "safety",
+        "calm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your emotions hit you before you understand why?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "PMDD",
+        "BPD",
+        "ADHD"
+      ],
+      "emotion": [
+        "confusion",
+        "emotional_whiplash"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you try to keep everything inside so you don\u2019t burden others?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression",
+        "GAD"
+      ],
+      "emotion": [
+        "guilt",
+        "isolation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like your body is on edge for no clear reason?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Anxiety",
+        "Autism"
+      ],
+      "emotion": [
+        "anxiety",
+        "nervous_system"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often assume you\u2019re the one at fault when something goes wrong?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "OCD",
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "guilt",
+        "responsibility"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like you can\u2019t stop trying to prove your worth?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "ADHD"
+      ],
+      "emotion": [
+        "insecurity",
+        "performance_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever felt like disappearing would be easier than explaining how you feel?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "shame",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

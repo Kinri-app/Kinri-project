@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What is nervous system communication?",
+    "answer": "The way our bodies send signals of safety or threat through tone, breath, posture, and presence\u2014often before words.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "nonverbal"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_315_nonverbal_signals"
+  },
+  {
+    "question": "Why are unspoken signals powerful in relationships?",
+    "answer": "They shape how safe we feel with others\u2014your tone or body can regulate or dysregulate far more than content.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "attunement"
+      ],
+      "narrative_type": [
+        "safety cues",
+        "emotional regulation"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_316_nonverbal_signals"
+  },
+  {
+    "question": "What are signs someone\u2019s nervous system is dysregulated during a conversation?",
+    "answer": "Shallow breathing, pacing, crossed arms, fast speech, emotional shutdown, or reactive tone.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "dysregulation",
+        "body language"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_317_nonverbal_signals"
+  },
+  {
+    "question": "How can you respond to someone\u2019s nonverbal distress?",
+    "answer": "Slow your pace, soften your tone, use grounding eye contact, or offer space instead of pushing forward.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "de-escalation"
+      ],
+      "usage_mode": [
+        "co-regulation",
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_318_nonverbal_signals"
+  },
+  {
+    "headline": "Your Body Speaks Before You Do",
+    "body": "Every posture, breath, and blink tells a story. Speak safety before you speak words. Attune before you advise.",
+    "prompt": "What nonverbal signal could you adjust this week to help a loved one feel safer in your presence?",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [
+        "healing"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_319_nonverbal_signals"
+  }
+]

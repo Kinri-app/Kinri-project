@@ -1,0 +1,70 @@
+**MiFam Dynamic Follow-Up Logic – Sample Path: Impulsivity**
+
+---
+
+### 🏋️ INITIAL SYMPTOM TRIGGER:
+
+> User rates **"Impulsivity"** at 3.0 or higher
+
+### ✅ Diagnosis Overlaps:
+
+* **ADHD**
+* **BPD**
+* **Bipolar II**
+* (Minor overlap: CPTSD)
+
+---
+
+### 🔀 BRANCH INITIATION:
+
+> Echo says:
+> "That kind of impulsivity shows up in a few different patterns — sometimes it’s energy-driven, sometimes emotion-driven. Can I ask a few quick questions to help us understand how yours shows up?"
+
+---
+
+### ❓ FOLLOW-UP QUESTIONS (User selects from simple responses)
+
+#### **Q1: Does your impulsivity usually happen in moments of high emotion or conflict?**
+
+* "Yes, especially when I’m upset or scared" → **+0.5 BPD, +0.25 C-PTSD**
+* "Not really, it happens randomly" → **+0.5 ADHD**
+* "Only when I’m feeling really great or energized" → **+0.5 Bipolar II**
+
+---
+
+#### **Q2: How do you feel afterward?**
+
+* "Ashamed or regretful" → **+0.5 BPD, +0.25 Depression**
+* "Fine — just on to the next thing" → **+0.5 ADHD**
+* "A bit embarrassed, but I rationalize it" → **+0.25 OCD, +0.25 GAD**
+
+---
+
+#### **Q3: Do you notice any patterns in when this happens?**
+
+* "Before my period or during mood swings" → **+0.5 PMDD, +0.25 Bipolar II**
+* "When I'm bored or under-stimulated" → **+0.5 ADHD**
+* "During social stress or relationship tension" → **+0.5 BPD, +0.25 C-PTSD**
+
+---
+
+### 🔄 FOLLOW-UP SCORE INTEGRATION:
+
+Each answer adds weight to diagnosis scores. These scores get rolled into the main tally and re-evaluated for branching.
+
+Echo then continues:
+
+> "Thanks for sharing that — it gives a much clearer picture. Based on your answers, this impulsivity leans more toward \[highest-scoring match]. Would you like to explore how that plays out in real-life experiences or coping strategies?"
+
+---
+
+### 🧳 FUTURE DYNAMIC PATHS (Coming Next):
+
+* **Overthinking / Rumination**: GAD vs OCD vs CPTSD vs Depression
+* **Shame / Worthlessness**: Depression vs CPTSD vs Autism
+* **Relationship Chaos**: BPD vs CPTSD vs PMDD
+* **Meltdowns / Rage**: Autism vs PMDD vs BPD vs Bipolar
+
+---
+
+These follow-ups allow Echo to clarify overlapping patterns without overwhelm, increasing accuracy and emotional safety.

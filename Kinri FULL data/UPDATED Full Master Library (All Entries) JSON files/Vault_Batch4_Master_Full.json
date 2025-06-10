@@ -1,0 +1,1166 @@
+[
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_001",
+    "card_type": "flashcard",
+    "question": "Why are routines difficult for ADHD brains?",
+    "answer": "ADHD affects working memory, motivation, and time perception \u2014 making it hard to remember, initiate, or maintain routines consistently.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s a common mistake when starting a new routine?",
+    "answer": "Starting too big. ADHD brains benefit more from small, repeatable wins than all-or-nothing overhauls.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_003",
+    "card_type": "flashcard",
+    "question": "Why does novelty matter in routine formation?",
+    "answer": "Novelty boosts dopamine, which helps engage the ADHD brain \u2014 but routines need to balance novelty with structure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_004",
+    "card_type": "flashcard",
+    "question": "How does time blindness affect routine building?",
+    "answer": "You may not feel urgency until it\u2019s too late \u2014 leading to skipped routines or tasks done in a rush.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_005",
+    "card_type": "flashcard",
+    "question": "What helps routines stick long-term for ADHD brains?",
+    "answer": "Visual cues, habit stacking, low-pressure repetition, and external reminders build the scaffolding needed for consistency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_006",
+    "card_type": "flashcard",
+    "question": "What is habit stacking?",
+    "answer": "It\u2019s linking a new habit to an existing one \u2014 like stretching after brushing your teeth \u2014 to increase routine success.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_007",
+    "card_type": "flashcard",
+    "question": "How does emotional state affect routine follow-through?",
+    "answer": "Stress or dysregulation can block follow-through \u2014 routines work better when tied to nervous system regulation, not willpower.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_008",
+    "card_type": "flashcard",
+    "question": "What\u2019s a sustainable approach to building routines?",
+    "answer": "Start with one anchor habit, track progress visibly, celebrate small wins, and forgive inconsistencies without shame.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_009",
+    "card_type": "flashcard",
+    "question": "Why are rigid routines often unsustainable for neurodivergent folks?",
+    "answer": "They don\u2019t allow for fluctuations in energy, emotion, or context \u2014 flexibility makes routines ADHD-friendly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_002_building_consistent_routines_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports consistent routine building?",
+    "answer": "Progress over perfection. Consistency isn\u2019t about never missing \u2014 it\u2019s about returning again and again.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_3_overstimulation_and_dopamine_hijacking_001",
+    "card_type": "flashcard",
+    "question": "What are supernormal stimuli and why are they harmful?",
+    "answer": "They are highly engineered rewards\u2014like social media or junk food\u2014that overload the dopamine system beyond natural limits.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_3_overstimulation_and_dopamine_hijacking_002",
+    "card_type": "flashcard",
+    "question": "How does dopamine stacking affect motivation?",
+    "answer": "Layering stimulants (e.g., coffee + music + social media) trains your brain to expect extreme pleasure\u2014making normal tasks feel dull.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_3_overstimulation_and_dopamine_hijacking_003",
+    "card_type": "flashcard",
+    "question": "Why do modern dopamine hits make long-term goals harder?",
+    "answer": "They raise your reward threshold, so real work feels like punishment instead of progress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_3_overstimulation_and_dopamine_hijacking_004",
+    "card_type": "flashcard",
+    "question": "How can you reduce overstimulation?",
+    "answer": "Audit your inputs, reduce frequency of tech, sugar, noise, and gradually rebuild your sensitivity to normal pleasure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_3_overstimulation_and_dopamine_hijacking_005",
+    "card_type": "vault_card",
+    "headline": "Hijacked by Hacks",
+    "body": "The world is hacking your brain. Take the wheel back\u2014slow down, simplify, and feel again.",
+    "prompt": "What\u2019s one supernormal trigger you could pause today to reclaim your focus?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_5_addiction_withdrawal_pain_pleasure_balance_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the dopamine pleasure-pain balance?",
+    "answer": "For every spike in dopamine (pleasure), the brain compensates with a dip (pain)\u2014over time, this balance can shift unfavorably.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_5_addiction_withdrawal_pain_pleasure_balance_002",
+    "card_type": "flashcard",
+    "question": "How does addiction affect dopamine?",
+    "answer": "Addiction narrows dopamine sources and lowers baseline levels, making everyday life feel joyless without the addictive behavior.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_5_addiction_withdrawal_pain_pleasure_balance_003",
+    "card_type": "flashcard",
+    "question": "What is the 30-day dopamine fast protocol?",
+    "answer": "Avoid your main dopamine trigger for 30 days\u2014withdrawal fades in weeks, and balance returns.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_5_addiction_withdrawal_pain_pleasure_balance_004",
+    "card_type": "flashcard",
+    "question": "What helps you resist addictive triggers?",
+    "answer": "Self-binding\u2014physical or digital barriers, honesty with others, and HALT awareness (hungry, angry, lonely, tired).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "dopamine_5_addiction_withdrawal_pain_pleasure_balance_005",
+    "card_type": "vault_card",
+    "headline": "Face the Craving, Reclaim the Brain",
+    "body": "Addiction isn\u2019t weakness\u2014it\u2019s miswiring. But the path back is paved with space, truth, and structure.",
+    "prompt": "What one habit might be stealing your pleasure tolerance\u2014and could you bind or break from it for 30 days?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_001",
+    "card_type": "flashcard",
+    "question": "Why can traditional classrooms be challenging for students with ADHD?",
+    "answer": "They often rely on long periods of stillness, delayed rewards, and low stimulation \u2014 all of which conflict with ADHD brain wiring.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_002",
+    "card_type": "flashcard",
+    "question": "What are common ADHD behaviors misinterpreted in class?",
+    "answer": "Interrupting, fidgeting, zoning out, impulsivity, and emotional outbursts are often seen as defiance instead of dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_003",
+    "card_type": "flashcard",
+    "question": "How can teachers support attention in ADHD students?",
+    "answer": "Use shorter tasks, visual cues, movement breaks, novelty, and check-ins to help keep them engaged.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_004",
+    "card_type": "flashcard",
+    "question": "What helps with task initiation in ADHD students?",
+    "answer": "Clear, concrete instructions, starting together, visual steps, and external timers or checklists.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_005",
+    "card_type": "flashcard",
+    "question": "How can ADHD affect emotional regulation in class?",
+    "answer": "Difficulty with delay, frustration tolerance, or sensory input can lead to big reactions or sudden shutdowns.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_006",
+    "card_type": "flashcard",
+    "question": "Why is shame so common in ADHD students?",
+    "answer": "Repeated correction, comparison, or internalized failure can create deep shame and learned helplessness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_007",
+    "card_type": "flashcard",
+    "question": "What type of praise is most effective for ADHD students?",
+    "answer": "Specific, effort-based praise that highlights strategy and progress \u2014 not just outcomes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_008",
+    "card_type": "flashcard",
+    "question": "How does sensory support help ADHD students focus?",
+    "answer": "Fidgets, flexible seating, noise blockers, or movement breaks reduce sensory overload and support regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_009",
+    "card_type": "flashcard",
+    "question": "Why is movement important for ADHD learners?",
+    "answer": "Movement helps regulate dopamine and nervous system activity \u2014 it boosts attention, memory, and mood.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_002_adhd_in_the_classroom_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps educators support ADHD students?",
+    "answer": "\u201cThis isn\u2019t misbehavior \u2014 it\u2019s dysregulation. Structure, compassion, and curiosity build trust and success.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_001",
+    "card_type": "flashcard",
+    "question": "What does 'regulation before education' mean?",
+    "answer": "It means a student must feel emotionally and physically safe before they can effectively learn or retain new information.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_002",
+    "card_type": "flashcard",
+    "question": "Why can dysregulated students struggle to learn?",
+    "answer": "A dysregulated nervous system shifts into survival mode \u2014 making attention, memory, and reasoning nearly impossible.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_003",
+    "card_type": "flashcard",
+    "question": "How can teachers help regulate a class?",
+    "answer": "Using tone, pacing, routine, predictable transitions, and calming presence to anchor students' nervous systems.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_004",
+    "card_type": "flashcard",
+    "question": "What are signs a student needs regulation support?",
+    "answer": "Restlessness, zoning out, emotional spikes, rigidity, or refusal to engage are often signs of nervous system overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_005",
+    "card_type": "flashcard",
+    "question": "What\u2019s the role of co-regulation in education?",
+    "answer": "Co-regulation is when a teacher\u2019s calm presence helps regulate a student\u2019s emotional state \u2014 it builds trust and readiness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_006",
+    "card_type": "flashcard",
+    "question": "Why is behavior often misread as defiance?",
+    "answer": "Many behaviors are dysregulation responses \u2014 not intentional defiance. Reframing them shifts how we respond.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_007",
+    "card_type": "flashcard",
+    "question": "What tools support regulation before learning?",
+    "answer": "Movement, fidgets, music, breathing, sensory tools, and relational check-ins all help the nervous system feel safe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_008",
+    "card_type": "flashcard",
+    "question": "What\u2019s a powerful regulation phrase for teachers?",
+    "answer": "\u201cYou\u2019re allowed to feel that \u2014 let\u2019s take a moment together before we go back into this.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_009",
+    "card_type": "flashcard",
+    "question": "How can a regulated teacher impact student learning?",
+    "answer": "A calm, attuned teacher creates a stable emotional environment \u2014 allowing more presence, trust, and cognitive access.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_003_regulation_before_education_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps prioritize regulation in education?",
+    "answer": "\u201cCalm brains learn better. I teach the nervous system first, then the curriculum.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_001",
+    "card_type": "flashcard",
+    "question": "What is a sensory-friendly learning environment?",
+    "answer": "It\u2019s a classroom designed to reduce sensory overwhelm and support regulation through intentional lighting, sound, layout, and sensory tools.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_002",
+    "card_type": "flashcard",
+    "question": "Why are sensory needs important in education?",
+    "answer": "Sensory discomfort can trigger shutdown, distraction, or distress \u2014 meeting these needs creates space for learning.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_003",
+    "card_type": "flashcard",
+    "question": "What are common classroom sensory triggers?",
+    "answer": "Fluorescent lights, echoing sound, crowded visuals, unpredictable noise, and uncomfortable seating.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_004",
+    "card_type": "flashcard",
+    "question": "How can teachers reduce visual overstimulation?",
+    "answer": "Use neutral colors, reduce wall clutter, organize supplies visibly, and limit unnecessary decorations.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_005",
+    "card_type": "flashcard",
+    "question": "What tools support sensory regulation in class?",
+    "answer": "Fidgets, noise-reducing headphones, soft lighting, movement breaks, weighted cushions, and calm zones.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_006",
+    "card_type": "flashcard",
+    "question": "Why is lighting important for sensory regulation?",
+    "answer": "Bright or flickering lights can cause visual fatigue and agitation \u2014 soft, indirect lighting supports calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_007",
+    "card_type": "flashcard",
+    "question": "How does seating flexibility support regulation?",
+    "answer": "Options like floor cushions, wobble stools, or standing desks let students move and choose comfort.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_008",
+    "card_type": "flashcard",
+    "question": "What is a 'calm corner' in the classroom?",
+    "answer": "A designated quiet space with sensory supports where students can reset without punishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_009",
+    "card_type": "flashcard",
+    "question": "Why is sensory-friendly design a trauma-informed practice?",
+    "answer": "It reduces environmental stress that could trigger fight/flight responses \u2014 supporting safety and trust.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_006_sensory_friendly_learning_environments_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps create sensory-friendly classrooms?",
+    "answer": "\u201cIf one student is overwhelmed, I can shift the space \u2014 not force them to push through.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between empowering and controlling teaching?",
+    "answer": "Empowering builds student agency and trust. Controlling relies on fear, obedience, and compliance to manage behavior.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_002",
+    "card_type": "flashcard",
+    "question": "Why can controlling environments feel unsafe to students?",
+    "answer": "They activate fear responses, suppress expression, and make learning feel like survival \u2014 not growth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_003",
+    "card_type": "flashcard",
+    "question": "What are signs of a controlling classroom?",
+    "answer": "Excessive rules, punishment over curiosity, public shaming, or valuing obedience over understanding.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_004",
+    "card_type": "flashcard",
+    "question": "What are signs of an empowering classroom?",
+    "answer": "Students feel heard, have choices, engage from curiosity, and feel safe to make mistakes and ask questions.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_005",
+    "card_type": "flashcard",
+    "question": "Why is student agency critical in learning?",
+    "answer": "Agency builds self-trust, intrinsic motivation, and regulation \u2014 students are more likely to engage and take risks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_006",
+    "card_type": "flashcard",
+    "question": "How can control create learned helplessness?",
+    "answer": "When students feel they have no influence, they stop trying \u2014 even if they know the answer or want to try.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_007",
+    "card_type": "flashcard",
+    "question": "What\u2019s one empowering classroom phrase?",
+    "answer": "\u201cWhat would help you feel ready to begin?\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_008",
+    "card_type": "flashcard",
+    "question": "How do neurodivergent students respond to empowerment?",
+    "answer": "They often thrive \u2014 showing more creativity, resilience, and connection when given autonomy and co-created boundaries.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_009",
+    "card_type": "flashcard",
+    "question": "How does control affect trust between students and teachers?",
+    "answer": "It erodes trust, replacing connection with fear. Students may comply on the outside but shut down inside.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_008_empowering_vs_controlling_approaches_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps teachers lead with empowerment?",
+    "answer": "\u201cI don\u2019t need control to be respected \u2014 I earn respect by how I hold space, not how I enforce it.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

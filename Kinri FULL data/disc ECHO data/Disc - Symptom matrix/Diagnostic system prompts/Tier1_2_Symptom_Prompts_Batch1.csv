@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you struggle to focus unless something really grabs your interest?,Like it’s easy to lock in on some things — but almost impossible on others?,Tier 1,"{'ADHD': 1.0, 'Autism': 0.5}"
+Do you feel emotionally raw or extra sensitive right before your period?,Like tiny things trigger big feelings that don’t match the moment?,Tier 1,"{'PMDD': 1.0, 'BPD': 0.5}"
+Do you find yourself imagining terrible outcomes — even when everything is fine?,Like your brain writes a horror movie out of everyday life?,Tier 2,"{'GAD': 1.0, 'OCD': 0.5}"
+"Do you forget basic things — appointments, birthdays, what you walked into the room for?",Like your short-term memory is a foggy mess?,Tier 2,"{'ADHD': 1.0, 'Depression': 0.5, 'CPTSD': 0.5}"
+Do you shut down emotionally or mentally after conflict?,Like your brain just flips a switch and everything goes blank?,Tier 1,"{'CPTSD': 1.0, 'Autism': 0.5, 'BPD': 0.5}"
+"Do you obsessively double-check things — locks, messages, stoves?","Even when you know you already did it, but don’t *feel* finished?",Tier 1,"{'OCD': 1.0, 'GAD': 0.5}"
+Do you find it hard to relax in groups — like you're always scanning for signals?,"Even with people you like, do you feel like you’re still ‘on’?",Tier 2,"{'CPTSD': 1.0, 'GAD': 0.5, 'Autism': 0.5}"
+Do you react strongly when plans change suddenly?,Like unpredictability hits you harder than it should?,Tier 1,"{'Autism': 1.0, 'OCD': 0.5, 'CPTSD': 0.5}"
+Do your moods feel like they change quickly — sometimes even within the same hour?,"Like you wake up okay, and suddenly feel like crying two hours later?",Tier 1,"{'BPD': 1.0, 'PMDD': 0.5, 'Bipolar_II': 0.5}"
+Do you struggle with remembering events from your past — either blurry or blocked out?,"Like parts of your story feel missing, or unreachable?",Tier 2,"{'CPTSD': 1.0, 'PTSD': 0.5}"

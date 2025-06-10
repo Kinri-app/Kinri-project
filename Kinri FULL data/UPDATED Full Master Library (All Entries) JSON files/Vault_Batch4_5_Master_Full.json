@@ -1,0 +1,1267 @@
+[
+  {
+    "card_id": "memory_3_brain_health_and_optimization_001",
+    "card_type": "flashcard",
+    "question": "What are three foods that boost brain health?",
+    "answer": "Avocados, blueberries, and walnuts provide healthy fats, antioxidants, and anti-inflammatory compounds that support cognition.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_002",
+    "card_type": "flashcard",
+    "question": "Why is sleep essential for memory?",
+    "answer": "Deep and REM sleep help consolidate memories, clear brain toxins, and regulate mood.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_003",
+    "card_type": "flashcard",
+    "question": "What does 'kill ANTs' mean?",
+    "answer": "It stands for 'Automatic Negative Thoughts'\u2014mental habits that erode confidence and memory through repeated self-sabotage.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_004",
+    "card_type": "flashcard",
+    "question": "How does regular movement impact the brain?",
+    "answer": "Exercise increases neurotrophic factors, improving memory, mood, and brain plasticity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "memory_3_brain_health_and_optimization_005",
+    "card_type": "vault_card",
+    "headline": "Your Brain Reflects Your Habits",
+    "body": "You\u2019re not just what you eat\u2014you\u2019re what you do, feel, think, and repeat. Memory thrives on ritual.",
+    "prompt": "What one habit could you improve this week to give your brain a daily boost?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between routines, rituals, and anchors?",
+    "answer": "Routines are structured habits, rituals bring meaning to repetition, and anchors are consistent cues that ground you.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_002",
+    "card_type": "flashcard",
+    "question": "Why are routines important for neurodivergent brains?",
+    "answer": "They reduce cognitive load, increase predictability, and provide scaffolding for executive function challenges.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_003",
+    "card_type": "flashcard",
+    "question": "What makes a ritual emotionally supportive?",
+    "answer": "It\u2019s infused with intention \u2014 like lighting a candle before journaling or stretching while reflecting on the day.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_004",
+    "card_type": "flashcard",
+    "question": "How do anchors help with consistency?",
+    "answer": "Anchors tie habits to existing cues \u2014 like brushing teeth after coffee \u2014 reducing reliance on memory or motivation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_005",
+    "card_type": "flashcard",
+    "question": "What are signs a routine is too rigid?",
+    "answer": "You feel guilt when you miss a step, resist change, or use the routine to control instead of support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_006",
+    "card_type": "flashcard",
+    "question": "Why do routines often fall apart for ADHD brains?",
+    "answer": "Novelty fades, reward drops, and transition struggles interfere \u2014 especially if routines are long or complex.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_007",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to revive a routine that\u2019s stopped working?",
+    "answer": "Simplify it, add novelty (new music, setting, time), or reconnect to the 'why' behind it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_008",
+    "card_type": "flashcard",
+    "question": "How can rituals support emotional regulation?",
+    "answer": "They create predictability, pause, and grounding \u2014 like morning movement or end-of-day breathwork.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s a portable anchor for dysregulation?",
+    "answer": "A pocket stone, playlist, scent roller, or mantra \u2014 consistent sensory cues that bring you back to center.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_003_routines_rituals_and_anchors_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps with routine flexibility?",
+    "answer": "\u201cIt\u2019s okay to adapt. Structure serves me \u2014 I don\u2019t serve it.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_001",
+    "card_type": "flashcard",
+    "question": "What is executive function?",
+    "answer": "It\u2019s the brain\u2019s management system \u2014 including working memory, task initiation, planning, organization, and impulse control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_002",
+    "card_type": "flashcard",
+    "question": "How does executive dysfunction affect daily life?",
+    "answer": "It disrupts routines, causes procrastination, task overwhelm, forgetfulness, and difficulty managing time or transitions.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_003",
+    "card_type": "flashcard",
+    "question": "What does working memory help with?",
+    "answer": "Holding information in your head while doing something \u2014 like remembering a list or following multi-step instructions.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_004",
+    "card_type": "flashcard",
+    "question": "Why is emotional regulation part of executive function?",
+    "answer": "It affects your ability to pause, shift attention, and make decisions without getting hijacked by emotion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_005",
+    "card_type": "flashcard",
+    "question": "What are signs of executive dysfunction?",
+    "answer": "Forgetting tasks, missing deadlines, zoning out, avoiding complex tasks, and struggling to start or finish projects.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_006",
+    "card_type": "flashcard",
+    "question": "How can external tools support executive function?",
+    "answer": "Planners, alarms, visual checklists, and body doubling reduce cognitive load and help bridge gaps.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_007",
+    "card_type": "flashcard",
+    "question": "What role does sleep play in executive function?",
+    "answer": "Sleep is essential for memory, impulse control, focus, and task prioritization \u2014 all executive skills.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_008",
+    "card_type": "flashcard",
+    "question": "How can structure help support weak executive function?",
+    "answer": "Routine, environmental cues, and consistent rhythms reduce mental effort and create automaticity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_009",
+    "card_type": "flashcard",
+    "question": "Why is shame common with executive dysfunction?",
+    "answer": "People may appear lazy or careless when really they\u2019re struggling with unseen brain barriers \u2014 leading to self-blame.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_004_executive_function_and_daily_life_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps navigate executive challenges?",
+    "answer": "\u201cI\u2019m not broken \u2014 I need systems that match how my brain works.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_001",
+    "card_type": "flashcard",
+    "question": "What does it mean to plan with emotional honesty?",
+    "answer": "It means making plans based on how you actually feel and function \u2014 not how you wish you did.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_002",
+    "card_type": "flashcard",
+    "question": "Why do plans often fail for neurodivergent brains?",
+    "answer": "They\u2019re built for ideal conditions, not real ones \u2014 ignoring energy, emotion, and nervous system limits.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s the problem with planning for your 'best self' only?",
+    "answer": "It sets you up to feel like a failure on average days \u2014 reinforcing shame and inconsistency.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_004",
+    "card_type": "flashcard",
+    "question": "How can emotion-based planning help you succeed?",
+    "answer": "By considering your energy, regulation level, and emotional state, you create sustainable and forgiving routines.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_005",
+    "card_type": "flashcard",
+    "question": "What is emotional time estimation?",
+    "answer": "Guessing how long something will take based on your current regulation \u2014 not just the clock.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_006",
+    "card_type": "flashcard",
+    "question": "What\u2019s one tool for emotionally honest scheduling?",
+    "answer": "Color-code your calendar by energy (green = full, yellow = low, red = drained) to match plans to capacity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_007",
+    "card_type": "flashcard",
+    "question": "How can you reduce emotional friction around planning?",
+    "answer": "Use visual aids, flexible buffers, and build in rewards or reset breaks after draining tasks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_008",
+    "card_type": "flashcard",
+    "question": "Why does honest planning reduce burnout?",
+    "answer": "It stops overcommitting and lets you show up consistently \u2014 rather than cycling between overfunctioning and crashing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_009",
+    "card_type": "flashcard",
+    "question": "How does masking affect how we plan?",
+    "answer": "Masking disconnects us from true energy needs \u2014 leading us to plan based on appearances, not capacity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_006_planning_with_emotional_honesty_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps with emotionally honest planning?",
+    "answer": "\u201cPlans don\u2019t need to look good \u2014 they need to feel good and work for who I actually am.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_001",
+    "card_type": "flashcard",
+    "question": "What is energy mapping?",
+    "answer": "It\u2019s the practice of tracking your physical, emotional, and mental energy patterns to plan and pace more effectively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_002",
+    "card_type": "flashcard",
+    "question": "Why is energy awareness essential for neurodivergent folks?",
+    "answer": "Energy levels can be unpredictable \u2014 knowing your rhythms prevents burnout and builds sustainable routines.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_003",
+    "card_type": "flashcard",
+    "question": "How can you begin mapping your energy?",
+    "answer": "Note your energy peaks and dips across a few days \u2014 color-code or journal how you feel hour by hour.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_004",
+    "card_type": "flashcard",
+    "question": "What are common signs you're over your capacity?",
+    "answer": "Irritability, sensory overwhelm, brain fog, emotional flooding, or sudden exhaustion.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_005",
+    "card_type": "flashcard",
+    "question": "What is a 'green task' vs a 'red task'?",
+    "answer": "Green = low effort/replenishing; red = high output/draining. Balance both to protect your system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_006",
+    "card_type": "flashcard",
+    "question": "Why is recovery time essential after high-capacity days?",
+    "answer": "Without recovery, the nervous system stays in survival mode \u2014 increasing risk of shutdown or illness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_007",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to honor low-energy days?",
+    "answer": "Have a 'bare minimum menu' \u2014 2-3 non-negotiable gentle actions that support you without overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_008",
+    "card_type": "flashcard",
+    "question": "How can visual tools help track energy?",
+    "answer": "Color-coded calendars, emojis, or energy graphs let you see patterns over time and plan accordingly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_009",
+    "card_type": "flashcard",
+    "question": "Why do masking and performance drain energy?",
+    "answer": "They require constant monitoring and suppression \u2014 taxing the nervous system and delaying emotional processing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_007_energy_mapping_and_capacity_awareness_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps with capacity planning?",
+    "answer": "\u201cI honor my rhythm. When I respect my limits, I expand what\u2019s possible long term.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_001",
+    "card_type": "flashcard",
+    "question": "What is decision fatigue?",
+    "answer": "It\u2019s the mental exhaustion that comes from making too many choices \u2014 leading to shutdown, poor judgment, or defaulting to inaction.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_002",
+    "card_type": "flashcard",
+    "question": "What is choice paralysis?",
+    "answer": "It\u2019s the inability to make a decision due to overwhelm, fear of making the wrong choice, or too many options.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear",
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_003",
+    "card_type": "flashcard",
+    "question": "Why are neurodivergent brains more prone to decision fatigue?",
+    "answer": "We often overanalyze, mask, or try to anticipate others\u2019 expectations \u2014 burning cognitive fuel faster.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_004",
+    "card_type": "flashcard",
+    "question": "What helps reduce daily decision load?",
+    "answer": "Default routines, simplified wardrobes, meal planning, and decision templates reduce unnecessary mental effort.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_005",
+    "card_type": "flashcard",
+    "question": "How can shame worsen choice paralysis?",
+    "answer": "Fear of being wrong or judged creates internal pressure \u2014 making it harder to trust yourself or act.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_006",
+    "card_type": "flashcard",
+    "question": "What is a 'low-stakes choice' practice?",
+    "answer": "Make quick decisions on things that don\u2019t carry big consequences \u2014 it builds trust and reduces fear over time.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_007",
+    "card_type": "flashcard",
+    "question": "How do boundaries reduce decision fatigue?",
+    "answer": "Fewer inputs and clearer expectations mean fewer decisions to make \u2014 protecting focus and energy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_008",
+    "card_type": "flashcard",
+    "question": "What role does sensory input play in decision fatigue?",
+    "answer": "Sensory overload drains capacity \u2014 bright lights, loud noise, or clutter increase the decision burden.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s one fast way to ease a decision spiral?",
+    "answer": "Step away, do something physical, breathe, then return with a one-question filter like: 'Which option feels lighter?'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_009_decision_fatigue_and_choice_paralysis_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps manage decision fatigue?",
+    "answer": "\u201cNo decision has to be perfect. I can choose what\u2019s good enough for right now and adjust later.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_001",
+    "card_type": "flashcard",
+    "question": "Why is environment design important for neurodivergent life management?",
+    "answer": "Your environment can either support your regulation and habits \u2014 or constantly trigger dysregulation and overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_002",
+    "card_type": "flashcard",
+    "question": "What does a supportive environment look like?",
+    "answer": "It feels calm, reduces decision load, supports sensory needs, and makes routines easier to follow.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_003",
+    "card_type": "flashcard",
+    "question": "What is environmental scaffolding?",
+    "answer": "It\u2019s using visual cues, organization, or layout changes to support executive function and reduce reliance on memory.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_004",
+    "card_type": "flashcard",
+    "question": "How can lighting affect function and mood?",
+    "answer": "Harsh or flickering light can cause fatigue or anxiety \u2014 soft, natural light improves focus and calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_005",
+    "card_type": "flashcard",
+    "question": "What is an example of sensory zoning?",
+    "answer": "Having different areas for stimulation (bright, social) and regulation (soft, quiet) to match energy and needs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_006",
+    "card_type": "flashcard",
+    "question": "How can placement influence routine consistency?",
+    "answer": "Put items where you use them (e.g., vitamins by coffee, journal on pillow) \u2014 reduce steps and friction.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_007",
+    "card_type": "flashcard",
+    "question": "Why is visual clarity important for neurodivergent folks?",
+    "answer": "Out-of-sight often means out-of-mind \u2014 visible storage and open shelving reduce task and tool forgetting.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_008",
+    "card_type": "flashcard",
+    "question": "How do textures and materials affect comfort?",
+    "answer": "Soft, warm, or weighted textures help soothe the nervous system \u2014 while sharp or noisy ones can dysregulate.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s one tool for designing a more supportive space?",
+    "answer": "Create a 'reset corner' with fidgets, a soft blanket, and low light for quick regulation breaks.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "life_management_flashcards_010_designing_environments_that_support_you_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports intentional environment design?",
+    "answer": "\u201cI deserve a space that helps me feel safe, capable, and at ease \u2014 not one that drains me.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What\u2019s a smart rule when starting a supplement stack?",
+    "answer": "Start one supplement at a time, track effects, and build slowly\u2014this helps isolate results and avoid overload.",
+    "tags": [
+      "stacking",
+      "tracking",
+      "biohacking"
+    ]
+  },
+  {
+    "question": "Why is cycling important for certain supplements?",
+    "answer": "Cycling prevents receptor fatigue, tolerance buildup, and overstimulation from adaptogens or stimulants.",
+    "tags": [
+      "cycling",
+      "adaptogens",
+      "tolerance"
+    ]
+  },
+  {
+    "question": "What labs should you consider before starting hormone-related stacks?",
+    "answer": "DHEA, testosterone, estrogen, cortisol, and nutrient levels like B12, magnesium, and vitamin D.",
+    "tags": [
+      "lab testing",
+      "hormones",
+      "safety"
+    ]
+  },
+  {
+    "question": "What\u2019s a common sign a stack isn\u2019t working well?",
+    "answer": "Anxiety, sleep disruption, GI discomfort, or mood swings may indicate stacking overload or poor synergy.",
+    "tags": [
+      "side effects",
+      "overload",
+      "adjustments"
+    ]
+  },
+  {
+    "headline": "Stack Wisely or Not at All",
+    "body": "Your body isn\u2019t a test tube. Add slowly, test often, and listen more than you chase hype.",
+    "prompt": "Is there a supplement you\u2019ve added that may be doing more harm than help? Time to pause and check in?",
+    "tags": [
+      "stack safety",
+      "smart dosing",
+      "biofeedback"
+    ]
+  }
+]

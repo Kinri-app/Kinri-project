@@ -1,0 +1,366 @@
+[
+  {
+    "id": "slowing_down_and_calm_7_rest_is_not_waste",
+    "title": "Slow Isn\u2019t Lazy \u2014 It\u2019s Sustainable",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shame",
+      "urgency",
+      "inadequacy"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "reclaiming pace",
+    "tone": "gentle truth",
+    "body": "If the world tells you to move faster \u2014 remember this: speed is not a virtue. Slowness is sustainability. Slowness is care. You are not behind \u2014 you\u2019re present.",
+    "echo_intro": "For the ones who feel guilty resting.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Reframes urgency culture",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_8_downshifting_and_neuroregulation",
+    "title": "The Body Doesn\u2019t Understand Rush",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "anxiety",
+      "fatigue",
+      "overwhelm"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Autism"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "somatic",
+    "tone": "co-regulating",
+    "body": "Your nervous system heals in downshifts. Not leaps. Not slams. But soft exits. Gentle transitions. Create spaces between tasks. Let the body catch up.",
+    "echo_intro": "This one\u2019s for those who speed-walk through silence.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Nervous system rhythm",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_9_mindfulness_without_perfection",
+    "title": "You Don\u2019t Have to Meditate Perfectly",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shame",
+      "impatience",
+      "self-criticism"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "BPD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "practice permission",
+    "tone": "relieving",
+    "body": "You don\u2019t have to sit still. You don\u2019t have to empty your mind. You don\u2019t have to do calm \u2018right.\u2019 Even one deep breath counts. Even pausing mid-sprint counts.",
+    "echo_intro": "For those who gave up on mindfulness because they couldn\u2019t sit still.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Mindfulness realism",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_10_coregulation_and_social_slowness",
+    "title": "You Don\u2019t Have to Match Their Pace",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "comparison",
+      "self-doubt",
+      "freeze"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "Autism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "social boundary",
+    "tone": "validating",
+    "body": "Just because they\u2019re quick-witted or fast-talking doesn\u2019t mean you\u2019re slow. It means you\u2019re processing differently. Quiet doesn\u2019t mean empty \u2014 it often means deep.",
+    "echo_intro": "This is for the one who feels slow in conversations.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Pacing comparison",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_11_breath_as_a_reset_point",
+    "title": "One Breath Is a Beginning",
+    "deck_type": "grounding",
+    "emotion_tags": [
+      "panic",
+      "anxiety",
+      "mental scatter"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "somatic",
+    "tone": "anchoring",
+    "body": "You don\u2019t need a long break. You don\u2019t need a whole day. Just one breath. Just five seconds. You can reset in the space between moments. It still counts.",
+    "echo_intro": "When the world feels too fast \u2014 begin with one breath.",
+    "length_tokens": 40,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Tiny calm ritual",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_12_rest_does_not_require_emptiness",
+    "title": "Rest Can Be Noisy and Still Count",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "discomfort",
+      "neurodivergence",
+      "shame"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Autism"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "normalizing",
+    "tone": "permissive",
+    "body": "You don\u2019t have to be silent to be resting. You don\u2019t have to be still. If your mind races, or your fingers fidget, it\u2019s still rest if your system feels less threatened.",
+    "echo_intro": "This is for the one who never quite feels still enough.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Redefines calm",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_13_recovery_needs_slowness",
+    "title": "Healing Is a Slow Language",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "grief",
+      "patience",
+      "rebuilding"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "time metaphor",
+    "tone": "sacred",
+    "body": "Wounds don\u2019t heal on deadlines. Brains don\u2019t rewire on demand. You don\u2019t have to rush recovery. Slowness is not weakness \u2014 it\u2019s the body\u2019s most honest rhythm.",
+    "echo_intro": "For the one worried they\u2019re not healing fast enough.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Slow healing truth",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_14_not_every_pause_needs_productivity",
+    "title": "Pausing Doesn\u2019t Need a Purpose",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "guilt",
+      "urgency",
+      "productivity pressure"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Perfectionism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "disobedient calm",
+    "tone": "rebellious compassion",
+    "body": "You don\u2019t need to pause so you can perform better later. You can pause because you\u2019re human. Because you need to. Because nothing else should come first.",
+    "echo_intro": "This one\u2019s for the ones still using rest as fuel, not freedom.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Detaches rest from outcome",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_15_emotional_slowness_as_strength",
+    "title": "Slow Feelings Are Still Real",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "numbness",
+      "processing delay",
+      "confusion"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "Shutdown"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "neurodivergent pace",
+    "tone": "affirming",
+    "body": "If you don\u2019t know how you feel right away, that\u2019s okay. If it takes you hours, days, weeks \u2014 that\u2019s not avoidance. That\u2019s a nervous system asking for safety first.",
+    "echo_intro": "This one\u2019s for slow processors with big hearts.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Feelings time-normalized",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_16_dissociation_vs_stillness",
+    "title": "Stillness Isn\u2019t Always Dissociation",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "numbness",
+      "disconnection",
+      "uncertainty"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Dissociation"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "clarifying",
+    "tone": "curious and gentle",
+    "body": "You might be numb \u2014 or you might just be calm for the first time in a while. Let stillness speak before labeling it absence. Not every quiet moment is detachment.",
+    "echo_intro": "Try this if calm feels a little foreign.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Dissociation vs stillness",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_17_resetting_from_internal_rush",
+    "title": "You Can Step Out of the Current",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "panic",
+      "urgency",
+      "racing thoughts"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "regulation",
+    "tone": "anchoring",
+    "body": "Panic is a current. It moves fast. But you don\u2019t have to be swept with it. Even one exhale, one pause, one hand over your chest \u2014 is stepping out of the rush.",
+    "echo_intro": "When it feels like everything\u2019s pulling you forward \u2014 try this.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Regulation metaphor",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_18_slowing_down_without_fear",
+    "title": "Nothing Will Collapse If You Pause",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "fear",
+      "urgency",
+      "hypervigilance"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "disarming",
+    "tone": "reassuring",
+    "body": "You were trained to stay alert. To stay useful. To keep the plates spinning. But stopping isn\u2019t danger \u2014 it\u2019s recovery. Let things fall if they need to. You won\u2019t.",
+    "echo_intro": "This is for the one afraid to stop.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Pause without fear",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_19_calm_as_defiance",
+    "title": "Calm Is a Radical Act",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "anger",
+      "resistance",
+      "overwhelm"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Burnout"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "empowerment",
+    "tone": "fierce and loving",
+    "body": "Choosing not to spiral. Choosing not to match their energy. Choosing to pause \u2014 even when your brain screams \u2018go.\u2019 That\u2019s not passivity. That\u2019s power. That\u2019s protection.",
+    "echo_intro": "Try this when the fire inside needs a steady hand.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Calm as strength",
+    "version": "v1.0"
+  },
+  {
+    "id": "slowing_down_and_calm_20_you_are_allowed_to_exhale",
+    "title": "Let This Be Enough",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "self-criticism",
+      "shame",
+      "urgency"
+    ],
+    "condition_tags": [
+      "BPD",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "emotional permission",
+    "tone": "gentle closure",
+    "body": "You don\u2019t have to keep pushing. You don\u2019t have to justify this moment. Let your shoulders drop. Let your eyes soften. Let this \u2014 this \u2014 be enough.",
+    "echo_intro": "This card is for your exhale.",
+    "length_tokens": 39,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Final calming permission",
+    "version": "v1.0"
+  }
+]

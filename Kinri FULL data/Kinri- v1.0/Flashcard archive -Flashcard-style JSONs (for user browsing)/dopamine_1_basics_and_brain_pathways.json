@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What is dopamine and what does it regulate?",
+    "answer": "Dopamine is a neuromodulator that regulates motivation, reward anticipation, movement, and learning\u2014not just pleasure.",
+    "tags": [
+      "dopamine",
+      "motivation",
+      "reward"
+    ]
+  },
+  {
+    "question": "What are the three key dopamine dynamics?",
+    "answer": "Peaks (reward anticipation), troughs (post-reward lows), and baseline (your ongoing motivational capacity).",
+    "tags": [
+      "peaks",
+      "troughs",
+      "baseline"
+    ]
+  },
+  {
+    "question": "What is the reward prediction error?",
+    "answer": "Dopamine increases when rewards exceed expectations, stays stable when they match, and drops when they disappoint.",
+    "tags": [
+      "prediction error",
+      "dopamine",
+      "expectation"
+    ]
+  },
+  {
+    "question": "What brain circuits use dopamine?",
+    "answer": "Key pathways include nigrostriatal (movement), mesolimbic (pleasure/reward), and mesocortical (planning and decision-making).",
+    "tags": [
+      "brain",
+      "dopamine pathways",
+      "neuroanatomy"
+    ]
+  },
+  {
+    "headline": "Not Just Pleasure\u2014Power",
+    "body": "Dopamine is about drive, not just delight. Understand it, and you understand your urges.",
+    "prompt": "Where in your life are you chasing dopamine spikes\u2014and where could you build healthier baselines?",
+    "tags": [
+      "motivation",
+      "neurology",
+      "self-awareness"
+    ]
+  }
+]

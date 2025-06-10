@@ -1,0 +1,151 @@
+prompt,tier,red_flag,condition,emotion,usage_mode,narrative_type
+Do you often feel emotionally overwhelmed?,1,False,"CPTSD, BPD, PMDD","overwhelm, shutdown",reflection,lived_experience
+Do you lose time or space out during stressful moments?,1,False,"CPTSD, ADHD, Autism",dissociation,reflection,metaphor
+Do your emotions feel like they flip quickly or spiral out of control?,1,False,"BPD, PMDD, Bipolar II","emotional_whiplash, shame",reflection,reframe
+Do you often feel misunderstood or misjudged by others?,1,False,"Autism, ADHD, BPD","rejection, confusion",reflection,lived_experience
+"Do you struggle to get started, even when you want to?",1,False,"ADHD, Depression","stuck, guilt",reflection,reframe
+Do you replay past mistakes or regrets often?,1,False,"Depression, CPTSD, OCD","shame, rumination",reflection,compare_support
+Do you worry about small things becoming big problems?,1,False,"GAD, OCD",anxiety,reflection,psychoeducation
+Do you feel like you're masking or hiding your true self?,1,False,"Autism, ADHD, BPD","shame, identity_fatigue",reflection,lived_experience
+Do you find it hard to explain your inner experience to others?,1,False,"Autism, CPTSD","frustration, disconnect",reflection,metaphor
+Have you ever felt so low you wished you could disappear?,1,True,"Depression, CPTSD","hopelessness, despair",reflection,lived_experience
+Do you often feel like your thoughts are racing or tangled?,1,False,"ADHD, Anxiety, Bipolar II","mental_noise, overwhelm",reflection,metaphor
+Do you ever feel like you're too much for people — or not enough?,1,False,"BPD, Autism, CPTSD","shame, self_doubt",reflection,reframe
+Do you ever feel unsafe even when nothing is happening around you?,1,False,"CPTSD, Anxiety","hypervigilance, fear",reflection,lived_experience
+Do you get stuck in thoughts like 'what if' or 'did I do something wrong'?,1,False,"OCD, GAD, CPTSD","anxiety, guilt",reflection,compare_support
+Do you find yourself exhausted by being around people?,1,False,"Autism, ADHD, CPTSD","drained, overwhelm",reflection,lived_experience
+Do your moods shift quickly based on how others treat you?,1,False,"BPD, PMDD","emotional_whiplash, abandonment_fear",reflection,lived_experience
+Do you often feel like you're performing instead of being real?,1,False,"Autism, BPD, CPTSD","masking, detachment",reflection,identity
+Do you find yourself picking fights or withdrawing to avoid being hurt?,1,False,"BPD, CPTSD","fear, abandonment_fear",reflection,lived_experience
+Do you ever feel like you’re watching yourself from the outside?,1,False,"CPTSD, Depression, Autism","dissociation, numbness",reflection,metaphor
+Have you ever had thoughts that scared you — even though you didn’t act on them?,1,True,"OCD, PTSD, BPD","distress, shame",reflection,psychoeducation
+"Do you often find yourself checking things over and over, just to be sure?",1,False,"OCD, Anxiety","uncertainty, fear",reflection,psychoeducation
+Do you ever feel like you're going through the motions without feeling much?,1,False,"Depression, CPTSD, Autism","numbness, disconnection",reflection,metaphor
+Do you get overwhelmed by sudden changes to plans or routines?,1,False,"Autism, OCD, GAD","overwhelm, frustration",reflection,lived_experience
+Do you sometimes feel empty or like you're not sure who you are?,1,False,"BPD, Depression","emptiness, identity_confusion",reflection,reframe
+"Do you struggle to remember parts of your past, especially around intense moments?",1,False,"CPTSD, Dissociation","confusion, disconnection",reflection,lived_experience
+"Do loud noises, bright lights, or busy spaces make you feel overloaded?",1,False,"Autism, ADHD, PTSD","sensory_overload, irritation",reflection,psychoeducation
+Do you feel like you’re constantly bracing for something bad to happen?,1,False,"CPTSD, Anxiety, OCD","hypervigilance, anxiety",reflection,lived_experience
+Do you find it hard to trust when things are going well?,1,False,"CPTSD, BPD","suspicion, fear",reflection,reframe
+Do your emotions sometimes feel too big for the situation?,1,False,"BPD, PMDD, Bipolar II","emotional_intensity, self_doubt",reflection,compare_support
+"Have you ever thought about hurting yourself, even just in passing?",1,True,"Depression, BPD","distress, despair",reflection,lived_experience
+"Do you often second-guess what you said, even hours after a conversation?",1,False,"OCD, GAD, Autism","self_doubt, anxiety",reflection,rumination
+Do you sometimes feel emotionally detached even when you care deeply?,1,False,"Autism, Depression, CPTSD","numbness, disconnect",reflection,metaphor
+Do you often take on the emotions of people around you without meaning to?,1,False,"BPD, Autism, CPTSD","flooded, absorption",reflection,lived_experience
+Do you feel like your energy levels are unpredictable or chaotic?,1,False,"Bipolar II, ADHD, PMDD","instability, overwhelm",reflection,reframe
+"Do you try to anticipate what others want or need, just to stay safe?",1,False,"CPTSD, BPD, Autism","fawn, fear",reflection,lived_experience
+"Do you have rituals, routines, or habits that help you feel in control?",1,False,"OCD, Autism, GAD","control, safety",reflection,psychoeducation
+Do you feel like your body reacts before your mind understands what’s wrong?,1,False,"CPTSD, PMDD","anxiety, confusion",reflection,somatic
+Do you feel a strong sense of guilt or responsibility even when things aren't your fault?,1,False,"Depression, OCD, GAD","guilt, shame",reflection,reframe
+Do you ever act impulsively and feel confused about why you did it?,1,False,"ADHD, BPD, Bipolar II","conflict, regret",reflection,impulsivity
+Have you ever seriously thought about ending your life?,1,True,"Depression, BPD, CPTSD","hopelessness, despair",reflection,lived_experience
+"Do you often feel like you’re falling behind, no matter how hard you try?",1,False,"ADHD, Depression","shame, failure",reflection,reframe
+Do you struggle to relax even in safe environments?,1,False,"CPTSD, Anxiety, Autism","hypervigilance, tension",reflection,psychoeducation
+Do you often criticize yourself in your head?,1,False,"Depression, OCD, CPTSD","shame, self_criticism",reflection,compare_support
+Do you find comfort in repetition or familiar routines?,1,False,"Autism, OCD","safety, calm",reflection,lived_experience
+Do you feel like your emotions hit you before you understand why?,1,False,"PMDD, BPD, ADHD","confusion, emotional_whiplash",reflection,somatic
+Do you try to keep everything inside so you don’t burden others?,1,False,"CPTSD, Depression, GAD","guilt, isolation",reflection,lived_experience
+Do you ever feel like your body is on edge for no clear reason?,1,False,"CPTSD, Anxiety, Autism","anxiety, nervous_system",reflection,somatic
+Do you often assume you’re the one at fault when something goes wrong?,1,False,"OCD, Depression, CPTSD","guilt, responsibility",reflection,reframe
+Do you ever feel like you can’t stop trying to prove your worth?,1,False,"BPD, CPTSD, ADHD","insecurity, performance_fear",reflection,identity
+Have you ever felt like disappearing would be easier than explaining how you feel?,1,True,"Depression, CPTSD","shame, despair",reflection,lived_experience
+Do you ever feel like your emotions hit harder than others around you — even for small things?,2,False,"BPD, PMDD, ADHD","emotional_intensity, self_doubt",reflection,compare_support
+Do you get stuck in cycles of overthinking or trying to fix the same thought over and over?,2,False,"OCD, GAD, Depression","rumination, uncertainty",reflection,psychoeducation
+"Do you ever feel like your body is stuck in survival mode, even when you’re safe?",2,False,"CPTSD, Autism","hypervigilance, tension",reflection,somatic
+Do you find it hard to tell what you’re feeling — or name your emotions clearly?,2,False,"Autism, Depression, CPTSD","confusion, emotional_blunting",reflection,identity
+Do you experience intense emotional crashes after conflict or confrontation?,2,False,"BPD, PMDD, CPTSD","shame, overwhelm",reflection,emotional_whiplash
+Do you sometimes feel out of control when you’re in a high-energy or hyper-focused state?,2,False,"ADHD, Bipolar II, Autism","intensity, dysregulation",reflection,lived_experience
+Do you ever question whether your memories are real or accurate?,2,False,"CPTSD, OCD, Autism","confusion, self_doubt",reflection,memory
+Do you find yourself avoiding tasks because the pressure to do them perfectly feels too heavy?,2,False,"OCD, ADHD, Anxiety","perfectionism, avoidance",reflection,reframe
+Do you feel like your needs are too much — or that they’ve always been ignored?,2,False,"BPD, CPTSD, Autism","invalidation, sadness",reflection,identity
+"Have you ever felt like you were ‘too much’ — too sensitive, too reactive, too intense?",2,False,"BPD, PMDD","shame, self_rejection",reflection,reframe
+Do you feel like your sense of self shifts depending on who you’re with?,2,False,"BPD, CPTSD","identity_confusion, adaptation_fear",reflection,identity
+"Do your thoughts ever spiral into worst-case scenarios, even when things are fine?",2,False,"GAD, OCD, CPTSD","catastrophizing, worry",reflection,reframe
+Do you sometimes feel like you're watching your life instead of living it?,2,False,"CPTSD, Autism, Depression","dissociation, detachment",reflection,metaphor
+Do you feel panicky or overstimulated in crowds or noisy environments?,2,False,"Autism, PTSD, ADHD","sensory_overload, panic",reflection,psychoeducation
+Do your moods swing in ways that feel outside your control?,2,False,"BPD, Bipolar II, PMDD","mood_swings, instability",reflection,emotional_whiplash
+Do you feel like you’re always scanning for danger or betrayal?,2,False,"CPTSD, BPD, GAD","hypervigilance, mistrust",reflection,lived_experience
+"Do you get intense cravings for stimulation, movement, or novelty?",2,False,"ADHD, Bipolar II","boredom, restlessness",reflection,somatic
+Do you ever obsess about needing to fix or undo something you regret?,2,False,"OCD, Depression, CPTSD","guilt, rumination",reflection,compare_support
+Do you feel like people expect you to be okay when you're not?,2,False,"CPTSD, Autism, Depression","invisibility, pressure",reflection,reframe
+"Have you ever self-harmed, or felt the urge to, as a way to manage overwhelming emotion?",2,True,"BPD, CPTSD, Depression","self_harm_urge, emotional_pain",reflection,lived_experience
+Do you ever feel like your sensitivity to rejection controls your relationships?,2,False,"BPD, ADHD, PMDD","rejection_sensitivity, fear",reflection,identity
+"Do your emotions sometimes cause physical symptoms like nausea, shaking, or chest tightness?",2,False,"CPTSD, PMDD, Anxiety","somatic_distress, panic",reflection,somatic
+Do you feel like your mind won’t stop unless you distract it with something external?,2,False,"ADHD, Anxiety, Bipolar II","restlessness, mental_noise",reflection,lived_experience
+"Do you avoid certain people, places, or activities because they remind you of something painful?",2,False,"PTSD, CPTSD, BPD","fear, avoidance",reflection,memory
+Do you ever feel like you’re emotionally ‘too much’ or exhausting for others?,2,False,"BPD, PMDD","shame, self_criticism",reflection,reframe
+Do you feel like your body holds on to stress long after something is over?,2,False,"CPTSD, Autism, PMDD","tension, freeze_response",reflection,somatic
+Do you sometimes feel emotionally raw or exposed without knowing why?,2,False,"BPD, PMDD, Autism","vulnerability, overwhelm",reflection,metaphor
+Do you worry about losing control of your behavior when you're overwhelmed?,2,False,"BPD, Bipolar II, ADHD","panic, dysregulation",reflection,emotional_whiplash
+Do you often feel ashamed of how intensely you react to things?,2,False,"BPD, CPTSD, PMDD","shame, regret",reflection,reframe
+"Have you ever harmed yourself in a way that wasn’t visible to others — like not eating, isolating, or neglecting yourself?",2,True,"Depression, CPTSD, BPD","self_neglect, despair",reflection,lived_experience
+Do you ever feel numb or empty after emotional conversations or conflict?,2,False,"CPTSD, BPD, Autism","numbness, shutdown",reflection,lived_experience
+Do you find yourself sabotaging relationships or pulling away when things get close?,2,False,"BPD, CPTSD","fear, abandonment_fear",reflection,identity
+Do you find it hard to relax even when you're alone and nothing's happening?,2,False,"CPTSD, GAD, Autism","tension, restlessness",reflection,psychoeducation
+Do you often feel stuck between craving connection and needing space?,2,False,"BPD, CPTSD, Autism","ambivalence, frustration",reflection,metaphor
+"Do your emotions ever come out sideways — like sarcasm, withdrawal, or overcompensating?",2,False,"CPTSD, Depression, Autism","defensiveness, emotional_avoidance",reflection,reframe
+Do you sometimes feel like a different person depending on the situation or who you're with?,2,False,"BPD, Autism, CPTSD","identity_confusion, masking",reflection,identity
+Do you try to predict others' moods or needs before they say anything?,2,False,"CPTSD, BPD","hypervigilance, anxiety",reflection,lived_experience
+Do you feel like people expect too much emotional energy from you?,2,False,"Autism, ADHD, Depression","drain, pressure",reflection,reframe
+Do you ever avoid joy or excitement because you're scared it won’t last?,2,False,"Depression, CPTSD","protective_flatness, anticipatory_loss",reflection,emotional_whiplash
+"Have you ever shut down or gone mute during conflict — not by choice, but because your body just stopped responding?",2,True,"CPTSD, Autism, PMDD","shutdown, freeze",reflection,somatic
+Do you sometimes feel like your body is carrying emotions you haven’t processed yet?,2,False,"CPTSD, PMDD, Autism","emotional_residue, tension",reflection,somatic
+Do you often compare yourself to others and feel like you're falling short?,2,False,"Depression, BPD, ADHD","insecurity, shame",reflection,reframe
+Do you feel like your emotions come out before you’ve had a chance to think?,2,False,"BPD, ADHD, PMDD","impulsivity, regret",reflection,emotional_whiplash
+Do you avoid situations or people that might challenge your emotional stability?,2,False,"BPD, CPTSD, Depression","protective_avoidance, emotional_instability",reflection,lived_experience
+"Do you often feel like your nervous system is on edge, even after nothing has gone wrong?",2,False,"CPTSD, Anxiety, Autism","nervous_system, dysregulation",reflection,psychoeducation
+Do you sometimes hurt yourself emotionally before someone else can?,2,True,"BPD, CPTSD","preemptive_pain, abandonment_fear",reflection,identity
+Do you feel overwhelmed by choice or freeze when decisions pile up?,2,False,"ADHD, Autism, OCD","decision_fatigue, overwhelm",reflection,reframe
+Do you feel like your mind jumps between ideas so fast you lose track of what matters?,2,False,"ADHD, Bipolar II","scatter, urgency",reflection,lived_experience
+Do you ever feel like your whole identity is shaped by survival?,2,False,"CPTSD, BPD, Autism","trauma_identity, exhaustion",reflection,identity
+Have you ever used pain to feel real — even if it wasn’t physical?,2,True,"Depression, BPD, CPTSD","pain, disconnection",reflection,lived_experience
+"Do you feel like you're constantly performing — not just socially, but emotionally too?",3,False,"Autism, BPD, CPTSD","masking, identity_exhaustion",reflection,identity
+Do you carry a deep belief that you're fundamentally broken or unlovable?,3,False,"CPTSD, Depression, BPD","core_shame, self_loathing",reflection,reframe
+"Do you ever feel like your past is always just beneath the surface, waiting to take over?",3,False,"CPTSD, PTSD","trauma_memory, emotional_ambush",reflection,memory
+Do you feel like your anger protects you from something deeper?,3,False,"BPD, PMDD, CPTSD","rage, defensiveness",reflection,reframe
+Do you ever experience emotion so intense it feels like it might break you?,3,False,"BPD, PMDD","emotional_intensity, flooding",reflection,emotional_whiplash
+Do you feel like you're stuck between being numb and being overwhelmed — never regulated?,3,False,"CPTSD, Depression, Autism","shutdown, flooded",reflection,compare_support
+Do you sometimes hurt yourself emotionally just to feel something real?,3,True,"BPD, Depression, CPTSD","pain_seeking, disconnection",reflection,lived_experience
+Do you feel like love and abandonment live right next to each other in your life?,3,False,"BPD, CPTSD","abandonment_fear, longing",reflection,identity
+Do you carry memories that feel more physical than mental — like they're stored in your body?,3,False,"CPTSD, PMDD","somatic_trauma, body_flashbacks",reflection,somatic
+"Have you ever felt like your mind was trying to disappear you — quietly, not dramatically?",3,True,"Depression, CPTSD","suicidal_ideation, emotional_erasure",reflection,lived_experience
+Do you feel like you need to explain your pain to be allowed to have it?,3,False,"CPTSD, Autism, Depression","invalidated, self_justifying",reflection,identity
+Do you ever feel like you’re invisible unless you’re hurting or useful?,3,False,"CPTSD, Depression, BPD","invisibility, survival_value",reflection,reframe
+Do you feel like you were never taught how to feel things without breaking?,3,False,"BPD, CPTSD, PMDD","emotional_instability, fear_of_feeling",reflection,emotional_whiplash
+"Do you ever wish you could just shut everything off — mind, body, emotion — like a switch?",3,False,"Depression, CPTSD, Autism","shutdown, escape",reflection,metaphor
+Do you find yourself preemptively abandoning others because you're sure they'll leave?,3,False,"BPD, CPTSD","abandonment_fear, defense_mechanism",reflection,identity
+Do you feel like your brain sometimes punishes you just for trying to rest or stop?,3,False,"OCD, ADHD, GAD","urgency, internal_pressure",reflection,psychoeducation
+Do you ever feel physically ill from emotional pain?,3,False,"PMDD, CPTSD, Depression","somatic_overload, grief",reflection,somatic
+Do you feel like your thoughts sometimes sabotage your safety or recovery?,3,True,"OCD, Depression, BPD","intrusive_thoughts, fear_of_self",reflection,memory
+Do you feel like you've spent your life protecting people from how much you feel?,3,False,"BPD, CPTSD, PMDD","containment, overwhelm",reflection,emotional_whiplash
+"Have you ever felt like the world would be better off without you — not out of drama, but logic?",3,True,"Depression, CPTSD","suicidal_logic, detachment",reflection,lived_experience
+Do you ever feel like healing is something other people are allowed to do — but not you?,3,False,"Depression, CPTSD","unworthiness, excluded_from_healing",reflection,identity
+"Do you feel like your personality was built from pain, not preference?",3,False,"CPTSD, Autism, BPD","trauma_identity, grief",reflection,reframe
+Do you find it hard to imagine a future where you feel safe in your own body?,3,False,"CPTSD, PMDD, Autism","detachment, body_mistrust",reflection,somatic
+Do you feel like your coping mechanisms would be misunderstood if anyone saw them?,3,False,"BPD, OCD, ADHD","shame, self_protection",reflection,identity
+Do you carry rage that you rarely let out — but feel humming underneath?,3,False,"PMDD, BPD, CPTSD","suppressed_rage, internal_pressure",reflection,emotional_whiplash
+Do you ever feel like your nervous system can’t handle being loved?,3,False,"CPTSD, BPD","vulnerability, attachment_wound",reflection,somatic
+"Do you have rituals or behaviors that help you feel safe, even if they seem strange?",3,False,"Autism, OCD","safety, self_regulation",reflection,psychoeducation
+"Do you ever feel like if you stopped masking, your world might fall apart?",3,False,"Autism, CPTSD, BPD","masking_fear, disintegration",reflection,identity
+Do you feel like your needs are too complex for others to hold?,3,False,"BPD, Autism, CPTSD","emotional_needs, burden_fear",reflection,reframe
+Have you ever wondered if you'd still be 'you' without all the pain you've carried?,3,True,"CPTSD, Depression","grief, identity_loss",reflection,lived_experience
+Do you feel like you’ve had to become someone else just to survive?,3,False,"CPTSD, Autism, BPD","survival_identity, loss_of_self",reflection,identity
+Do you feel like peace feels unfamiliar or even unsafe?,3,False,"CPTSD, BPD, PMDD","nervous_system_distrust, calm_ambivalence",reflection,somatic
+Do you ever feel like your emotions are speaking a language no one else understands?,3,False,"BPD, Autism, PMDD","emotional_isolation, frustration",reflection,metaphor
+Do you feel like you’re carrying emotions that aren’t fully yours?,3,False,"CPTSD, BPD","absorbed_emotion, empathic_overload",reflection,lived_experience
+Do you ever think about how much you've had to suppress just to be okay?,3,False,"CPTSD, PMDD, Autism","containment, anger",reflection,emotional_whiplash
+Do you ever feel like recovery is a performance for other people’s comfort?,3,False,"Depression, CPTSD","inauthentic_healing, resentment",reflection,reframe
+Do you feel like your body is holding stories that your voice can’t tell yet?,3,False,"PMDD, CPTSD, Autism","silent_memory, body_grief",reflection,somatic
+Do you ever feel like asking for help will make you more unsafe?,3,False,"CPTSD, BPD","help_aversion, relational_wound",reflection,identity
+"Do you carry guilt for not healing fast enough, or not being better already?",3,False,"Depression, CPTSD, BPD","shame, healing_pressure",reflection,reframe
+Have you ever wondered if your pain has become your home?,3,True,"CPTSD, Depression","pain_identity, hopelessness",reflection,lived_experience
+Do you feel like emotional pain feels safer than emotional vulnerability?,3,False,"CPTSD, BPD","protective_pain, vulnerability_avoidance",reflection,reframe
+Do you carry grief for the person you might have been without all this pain?,3,False,"CPTSD, Depression","grief, lost_potential",reflection,identity
+Do you ever feel like you’re faking your recovery — like you’re healing for show?,3,False,"Depression, CPTSD","performance_shame, self_doubt",reflection,reframe
+Do you feel like you're chasing healing but never arriving anywhere real?,3,False,"CPTSD, PMDD","healing_fatigue, doubt",reflection,identity
+Do you struggle to believe that peace is something you can hold without losing it?,3,False,"CPTSD, PMDD, BPD","fragility_fear, peace_mistrust",reflection,emotional_whiplash
+Do you ever feel like pain is more familiar than happiness?,3,False,"Depression, CPTSD","pain_familiarity, joy_avoidance",reflection,lived_experience
+Do you feel like your nervous system is always braced for something — even when things are good?,3,False,"CPTSD, Autism, Anxiety","nervous_system_bracing, anticipatory_fear",reflection,somatic
+Do you feel like you constantly have to prove your pain is real?,3,False,"CPTSD, BPD, Autism","invalidated, hyper_explanation",reflection,identity
+"Do you feel like no matter how much you explain, no one fully gets it?",3,False,"Autism, CPTSD, BPD","disconnect, invisibility",reflection,metaphor
+"Have you ever wanted to disappear — not dramatically, but gently, as if you’d never existed?",3,True,"Depression, CPTSD","suicidal_ideation, erasure",reflection,lived_experience

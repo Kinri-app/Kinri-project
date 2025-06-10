@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is insulin?",
+    "answer": "Insulin is a hormone that helps move glucose from the blood into cells for energy or storage.",
+    "tags": [
+      "insulin",
+      "blood sugar",
+      "energy"
+    ]
+  },
+  {
+    "question": "What happens when insulin doesn\u2019t work well?",
+    "answer": "Cells resist insulin\u2019s signal (insulin resistance), leading to high blood sugar and eventually fatigue, cravings, and mood swings.",
+    "tags": [
+      "insulin resistance",
+      "fatigue",
+      "cravings"
+    ]
+  },
+  {
+    "question": "How does blood sugar affect mood?",
+    "answer": "Blood sugar crashes after spikes can lead to irritability, brain fog, anxiety, and low energy.",
+    "tags": [
+      "mood",
+      "blood sugar crash",
+      "regulation"
+    ]
+  },
+  {
+    "question": "What are symptoms of blood sugar dysregulation?",
+    "answer": "Cravings, hanger, anxiety, dizziness, shakiness, or feeling better after eating.",
+    "tags": [
+      "dysregulation",
+      "symptoms",
+      "hypoglycemia"
+    ]
+  },
+  {
+    "question": "Why does ADHD increase risk of blood sugar swings?",
+    "answer": "Irregular eating, impulsive food choices, and stress-related snacking can spike and crash glucose throughout the day.",
+    "tags": [
+      "ADHD",
+      "glucose",
+      "impulsivity"
+    ]
+  },
+  {
+    "question": "What foods support stable blood sugar?",
+    "answer": "Protein, fiber, healthy fats, and low-glycemic carbs help maintain balanced energy and mood.",
+    "tags": [
+      "nutrition",
+      "blood sugar balance",
+      "stability"
+    ]
+  },
+  {
+    "question": "How does stress affect insulin and blood sugar?",
+    "answer": "Cortisol spikes from stress can raise blood sugar and increase insulin resistance over time.",
+    "tags": [
+      "cortisol",
+      "stress",
+      "metabolism"
+    ]
+  },
+  {
+    "question": "How does movement help insulin sensitivity?",
+    "answer": "Exercise allows muscles to absorb glucose without needing as much insulin \u2014 improving balance and energy.",
+    "tags": [
+      "exercise",
+      "glucose uptake",
+      "insulin sensitivity"
+    ]
+  },
+  {
+    "question": "What\u2019s a gentle way to improve insulin response after meals?",
+    "answer": "Walk for 10\u201320 minutes after eating \u2014 it helps reduce spikes and support mood.",
+    "tags": [
+      "post-meal walk",
+      "glucose control",
+      "mood"
+    ]
+  },
+  {
+    "question": "What mindset helps support blood sugar awareness?",
+    "answer": "\u201cMy mood isn\u2019t broken \u2014 it might just be hungry, overstimulated, or undernourished.\u201d",
+    "tags": [
+      "mood awareness",
+      "nutrition mindset",
+      "regulation"
+    ]
+  }
+]

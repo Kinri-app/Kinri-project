@@ -1,0 +1,111 @@
+## Borderline Personality Disorder (BPD) – Diagnostic Vault Breakdown
+
+### 1. Clinical Criteria
+
+* **DSM-5**: Requires 5 of 9 specific symptoms, including abandonment fear, identity disturbance, affective instability, impulsivity, self-harm, intense anger, chronic emptiness, splitting, and dissociation.
+* **ICD-10**: Classified under Emotionally Unstable Personality Disorder with Impulsive and Borderline types.
+* **ICD-11**: Single Personality Disorder diagnosis with Borderline Pattern specifier; dimensional, based on severity and traits.
+* **Key Differences**:
+
+  * DSM-5: Categorical, standalone diagnosis.
+  * ICD-11: Dimensional, with severity levels and trait qualifiers.
+* **Severity Specifiers**:
+
+  * ICD-11: Mild, Moderate, Severe.
+  * DSM-5: No specifier in standard model; exists in Alternative Model.
+
+### 2. Common Real-World Symptoms
+
+* **Emotional Dysregulation**: Intense, reactive, hard-to-soothe emotions.
+* **Impulsivity**: Risky behaviors in sex, spending, substance use.
+* **Self-Harm & Suicidality**: Coping mechanism for pain or numbness.
+* **Interpersonal Chaos**: Idealization/devaluation cycles, abandonment panic.
+* **Chronic Emptiness**: Emotional numbness, identity confusion.
+* **Adolescent vs Adult**:
+
+  * Teens: Self-harm, explosive moods, emerging traits.
+  * Adults: More entrenched patterns, identity issues, relationship instability.
+* **Gender Differences**:
+
+  * Women: Internalizing, depression, self-harm, diagnosed more often.
+  * Men: Externalizing, anger, substance use, often underdiagnosed.
+* **High-Functioning/Quiet BPD**:
+
+  * Masked symptoms, people-pleasing, hidden turmoil, internalized rage.
+
+### 3. Frequently Confused Conditions
+
+* **ADHD**: Shared impulsivity; BPD has attachment fear, identity disturbance.
+* **Autism**: Social difficulty origin differs; ASD has rigidity, BPD has relational chaos.
+* **CPTSD**: Overlaps with emotional regulation and trauma history; BPD is attachment-focused.
+* **Bipolar II**: BPD mood swings are fast/reactive; Bipolar is episodic/biological.
+* **PMDD**: Cyclical mood disruption vs chronic instability.
+* **Histrionic PD**: Shared drama; HPD lacks identity instability and self-harm.
+
+### 4. Comorbidities and Overlaps
+
+* **Mood Disorders**: Depression, Dysthymia, sometimes Bipolar.
+* **Anxiety Disorders**: GAD, Panic, Social Anxiety, PTSD.
+* **Substance Use**: High comorbidity, often used for emotional numbing.
+* **Eating Disorders**: Bulimia, binge eating especially common.
+* **Other PDs**: Narcissistic, Avoidant, Histrionic traits often overlap.
+* **ADHD**: Impulsivity + emotional dysregulation seen in both.
+* **Somatic & Dissociative Disorders**: Chronic pain, identity fragmentation.
+
+### 5. Prevalence and Diagnostic Implications
+
+* **General Prevalence**: \~1.8% globally, higher in clinical populations.
+* **Gender & Cultural Bias**: More women diagnosed, men often missed.
+* **Clinical Settings**: 10–25% in psychiatric outpatient/inpatient care.
+* **Mis/Underdiagnosis**: Misdiagnosed as Bipolar, PTSD, or overlooked.
+* **Access to Care**: Limited DBT providers, stigma among clinicians.
+* **Outcomes**: Many achieve remission with therapy; functional recovery lags.
+
+### 6. Neuroscience and Developmental Roots
+
+* **Brain Differences**:
+
+  * Hyperactive amygdala, reduced prefrontal control.
+  * Smaller hippocampus, insula differences, weak limbic-prefrontal connection.
+* **Attachment Trauma**: High rates of childhood neglect, abuse.
+* **Temperament**: Emotionally sensitive children at higher risk.
+* **Biosocial Model**: Inborn vulnerability + invalidating environment.
+* **Emerging Theories**: Emotional dysregulation, abandonment sensitivity, identity diffusion.
+
+### 7. Real-Life Presentation Examples
+
+* **Abandonment Panic**: Frantic behaviors, emotional implosions.
+* **Splitting**: Shifting from idealization to hatred.
+* **Identity Instability**: Mirroring others, chronic emptiness.
+* **Emotional Volatility**: Explosive anger, then guilt/shame.
+* **Self-Harm**: Expressive or regulatory tool.
+* **Quiet BPD**: Calm exterior, intense internal suffering.
+
+### 8. Treatments and Support
+
+* **Therapies**:
+
+  * DBT: Core therapy, skills-based, structured.
+  * MBT: Mental state reflection, interpersonal focus.
+  * Schema Therapy: Childhood wound reprocessing.
+  * TFP: Transference work in therapy relationship.
+  * GPM: Accessible, structured general psychiatric management.
+* **Medication**:
+
+  * No cure, but used for symptom relief (SSRIs, mood stabilizers, antipsychotics).
+  * Avoid polypharmacy, careful with benzos.
+* **Adjunct Supports**:
+
+  * Family education (e.g. NEABPD), support groups.
+  * Mindfulness, exercise, routine, trauma-informed yoga.
+  * Community supports, peer recovery models.
+  * EMDR, somatic therapies (post-stabilization).
+
+### 9. Areas Requiring Sensitivity
+
+* **Stigma**: Clinician bias, treatment exclusion.
+* **Gendered Misunderstandings**: Women over-labeled, men under-recognized.
+* **Late Diagnosis**: Confusion, grief, and redefinition.
+* **Trauma Lens**: Understand BPD as trauma-linked, not a “bad personality.”
+* **Identity Respect**: Include cultural, LGBTQ+, and neurodiversity awareness.
+* **Recovery Frame**: Hopeful, skills-based, viewing traits as intense—not defective.

@@ -1,0 +1,978 @@
+[
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_001",
+    "card_type": "flashcard",
+    "question": "Why are stress and anxiety common in ADHD?",
+    "answer": "ADHD brains face constant overwhelm from executive dysfunction, emotional reactivity, and environmental demands \u2014 all of which heighten stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_002",
+    "card_type": "flashcard",
+    "question": "How does chronic stress affect ADHD symptoms?",
+    "answer": "It worsens focus, memory, emotional regulation, and increases impulsivity \u2014 creating a vicious cycle of burnout and shame.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_003",
+    "card_type": "flashcard",
+    "question": "What is the link between ADHD and performance anxiety?",
+    "answer": "Fear of failure or forgetting details can trigger anxiety before tasks, especially when past experiences include criticism or punishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_004",
+    "card_type": "flashcard",
+    "question": "Why can ADHD brains get stuck in anxious loops?",
+    "answer": "Difficulty shifting attention means anxious thoughts can become sticky, looping over the same worries without resolution.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_005",
+    "card_type": "flashcard",
+    "question": "How does emotional dysregulation fuel anxiety in ADHD?",
+    "answer": "Quick emotional shifts and intense feelings can escalate small stressors into overwhelming emotional storms.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_006",
+    "card_type": "flashcard",
+    "question": "What physical symptoms of anxiety often show up in ADHD?",
+    "answer": "Tension, racing heart, shallow breath, stomach issues, and restlessness are common somatic signs of anxiety in ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_007",
+    "card_type": "flashcard",
+    "question": "How can ADHD individuals manage rising anxiety in the moment?",
+    "answer": "Box breathing, sensory grounding, movement, and labeling the emotion can interrupt spirals and restore calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_008",
+    "card_type": "flashcard",
+    "question": "Why is self-compassion important for ADHD anxiety?",
+    "answer": "Harsh self-talk amplifies stress. Compassion defuses shame and builds the emotional safety needed for change.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_009",
+    "card_type": "flashcard",
+    "question": "What long-term strategies reduce stress in ADHD?",
+    "answer": "Consistent routines, body-based regulation, therapy, rest, connection, and reducing overstimulation help buffer chronic stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_260_stress_and_anxiety_010",
+    "card_type": "flashcard",
+    "question": "Can ADHD medication reduce anxiety?",
+    "answer": "Sometimes. By improving executive function and reducing chaos, stimulants may lower anxiety \u2014 though effects vary by person.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_001",
+    "card_type": "flashcard",
+    "question": "How does impulsivity in ADHD affect eating habits?",
+    "answer": "Impulsivity can lead to mindless snacking, binge eating, or making food decisions without thinking \u2014 especially during emotional spikes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_002",
+    "card_type": "flashcard",
+    "question": "Why do people with ADHD often feel shame after eating impulsively?",
+    "answer": "They may feel out of control or blame themselves for habits driven by regulation struggles, which fuels guilt and negative self-image.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_003",
+    "card_type": "flashcard",
+    "question": "What emotional states trigger impulsive eating in ADHD?",
+    "answer": "Boredom, stress, overstimulation, sadness, or celebration can all trigger impulsive eating behaviors.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_004",
+    "card_type": "flashcard",
+    "question": "How does dopamine influence food cravings in ADHD?",
+    "answer": "Low dopamine levels may drive cravings for sugar, fat, or novelty \u2014 providing short-term relief or stimulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_005",
+    "card_type": "flashcard",
+    "question": "What is 'shame eating'?",
+    "answer": "Shame eating is when you eat in secret or feel deep guilt afterward \u2014 often as a coping response to internalized judgment or failure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_006",
+    "card_type": "flashcard",
+    "question": "Why does willpower often fail in ADHD eating patterns?",
+    "answer": "Executive dysfunction makes long-term planning harder, so relying on willpower alone often leads to cycles of restriction and binging.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_007",
+    "card_type": "flashcard",
+    "question": "Can impulsive eating be part of a larger regulation issue?",
+    "answer": "Yes. It's often a sign of unmet emotional or sensory needs \u2014 not just poor discipline.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_008",
+    "card_type": "flashcard",
+    "question": "What helps interrupt impulsive eating patterns?",
+    "answer": "Routine meals, mindful pauses, journaling cravings, and dopamine replacement strategies can all help reduce impulsive responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_009",
+    "card_type": "flashcard",
+    "question": "How can compassion reduce shame after impulsive eating?",
+    "answer": "Self-kindness reduces the all-or-nothing mindset and makes it easier to return to balanced choices without spiraling.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "body_issues_flashcards_002_impulsivity_eating_and_shame_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s one practice to support intentional eating with ADHD?",
+    "answer": "Pause before eating and ask: 'What am I really needing right now \u2014 food, or something else?'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_001",
+    "card_type": "flashcard",
+    "question": "How does exercise benefit people with ADHD?",
+    "answer": "Exercise increases dopamine, norepinephrine, and serotonin, helping improve attention, mood, and executive function in individuals with ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_002",
+    "card_type": "flashcard",
+    "question": "Why is it hard for people with ADHD to maintain routines?",
+    "answer": "Executive dysfunction makes it difficult to initiate, plan, and follow through on tasks consistently, even ones that are helpful or enjoyable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_003",
+    "card_type": "flashcard",
+    "question": "What types of exercise work well for ADHD brains?",
+    "answer": "Activities with structure, novelty, or rhythmic movement \u2014 like martial arts, dancing, running, or weightlifting \u2014 often work well.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_004",
+    "card_type": "flashcard",
+    "question": "How can routine improve emotional regulation in ADHD?",
+    "answer": "Predictable routines reduce stress, support nervous system regulation, and create a sense of safety and stability in daily life.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_005",
+    "card_type": "flashcard",
+    "question": "What\u2019s the relationship between exercise and focus in ADHD?",
+    "answer": "Short bursts of aerobic activity can increase focus and reduce hyperactivity for several hours afterward.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_006",
+    "card_type": "flashcard",
+    "question": "How can someone with ADHD start building a sustainable routine?",
+    "answer": "Start small, tie new habits to existing ones, use visual reminders, and allow for flexibility \u2014 perfection is not the goal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_007",
+    "card_type": "flashcard",
+    "question": "Why do ADHD routines often fall apart?",
+    "answer": "Stress, novelty-seeking, emotional dysregulation, or lack of external accountability can cause routines to collapse or be forgotten.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_008",
+    "card_type": "flashcard",
+    "question": "How can body-based routines support ADHD regulation?",
+    "answer": "Daily movement, breathwork, hydration, and regular meals provide a sensory foundation that helps regulate mood and attention.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_009",
+    "card_type": "flashcard",
+    "question": "What role does variety play in ADHD exercise habits?",
+    "answer": "Variety keeps the ADHD brain engaged and reduces boredom, increasing the chances of maintaining an exercise habit over time.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_245_exercise_and_routine_010",
+    "card_type": "flashcard",
+    "question": "Can ADHD routines include rest as part of the plan?",
+    "answer": "Yes. Planned rest and recovery are essential to avoid burnout and support long-term consistency with routines.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_001",
+    "card_type": "flashcard",
+    "question": "What is the microbiome and how is it related to ADHD?",
+    "answer": "The microbiome refers to the trillions of bacteria in the gut. These microbes influence brain chemistry, including dopamine and serotonin, which are key in ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_002",
+    "card_type": "flashcard",
+    "question": "How can gut health impact ADHD symptoms?",
+    "answer": "An imbalanced microbiome may increase inflammation or reduce neurotransmitter production, potentially worsening focus, mood, and regulation in ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_003",
+    "card_type": "flashcard",
+    "question": "What are signs of poor gut health in ADHD individuals?",
+    "answer": "Bloating, constipation, food sensitivities, low mood, and brain fog are common signs that the gut may be affecting mental clarity and regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_004",
+    "card_type": "flashcard",
+    "question": "Why is fiber important for the microbiome?",
+    "answer": "Fiber feeds beneficial gut bacteria, helping maintain a balanced microbiome that supports brain function and reduces inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_005",
+    "card_type": "flashcard",
+    "question": "Can probiotics help with ADHD symptoms?",
+    "answer": "Some research suggests probiotics may improve mood, focus, and gut-brain signaling, but results vary and they are best used as part of a broader plan.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_006",
+    "card_type": "flashcard",
+    "question": "How does diet affect the microbiome in ADHD?",
+    "answer": "Highly processed foods can harm gut diversity. Whole foods, fermented items, and fiber-rich plants help nourish a healthier microbiome.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_007",
+    "card_type": "flashcard",
+    "question": "What is the gut-brain axis?",
+    "answer": "It\u2019s the communication pathway between the gut and brain, involving nerves, hormones, and immune signals \u2014 central to emotional and cognitive function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_008",
+    "card_type": "flashcard",
+    "question": "Can stress impact the microbiome?",
+    "answer": "Yes. Chronic stress alters gut bacteria and weakens the intestinal barrier, which can lead to inflammation and worsen ADHD symptoms.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_009",
+    "card_type": "flashcard",
+    "question": "How does antibiotic use affect the gut and ADHD?",
+    "answer": "Frequent antibiotic use can wipe out beneficial bacteria, disrupting gut balance and possibly influencing behavior, mood, and immune function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_251_microbiome_010",
+    "card_type": "flashcard",
+    "question": "What are some gut-friendly habits for ADHD support?",
+    "answer": "Eating diverse whole foods, reducing sugar, managing stress, sleeping well, and avoiding unnecessary antibiotics help promote a resilient microbiome.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_001",
+    "card_type": "flashcard",
+    "question": "Why is modern life especially challenging for people with ADHD?",
+    "answer": "Modern life is filled with constant distractions, overstimulation, and high demands for executive function \u2014 all areas where ADHD individuals may struggle.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_002",
+    "card_type": "flashcard",
+    "question": "How do smartphones affect ADHD symptoms?",
+    "answer": "Smartphones offer endless novelty and dopamine hits, which can worsen attention issues, impulsivity, and sleep disturbances in ADHD.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_003",
+    "card_type": "flashcard",
+    "question": "Why is multitasking harmful for ADHD brains?",
+    "answer": "Multitasking splits attention and increases cognitive load, making it harder for ADHD individuals to complete tasks or retain information.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the effect of information overload on ADHD individuals?",
+    "answer": "Too much input can overwhelm the nervous system, leading to anxiety, decision fatigue, and task paralysis.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_005",
+    "card_type": "flashcard",
+    "question": "Why do ADHD individuals struggle with time in modern work culture?",
+    "answer": "The emphasis on productivity, punctuality, and multitasking clashes with ADHD-related challenges in time perception and task-switching.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_006",
+    "card_type": "flashcard",
+    "question": "How does social media impact ADHD mental health?",
+    "answer": "It reinforces comparison, instant gratification, and emotional highs and lows \u2014 all of which can dysregulate ADHD individuals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_007",
+    "card_type": "flashcard",
+    "question": "Why can decision-making feel exhausting with ADHD?",
+    "answer": "Executive dysfunction can make it hard to prioritize, assess options, or commit \u2014 especially when choices are endless.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_008",
+    "card_type": "flashcard",
+    "question": "How can ADHD individuals find calm in a chaotic world?",
+    "answer": "Through intentional routines, screen boundaries, mindfulness, and creating low-stimulation environments when possible.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s one protective factor for ADHD people navigating modern life?",
+    "answer": "Community. Being seen, understood, and supported by others reduces shame and helps ADHD individuals feel less isolated.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "adhd_flashcards_254_modern_life_010",
+    "card_type": "flashcard",
+    "question": "Is it okay to opt out of parts of modern life for ADHD wellbeing?",
+    "answer": "Absolutely. Choosing slower, simpler, or less conventional paths is often what supports long-term ADHD mental health.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

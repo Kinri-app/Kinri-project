@@ -1,0 +1,218 @@
+[
+  {
+    "prompt": "Do you feel like you\u2019ve had to become someone else just to survive?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "BPD"
+      ],
+      "emotion": [
+        "survival_identity",
+        "loss_of_self"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like peace feels unfamiliar or even unsafe?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD",
+        "PMDD"
+      ],
+      "emotion": [
+        "nervous_system_distrust",
+        "calm_ambivalence"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like your emotions are speaking a language no one else understands?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Autism",
+        "PMDD"
+      ],
+      "emotion": [
+        "emotional_isolation",
+        "frustration"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you\u2019re carrying emotions that aren\u2019t fully yours?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "absorbed_emotion",
+        "empathic_overload"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever think about how much you've had to suppress just to be okay?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD",
+        "Autism"
+      ],
+      "emotion": [
+        "containment",
+        "anger"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like recovery is a performance for other people\u2019s comfort?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "inauthentic_healing",
+        "resentment"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your body is holding stories that your voice can\u2019t tell yet?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "PMDD",
+        "CPTSD",
+        "Autism"
+      ],
+      "emotion": [
+        "silent_memory",
+        "body_grief"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like asking for help will make you more unsafe?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "help_aversion",
+        "relational_wound"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you carry guilt for not healing fast enough, or not being better already?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "shame",
+        "healing_pressure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever wondered if your pain has become your home?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "pain_identity",
+        "hopelessness"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

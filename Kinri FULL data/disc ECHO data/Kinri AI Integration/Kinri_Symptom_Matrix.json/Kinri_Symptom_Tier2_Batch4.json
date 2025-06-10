@@ -1,0 +1,219 @@
+[
+  {
+    "prompt": "Do you ever feel numb or empty after emotional conversations or conflict?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD",
+        "Autism"
+      ],
+      "emotion": [
+        "numbness",
+        "shutdown"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find yourself sabotaging relationships or pulling away when things get close?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "fear",
+        "abandonment_fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find it hard to relax even when you're alone and nothing's happening?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "GAD",
+        "Autism"
+      ],
+      "emotion": [
+        "tension",
+        "restlessness"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often feel stuck between craving connection and needing space?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "Autism"
+      ],
+      "emotion": [
+        "ambivalence",
+        "frustration"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do your emotions ever come out sideways \u2014 like sarcasm, withdrawal, or overcompensating?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression",
+        "Autism"
+      ],
+      "emotion": [
+        "defensiveness",
+        "emotional_avoidance"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes feel like a different person depending on the situation or who you're with?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Autism",
+        "CPTSD"
+      ],
+      "emotion": [
+        "identity_confusion",
+        "masking"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you try to predict others' moods or needs before they say anything?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "hypervigilance",
+        "anxiety"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like people expect too much emotional energy from you?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Autism",
+        "ADHD",
+        "Depression"
+      ],
+      "emotion": [
+        "drain",
+        "pressure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever avoid joy or excitement because you're scared it won\u2019t last?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "protective_flatness",
+        "anticipatory_loss"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever shut down or gone mute during conflict \u2014 not by choice, but because your body just stopped responding?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "PMDD"
+      ],
+      "emotion": [
+        "shutdown",
+        "freeze"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": true
+  }
+]

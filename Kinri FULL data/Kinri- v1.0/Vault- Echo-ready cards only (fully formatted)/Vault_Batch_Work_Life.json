@@ -1,0 +1,365 @@
+[
+  {
+    "id": "work_life_7_productivity_shame_and_identity",
+    "title": "You\u2019re Not Just What You Do",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shame",
+      "overwork",
+      "self-worth"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "identity",
+    "tone": "reclaiming",
+    "body": "You are not your calendar. Not your inbox. Not your hustle. You are allowed to matter even on days when nothing gets done.",
+    "echo_intro": "This is for the part of you that ties worth to output.",
+    "length_tokens": 38,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Identity disentanglement",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_8_career_doubt_and_path_uncertainty",
+    "title": "You\u2019re Not Behind \u2014 You\u2019re Becoming",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "comparison",
+      "shame",
+      "fear"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "Depression"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "timeline reframe",
+    "tone": "reassuring",
+    "body": "There\u2019s no one right timeline. No perfect age for clarity. What looks like a detour might be sacred wandering. Your work life is not a race \u2014 it\u2019s a relationship.",
+    "echo_intro": "Try this when you feel lost in your job story.",
+    "length_tokens": 40,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Career shame reframing",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_9_overwhelm_from_emails_and_admin_loops",
+    "title": "It\u2019s Okay If the Small Stuff Feels Huge",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shutdown",
+      "overwhelm",
+      "avoidance"
+    ],
+    "condition_tags": [
+      "Executive Dysfunction",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "validation",
+    "tone": "gentle normalization",
+    "body": "Replying to an email shouldn\u2019t feel like climbing a mountain \u2014 and yet, it does. That\u2019s not laziness. That\u2019s nervous system backlog. And it\u2019s real.",
+    "echo_intro": "This is for the one who can\u2019t open their inbox right now.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Executive function validation",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_10_office_noise_and_sensory_drains",
+    "title": "You\u2019re Not Overreacting to the Open Plan",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "irritability",
+      "overload",
+      "fatigue"
+    ],
+    "condition_tags": [
+      "Autism",
+      "Sensory Processing"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "environmental insight",
+    "tone": "validating",
+    "body": "Fluorescent lights. Keyboard clacks. The constant hum. It\u2019s not petty \u2014 it\u2019s sensory strain. You\u2019re not difficult. You\u2019re just not built for artificial chaos.",
+    "echo_intro": "For the one holding it together under the buzz.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Sensory needs at work",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_11_micromanagement_and_fear_of_mistakes",
+    "title": "You Deserve Room to Breathe at Work",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "anxiety",
+      "tension",
+      "fear of failure"
+    ],
+    "condition_tags": [
+      "BPD",
+      "Perfectionism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "boundary",
+    "tone": "protective and kind",
+    "body": "Being watched doesn\u2019t help you grow. It shrinks you. You are allowed to make mistakes. To ask questions. To need space. You deserve a workplace that sees you, not just your output.",
+    "echo_intro": "Try this if micromanagement makes your chest tight.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Workplace boundary",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_12_job_grief_and_loss_of_identity",
+    "title": "It\u2019s Okay to Grieve Work That Changed You",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "loss",
+      "identity confusion",
+      "grief"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Depression"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "grief-based",
+    "tone": "tender",
+    "body": "Losing a job, leaving a role, walking away from something that shaped you \u2014 it can feel like a death. You\u2019re not overreacting. You\u2019re grieving a version of yourself.",
+    "echo_intro": "Try this if your resume doesn\u2019t reflect your heartbreak.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Work-related grief",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_13_masking_in_meetings_and_zoom_exhaustion",
+    "title": "You\u2019re Allowed to Drop the Mask",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "exhaustion",
+      "people-pleasing",
+      "fawning"
+    ],
+    "condition_tags": [
+      "Autism",
+      "BPD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "unmasking",
+    "tone": "permission-giving",
+    "body": "Holding the smile. Nodding at the right time. Performing engagement. These aren't small tasks \u2014 they're draining. You\u2019re allowed to turn your camera off. To exhale. To be real.",
+    "echo_intro": "This is for the ones hiding in the call.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Zoom mask fatigue",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_14_not_fitting_into_corporate_culture",
+    "title": "You\u2019re Not a Culture Fit \u2014 You\u2019re a Soul Fit",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "shame",
+      "isolation",
+      "disillusionment"
+    ],
+    "condition_tags": [
+      "Neurodivergence",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "reframing values",
+    "tone": "empowering",
+    "body": "You\u2019re not too weird. Too soft. Too honest. Too deep. You might not fit the culture \u2014 but that\u2019s not because you\u2019re broken. It\u2019s because you\u2019re intact in a broken system.",
+    "echo_intro": "Try this if workplace sameness feels like a cage.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Cultural misfit compassion",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_15_boredom_and_understimulation",
+    "title": "Boredom Isn\u2019t Laziness \u2014 It\u2019s Under-Engagement",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "boredom",
+      "guilt",
+      "shutdown"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Disengagement"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "clarity",
+    "tone": "reclaiming",
+    "body": "When the work is too small for your brain, your system will rebel. That\u2019s not ungratefulness \u2014 it\u2019s unmet capacity. You deserve stimulation, not sedation.",
+    "echo_intro": "This is for the ones going numb at their desk.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Under-challenged minds",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_16_leaving_work_culture_that_harmed_you",
+    "title": "You\u2019re Not a Traitor for Leaving",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "loyalty conflict",
+      "grief",
+      "liberation"
+    ],
+    "condition_tags": [
+      "Burnout",
+      "Workplace Trauma"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "boundary and grief",
+    "tone": "affirming",
+    "body": "Quitting isn\u2019t betrayal. It\u2019s protection. If a job drained you, gaslit you, erased you \u2014 walking away might be the bravest thing you\u2019ve done.",
+    "echo_intro": "For the one still mourning what they walked away from.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Work trauma release",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_17_being_the_emotional_container_at_work",
+    "title": "You\u2019re Not the Office Therapist",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "emotional labor",
+      "overfunctioning",
+      "resentment"
+    ],
+    "condition_tags": [
+      "Caregiver Fatigue",
+      "BPD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "boundaries",
+    "tone": "loving confrontation",
+    "body": "If everyone comes to you to cry, vent, unload \u2014 but no one asks how you are, you\u2019re not being valued. You\u2019re being used. You deserve reciprocity. You\u2019re not a container \u2014 you\u2019re a soul.",
+    "echo_intro": "For the ones holding space with no one holding them.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Emotional boundary in workplace",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_18_compartmentalization_and_emotional_splitting",
+    "title": "You Don\u2019t Have to Chop Yourself Up to Function",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "compartmentalization",
+      "emotional suppression"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "BPD"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "integration",
+    "tone": "soft integration",
+    "body": "Being professional doesn\u2019t mean being split. You\u2019re allowed to bring warmth, softness, emotion. The goal isn\u2019t neutrality \u2014 it\u2019s congruence. Wholeness isn\u2019t unprofessional. It\u2019s human.",
+    "echo_intro": "Try this if your workplace feels like acting.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Work mask dismantle",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_19_transitions_and_downshifting",
+    "title": "It\u2019s Okay to Want Less",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "burnout",
+      "shame",
+      "detachment"
+    ],
+    "condition_tags": [
+      "Depression",
+      "CPTSD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "choice reframing",
+    "tone": "honoring",
+    "body": "If your goals are changing, that\u2019s not failure \u2014 that\u2019s evolution. Downshifting isn\u2019t giving up. It\u2019s listening. It\u2019s surviving differently. Wanting less might just be wanting peace.",
+    "echo_intro": "For the one no longer climbing the ladder.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Reframes ambition drop",
+    "version": "v1.0"
+  },
+  {
+    "id": "work_life_20_holding_firm_boundaries_with_employers",
+    "title": "You Don\u2019t Owe Them Everything",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "guilt",
+      "fear",
+      "submission"
+    ],
+    "condition_tags": [
+      "BPD",
+      "People-Pleasing"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "firm boundary",
+    "tone": "empowered truth",
+    "body": "You can care deeply about your job \u2014 and still say no. You can work hard \u2014 and still log off. You don\u2019t owe your employer your evenings, your identity, or your soul.",
+    "echo_intro": "This one\u2019s for the one who answers emails in bed.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Bold closer",
+    "version": "v1.0"
+  }
+]

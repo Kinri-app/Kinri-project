@@ -1,0 +1,595 @@
+[
+  {
+    "card_id": "vagus_nerve_3_physical_stimulators_and_breath_tools_001",
+    "card_type": "flashcard",
+    "question": "What are simple physical tools to activate the vagus nerve?",
+    "answer": "Cold water on the face, gargling, humming, deep breathing, and light neck stretching activate vagal pathways.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_3_physical_stimulators_and_breath_tools_002",
+    "card_type": "flashcard",
+    "question": "Why does humming activate vagal tone?",
+    "answer": "It vibrates the vocal cords and stimulates the vagus through the throat and jaw branches.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_3_physical_stimulators_and_breath_tools_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s the ideal breath pattern for vagus activation?",
+    "answer": "4-7-8 or longer exhales (like 6-6 or 4-8 breathing) activate the parasympathetic system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_3_physical_stimulators_and_breath_tools_004",
+    "card_type": "flashcard",
+    "question": "What is carotid sinus massage?",
+    "answer": "Gently massaging the neck below the jaw helps stimulate baroreceptors connected to vagal tone\u2014best done cautiously.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_3_physical_stimulators_and_breath_tools_005",
+    "card_type": "vault_card",
+    "headline": "Activate Calm with the Body",
+    "body": "The fastest path to peace is physical. Touch, tone, and breath reset the circuits quicker than thoughts can.",
+    "prompt": "What vagus-stimulating technique could become part of your daily regulation routine this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_18_triggers_in_intimacy_sex_and_emotional_closeness_001",
+    "card_type": "flashcard",
+    "question": "Why does intimacy trigger trauma in some people?",
+    "answer": "Emotional or physical closeness can resemble past boundary violations, neglect, or control\u2014activating old survival responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_18_triggers_in_intimacy_sex_and_emotional_closeness_002",
+    "card_type": "flashcard",
+    "question": "What are signs of shutdown during intimacy?",
+    "answer": "Numbing, dissociation, avoidance, going silent, or agreeing to things that feel unsafe just to avoid conflict.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_18_triggers_in_intimacy_sex_and_emotional_closeness_003",
+    "card_type": "flashcard",
+    "question": "How can partners navigate intimacy triggers together?",
+    "answer": "Use slow pacing, clear consent check-ins, grounding before touch, and openness about emotional responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_18_triggers_in_intimacy_sex_and_emotional_closeness_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the link between vulnerability and panic?",
+    "answer": "For trauma survivors, vulnerability often meant danger\u2014so the body may see openness as a threat until safety is built.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_18_triggers_in_intimacy_sex_and_emotional_closeness_005",
+    "card_type": "vault_card",
+    "headline": "It\u2019s Not Just Intimacy\u2014It\u2019s Nervous System History",
+    "body": "When love or touch feels scary, it\u2019s not dysfunction\u2014it\u2019s protection. You can move slow. You can rewire.",
+    "prompt": "What intimacy moment triggered discomfort\u2014and what felt need might be hidden underneath that response?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_19_the_body_keeps_the_score_somatic_memory_healing_001",
+    "card_type": "flashcard",
+    "question": "What does it mean that 'the body keeps the score'?",
+    "answer": "Trauma isn\u2019t just a memory\u2014it\u2019s a physical imprint stored in muscles, posture, and the nervous system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_19_the_body_keeps_the_score_somatic_memory_healing_002",
+    "card_type": "flashcard",
+    "question": "Why is talk therapy sometimes not enough?",
+    "answer": "The body holds patterns that words can\u2019t reach\u2014without movement, breath, or sensation, some trauma stays locked.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_19_the_body_keeps_the_score_somatic_memory_healing_003",
+    "card_type": "flashcard",
+    "question": "How does the body express stored trauma?",
+    "answer": "Through tension, chronic pain, digestion issues, movement habits, and emotional flashbacks tied to physical states.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_19_the_body_keeps_the_score_somatic_memory_healing_004",
+    "card_type": "flashcard",
+    "question": "What helps release somatic trauma?",
+    "answer": "Safe movement, breathwork, vagus nerve activation, grounding, and felt-sense tracking in somatic practices.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_19_the_body_keeps_the_score_somatic_memory_healing_005",
+    "card_type": "vault_card",
+    "headline": "The Mind Remembers, But the Body Never Forgot",
+    "body": "Healing requires more than words. It asks for safety through sensation\u2014and the courage to feel what once had to be stored.",
+    "prompt": "What part of your body feels like it\u2019s carrying something old\u2014and how could you gently listen to it today?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_20_trauma_and_spiritual_disconnection_001",
+    "card_type": "flashcard",
+    "question": "How does trauma create spiritual disconnection?",
+    "answer": "Trauma can sever trust in safety, love, or meaning\u2014disconnecting people from purpose, awe, or higher connection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_20_trauma_and_spiritual_disconnection_002",
+    "card_type": "flashcard",
+    "question": "What are signs of spiritual numbness after trauma?",
+    "answer": "Loss of joy, purpose, wonder, or inner guidance\u2014feeling existentially flat, alone, or disillusioned.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown",
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_20_trauma_and_spiritual_disconnection_003",
+    "card_type": "flashcard",
+    "question": "Why is reconnection to something greater healing?",
+    "answer": "Awe, faith, or belonging rewires the nervous system\u2014providing safety, coherence, and the strength to keep going.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_20_trauma_and_spiritual_disconnection_004",
+    "card_type": "flashcard",
+    "question": "How can someone begin to repair spiritual disconnection?",
+    "answer": "Through quiet reflection, time in nature, ritual, gratitude, community, or simply asking, 'What do I still believe in?'",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "trauma_20_trauma_and_spiritual_disconnection_005",
+    "card_type": "vault_card",
+    "headline": "You Weren\u2019t Just Hurt\u2014You Were Unanchored",
+    "body": "When you lost your safety, you may have lost your soul-root too. You can rebuild meaning. You can come home.",
+    "prompt": "What gave you hope before the pain\u2014and is it still there, waiting to be rediscovered?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_1_anatomy_function_and_role_001",
+    "card_type": "flashcard",
+    "question": "What is the vagus nerve?",
+    "answer": "The vagus nerve is the 10th cranial nerve\u2014main communication channel between brain and body in the parasympathetic system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_1_anatomy_function_and_role_002",
+    "card_type": "flashcard",
+    "question": "What does the vagus nerve control?",
+    "answer": "Heart rate, digestion, mood regulation, immune response, and inflammatory signals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_1_anatomy_function_and_role_003",
+    "card_type": "flashcard",
+    "question": "How does the vagus nerve support the gut-brain axis?",
+    "answer": "It transmits information between the gut and brain, including stress signals and neurotransmitter feedback.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_1_anatomy_function_and_role_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s the difference between hypoarousal and hyperarousal?",
+    "answer": "Hypo = shut down/dissociate (freeze); Hyper = panic/fight/flight. Vagal tone helps balance between these states.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_1_anatomy_function_and_role_005",
+    "card_type": "vault_card",
+    "headline": "The Body\u2019s Master Reset Button",
+    "body": "The vagus nerve is your internal tuning fork. It hears stress, and sings calm when well-toned.",
+    "prompt": "What part of your body might be asking for more vagal support right now?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_2_vagal_tone_regulation_stress_recovery_001",
+    "card_type": "flashcard",
+    "question": "What is vagal tone?",
+    "answer": "Vagal tone reflects how efficiently your vagus nerve regulates heart rate variability and parasympathetic activation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_2_vagal_tone_regulation_stress_recovery_002",
+    "card_type": "flashcard",
+    "question": "How can you test your vagal tone?",
+    "answer": "Monitor HRV (heart rate variability)\u2014higher HRV suggests stronger vagal tone and better stress resilience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_2_vagal_tone_regulation_stress_recovery_003",
+    "card_type": "flashcard",
+    "question": "What reduces vagal tone?",
+    "answer": "Chronic stress, poor sleep, trauma, inflammation, and a sedentary lifestyle all suppress vagal function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_2_vagal_tone_regulation_stress_recovery_004",
+    "card_type": "flashcard",
+    "question": "How does trauma affect vagal recovery?",
+    "answer": "Trauma can cause vagal shutdown or dysregulation, making the body stuck in freeze, anxiety, or emotional numbness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_2_vagal_tone_regulation_stress_recovery_005",
+    "card_type": "vault_card",
+    "headline": "Strong Tone = Sooner Calm",
+    "body": "With high vagal tone, your body recovers faster from stress. It\u2019s like emotional resilience on autopilot.",
+    "prompt": "What habit could you begin today to raise your vagal tone and stress threshold?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

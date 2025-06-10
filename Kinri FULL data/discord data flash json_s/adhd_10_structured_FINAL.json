@@ -1,0 +1,88 @@
+[
+  {
+    "question": "What is emotional dysregulation in ADHD?",
+    "answer": "It\u2019s the struggle to manage emotional intensity\u2014feeling too much, too fast, with difficulty returning to calm.",
+    "tags": {
+      "condition": [
+        "ADHD",
+        "emotional dysregulation"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "nervous system"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_256_adhd_10"
+  },
+  {
+    "question": "Why do small issues feel massive in ADHD brains?",
+    "answer": "Emotions bypass logic and hit the body\u2014ADHDers may feel the emotional volume without being able to downregulate quickly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "emotional flooding"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_257_adhd_10"
+  },
+  {
+    "question": "What is a shame spiral?",
+    "answer": "When a small mistake triggers a chain of self-criticism, hopelessness, and withdrawal\u2014it\u2019s emotion amplified by old wounds.",
+    "tags": {
+      "condition": [
+        "shame spiral"
+      ],
+      "emotion": [
+        "self-criticism",
+        "emotional pain"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_258_adhd_10"
+  },
+  {
+    "question": "What helps exit a shame spiral?",
+    "answer": "Name the emotion, use grounding or breath, speak kindly to yourself, and reconnect with a safe person or truth.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "regulation",
+        "self-compassion",
+        "reconnection"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_259_adhd_10"
+  },
+  {
+    "headline": "You're Not Broken\u2014You're Flooded",
+    "body": "ADHD doesn\u2019t just distract. It amplifies. And the fix isn\u2019t force\u2014it\u2019s regulation, rhythm, and radical gentleness.",
+    "prompt": "What recent shame spike could you meet with compassion instead of critique this week?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "healing",
+        "emotional safety"
+      ],
+      "usage_mode": [
+        "self-compassion"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_260_adhd_10"
+  }
+]

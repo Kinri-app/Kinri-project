@@ -1,0 +1,164 @@
+[
+  {
+    "question": "Why do traditional habit strategies often fail for neurodivergent brains?",
+    "answer": "They rely on consistency, willpower, and low sensitivity \u2014 traits that ADHD or autistic individuals may not have access to consistently.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "neurodivergent",
+        "habits"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_332_nd_habit_design"
+  },
+  {
+    "question": "What makes a habit neurodivergent-friendly?",
+    "answer": "It\u2019s flexible, forgiving, stimulating, sensory-aware, and designed to reduce shame when interrupted.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-compassion"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "habit design",
+        "accessibility"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_333_nd_habit_design"
+  },
+  {
+    "question": "Why is novelty important in habit design?",
+    "answer": "Novelty boosts dopamine and keeps engagement fresh \u2014 helpful for ADHD brains that crave stimulation.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "novelty",
+        "dopamine",
+        "engagement"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_334_nd_habit_design"
+  },
+  {
+    "question": "What is 'choice paralysis' and how does it impact habits?",
+    "answer": "Too many options can freeze the brain \u2014 simple, preset actions work better than open-ended ones.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "decision fatigue",
+        "choice paralysis",
+        "simplification"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_335_nd_habit_design"
+  },
+  {
+    "question": "What\u2019s a way to anchor a new habit?",
+    "answer": "Tie it to an existing cue (e.g., after brushing teeth, take vitamins) \u2014 this uses rhythm, not memory.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "habit stacking",
+        "anchoring",
+        "cue-based"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_336_nd_habit_design"
+  },
+  {
+    "question": "How can sensory support improve habit follow-through?",
+    "answer": "Textures, colors, sounds, or tools that feel good help reinforce the habit loop through body memory.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "sensory",
+        "body memory",
+        "reinforcement"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_337_nd_habit_design"
+  },
+  {
+    "question": "Why does all-or-nothing thinking sabotage habits?",
+    "answer": "Missing once feels like failure \u2014 but habits thrive with flexible consistency, not perfection.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "all-or-nothing",
+        "perfectionism",
+        "habit mindset"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_338_nd_habit_design"
+  },
+  {
+    "question": "What\u2019s a helpful mindset for habit recovery?",
+    "answer": "\u201cMissing is part of the process. Returning gently builds trust.\u201d",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "resilience",
+        "gentleness",
+        "returning"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_339_nd_habit_design"
+  },
+  {
+    "question": "What\u2019s a quick habit builder for hard days?",
+    "answer": "Reduce the habit to its smallest possible version \u2014 even 30 seconds still counts.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "habit minimum",
+        "low barrier",
+        "consistency"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_340_nd_habit_design"
+  },
+  {
+    "question": "How do you know a habit is working for your brain?",
+    "answer": "It feels doable most days, offers dopamine, doesn\u2019t rely on shame, and adapts to your energy.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "habit fit",
+        "brain compatibility",
+        "success"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "flashcards_341_nd_habit_design"
+  }
+]

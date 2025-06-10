@@ -1,0 +1,151 @@
+[
+  {
+    "card_id": "nutrition_30_nervous_system_meals_for_rebuilding_and_safety_005",
+    "card_type": "vault_card",
+    "headline": "Rebuild With Rhythm, Not Pressure",
+    "body": "When the system is low, it needs less friction. Feed it warmth. Feed it rhythm. Feed it care.",
+    "prompt": "What recovery food or habit could you return to this week\u2014without shame, just support?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_24_digestive_calm_nervous_system_reset_and_rituals_005",
+    "card_type": "vault_card",
+    "headline": "Your Nervous System Eats With You",
+    "body": "You can eat the best food, but if you eat it in stress, it won\u2019t land. Rituals soften digestion\u2014and your mind.",
+    "prompt": "What mealtime ritual could help bring safety, softness, or pause to your week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_25_nervous_system_restoration_through_simplicity_005",
+    "card_type": "vault_card",
+    "headline": "Simple Food Is Nervous System Medicine",
+    "body": "You don\u2019t need a new diet\u2014you need less pressure. Simplify to heal. Rhythm, not rules.",
+    "prompt": "What meal, habit, or mindset could you simplify this week to help your system soften?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_26_self_trust_intuition_and_long_term_rhythm_005",
+    "card_type": "vault_card",
+    "headline": "You Already Know More Than You Think",
+    "body": "Your body isn\u2019t confused\u2014it\u2019s been silenced. Intuition grows when you listen more than you correct.",
+    "prompt": "What signal or rhythm has your body been trying to give you lately\u2014and are you letting it lead?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_27_nervous_system_meals_for_overwhelm_and_reentry_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need the Perfect Meal\u2014You Need a Gentle One",
+    "body": "When you\u2019re dysregulated, don\u2019t plan\u2014pause. Pick one small meal that feels safe, soft, and stable.",
+    "prompt": "What\u2019s your nervous system asking for right now\u2014a warm bowl, a soft bite, or a pause before you eat?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_28_nervous_system_meals_for_stability_and_consistency_005",
+    "card_type": "vault_card",
+    "headline": "Nourishment Is a Practice, Not a Performance",
+    "body": "You don\u2019t need perfect meals. You need repeatable ones. You need rhythm, not rules.",
+    "prompt": "What\u2019s one meal or habit you could repeat this week to reduce decision fatigue and build stability?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_29_food_as_safety_coregulation_emotional_anchoring_005",
+    "card_type": "vault_card",
+    "headline": "Food Isn\u2019t Just Physical\u2014It\u2019s Emotional",
+    "body": "Meals regulate more than blood sugar\u2014they regulate belonging, memory, and safety. Eat like it matters. Because it does.",
+    "prompt": "What food ritual or rhythm helps you feel most anchored, seen, or safe\u2014and how could you return to it this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

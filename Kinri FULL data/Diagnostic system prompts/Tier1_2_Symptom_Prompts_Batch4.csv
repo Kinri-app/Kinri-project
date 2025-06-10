@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you find it hard to explain how you're feeling — even to people close to you?,"Like there’s emotion in your body, but no language for it?",Tier 2,"{'Autism': 1.0, 'CPTSD': 0.5, 'Depression': 0.5}"
+Do you frequently overthink your own behavior — even after the moment has passed?,"Like you relive how you said something, analyzing every word?",Tier 1,"{'GAD': 1.0, 'OCD': 0.5}"
+Do you sometimes feel like you’re performing a version of yourself that others expect?,"Like you wear a personality that fits the room, even if it’s not yours?",Tier 2,"{'CPTSD': 1.0, 'Autism': 0.5, 'BPD': 0.5}"
+Do you find your emotions feel delayed — like you only process things hours or days later?,"Like it doesn’t hit you in the moment, but floods in later?",Tier 2,"{'CPTSD': 1.0, 'Autism': 0.5}"
+Do you often interrupt people — even when you don’t mean to?,Like your thoughts feel urgent and slip out before you can stop them?,Tier 1,"{'ADHD': 1.0, 'Autism': 0.5}"
+Do you find yourself doing or saying things just to avoid silence?,Like filling the quiet is easier than sitting in it?,Tier 2,"{'GAD': 1.0, 'BPD': 0.5}"
+Do you tend to keep your struggles hidden until they boil over?,Like you bottle it all up until it bursts?,Tier 2,"{'CPTSD': 1.0, 'BPD': 0.5, 'Depression': 0.5}"
+Do you find yourself zoning out when someone is talking — even if you care about what they’re saying?,Like your brain just floats off mid-conversation?,Tier 1,"{'ADHD': 1.0, 'CPTSD': 0.5, 'Depression': 0.5}"
+Do you feel panicky or uneasy when things are ‘too quiet’ or calm for too long?,Like silence makes your brain invent something to worry about?,Tier 2,"{'GAD': 1.0, 'OCD': 0.5}"
+Do you sometimes get the urge to escape your environment suddenly — even if nothing obvious triggered it?,Like your body says ‘get out’ before your brain knows why?,Tier 1,"{'CPTSD': 1.0, 'PTSD': 0.5}"

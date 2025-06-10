@@ -1,0 +1,88 @@
+[
+  {
+    "question": "Why is dopamine a key issue in ADHD?",
+    "answer": "ADHD brains have impaired dopamine signaling\u2014making it harder to feel motivated without novelty or urgency.",
+    "tags": {
+      "condition": [
+        "dopamine",
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "motivation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_261_adhd_4"
+  },
+  {
+    "question": "What\u2019s the link between boredom and dopamine in ADHD?",
+    "answer": "Low dopamine makes boring tasks feel physically painful\u2014so the brain seeks stimulation instead of consistency.",
+    "tags": {
+      "condition": [
+        "dopamine"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "boredom",
+        "distraction"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_262_adhd_4"
+  },
+  {
+    "question": "How can ADHDers boost dopamine naturally?",
+    "answer": "Use novelty, reward loops, movement, music, sunlight, and gamification to engage motivation systems.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "dopamine hacks"
+      ],
+      "usage_mode": [
+        "motivation",
+        "natural boosters"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_263_adhd_4"
+  },
+  {
+    "question": "Why doesn\u2019t willpower work well in ADHD?",
+    "answer": "Willpower relies on sustained dopamine. ADHD brains burn it too fast\u2014systems and dopamine scaffolding work better.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "willpower",
+        "executive support"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_264_adhd_4"
+  },
+  {
+    "headline": "It\u2019s Not Lazy\u2014It\u2019s Chemistry",
+    "body": "Motivation isn\u2019t moral. It\u2019s neurochemical. And there are ways to work with it instead of fighting yourself.",
+    "prompt": "What\u2019s one dopamine-supporting habit you could build into your morning or work time?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "ADHD support"
+      ],
+      "usage_mode": [
+        "motivation",
+        "dopamine strategies"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_265_adhd_4"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What is co-regulation in communication?",
+    "answer": "It\u2019s the process of nervous systems syncing through tone, presence, and cues\u2014calming each other without words.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "nervous system"
+      ],
+      "usage_mode": [
+        "co-regulation",
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_312_coregulation"
+  },
+  {
+    "question": "How can you tell co-regulation is happening?",
+    "answer": "You feel safer, more grounded, less reactive\u2014and you notice slower breathing, softening, and attunement in both people.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "presence",
+        "emotional clarity"
+      ],
+      "narrative_type": [
+        "safety"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_313_coregulation"
+  },
+  {
+    "question": "What supports co-regulation during difficult conversations?",
+    "answer": "Lowered voice, calm facial expression, open posture, breath awareness, and non-defensive listening.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "empathy"
+      ],
+      "narrative_type": [
+        "emotional safety"
+      ],
+      "usage_mode": [
+        "repair"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_314_coregulation"
+  },
+  {
+    "question": "What disrupts co-regulation?",
+    "answer": "Tone escalation, fast pace, interruption, dismissiveness, or invalidating emotional cues.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "misattunement"
+      ],
+      "narrative_type": [
+        "communication breakdown",
+        "stress"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_315_coregulation"
+  },
+  {
+    "headline": "The Nervous System Speaks First",
+    "body": "You\u2019re not just exchanging words\u2014you\u2019re exchanging signals. Soften your body. Regulate your voice. Speak safety first.",
+    "prompt": "What conversation this week could benefit from leading with co-regulation, not correction?",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "healing"
+      ],
+      "narrative_type": [
+        "nervous system"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_316_coregulation"
+  }
+]

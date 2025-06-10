@@ -1,0 +1,220 @@
+[
+  {
+    "prompt": "Do you feel like you need to explain your pain to be allowed to have it?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "Depression"
+      ],
+      "emotion": [
+        "invalidated",
+        "self_justifying"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like you\u2019re invisible unless you\u2019re hurting or useful?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression",
+        "BPD"
+      ],
+      "emotion": [
+        "invisibility",
+        "survival_value"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you were never taught how to feel things without breaking?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "PMDD"
+      ],
+      "emotion": [
+        "emotional_instability",
+        "fear_of_feeling"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever wish you could just shut everything off \u2014 mind, body, emotion \u2014 like a switch?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD",
+        "Autism"
+      ],
+      "emotion": [
+        "shutdown",
+        "escape"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you find yourself preemptively abandoning others because you're sure they'll leave?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "abandonment_fear",
+        "defense_mechanism"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your brain sometimes punishes you just for trying to rest or stop?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "OCD",
+        "ADHD",
+        "GAD"
+      ],
+      "emotion": [
+        "urgency",
+        "internal_pressure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel physically ill from emotional pain?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "PMDD",
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "somatic_overload",
+        "grief"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your thoughts sometimes sabotage your safety or recovery?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "OCD",
+        "Depression",
+        "BPD"
+      ],
+      "emotion": [
+        "intrusive_thoughts",
+        "fear_of_self"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "memory"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Do you feel like you've spent your life protecting people from how much you feel?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "PMDD"
+      ],
+      "emotion": [
+        "containment",
+        "overwhelm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever felt like the world would be better off without you \u2014 not out of drama, but logic?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "suicidal_logic",
+        "detachment"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

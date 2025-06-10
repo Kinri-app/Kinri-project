@@ -1,0 +1,221 @@
+[
+  {
+    "prompt": "Do you ever feel like your sensitivity to rejection controls your relationships?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "ADHD",
+        "PMDD"
+      ],
+      "emotion": [
+        "rejection_sensitivity",
+        "fear"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do your emotions sometimes cause physical symptoms like nausea, shaking, or chest tightness?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD",
+        "Anxiety"
+      ],
+      "emotion": [
+        "somatic_distress",
+        "panic"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your mind won\u2019t stop unless you distract it with something external?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "ADHD",
+        "Anxiety",
+        "Bipolar II"
+      ],
+      "emotion": [
+        "restlessness",
+        "mental_noise"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you avoid certain people, places, or activities because they remind you of something painful?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "PTSD",
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "fear",
+        "avoidance"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "memory"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like you\u2019re emotionally \u2018too much\u2019 or exhausting for others?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD"
+      ],
+      "emotion": [
+        "shame",
+        "self_criticism"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your body holds on to stress long after something is over?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "PMDD"
+      ],
+      "emotion": [
+        "tension",
+        "freeze_response"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes feel emotionally raw or exposed without knowing why?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD",
+        "Autism"
+      ],
+      "emotion": [
+        "vulnerability",
+        "overwhelm"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "metaphor"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you worry about losing control of your behavior when you're overwhelmed?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Bipolar II",
+        "ADHD"
+      ],
+      "emotion": [
+        "panic",
+        "dysregulation"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you often feel ashamed of how intensely you react to things?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "PMDD"
+      ],
+      "emotion": [
+        "shame",
+        "regret"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever harmed yourself in a way that wasn\u2019t visible to others \u2014 like not eating, isolating, or neglecting yourself?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "self_neglect",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

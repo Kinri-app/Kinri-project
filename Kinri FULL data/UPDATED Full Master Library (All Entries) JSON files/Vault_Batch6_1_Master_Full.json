@@ -1,0 +1,701 @@
+[
+  {
+    "card_id": "nutrition_30_nervous_system_meals_for_rebuilding_and_safety_001",
+    "card_type": "flashcard",
+    "question": "What\u2019s the goal of nervous system rebuilding meals?",
+    "answer": "To provide steady fuel, mineral support, anti-inflammatory nutrients, and emotional rhythm to stabilize and restore.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_30_nervous_system_meals_for_rebuilding_and_safety_002",
+    "card_type": "flashcard",
+    "question": "Why are simple meals effective for recovery?",
+    "answer": "They reduce digestive load, cognitive effort, and emotional noise\u2014creating space for calm and energy repair.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_30_nervous_system_meals_for_rebuilding_and_safety_003",
+    "card_type": "flashcard",
+    "question": "What helps rebuild food safety after shutdown?",
+    "answer": "Gentle consistency, warmth, flexible routines, and dropping food judgment during vulnerable periods.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_30_nervous_system_meals_for_rebuilding_and_safety_004",
+    "card_type": "flashcard",
+    "question": "What are examples of nervous system recovery foods?",
+    "answer": "Scrambled eggs, soup, broth, warm carbs, fatty fish, cooked greens, and herbal teas.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_30_nervous_system_meals_for_rebuilding_and_safety_005",
+    "card_type": "vault_card",
+    "headline": "Rebuild With Rhythm, Not Pressure",
+    "body": "When the system is low, it needs less friction. Feed it warmth. Feed it rhythm. Feed it care.",
+    "prompt": "What recovery food or habit could you return to this week\u2014without shame, just support?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_24_digestive_calm_nervous_system_reset_and_rituals_001",
+    "card_type": "flashcard",
+    "question": "Why is digestive calm essential for mental clarity?",
+    "answer": "Digestion and brain function are deeply linked\u2014bloating, blood sugar swings, or poor absorption impact mood and focus.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_24_digestive_calm_nervous_system_reset_and_rituals_002",
+    "card_type": "flashcard",
+    "question": "How do food rituals support emotional regulation?",
+    "answer": "Rituals create rhythm and presence\u2014signaling safety and reducing nervous system load during meals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_24_digestive_calm_nervous_system_reset_and_rituals_003",
+    "card_type": "flashcard",
+    "question": "What disrupts digestive calm?",
+    "answer": "Multitasking, screen use, stress, caffeine overload, poor chewing, or eating too fast.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_24_digestive_calm_nervous_system_reset_and_rituals_004",
+    "card_type": "flashcard",
+    "question": "What builds a nervous system reset into eating?",
+    "answer": "Gratitude, silence, slow pace, breath before bites, warm meals, and sitting in comfort.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_24_digestive_calm_nervous_system_reset_and_rituals_005",
+    "card_type": "vault_card",
+    "headline": "Your Nervous System Eats With You",
+    "body": "You can eat the best food, but if you eat it in stress, it won\u2019t land. Rituals soften digestion\u2014and your mind.",
+    "prompt": "What mealtime ritual could help bring safety, softness, or pause to your week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_25_nervous_system_restoration_through_simplicity_001",
+    "card_type": "flashcard",
+    "question": "Why is food simplicity powerful for healing?",
+    "answer": "Fewer ingredients and easier choices reduce decision fatigue, ease digestion, and support emotional safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_25_nervous_system_restoration_through_simplicity_002",
+    "card_type": "flashcard",
+    "question": "How can simple meals help regulate emotions?",
+    "answer": "They stabilize blood sugar and reduce overwhelm, allowing more energy to go toward mood balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_25_nervous_system_restoration_through_simplicity_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s one risk of complex food plans?",
+    "answer": "They often increase stress, guilt, and perfectionism\u2014leading to rebound eating or shame spirals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_25_nervous_system_restoration_through_simplicity_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to simplify your eating rhythm?",
+    "answer": "Repeat meals, prep basics, or rotate favorites\u2014structure helps regulate without requiring constant decisions.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_25_nervous_system_restoration_through_simplicity_005",
+    "card_type": "vault_card",
+    "headline": "Simple Food Is Nervous System Medicine",
+    "body": "You don\u2019t need a new diet\u2014you need less pressure. Simplify to heal. Rhythm, not rules.",
+    "prompt": "What meal, habit, or mindset could you simplify this week to help your system soften?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_26_self_trust_intuition_and_long_term_rhythm_001",
+    "card_type": "flashcard",
+    "question": "Why is self-trust essential in nutrition?",
+    "answer": "It helps you move beyond rules and trends\u2014eating becomes a relationship with your body, not a punishment system.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_26_self_trust_intuition_and_long_term_rhythm_002",
+    "card_type": "flashcard",
+    "question": "How can you rebuild intuitive eating after years of control?",
+    "answer": "Start slow. Use curiosity. Listen to hunger, fullness, energy, and emotion\u2014without judgment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_26_self_trust_intuition_and_long_term_rhythm_003",
+    "card_type": "flashcard",
+    "question": "What does long-term nutritional rhythm look like?",
+    "answer": "It\u2019s flexible, stable, enjoyable, and resilient\u2014meals and habits that hold you through stress, change, and growth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_26_self_trust_intuition_and_long_term_rhythm_004",
+    "card_type": "flashcard",
+    "question": "Why do nervous systems prefer rhythm over rules?",
+    "answer": "Rhythm provides safety, predictability, and flexibility\u2014rules create pressure, fear, and shame when broken.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_26_self_trust_intuition_and_long_term_rhythm_005",
+    "card_type": "vault_card",
+    "headline": "You Already Know More Than You Think",
+    "body": "Your body isn\u2019t confused\u2014it\u2019s been silenced. Intuition grows when you listen more than you correct.",
+    "prompt": "What signal or rhythm has your body been trying to give you lately\u2014and are you letting it lead?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_27_nervous_system_meals_for_overwhelm_and_reentry_001",
+    "card_type": "flashcard",
+    "question": "What is a re-entry meal?",
+    "answer": "A gentle, grounding meal used to reconnect with food after shutdown, stress, or emotional overload.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_27_nervous_system_meals_for_overwhelm_and_reentry_002",
+    "card_type": "flashcard",
+    "question": "Why is simplicity key during overwhelm?",
+    "answer": "The brain can\u2019t handle complexity when in survival mode\u2014simple meals reduce cognitive load and restore regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_27_nervous_system_meals_for_overwhelm_and_reentry_003",
+    "card_type": "flashcard",
+    "question": "What are examples of nervous system recovery meals?",
+    "answer": "Soup, soft-cooked veggies, scrambled eggs, bone broth, toast with fat or protein\u2014easy to digest and warming.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_27_nervous_system_meals_for_overwhelm_and_reentry_004",
+    "card_type": "flashcard",
+    "question": "How can meal rituals support nervous system safety?",
+    "answer": "Lighting a candle, using a warm bowl, or saying a grounding word before eating invites regulation and care.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_27_nervous_system_meals_for_overwhelm_and_reentry_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need the Perfect Meal\u2014You Need a Gentle One",
+    "body": "When you\u2019re dysregulated, don\u2019t plan\u2014pause. Pick one small meal that feels safe, soft, and stable.",
+    "prompt": "What\u2019s your nervous system asking for right now\u2014a warm bowl, a soft bite, or a pause before you eat?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_28_nervous_system_meals_for_stability_and_consistency_001",
+    "card_type": "flashcard",
+    "question": "Why is consistency more important than perfection in nervous system nutrition?",
+    "answer": "The nervous system thrives on predictability\u2014regular meals create safety, reduce anxiety, and build energy stability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_28_nervous_system_meals_for_stability_and_consistency_002",
+    "card_type": "flashcard",
+    "question": "What does a stabilizing food routine look like?",
+    "answer": "Three balanced meals daily, simple snacks if needed, hydration, and fewer skipped meals during emotional stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_28_nervous_system_meals_for_stability_and_consistency_003",
+    "card_type": "flashcard",
+    "question": "How can you build consistency if overwhelmed by planning?",
+    "answer": "Use meal templates (e.g., protein + fat + veg), rotate a few staples, and release pressure to be creative every day.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_28_nervous_system_meals_for_stability_and_consistency_004",
+    "card_type": "flashcard",
+    "question": "Why is predictability calming to the nervous system?",
+    "answer": "It signals safety and reduces the need to scan for threats\u2014fewer decisions mean more regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_28_nervous_system_meals_for_stability_and_consistency_005",
+    "card_type": "vault_card",
+    "headline": "Nourishment Is a Practice, Not a Performance",
+    "body": "You don\u2019t need perfect meals. You need repeatable ones. You need rhythm, not rules.",
+    "prompt": "What\u2019s one meal or habit you could repeat this week to reduce decision fatigue and build stability?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_29_food_as_safety_coregulation_emotional_anchoring_001",
+    "card_type": "flashcard",
+    "question": "How can food serve as emotional anchoring?",
+    "answer": "Consistent meals signal safety, reduce survival stress, and ground the nervous system in co-regulation with others or rituals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_29_food_as_safety_coregulation_emotional_anchoring_002",
+    "card_type": "flashcard",
+    "question": "What role does shared eating play in co-regulation?",
+    "answer": "Eating with others builds oxytocin, calms stress responses, and strengthens emotional bonds through mirrored rhythm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_29_food_as_safety_coregulation_emotional_anchoring_003",
+    "card_type": "flashcard",
+    "question": "How can food rituals rewire emotional patterns?",
+    "answer": "Rituals like warm bowls, gratitude, and slow pace shift meals from mindless habit to safe reconnection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_29_food_as_safety_coregulation_emotional_anchoring_004",
+    "card_type": "flashcard",
+    "question": "Why is emotional safety a missing link in many diets?",
+    "answer": "Most plans ignore the nervous system\u2014without safety, even the best food can trigger shame, fear, or resistance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_29_food_as_safety_coregulation_emotional_anchoring_005",
+    "card_type": "vault_card",
+    "headline": "Food Isn\u2019t Just Physical\u2014It\u2019s Emotional",
+    "body": "Meals regulate more than blood sugar\u2014they regulate belonging, memory, and safety. Eat like it matters. Because it does.",
+    "prompt": "What food ritual or rhythm helps you feel most anchored, seen, or safe\u2014and how could you return to it this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

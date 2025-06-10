@@ -1,0 +1,1336 @@
+[
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_001",
+    "card_type": "flashcard",
+    "question": "What foods support a healthy gut microbiome?",
+    "answer": "Fiber-rich fruits, vegetables, whole grains, legumes, fermented foods, and polyphenol-rich plants support microbial diversity and gut health.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_002",
+    "card_type": "flashcard",
+    "question": "Why is dietary fiber important for gut bacteria?",
+    "answer": "Fiber feeds beneficial microbes, which ferment it into short-chain fatty acids (SCFAs) that support immunity, reduce inflammation, and nourish gut cells.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_003",
+    "card_type": "flashcard",
+    "question": "What are examples of fermented foods?",
+    "answer": "Yogurt, kefir, sauerkraut, kimchi, miso, tempeh, and kombucha are common fermented foods rich in probiotics.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_004",
+    "card_type": "flashcard",
+    "question": "How do polyphenols affect the microbiome?",
+    "answer": "Polyphenols, found in colorful plants like berries, herbs, tea, and olive oil, act as antioxidants and fuel beneficial microbes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_005",
+    "card_type": "flashcard",
+    "question": "Why is diversity in plant intake important for the microbiome?",
+    "answer": "Eating a wide variety of plants supports different bacterial species, increasing resilience and microbiome diversity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_006",
+    "card_type": "flashcard",
+    "question": "What foods may harm the microbiome if eaten excessively?",
+    "answer": "Highly processed foods, added sugars, refined oils, artificial sweeteners, and preservatives may reduce beneficial bacteria and increase inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_007",
+    "card_type": "flashcard",
+    "question": "How do artificial sweeteners affect gut health?",
+    "answer": "Some artificial sweeteners may disrupt microbial balance and increase the risk of insulin resistance and gut dysregulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_008",
+    "card_type": "flashcard",
+    "question": "Can fasting or time-restricted eating benefit the gut?",
+    "answer": "Intermittent fasting may support microbial balance and gut lining repair by giving the digestive system time to rest.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_009",
+    "card_type": "flashcard",
+    "question": "What role does hydration play in gut health?",
+    "answer": "Adequate water supports digestion, nutrient transport, and helps fiber move through the intestines smoothly.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_009_food_for_gut_health_010",
+    "card_type": "flashcard",
+    "question": "What\u2019s one easy habit to improve gut health through diet?",
+    "answer": "Aim to eat 30+ different plants per week \u2014 including herbs, spices, fruits, vegetables, legumes, grains, seeds, and nuts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_001",
+    "card_type": "flashcard",
+    "question": "How does the microbiome support the immune system?",
+    "answer": "The microbiome trains immune cells, defends against pathogens, and regulates inflammation to maintain immune balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_002",
+    "card_type": "flashcard",
+    "question": "What is immune tolerance and how does the microbiome influence it?",
+    "answer": "Immune tolerance is the ability to avoid attacking harmless substances. A diverse microbiome helps the immune system learn what is safe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_003",
+    "card_type": "flashcard",
+    "question": "How does dysbiosis affect immunity?",
+    "answer": "An imbalanced microbiome can lead to chronic inflammation, increased infection risk, and a higher chance of autoimmune conditions.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_004",
+    "card_type": "flashcard",
+    "question": "What role do short-chain fatty acids (SCFAs) play in immunity?",
+    "answer": "SCFAs, produced by gut bacteria, reduce inflammation and help maintain the gut barrier \u2014 both essential for immune regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_005",
+    "card_type": "flashcard",
+    "question": "How does the microbiome prevent infections?",
+    "answer": "Healthy microbes compete with harmful pathogens for space and resources, producing antimicrobial compounds and blocking invaders.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_006",
+    "card_type": "flashcard",
+    "question": "Can antibiotics weaken the immune system?",
+    "answer": "Yes. Antibiotics disrupt beneficial microbes, which can reduce immune resilience and increase vulnerability to infections or allergies.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_007",
+    "card_type": "flashcard",
+    "question": "What is the gut-associated lymphoid tissue (GALT)?",
+    "answer": "GALT is immune tissue in the gut lining that works closely with the microbiome to monitor and respond to microbial signals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_008",
+    "card_type": "flashcard",
+    "question": "Why is early-life microbiome development important for immunity?",
+    "answer": "A healthy early microbiome helps train the immune system to respond appropriately, reducing future risk of allergies or autoimmunity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_009",
+    "card_type": "flashcard",
+    "question": "How does diet impact immune-microbiome interactions?",
+    "answer": "Fiber, polyphenols, and fermented foods feed microbes that support immune function, while processed foods can fuel inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_003_microbiome_and_immunity_010",
+    "card_type": "flashcard",
+    "question": "Can improving gut health strengthen immunity?",
+    "answer": "Yes. Enhancing microbial diversity through diet and lifestyle supports immune resilience and reduces chronic inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_001",
+    "card_type": "flashcard",
+    "question": "How is the microbiome linked to ADHD and autism?",
+    "answer": "Studies show differences in gut microbial composition in individuals with ADHD and autism, suggesting a possible role in behavior and brain development.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_002",
+    "card_type": "flashcard",
+    "question": "What symptoms in ADHD and autism may relate to gut health?",
+    "answer": "GI issues, inflammation, anxiety, emotional regulation, and sensory sensitivity are all areas potentially influenced by the gut microbiome.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_003",
+    "card_type": "flashcard",
+    "question": "What is the gut-brain-immune axis?",
+    "answer": "It\u2019s the three-way communication system between the gut, brain, and immune system \u2014 which plays a role in neurodevelopmental health.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_004",
+    "card_type": "flashcard",
+    "question": "What role does inflammation play in neurodivergent conditions?",
+    "answer": "Chronic inflammation from gut dysbiosis may affect brain function, stress response, and behavior in ADHD and autism.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_005",
+    "card_type": "flashcard",
+    "question": "How do antibiotics and birth method impact neurodivergent kids' microbiomes?",
+    "answer": "C-sections, formula feeding, and early antibiotic use may reduce microbial diversity \u2014 a possible contributor to neurodevelopmental shifts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_006",
+    "card_type": "flashcard",
+    "question": "Can probiotic treatments help ADHD or autism symptoms?",
+    "answer": "Some small studies show improvements in GI symptoms, behavior, and mood \u2014 but more research is needed before clear recommendations.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_007",
+    "card_type": "flashcard",
+    "question": "Why might individuals with autism have different gut bacteria?",
+    "answer": "Restricted diets, sensory sensitivities, and stress patterns may shape the gut ecosystem differently in autistic individuals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_008",
+    "card_type": "flashcard",
+    "question": "Is microbiome testing useful for ADHD or autism care?",
+    "answer": "Currently, microbiome tests are not diagnostic \u2014 but they may provide insights for personalized gut support strategies.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_009",
+    "card_type": "flashcard",
+    "question": "How does diet impact ADHD/autism through the microbiome?",
+    "answer": "Whole foods, fiber, and fermented foods can support mood, cognition, and inflammation via microbial pathways.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_004_microbiome_and_adhd_autism_010",
+    "card_type": "flashcard",
+    "question": "What is the future of microbiome research in neurodivergence?",
+    "answer": "Future therapies may include psychobiotics, precision probiotics, or diet-based plans targeting specific neurological pathways.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_001",
+    "card_type": "flashcard",
+    "question": "What is leaky gut?",
+    "answer": "Leaky gut, or increased intestinal permeability, occurs when the gut lining becomes damaged, allowing undigested food, toxins, and microbes to enter the bloodstream.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_002",
+    "card_type": "flashcard",
+    "question": "What causes the gut lining to become 'leaky'?",
+    "answer": "Stress, processed foods, infections, alcohol, medications (like NSAIDs), and dysbiosis can all weaken the gut lining.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_003",
+    "card_type": "flashcard",
+    "question": "What symptoms are associated with leaky gut?",
+    "answer": "Bloating, fatigue, food sensitivities, joint pain, brain fog, and skin issues are commonly linked to increased gut permeability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_004",
+    "card_type": "flashcard",
+    "question": "How does leaky gut relate to chronic inflammation?",
+    "answer": "When unwanted substances cross the gut barrier, the immune system responds \u2014 triggering widespread inflammation over time.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_005",
+    "card_type": "flashcard",
+    "question": "Can leaky gut contribute to autoimmune diseases?",
+    "answer": "Some theories suggest that leaky gut may trigger immune confusion, contributing to the onset or worsening of autoimmune conditions.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_006",
+    "card_type": "flashcard",
+    "question": "What role does zonulin play in leaky gut?",
+    "answer": "Zonulin is a protein that regulates tight junctions in the gut wall \u2014 when overexpressed, it increases permeability.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_007",
+    "card_type": "flashcard",
+    "question": "How is leaky gut diagnosed?",
+    "answer": "There's no gold-standard test, but some practitioners use lactulose/mannitol urine tests, zonulin levels, or symptom-based assessments.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_008",
+    "card_type": "flashcard",
+    "question": "What foods may worsen gut permeability?",
+    "answer": "Highly processed foods, refined sugar, gluten, alcohol, and artificial additives may increase permeability in sensitive individuals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_009",
+    "card_type": "flashcard",
+    "question": "How can you support healing a leaky gut?",
+    "answer": "Remove irritants, restore healthy microbes with prebiotics/probiotics, repair the lining with nutrients like glutamine and zinc, and rebalance lifestyle factors.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_005_leaky_gut_and_intestinal_permeability_010",
+    "card_type": "flashcard",
+    "question": "Is leaky gut recognized by conventional medicine?",
+    "answer": "While intestinal permeability is scientifically studied, 'leaky gut' as a diagnosis is more commonly used in integrative and functional medicine.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_001",
+    "card_type": "flashcard",
+    "question": "What are probiotics?",
+    "answer": "Probiotics are live beneficial bacteria that, when consumed in adequate amounts, can confer health benefits, especially to gut and immune function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_002",
+    "card_type": "flashcard",
+    "question": "What are prebiotics?",
+    "answer": "Prebiotics are types of fiber that feed beneficial gut bacteria, promoting their growth and improving microbiome balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_003",
+    "card_type": "flashcard",
+    "question": "What are postbiotics?",
+    "answer": "Postbiotics are the byproducts of microbial fermentation \u2014 including short-chain fatty acids (SCFAs) \u2014 that influence inflammation, immunity, and metabolism.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_004",
+    "card_type": "flashcard",
+    "question": "What foods are high in probiotics?",
+    "answer": "Fermented foods like yogurt, kefir, sauerkraut, kimchi, miso, and kombucha are natural sources of probiotics.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_005",
+    "card_type": "flashcard",
+    "question": "What foods are high in prebiotics?",
+    "answer": "Foods like garlic, onions, leeks, asparagus, bananas, oats, and Jerusalem artichokes contain prebiotic fibers.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_006",
+    "card_type": "flashcard",
+    "question": "How do probiotics support the immune system?",
+    "answer": "They help maintain a balanced microbiome, produce antimicrobial substances, and train immune cells to distinguish friend from foe.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_007",
+    "card_type": "flashcard",
+    "question": "Are all probiotics the same?",
+    "answer": "No. Different strains have different effects \u2014 for example, Lactobacillus may support digestion, while Bifidobacterium can reduce inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_008",
+    "card_type": "flashcard",
+    "question": "What are SCFAs and why are they important?",
+    "answer": "Short-chain fatty acids like butyrate, acetate, and propionate nourish gut cells, reduce inflammation, and support brain and immune function.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_009",
+    "card_type": "flashcard",
+    "question": "Can you take too many probiotics?",
+    "answer": "Excessive use may cause bloating or imbalance in some people, especially if the gut is already sensitive or inflamed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_006_pro_pre_postbiotics_010",
+    "card_type": "flashcard",
+    "question": "How do prebiotics and probiotics work together?",
+    "answer": "Prebiotics feed probiotics \u2014 together, they form a synergistic duo that supports microbial health and resilience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_001",
+    "card_type": "flashcard",
+    "question": "What is dysbiosis?",
+    "answer": "Dysbiosis is an imbalance in the gut microbiome, where harmful microbes outnumber or suppress beneficial ones.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_002",
+    "card_type": "flashcard",
+    "question": "What are common causes of dysbiosis?",
+    "answer": "Antibiotics, stress, poor diet, infections, environmental toxins, and low fiber intake can all contribute to dysbiosis.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_003",
+    "card_type": "flashcard",
+    "question": "What symptoms are associated with dysbiosis?",
+    "answer": "Bloating, gas, fatigue, food sensitivities, skin issues, anxiety, and brain fog can all be signs of microbial imbalance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_004",
+    "card_type": "flashcard",
+    "question": "How does dysbiosis drive inflammation?",
+    "answer": "Harmful bacteria can damage the gut lining and release endotoxins (like LPS), triggering immune responses and systemic inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_005",
+    "card_type": "flashcard",
+    "question": "What is LPS and why is it harmful?",
+    "answer": "LPS (lipopolysaccharide) is a toxin from gram-negative bacteria that, when leaked into the bloodstream, activates the immune system and promotes chronic inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_006",
+    "card_type": "flashcard",
+    "question": "Can dysbiosis affect mental health?",
+    "answer": "Yes. Dysbiosis has been linked to depression, anxiety, and cognitive changes via the gut-brain axis and inflammatory pathways.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_007",
+    "card_type": "flashcard",
+    "question": "How can diet help correct dysbiosis?",
+    "answer": "A fiber-rich, whole-food diet with fermented foods and minimal ultra-processed ingredients can support microbial balance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_008",
+    "card_type": "flashcard",
+    "question": "What role do probiotics play in correcting dysbiosis?",
+    "answer": "Probiotics can help reintroduce beneficial strains, crowd out pathogens, and restore microbial diversity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_009",
+    "card_type": "flashcard",
+    "question": "How does stress impact dysbiosis and inflammation?",
+    "answer": "Chronic stress alters gut motility, reduces protective bacteria, and increases inflammatory cytokines \u2014 all of which worsen dysbiosis.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_007_dysbiosis_and_inflammation_010",
+    "card_type": "flashcard",
+    "question": "Is inflammation from dysbiosis reversible?",
+    "answer": "Yes. With dietary changes, lifestyle support, and sometimes supplementation, the gut can often rebalance and reduce inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_001",
+    "card_type": "flashcard",
+    "question": "What is microbiome testing?",
+    "answer": "Microbiome testing analyzes a stool sample to identify and quantify the bacteria, fungi, and other microbes in your gut.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_002",
+    "card_type": "flashcard",
+    "question": "What can microbiome tests tell you?",
+    "answer": "They provide information on microbial diversity, presence of certain strains, potential overgrowths, and digestive markers like inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_003",
+    "card_type": "flashcard",
+    "question": "What are the limitations of current microbiome tests?",
+    "answer": "They often can't measure function or activity, may miss some species, and results can vary widely between labs and testing methods.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_004",
+    "card_type": "flashcard",
+    "question": "Are microbiome tests used for diagnosis?",
+    "answer": "No. Microbiome tests are not approved for diagnosing diseases and should be interpreted cautiously alongside symptoms and clinical context.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_005",
+    "card_type": "flashcard",
+    "question": "Can microbiome results change quickly?",
+    "answer": "Yes. The microbiome shifts with diet, sleep, stress, medication, and environment \u2014 so a test reflects a moment in time, not a fixed state.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_006",
+    "card_type": "flashcard",
+    "question": "How reliable are direct-to-consumer microbiome kits?",
+    "answer": "Some provide useful insights, but many lack validation, use proprietary scoring, or offer overly simplified interpretations.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_007",
+    "card_type": "flashcard",
+    "question": "What\u2019s more important than a test result?",
+    "answer": "Symptoms, habits, diet quality, and long-term patterns often offer better insight into gut health than one-time test data.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_008",
+    "card_type": "flashcard",
+    "question": "Can microbiome tests help personalize health plans?",
+    "answer": "They may guide probiotic or diet choices, but their use should be thoughtful and ideally overseen by a knowledgeable practitioner.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_009",
+    "card_type": "flashcard",
+    "question": "What should you watch out for in microbiome marketing?",
+    "answer": "Beware of bold claims, fear-based language, or selling expensive supplements based solely on test results.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_008_microbiome_testing_and_limitations_010",
+    "card_type": "flashcard",
+    "question": "Is microbiome testing a growing field?",
+    "answer": "Yes. It's rapidly evolving, and future tests may provide deeper, more accurate insights into gut function and health.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

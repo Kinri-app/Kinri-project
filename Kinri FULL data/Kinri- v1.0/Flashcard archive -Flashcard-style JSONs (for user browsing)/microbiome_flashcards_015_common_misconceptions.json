@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Is more bacteria always better?",
+    "answer": "Not necessarily. Balance and diversity matter more than quantity \u2014 overgrowths of even 'good' bacteria can cause problems.",
+    "tags": [
+      "diversity",
+      "balance",
+      "misconceptions"
+    ]
+  },
+  {
+    "question": "Can probiotics fix all gut issues?",
+    "answer": "No. While helpful, probiotics are not a cure-all and should be part of a broader gut-healing strategy that includes diet and lifestyle.",
+    "tags": [
+      "probiotics",
+      "limitations",
+      "gut health"
+    ]
+  },
+  {
+    "question": "Are all probiotic supplements the same?",
+    "answer": "No. Different strains have different functions, and quality, formulation, and delivery method all influence effectiveness.",
+    "tags": [
+      "strain specificity",
+      "probiotic quality",
+      "supplements"
+    ]
+  },
+  {
+    "question": "Is leaky gut a made-up condition?",
+    "answer": "Increased intestinal permeability is recognized in science, though 'leaky gut' as a term is more common in integrative medicine.",
+    "tags": [
+      "leaky gut",
+      "controversy",
+      "permeability"
+    ]
+  },
+  {
+    "question": "Do antibiotics only kill bad bacteria?",
+    "answer": "No. Antibiotics also kill beneficial microbes and can reduce gut diversity, leading to dysbiosis.",
+    "tags": [
+      "antibiotics",
+      "broad-spectrum",
+      "dysbiosis"
+    ]
+  },
+  {
+    "question": "Can one microbiome test give you a complete health picture?",
+    "answer": "No. Microbiome tests provide a snapshot and should be interpreted cautiously alongside symptoms and other data.",
+    "tags": [
+      "testing limits",
+      "context",
+      "data interpretation"
+    ]
+  },
+  {
+    "question": "Is a cleanse or detox necessary for gut health?",
+    "answer": "No. The body already has detox systems. Harsh cleanses may disrupt the microbiome more than help it.",
+    "tags": [
+      "detox",
+      "cleansing myths",
+      "natural balance"
+    ]
+  },
+  {
+    "question": "Does everyone need probiotics?",
+    "answer": "Not always. If your gut is balanced and diet is diverse, you may not need supplements \u2014 and some people react poorly to them.",
+    "tags": [
+      "individual needs",
+      "supplement strategy",
+      "gut health"
+    ]
+  },
+  {
+    "question": "Are fermented foods the same as probiotics?",
+    "answer": "Not exactly. Fermented foods may contain live microbes, but not all qualify as probiotics unless proven to confer health benefits.",
+    "tags": [
+      "fermented foods",
+      "definitions",
+      "benefits"
+    ]
+  },
+  {
+    "question": "Is gut health only about digestion?",
+    "answer": "No. The microbiome influences immunity, brain function, metabolism, mood, and inflammation \u2014 far beyond just digestion.",
+    "tags": [
+      "gut-brain",
+      "immunity",
+      "whole-body health"
+    ]
+  }
+]

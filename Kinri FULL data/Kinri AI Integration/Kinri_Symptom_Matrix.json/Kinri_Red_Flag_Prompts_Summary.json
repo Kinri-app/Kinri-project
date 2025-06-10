@@ -1,0 +1,240 @@
+[
+  {
+    "prompt": "Have you ever felt so low you wished you could disappear?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "hopelessness",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever had thoughts that scared you \u2014 even though you didn\u2019t act on them?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "OCD",
+        "PTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "distress",
+        "shame"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever seriously thought about ending your life?",
+    "tier": 1,
+    "tags": {
+      "condition": [
+        "Depression",
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "hopelessness",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever self-harmed, or felt the urge to, as a way to manage overwhelming emotion?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "self_harm_urge",
+        "emotional_pain"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever harmed yourself in a way that wasn\u2019t visible to others \u2014 like not eating, isolating, or neglecting yourself?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD",
+        "BPD"
+      ],
+      "emotion": [
+        "self_neglect",
+        "despair"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever shut down or gone mute during conflict \u2014 not by choice, but because your body just stopped responding?",
+    "tier": 2,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Autism",
+        "PMDD"
+      ],
+      "emotion": [
+        "shutdown",
+        "freeze"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Do you sometimes hurt yourself emotionally just to feel something real?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "pain_seeking",
+        "disconnection"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever felt like your mind was trying to disappear you \u2014 quietly, not dramatically?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "suicidal_ideation",
+        "emotional_erasure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Do you feel like your thoughts sometimes sabotage your safety or recovery?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "OCD",
+        "Depression",
+        "BPD"
+      ],
+      "emotion": [
+        "intrusive_thoughts",
+        "fear_of_self"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "memory"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever wondered if your pain has become your home?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression"
+      ],
+      "emotion": [
+        "pain_identity",
+        "hopelessness"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Have you ever wanted to disappear \u2014 not dramatically, but gently, as if you\u2019d never existed?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "suicidal_ideation",
+        "erasure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you feel like you're constantly adapting to survive — not to thrive?,"Like you’re always adjusting, managing, dodging — but never just *being*?",Tier 2,"{'CPTSD': 1.0, 'Autism': 0.5, 'Depression': 0.5}"
+"Do you often forget conversations, tasks, or ideas unless you write them down immediately?",Like your brain leaks information if you don’t capture it instantly?,Tier 1,"{'ADHD': 1.0, 'Depression': 0.5}"
+Do you get overwhelmed by choices — even small ones like what to eat or wear?,Like even little decisions carry too much weight sometimes?,Tier 2,"{'OCD': 1.0, 'GAD': 0.5, 'Autism': 0.5}"
+Do you sometimes feel like your emotions are contagious — affecting everyone around you?,"Like your internal storm leaks into the room, even when you try to contain it?",Tier 1,"{'BPD': 1.0, 'PMDD': 0.5}"
+Do you feel anxious when people don’t reply quickly — even if there’s no reason to worry?,Like silence in a chat feels louder than it should?,Tier 2,"{'GAD': 1.0, 'BPD': 0.5}"
+Do you sometimes feel a deep urge to isolate — even when part of you wants connection?,"Like the idea of people feels heavy, even if you’re craving comfort?",Tier 2,"{'Depression': 1.0, 'CPTSD': 0.5}"
+Do you forget what you're doing mid-task — even if you were just focused a second ago?,Like your attention vaporizes in real time?,Tier 1,"{'ADHD': 1.0, 'CPTSD': 0.5}"
+Do you ever feel like your body is bracing for impact — even in safe situations?,Like you’re waiting for something bad with no clear reason?,Tier 1,"{'CPTSD': 1.0, 'PTSD': 0.5, 'GAD': 0.5}"
+"Do you need routines, rituals, or habits to feel grounded?","Like repetition soothes you, and disruption rattles you?",Tier 1,"{'Autism': 1.0, 'OCD': 0.5}"
+Do you feel like your brain is always buzzing — even when your body is exhausted?,Like you're mentally overstimulated while physically wiped?,Tier 2,"{'ADHD': 1.0, 'PMDD': 0.5}"

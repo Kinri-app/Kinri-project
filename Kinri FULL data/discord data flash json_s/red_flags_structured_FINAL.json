@@ -1,0 +1,85 @@
+[
+  {
+    "question": "What\u2019s one major communication red flag in relationships?",
+    "answer": "Stonewalling\u2014refusing to discuss difficult topics or shutting down emotionally during conflict.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "stonewalling",
+        "avoidance"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_317_red_flags"
+  },
+  {
+    "question": "Why is defensiveness harmful?",
+    "answer": "It prevents accountability and often escalates conflict by invalidating the other person\u2019s experience.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "defensiveness",
+        "accountability",
+        "conflict"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_318_red_flags"
+  },
+  {
+    "question": "How can keeping score damage a relationship?",
+    "answer": "It turns love into a competition instead of collaboration, breeding resentment.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "competition",
+        "resentment",
+        "relational mindset"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_319_red_flags"
+  },
+  {
+    "question": "What are signs of unrealistic expectations?",
+    "answer": "Expecting your partner to read your mind or meet all your emotional needs perfectly.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "expectations",
+        "perfectionism",
+        "miscommunication"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_320_red_flags"
+  },
+  {
+    "headline": "Red Flags Are Yellow If Caught Early",
+    "body": "Most issues don\u2019t start big\u2014they build. Spotting and softening patterns early can save a great love.",
+    "prompt": "What recurring dynamic might need attention before it becomes resentment?",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [
+        "relationship repair",
+        "awareness"
+      ],
+      "usage_mode": [
+        "communication"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "communication_flashcards_321_red_flags"
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_001",
+    "card_type": "flashcard",
+    "question": "What are parenting triggers?",
+    "answer": "Moments where your child\u2019s behavior activates an unresolved wound, fear, or unmet need from your own past.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_002",
+    "card_type": "flashcard",
+    "question": "Why is nervous system awareness essential in parenting?",
+    "answer": "Your reactions are shaped by your state\u2014knowing when you\u2019re dysregulated helps you respond with intention, not reenactment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_003",
+    "card_type": "flashcard",
+    "question": "How do you calm a parenting trigger in real time?",
+    "answer": "Pause. Ground. Breathe. Step away if needed. Say 'this is about me, not them.' Return regulated.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_004",
+    "card_type": "flashcard",
+    "question": "What does long-term trigger healing look like?",
+    "answer": "Identifying patterns, doing inner work, building regulation tools, and learning to parent from values, not wounds.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "family_and_parenting_4_parenting_triggers_and_nervous_system_awareness_005",
+    "card_type": "vault_card",
+    "headline": "Your Child Isn\u2019t Causing It\u2014They\u2019re Revealing It",
+    "body": "Your trigger is a teacher. You\u2019re not failing when you react\u2014you\u2019re being invited to repair what\u2019s still tender.",
+    "prompt": "What recurring parenting moment might be about your nervous system\u2014not your child\u2019s behavior?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_001",
+    "card_type": "flashcard",
+    "question": "Why is routine important in the classroom?",
+    "answer": "Routines create predictability, reduce anxiety, and help students feel safe enough to focus and learn.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_002",
+    "card_type": "flashcard",
+    "question": "How does rhythm differ from routine?",
+    "answer": "Rhythm is the felt sense of timing and flow \u2014 when transitions are smooth and energy is regulated.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_003",
+    "card_type": "flashcard",
+    "question": "Why is flexibility important alongside routine?",
+    "answer": "Too much rigidity can cause stress. Flexibility allows for adjustments based on students' needs and nervous system states.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to build rhythm into a classroom?",
+    "answer": "Use consistent cues (music, lighting, voice) for transitions and embed calming rituals into the day.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_005",
+    "card_type": "flashcard",
+    "question": "How can routine support emotional regulation?",
+    "answer": "Predictable structure reduces unpredictability \u2014 helping students stay grounded and reduce emotional spikes.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_006",
+    "card_type": "flashcard",
+    "question": "What is a \u2018transition anchor\u2019 in classroom rhythm?",
+    "answer": "A consistent activity or sensory cue that signals a shift (like breathwork before lessons or a stretch before writing).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_007",
+    "card_type": "flashcard",
+    "question": "How does executive dysfunction impact routine?",
+    "answer": "Students with ADHD or trauma may forget steps, freeze, or get overwhelmed \u2014 needing support, not punishment.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_008",
+    "card_type": "flashcard",
+    "question": "How do routines reduce cognitive load?",
+    "answer": "They automate low-level decisions, freeing up brainpower for focus, creativity, and emotional resilience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_009",
+    "card_type": "flashcard",
+    "question": "What is a flexible routine?",
+    "answer": "A structure that stays steady but allows for variations in timing, pace, or content based on daily needs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_005_routine_rhythm_and_flexibility_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps balance rhythm and flexibility?",
+    "answer": "\u201cWe follow a rhythm, not a script \u2014 it\u2019s about flow, not perfection.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_001",
+    "card_type": "flashcard",
+    "question": "What is safe authority in the classroom?",
+    "answer": "It\u2019s leadership grounded in emotional presence, regulation, and consistency \u2014 not fear or domination.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_002",
+    "card_type": "flashcard",
+    "question": "Why is trust essential in learning environments?",
+    "answer": "Trust calms the nervous system, increases risk-taking for learning, and creates a sense of belonging.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_003",
+    "card_type": "flashcard",
+    "question": "How does unpredictable authority harm students?",
+    "answer": "It creates fear, confusion, and hypervigilance \u2014 especially for trauma-affected or neurodivergent learners.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_004",
+    "card_type": "flashcard",
+    "question": "What builds trust between teacher and student?",
+    "answer": "Consistency, fairness, accountability, non-reactive tone, and honest repair when ruptures happen.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_005",
+    "card_type": "flashcard",
+    "question": "Why is modeling regulation more powerful than enforcing rules?",
+    "answer": "Students learn more from how we respond under pressure than what we say about behavior.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_006",
+    "card_type": "flashcard",
+    "question": "How can teachers hold firm boundaries without harming trust?",
+    "answer": "By delivering limits with kindness, clarity, and without shame \u2014 using 'firm and warm' energy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_007",
+    "card_type": "flashcard",
+    "question": "What is rupture and repair in authority?",
+    "answer": "Rupture is when trust breaks (a misunderstanding, reaction, etc.). Repair is the act of owning impact and rebuilding safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_008",
+    "card_type": "flashcard",
+    "question": "What\u2019s one sign a student feels safe with authority?",
+    "answer": "They make mistakes, ask questions, or show emotions without fear of punishment or humiliation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_009",
+    "card_type": "flashcard",
+    "question": "How do tone and body language reflect safe authority?",
+    "answer": "A calm voice, open posture, and steady pace tell students you\u2019re safe, regulated, and reliable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "effective_teacher_flashcards_009_building_safe_authority_and_trust_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps teachers lead with safe authority?",
+    "answer": "\u201cPower is how I protect, not how I control. I lead through regulation, not intimidation.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_001",
+    "card_type": "flashcard",
+    "question": "What is task initiation in the context of ADHD?",
+    "answer": "It\u2019s the ability to start a task \u2014 often blocked in ADHD by executive dysfunction, low dopamine, or overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_002",
+    "card_type": "flashcard",
+    "question": "Why is starting often harder than doing?",
+    "answer": "Once started, momentum kicks in \u2014 but the ADHD brain struggles with activation energy to transition into the task.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_003",
+    "card_type": "flashcard",
+    "question": "What is 'task paralysis'?",
+    "answer": "It\u2019s the frozen feeling of knowing what to do but being unable to begin \u2014 often worsened by shame or pressure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_004",
+    "card_type": "flashcard",
+    "question": "How does emotional dysregulation affect task initiation?",
+    "answer": "Stress, fear of failure, or boredom can block initiation \u2014 the brain avoids discomfort before it even starts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_005",
+    "card_type": "flashcard",
+    "question": "What helps reduce the pressure of starting?",
+    "answer": "Lower the entry point \u2014 start with 30 seconds, a micro-task, or tell yourself you can stop after one step.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_006",
+    "card_type": "flashcard",
+    "question": "What\u2019s the 5-minute rule for ADHD tasks?",
+    "answer": "Commit to just five minutes \u2014 often the hardest part is starting, not continuing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_007",
+    "card_type": "flashcard",
+    "question": "How does body-based movement support initiation?",
+    "answer": "Movement like pacing, bouncing, or stretching can help 'unstick' the nervous system and create a launchpad.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_008",
+    "card_type": "flashcard",
+    "question": "Why can prep tasks feel harder than the task itself?",
+    "answer": "Executive dysfunction makes multi-step prep overwhelming \u2014 the brain sees it as more effort than it is.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_009",
+    "card_type": "flashcard",
+    "question": "What tool helps externalize the task?",
+    "answer": "Visual lists, sticky notes, voice memos, or task cards reduce internal load and make action more visible.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_005_adhd_and_task_initiation_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports healthy task initiation?",
+    "answer": "\u201cStarting is the goal. Progress builds from there. I don\u2019t need to do it all right now.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_001",
+    "card_type": "flashcard",
+    "question": "What is sensory feedback in the context of movement?",
+    "answer": "It\u2019s the internal and external sensations your body receives during movement \u2014 like pressure, rhythm, balance, or texture.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_002",
+    "card_type": "flashcard",
+    "question": "Why is sensory feedback important for regulation?",
+    "answer": "It anchors attention in the body, supports nervous system grounding, and improves awareness of internal cues.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_003",
+    "card_type": "flashcard",
+    "question": "What types of exercise offer strong sensory input?",
+    "answer": "Weightlifting, yoga, climbing, swimming, martial arts, or dancing \u2014 especially those with rhythm or resistance.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_004",
+    "card_type": "flashcard",
+    "question": "How does proprioception relate to emotional safety?",
+    "answer": "Proprioception \u2014 knowing where your body is in space \u2014 creates embodied presence, helping reduce anxiety and dissociation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_005",
+    "card_type": "flashcard",
+    "question": "What movement helps reconnect with the body after shutdown?",
+    "answer": "Slow stretching, rocking, or tapping can gently restore awareness and reduce numbness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_006",
+    "card_type": "flashcard",
+    "question": "How does movement help with overstimulation?",
+    "answer": "Rhythmic, repetitive motion can organize sensory input and bring coherence to scattered nervous system signals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_007",
+    "card_type": "flashcard",
+    "question": "What is vestibular input and how is it stimulated?",
+    "answer": "Vestibular input involves balance and spatial orientation \u2014 it\u2019s activated by spinning, swinging, or certain stretches.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_008",
+    "card_type": "flashcard",
+    "question": "Why is deep pressure movement calming?",
+    "answer": "It stimulates the parasympathetic system \u2014 helping reduce cortisol, slow the heart rate, and induce calm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_009",
+    "card_type": "flashcard",
+    "question": "Can exercise improve sensory integration?",
+    "answer": "Yes. Consistent movement enhances your brain\u2019s ability to organize and respond to internal and external input.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "exercise_routine_flashcards_009_sensory_feedback_through_exercise_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports sensory-based movement?",
+    "answer": "\u201cI move to feel. The goal isn\u2019t performance \u2014 it\u2019s reconnection.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What are common nutrient deficiencies linked to mood disorders?",
+    "answer": "Magnesium, vitamin D, B12, zinc, omega-3s, and iron are frequently low in anxiety, depression, and fatigue cases.",
+    "tags": [
+      "deficiencies",
+      "mood",
+      "mental health"
+    ]
+  },
+  {
+    "question": "Why does magnesium matter for stress?",
+    "answer": "It calms the nervous system, regulates cortisol, supports sleep, and stabilizes mood.",
+    "tags": [
+      "magnesium",
+      "stress",
+      "sleep"
+    ]
+  },
+  {
+    "question": "How can you test for hidden deficiencies?",
+    "answer": "Use blood work, symptoms logs, and elimination trials to uncover what nutrients may be low or poorly absorbed.",
+    "tags": [
+      "testing",
+      "biofeedback",
+      "supplement strategy"
+    ]
+  },
+  {
+    "question": "What is the role of B12 in cognition?",
+    "answer": "It supports memory, focus, energy production, and nerve health\u2014deficiency can mimic anxiety or depression.",
+    "tags": [
+      "B12",
+      "focus",
+      "nervous system"
+    ]
+  },
+  {
+    "headline": "You Can\u2019t Think Clearly Without the Right Fuel",
+    "body": "Mood and memory need minerals. If your brain feels dim or unstable\u2014check what it\u2019s running on.",
+    "prompt": "What nutrient have you been meaning to check or add back in\u2014and could this week be the time?",
+    "tags": [
+      "nutrition",
+      "supplementation",
+      "emotional health"
+    ]
+  }
+]

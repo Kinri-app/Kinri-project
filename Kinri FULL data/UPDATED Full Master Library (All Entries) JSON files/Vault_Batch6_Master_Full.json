@@ -1,0 +1,1473 @@
+[
+  {
+    "card_id": "nutrition_23_nervous_system_fueling_and_emotional_resilience_001",
+    "card_type": "flashcard",
+    "question": "What foods fuel emotional resilience?",
+    "answer": "Magnesium-rich greens, omega-3s, protein, slow carbs, fermented foods, and trace minerals support steady emotion regulation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_23_nervous_system_fueling_and_emotional_resilience_002",
+    "card_type": "flashcard",
+    "question": "How does stable blood sugar affect mental health?",
+    "answer": "It reduces mood swings, panic responses, and brain fog\u2014supporting calm, clarity, and safer reactivity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_23_nervous_system_fueling_and_emotional_resilience_003",
+    "card_type": "flashcard",
+    "question": "Why is consistency more important than perfection in nutrition?",
+    "answer": "The nervous system responds to rhythm. Predictability soothes, while perfectionism backfires into stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_23_nervous_system_fueling_and_emotional_resilience_004",
+    "card_type": "flashcard",
+    "question": "How does hydration support emotional balance?",
+    "answer": "Even mild dehydration increases anxiety and fatigue\u2014hydration keeps neurotransmitter balance and energy flow smooth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_23_nervous_system_fueling_and_emotional_resilience_005",
+    "card_type": "vault_card",
+    "headline": "Fuel for Calm Is Fuel for Everything",
+    "body": "Your resilience starts at the table. Nourish with rhythm, softness, and care\u2014and your emotions will follow.",
+    "prompt": "What\u2019s one nutrient, meal, or rhythm you could return to this week\u2014not to fix yourself, but to fuel resilience?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_001",
+    "card_type": "flashcard",
+    "question": "What is a meltdown?",
+    "answer": "A meltdown is an intense release of emotional or sensory overload \u2014 often beyond conscious control.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_002",
+    "card_type": "flashcard",
+    "question": "What causes shutdowns?",
+    "answer": "Shutdowns happen when the nervous system becomes too overwhelmed to engage \u2014 leading to silence, dissociation, or withdrawal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_003",
+    "card_type": "flashcard",
+    "question": "What is splitting in BPD?",
+    "answer": "Splitting is a defense mechanism where someone sees people or situations as all-good or all-bad \u2014 often flipping rapidly under stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_004",
+    "card_type": "flashcard",
+    "question": "How does sensory input relate to meltdowns?",
+    "answer": "Too much sensory input (light, sound, texture) can overwhelm the brain and push someone into a meltdown or shutdown.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm",
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_005",
+    "card_type": "flashcard",
+    "question": "Why are these behaviors often misunderstood?",
+    "answer": "They can look like defiance, rudeness, or manipulation \u2014 when they\u2019re actually signs of nervous system distress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_006",
+    "card_type": "flashcard",
+    "question": "What\u2019s a supportive response to a meltdown?",
+    "answer": "Create space, reduce input, speak calmly, offer grounding tools \u2014 and avoid demands or correction.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_007",
+    "card_type": "flashcard",
+    "question": "What helps prevent shutdowns?",
+    "answer": "Early regulation, pacing, sensory breaks, reducing emotional demands, and checking in before capacity is reached.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_008",
+    "card_type": "flashcard",
+    "question": "How does shame interact with meltdowns or splitting?",
+    "answer": "Afterward, shame may create self-loathing, withdrawal, or apology spirals \u2014 making recovery even harder.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_009",
+    "card_type": "flashcard",
+    "question": "Can you communicate during shutdown or meltdown?",
+    "answer": "Not usually. It\u2019s often better to wait for regulation, then repair and reflect with support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_006_meltdowns_splitting_and_shutdowns_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps understand these experiences?",
+    "answer": "\u201cThis is a nervous system response \u2014 not a failure. I can learn to respond with care, not punishment.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_001",
+    "card_type": "flashcard",
+    "question": "What is rejection sensitivity?",
+    "answer": "It\u2019s an intense emotional reaction to perceived or actual rejection \u2014 often triggering shame, anxiety, or withdrawal.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_002",
+    "card_type": "flashcard",
+    "question": "Why is rejection sensitivity common in BPD and autism?",
+    "answer": "Both can involve trauma, emotional invalidation, or repeated social misunderstanding \u2014 wiring the brain to anticipate rejection.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_003",
+    "card_type": "flashcard",
+    "question": "What is a shame loop?",
+    "answer": "It\u2019s the cycle of making a mistake \u2192 feeling shame \u2192 withdrawing or lashing out \u2192 reinforcing negative beliefs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_004",
+    "card_type": "flashcard",
+    "question": "How does masking increase rejection sensitivity?",
+    "answer": "If people only accept the masked version of you, it reinforces the fear that your true self is unlovable.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_005",
+    "card_type": "flashcard",
+    "question": "How can RSD affect communication?",
+    "answer": "It can make feedback feel like attack, cause overexplaining, emotional spirals, or people-pleasing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_006",
+    "card_type": "flashcard",
+    "question": "What helps interrupt a shame spiral?",
+    "answer": "Grounding, naming the emotion, using a validating phrase, or connecting with someone who reminds you of your worth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_007",
+    "card_type": "flashcard",
+    "question": "What does emotional fawning look like in a shame loop?",
+    "answer": "Over-apologizing, abandoning boundaries, or shifting behavior to avoid rejection \u2014 often without realizing it.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_008",
+    "card_type": "flashcard",
+    "question": "Why do shame loops block recovery?",
+    "answer": "They prevent curiosity or repair by making you feel broken, bad, or unworthy of support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_009",
+    "card_type": "flashcard",
+    "question": "How can someone respond to rejection without spiraling?",
+    "answer": "Use scripts like \u201cThis hurts, but it\u2019s not a reflection of my worth,\u201d and give space for nervous system reset.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_007_rejection_sensitivity_and_shame_loops_010",
+    "card_type": "flashcard",
+    "question": "What mindset helps escape shame loops?",
+    "answer": "\u201cI can be wrong and still be worthy. My reaction is valid \u2014 but not the whole story.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_001",
+    "card_type": "flashcard",
+    "question": "How are executive function and emotional memory connected?",
+    "answer": "Executive function supports memory retrieval, decision-making, and emotional regulation \u2014 disruptions affect how we access and store emotion-linked experiences.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_002",
+    "card_type": "flashcard",
+    "question": "What is emotional memory?",
+    "answer": "It\u2019s how the body and brain remember the *feeling* of an experience \u2014 not just the facts.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_003",
+    "card_type": "flashcard",
+    "question": "How does BPD affect emotional memory?",
+    "answer": "Emotions feel permanent \u2014 the brain struggles to recall neutral or positive states when in distress, reinforcing hopelessness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_004",
+    "card_type": "flashcard",
+    "question": "How does autism affect memory and emotion integration?",
+    "answer": "Autistic memory may store facts well but struggle with emotional context \u2014 leading to delayed processing or overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_005",
+    "card_type": "flashcard",
+    "question": "What is 'state-dependent memory'?",
+    "answer": "It means we recall memories that match our current emotional state \u2014 making it harder to remember safety when upset.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_006",
+    "card_type": "flashcard",
+    "question": "How does executive dysfunction distort memory?",
+    "answer": "It affects sequencing, recall under pressure, and organizing memories \u2014 leading to confusion or gaps.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_007",
+    "card_type": "flashcard",
+    "question": "What\u2019s the impact of shame on memory recall?",
+    "answer": "Shame clouds memory \u2014 making you question whether you remember right, or suppress memories altogether.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_008",
+    "card_type": "flashcard",
+    "question": "What helps reconnect with emotional memory safely?",
+    "answer": "Grounding, narrative work, body awareness, and gentle exploration with trusted support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_009",
+    "card_type": "flashcard",
+    "question": "How do memory struggles impact self-trust?",
+    "answer": "Forgetting or misrecalling makes you feel unreliable or \u2018crazy\u2019 \u2014 especially when others challenge your truth.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_008_executive_function_and_emotional_memory_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports executive + emotional memory healing?",
+    "answer": "\u201cIf I can\u2019t access it now, it doesn\u2019t mean it\u2019s gone. My story is valid \u2014 even if it takes time to return.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_001",
+    "card_type": "flashcard",
+    "question": "Why are BPD and autism frequently misdiagnosed?",
+    "answer": "Symptoms can overlap \u2014 like shutdowns, emotional intensity, or relationship struggles \u2014 but are interpreted through biased or incomplete lenses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_002",
+    "card_type": "flashcard",
+    "question": "What role does trauma play in misdiagnosis?",
+    "answer": "Trauma can mimic or mask neurodivergent traits \u2014 or be mistaken for personality disorders instead of a nervous system wound.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_003",
+    "card_type": "flashcard",
+    "question": "How does gender bias affect diagnosis?",
+    "answer": "AFAB individuals are more likely to be misdiagnosed or underdiagnosed due to masking and biased diagnostic models.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_004",
+    "card_type": "flashcard",
+    "question": "What is diagnostic overshadowing?",
+    "answer": "It\u2019s when one diagnosis (like autism) causes providers to miss or dismiss co-occurring issues (like trauma or BPD).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_005",
+    "card_type": "flashcard",
+    "question": "How does stigma impact mental health care?",
+    "answer": "Stigma creates fear of seeking help, invalidation during care, and a belief that your traits make you 'difficult' or broken.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_006",
+    "card_type": "flashcard",
+    "question": "Why is BPD particularly stigmatized?",
+    "answer": "Its emotional reactivity and relationship intensity are often seen as manipulative \u2014 instead of as trauma responses.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_007",
+    "card_type": "flashcard",
+    "question": "What helps distinguish BPD from autism?",
+    "answer": "BPD is often reactive to interpersonal rejection; autism often stems from sensory/environmental overwhelm and communication mismatch.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_008",
+    "card_type": "flashcard",
+    "question": "How can practitioners reduce harm in diagnosis?",
+    "answer": "Validate lived experience, assess trauma history, explore masking patterns, and avoid deficit-based framing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s the harm of misdiagnosis?",
+    "answer": "Wrong treatment plans, deepened shame, unmet needs, and years of emotional distress without proper support.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_009_trauma_stigma_and_misdiagnosis_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports healing from misdiagnosis?",
+    "answer": "\u201cMy truth matters more than a label. I\u2019m allowed to rewrite the story based on what I now understand.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_001",
+    "card_type": "flashcard",
+    "question": "What does recovery mean for BPD or autism?",
+    "answer": "Recovery means building regulation, self-trust, safe identity, and tools \u2014 not removing traits or becoming 'normal'.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_002",
+    "card_type": "flashcard",
+    "question": "What kinds of tools support emotional regulation?",
+    "answer": "Breathwork, co-regulation, sensory grounding, scripting, movement, and nervous system mapping.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_003",
+    "card_type": "flashcard",
+    "question": "What is DBT and why is it helpful for BPD?",
+    "answer": "Dialectical Behavior Therapy helps build skills for emotion regulation, distress tolerance, mindfulness, and interpersonal safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_004",
+    "card_type": "flashcard",
+    "question": "What is a common autistic support model?",
+    "answer": "The double empathy model \u2014 focusing on mutual understanding and communication support, not 'fixing' social skills.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_005",
+    "card_type": "flashcard",
+    "question": "What does trauma-informed support mean?",
+    "answer": "It centers safety, choice, regulation, and validation \u2014 avoiding power struggles and re-triggering.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_006",
+    "card_type": "flashcard",
+    "question": "Why is sensory support part of mental health care?",
+    "answer": "Sensory regulation calms the nervous system \u2014 making it easier to think, feel, and connect safely.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_007",
+    "card_type": "flashcard",
+    "question": "What is self-validation?",
+    "answer": "It\u2019s the practice of affirming your own emotions and needs \u2014 even when they aren\u2019t understood by others.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_008",
+    "card_type": "flashcard",
+    "question": "How can peer support help recovery?",
+    "answer": "Talking with others who share your neurotype or diagnosis builds community, hope, and mutual safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_009",
+    "card_type": "flashcard",
+    "question": "What\u2019s a flexible support structure?",
+    "answer": "A rhythm of care \u2014 not a rigid routine. Checklists, weekly check-ins, or emotional energy maps that adapt.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "mental_health_flashcards_010_tools_recovery_and_support_models_010",
+    "card_type": "flashcard",
+    "question": "What mindset supports sustainable healing?",
+    "answer": "\u201cI\u2019m not healing to become someone else \u2014 I\u2019m healing to come home to myself.\u201d",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_001",
+    "card_type": "flashcard",
+    "question": "What is the microbiome?",
+    "answer": "The microbiome refers to the trillions of microorganisms \u2014 including bacteria, viruses, fungi, and more \u2014 that live in and on the human body, especially the gut.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_002",
+    "card_type": "flashcard",
+    "question": "Where is the microbiome located in the body?",
+    "answer": "While microbes live throughout the body (skin, mouth, lungs), the largest and most diverse population is in the gastrointestinal tract, particularly the colon.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_003",
+    "card_type": "flashcard",
+    "question": "What is the difference between 'microbiota' and 'microbiome'?",
+    "answer": "'Microbiota' refers to the actual organisms, while 'microbiome' includes both the organisms and their collective genetic material and functions.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_004",
+    "card_type": "flashcard",
+    "question": "How does the microbiome affect human health?",
+    "answer": "It supports digestion, synthesizes vitamins, regulates immunity, protects against pathogens, and communicates with the brain through chemical signaling.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_005",
+    "card_type": "flashcard",
+    "question": "Is the microbiome unique to each person?",
+    "answer": "Yes. Each person has a unique microbial signature shaped by birth method, diet, environment, medications, and genetics.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_006",
+    "card_type": "flashcard",
+    "question": "How many microbes are in the human body compared to human cells?",
+    "answer": "The body contains roughly the same number of microbial and human cells \u2014 around 30\u201340 trillion of each.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_007",
+    "card_type": "flashcard",
+    "question": "How does the microbiome develop early in life?",
+    "answer": "Initial colonization begins at birth, influenced by delivery method, breastfeeding, and environment \u2014 and continues evolving throughout early childhood.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_008",
+    "card_type": "flashcard",
+    "question": "What factors influence the makeup of the microbiome?",
+    "answer": "Diet, stress, medications (especially antibiotics), sleep, exercise, environment, and age all shape the composition and diversity of the microbiome.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_009",
+    "card_type": "flashcard",
+    "question": "What is a healthy microbiome?",
+    "answer": "A healthy microbiome is diverse, balanced, and adaptable \u2014 containing a wide variety of beneficial microbes with no harmful overgrowths.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_001_what_is_the_microbiome_010",
+    "card_type": "flashcard",
+    "question": "Why is microbiome research important?",
+    "answer": "It helps us understand the links between microbes and diseases \u2014 including obesity, autoimmune conditions, depression, and even cancer \u2014 and may guide future treatments.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_001",
+    "card_type": "flashcard",
+    "question": "What is the gut-brain axis?",
+    "answer": "The gut-brain axis is the bidirectional communication system between the gut microbiome and the brain, involving nerves, hormones, and immune signals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_002",
+    "card_type": "flashcard",
+    "question": "How does the gut microbiome influence mental health?",
+    "answer": "It produces neurotransmitters like serotonin and GABA, regulates inflammation, and affects stress response \u2014 all crucial for mood and cognition.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_003",
+    "card_type": "flashcard",
+    "question": "What is the role of the vagus nerve in the gut-brain axis?",
+    "answer": "The vagus nerve is a major pathway linking gut signals to the brain, transmitting messages about gut health, inflammation, and stress.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_004",
+    "card_type": "flashcard",
+    "question": "How does gut inflammation affect the brain?",
+    "answer": "Gut inflammation can increase systemic inflammation and disrupt the blood-brain barrier, contributing to anxiety, depression, and brain fog.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_005",
+    "card_type": "flashcard",
+    "question": "Can probiotics impact mental health?",
+    "answer": "Certain probiotics, known as psychobiotics, may reduce anxiety and depressive symptoms by modulating gut-brain communication and inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_006",
+    "card_type": "flashcard",
+    "question": "What lifestyle factors support the gut-brain connection?",
+    "answer": "Fiber-rich diet, stress reduction, sleep, exercise, and fermented foods all strengthen the gut-brain axis.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_007",
+    "card_type": "flashcard",
+    "question": "Is there a link between the microbiome and conditions like ADHD or autism?",
+    "answer": "Emerging research suggests microbiome differences in neurodivergent individuals, possibly influencing behavior and sensory regulation via the gut-brain axis.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_008",
+    "card_type": "flashcard",
+    "question": "What is the enteric nervous system?",
+    "answer": "The enteric nervous system is a network of neurons in the gut often called the 'second brain' \u2014 it regulates digestion and interacts with the brain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_009",
+    "card_type": "flashcard",
+    "question": "How does stress impact the gut-brain axis?",
+    "answer": "Chronic stress disrupts gut microbes, reduces beneficial bacteria, increases gut permeability, and sends danger signals to the brain.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "microbiome_flashcards_002_gut_brain_axis_and_mental_health_010",
+    "card_type": "flashcard",
+    "question": "Can improving gut health improve mood?",
+    "answer": "Yes. Supporting gut health with diet, probiotics, and lifestyle changes has shown promise in improving emotional resilience and mental clarity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  }
+]

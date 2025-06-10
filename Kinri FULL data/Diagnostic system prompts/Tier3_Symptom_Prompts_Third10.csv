@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you sometimes feel like the only calm moment is when you're alone — even if you're also lonely?,"Like solitude is the only safe space, even when you wish it wasn't?",Tier 3,"{'CPTSD': 0.5, 'Autism': 0.5, 'Depression': 0.25}"
+Do you ever feel like you're on autopilot — doing tasks without really *being there*?,Like your body’s going through motions your brain hasn’t caught up to?,Tier 3,"{'Depression': 0.5, 'ADHD': 0.5, 'CPTSD': 0.25}"
+Do you avoid eye contact even with people you trust?,"Like looking someone in the eyes feels too raw, even when you love them?",Tier 3,"{'Autism': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"
+Do you sometimes wish you could just *pause being you* for a while?,Like even existing as yourself is exhausting sometimes?,Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'PMDD': 0.25}"
+Do you feel like you're constantly preparing for something bad — even when nothing is wrong?,"Like your brain stays braced, even on calm days?",Tier 3,"{'GAD': 0.5, 'CPTSD': 0.5, 'OCD': 0.25}"
+Do you get a burst of anxiety or dread right before doing something you usually enjoy?,Like joy gets ambushed at the last second?,Tier 3,"{'GAD': 0.5, 'Depression': 0.5, 'PMDD': 0.25}"
+"Do you find yourself needing escape — like scrolling, sleeping, drinking, or vanishing into fantasy?","Not to celebrate, but to *not feel*?",Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'ADHD': 0.25}"
+"Do you sometimes feel physically heavy — like the air, your limbs, or your chest are full of static?",Like even walking or sitting upright feels heavier than it should?,Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'PMDD': 0.25}"
+"Do you sometimes get stuck on a task, like a glitch — knowing what to do but *frozen* anyway?","Like something in you won't let the task start, no matter how ready you are?",Tier 3,"{'ADHD': 0.5, 'CPTSD': 0.5, 'Depression': 0.25}"
+Do you ever feel like you're constantly managing invisible fires — but no one else sees the smoke?,Like you’re doing crisis control behind the scenes while others think you’re fine?,Tier 3,"{'CPTSD': 0.5, 'GAD': 0.5, 'BPD': 0.25}"

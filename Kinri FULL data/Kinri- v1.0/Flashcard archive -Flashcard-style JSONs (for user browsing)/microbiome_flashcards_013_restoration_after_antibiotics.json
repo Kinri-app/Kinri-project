@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How do antibiotics affect the microbiome?",
+    "answer": "Antibiotics can kill both harmful and beneficial bacteria, reducing microbial diversity and disrupting gut balance.",
+    "tags": [
+      "antibiotics",
+      "dysbiosis",
+      "microbial loss"
+    ]
+  },
+  {
+    "question": "What are common symptoms after antibiotic-induced dysbiosis?",
+    "answer": "Symptoms may include bloating, fatigue, diarrhea, mood changes, and increased sensitivity to certain foods.",
+    "tags": [
+      "post-antibiotic",
+      "symptoms",
+      "gut disturbance"
+    ]
+  },
+  {
+    "question": "Can the microbiome recover naturally after antibiotics?",
+    "answer": "Yes, but it may take weeks to months, and recovery is improved with a supportive diet and lifestyle.",
+    "tags": [
+      "recovery",
+      "natural healing",
+      "timeline"
+    ]
+  },
+  {
+    "question": "What foods support microbiome restoration?",
+    "answer": "Fiber-rich fruits, vegetables, legumes, whole grains, and fermented foods help restore microbial diversity.",
+    "tags": [
+      "diet",
+      "restoration",
+      "gut foods"
+    ]
+  },
+  {
+    "question": "Are probiotics helpful after antibiotics?",
+    "answer": "They may help replenish beneficial strains, especially if targeted by strain or taken in coordination with a healthcare provider.",
+    "tags": [
+      "probiotics",
+      "supplementation",
+      "support"
+    ]
+  },
+  {
+    "question": "What is the timing for probiotics during antibiotic use?",
+    "answer": "Probiotics are typically taken a few hours apart from antibiotics and continued for at least 1\u20132 weeks after the course ends.",
+    "tags": [
+      "timing",
+      "coordination",
+      "post-antibiotic care"
+    ]
+  },
+  {
+    "question": "How does stress affect post-antibiotic recovery?",
+    "answer": "Stress can delay microbial recovery by promoting inflammation and suppressing beneficial strains.",
+    "tags": [
+      "stress",
+      "recovery delay",
+      "inflammation"
+    ]
+  },
+  {
+    "question": "What is fecal microbiota transplantation (FMT)?",
+    "answer": "FMT transfers stool from a healthy donor into a recipient\u2019s gut to rapidly restore microbial balance \u2014 used in severe dysbiosis cases.",
+    "tags": [
+      "FMT",
+      "advanced treatment",
+      "gut reset"
+    ]
+  },
+  {
+    "question": "What are signs that the microbiome is healing?",
+    "answer": "Improved digestion, mood stability, reduced bloating, and increased energy can indicate microbial balance is returning.",
+    "tags": [
+      "healing signs",
+      "gut recovery",
+      "progress"
+    ]
+  },
+  {
+    "question": "What long-term strategies support resilience after antibiotics?",
+    "answer": "A diverse, fiber-rich diet, reduced stress, quality sleep, and minimal future antibiotic use help maintain gut health long-term.",
+    "tags": [
+      "resilience",
+      "prevention",
+      "long-term care"
+    ]
+  }
+]

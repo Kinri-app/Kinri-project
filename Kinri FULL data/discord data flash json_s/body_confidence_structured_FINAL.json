@@ -1,0 +1,174 @@
+[
+  {
+    "question": "How does movement impact body confidence?",
+    "answer": "Movement builds a sense of strength, capability, and connection with the body \u2014 shifting focus from looks to function.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "confidence"
+      ],
+      "narrative_type": [
+        "body function"
+      ],
+      "usage_mode": [
+        "movement"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_292_body_confidence"
+  },
+  {
+    "question": "Why is movement helpful for ADHD regulation?",
+    "answer": "It helps release excess energy, boosts dopamine, and supports emotional and sensory regulation \u2014 improving mood and confidence.",
+    "tags": {
+      "condition": [
+        "ADHD",
+        "dopamine"
+      ],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "regulation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_293_body_confidence"
+  },
+  {
+    "question": "What types of movement build body trust?",
+    "answer": "Gentle, joyful, or expressive movement (like stretching, walking, dancing) can help rebuild trust and reduce shame.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "body trust"
+      ],
+      "narrative_type": [
+        "healing"
+      ],
+      "usage_mode": [
+        "joyful movement"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_294_body_confidence"
+  },
+  {
+    "question": "Can exercise improve body image without changing appearance?",
+    "answer": "Yes. Feeling stronger or more capable often improves self-worth, even if physical appearance doesn\u2019t change.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-worth",
+        "strength"
+      ],
+      "narrative_type": [
+        "non-aesthetic wins"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_295_body_confidence"
+  },
+  {
+    "question": "Why do traditional fitness spaces feel intimidating?",
+    "answer": "They may center weight loss or comparison, which can trigger shame, insecurity, or past trauma.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "body comparison",
+        "intimidation"
+      ],
+      "narrative_type": [
+        "fitness culture"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_296_body_confidence"
+  },
+  {
+    "question": "What is movement rejection?",
+    "answer": "Avoiding physical activity due to past embarrassment, trauma, or negative associations \u2014 common in neurodivergent or bullied individuals.",
+    "tags": {
+      "condition": [
+        "movement rejection",
+        "trauma"
+      ],
+      "emotion": [
+        "avoidance"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_297_body_confidence"
+  },
+  {
+    "question": "How can someone reconnect with movement?",
+    "answer": "Start with low-pressure, sensory-friendly movement. Track how it makes you feel emotionally, not just physically.",
+    "tags": {
+      "condition": [],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "reconnection",
+        "low-pressure",
+        "emotional check-in"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_298_body_confidence"
+  },
+  {
+    "question": "What mindset helps when restarting movement?",
+    "answer": "Focus on what movement gives you \u2014 energy, relief, grounding \u2014 rather than using it as punishment or control.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "self-kindness"
+      ],
+      "narrative_type": [
+        "mindset",
+        "benefits"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_299_body_confidence"
+  },
+  {
+    "question": "How does body neutrality support movement?",
+    "answer": "By valuing what your body can do instead of how it looks, you reduce pressure and open space for self-respect.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "acceptance"
+      ],
+      "narrative_type": [
+        "body neutrality",
+        "function over form"
+      ],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_300_body_confidence"
+  },
+  {
+    "question": "What\u2019s one small action to build movement confidence?",
+    "answer": "Find one type of movement that feels good and doable today \u2014 even if it\u2019s just stretching for two minutes.",
+    "tags": {
+      "condition": [],
+      "emotion": [
+        "confidence building"
+      ],
+      "narrative_type": [
+        "accessibility"
+      ],
+      "usage_mode": [
+        "small wins"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "body_flashcards_301_body_confidence"
+  }
+]

@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you ever feel like asking for help will just make things worse?,"Like reaching out might lead to judgment, misunderstanding, or being a burden?",Tier 3,"{'CPTSD': 0.5, 'Depression': 0.5, 'GAD': 0.25}"
+Do you sometimes forget how to talk about your own feelings?,"Like the words vanish, or you’re afraid they’ll come out wrong?",Tier 3,"{'Autism': 0.5, 'CPTSD': 0.5, 'Depression': 0.25}"
+"Do you ever feel like you’re stuck in loops — not just in thought, but in your life?","Like no matter what you do, you keep ending up in the same emotional patterns?",Tier 3,"{'CPTSD': 0.5, 'BPD': 0.5, 'Depression': 0.25}"
+Do you feel like you've built a version of yourself just to survive?,Like who you are isn’t fully real — just what got you through?,Tier 3,"{'CPTSD': 0.5, 'Autism': 0.5, 'Depression': 0.25}"
+Do you ever feel grief for something you can’t name — like a version of life that never happened?,Like mourning a life path you never got to walk?,Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'PMDD': 0.25}"
+Do you get emotionally numb around people — even the ones you love?,Like your feelings flatten when you're expected to connect?,Tier 3,"{'Depression': 0.5, 'Autism': 0.5, 'CPTSD': 0.25}"
+Do you ever feel like you’re surviving instead of living?,"Like you’re doing what it takes to get through, not to grow?",Tier 3,"{'CPTSD': 0.5, 'Depression': 0.5, 'BPD': 0.25}"
+Do you feel like no one would understand if you told the truth about how bad it gets?,Like your pain feels unspeakable — or too big to share?,Tier 3,"{'Depression': 0.5, 'CPTSD': 0.5, 'BPD': 0.25}"
+Do you sometimes wish you could just turn your mind off — even just for an hour?,Like your thoughts are a noise machine you can't unplug?,Tier 3,"{'GAD': 0.5, 'OCD': 0.5, 'ADHD': 0.25}"
+Do you feel like your nervous system is always waiting for the next bad thing?,"Like you're bracing for impact, even when nothing is wrong yet?",Tier 3,"{'CPTSD': 0.5, 'GAD': 0.5, 'PTSD': 0.25}"

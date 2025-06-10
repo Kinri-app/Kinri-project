@@ -1,0 +1,130 @@
+[
+  {
+    "card_id": "nutrition_59_nourishment_and_self_protection_in_emotional_recovery_005",
+    "card_type": "vault_card",
+    "headline": "Food Isn\u2019t Just Fuel\u2014It\u2019s Safety",
+    "body": "Your nervous system doesn\u2019t need a plan. It needs protection. Let every bite say: \u2018I\u2019ve got you.\u2019",
+    "prompt": "What food this week could help you feel protected\u2014not just fed?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_60_nervous_system_nourishment_and_food_rituals_005",
+    "card_type": "vault_card",
+    "headline": "Every Bite Can Become a Message of Calm",
+    "body": "It\u2019s not just what you eat\u2014it\u2019s how. Turn meals into medicine by adding rhythm, presence, and a signal of safety.",
+    "prompt": "What food ritual could you test this week to bring calm into your day\u2014before the food even touches your lips?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_55_nervous_system_meals_and_post_stress_recovery_005",
+    "card_type": "vault_card",
+    "headline": "When You\u2019re Coming Down, Don\u2019t Climb\u2014Anchor",
+    "body": "After stress, your job isn\u2019t to fix. It\u2019s to feed the part of you that held on. Slowly. Kindly. Softly.",
+    "prompt": "What could your next meal say to your nervous system: \u2018We made it. Let\u2019s rest now.\u2019?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_56_nervous_system_eating_and_burnout_recovery_005",
+    "card_type": "vault_card",
+    "headline": "You Don\u2019t Need Perfect Nutrition\u2014You Need Recovery Nutrition",
+    "body": "When your energy\u2019s gone, don\u2019t aim for optimal\u2014aim for enough. Warm, rhythmic, simple meals can rebuild your capacity.",
+    "prompt": "What meal could help you start again\u2014not as punishment, but as nervous system restoration?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_57_gentle_nutrition_and_food_simplicity_005",
+    "card_type": "vault_card",
+    "headline": "Gentle Doesn\u2019t Mean Weak\u2014It Means Wise",
+    "body": "Healing isn\u2019t in discipline\u2014it\u2019s in rhythm. Choose meals that meet your nervous system, not ones that punish it.",
+    "prompt": "What\u2019s one simple meal you could return to this week\u2014not to perform, but to feel okay again?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "nutrition_58_nervous_system_eating_and_reentry_after_shutdown_005",
+    "card_type": "vault_card",
+    "headline": "Feed the Part of You That Froze",
+    "body": "Reentry isn\u2019t a performance. It\u2019s a whisper. Let food be how you speak comfort\u2014not control.",
+    "prompt": "What soft meal or ritual could help guide you back from shutdown this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

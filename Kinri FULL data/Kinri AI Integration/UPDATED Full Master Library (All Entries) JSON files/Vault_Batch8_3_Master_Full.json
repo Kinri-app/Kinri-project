@@ -1,0 +1,791 @@
+[
+  {
+    "card_id": "work_life_6_career_fulfillment_growth_identity_integration_001",
+    "card_type": "flashcard",
+    "question": "Why do many neurodivergent people struggle to feel fulfilled at work?",
+    "answer": "They\u2019re often placed in roles that mismatch their strengths, lack autonomy, or suppress creativity.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_6_career_fulfillment_growth_identity_integration_002",
+    "card_type": "flashcard",
+    "question": "How can values-based work support emotional resilience?",
+    "answer": "When your work aligns with your core values, it energizes rather than drains\u2014supporting motivation and identity coherence.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_6_career_fulfillment_growth_identity_integration_003",
+    "card_type": "flashcard",
+    "question": "What role does creativity play in work identity?",
+    "answer": "Creative self-expression restores agency, reduces masking, and supports whole-self belonging.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_6_career_fulfillment_growth_identity_integration_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s one way to integrate your full identity into your career?",
+    "answer": "Use your story, strengths, or struggle as part of your impact\u2014don\u2019t hide the fuel that made you.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_6_career_fulfillment_growth_identity_integration_005",
+    "card_type": "vault_card",
+    "headline": "Let Work Reflect You, Not Just Employ You",
+    "body": "The more your work mirrors your values, the more energy you bring. Belonging is built, not begged for.",
+    "prompt": "What small work shift would let you bring more of your real self into the room?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_4_lifestyle_inputs_for_vagal_activation_001",
+    "card_type": "flashcard",
+    "question": "How does movement improve vagal tone?",
+    "answer": "Gentle movement like walking, yoga, or dance increases parasympathetic activity and reduces inflammation.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_4_lifestyle_inputs_for_vagal_activation_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s the role of omega-3s in vagus nerve health?",
+    "answer": "They support brain and nerve membrane function and have been linked to increased HRV and resilience.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_4_lifestyle_inputs_for_vagal_activation_003",
+    "card_type": "flashcard",
+    "question": "How do relationships influence vagal tone?",
+    "answer": "Loving connection, co-regulation, laughter, and gratitude all strengthen parasympathetic engagement.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_4_lifestyle_inputs_for_vagal_activation_004",
+    "card_type": "flashcard",
+    "question": "Why is routine important for vagal support?",
+    "answer": "Rhythm in sleep, meals, and activity helps your nervous system predict and regulate effectively.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_4_lifestyle_inputs_for_vagal_activation_005",
+    "card_type": "vault_card",
+    "headline": "Live in Rhythm, Heal in Flow",
+    "body": "When your life flows with rhythm and care, your vagus responds. It's not a hack\u2014it\u2019s a lifestyle.",
+    "prompt": "What rhythm or relationship could you strengthen this week to better support vagal health?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_5_somatic_integration_and_trauma_reset_001",
+    "card_type": "flashcard",
+    "question": "How does the vagus nerve relate to trauma recovery?",
+    "answer": "It helps regulate freeze responses and supports the shift from survival states back into calm, social engagement.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_5_somatic_integration_and_trauma_reset_002",
+    "card_type": "flashcard",
+    "question": "What is functional immobility?",
+    "answer": "A stuck state where the body is outwardly functioning but internally frozen\u2014common in trauma survivors.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_5_somatic_integration_and_trauma_reset_003",
+    "card_type": "flashcard",
+    "question": "Why is somatic work essential for vagal healing?",
+    "answer": "It allows the nervous system to discharge stored energy and build new regulation pathways through movement and felt sense.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_5_somatic_integration_and_trauma_reset_004",
+    "card_type": "flashcard",
+    "question": "What\u2019s one safe way to begin somatic vagus reset?",
+    "answer": "Small rhythmic movement (rocking, swaying) paired with breath and grounding helps reestablish safety and awareness.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "vagus_nerve_5_somatic_integration_and_trauma_reset_005",
+    "card_type": "vault_card",
+    "headline": "Trauma Disrupts Rhythm\u2014Somatics Restores It",
+    "body": "You don\u2019t fix trauma with logic\u2014you feel it out, slowly and safely. Let your vagus lead you back to presence.",
+    "prompt": "What gentle practice could you add this week to help your nervous system feel more safe and whole?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_1_sensory_regulation_and_environment_design_001",
+    "card_type": "flashcard",
+    "question": "What environmental factors often overstimulate neurodivergent workers?",
+    "answer": "Harsh lighting, noise, visual clutter, strong smells, or unpredictable interruptions can trigger overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_1_sensory_regulation_and_environment_design_002",
+    "card_type": "flashcard",
+    "question": "How can workspaces support sensory regulation?",
+    "answer": "Calm lighting, noise control, tidy visuals, clear layouts, and personal adjustments like headphones or fidget tools.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_1_sensory_regulation_and_environment_design_003",
+    "card_type": "flashcard",
+    "question": "Why is physical environment autonomy helpful?",
+    "answer": "Being able to adjust lighting, posture, or noise gives the nervous system agency and control\u2014preventing overwhelm.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "overwhelm"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_1_sensory_regulation_and_environment_design_004",
+    "card_type": "flashcard",
+    "question": "What are subtle signals that a space is overstimulating you?",
+    "answer": "Fidgeting, zoning out, snapping at others, or losing track of tasks are often nervous system red flags.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_1_sensory_regulation_and_environment_design_005",
+    "card_type": "vault_card",
+    "headline": "Your Nervous System Works There Too",
+    "body": "Productivity doesn\u2019t require sensory strain. Your focus thrives when your environment doesn\u2019t demand constant adaptation.",
+    "prompt": "What one adjustment could help your nervous system feel more at ease at work this week?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_2_emotional_resilience_and_neurodivergent_traits_001",
+    "card_type": "flashcard",
+    "question": "Why are emotionally intense responses common in neurodivergent employees?",
+    "answer": "Nervous system sensitivity, past masking trauma, and unmet needs can all lead to reactive patterns under pressure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_2_emotional_resilience_and_neurodivergent_traits_002",
+    "card_type": "flashcard",
+    "question": "What\u2019s the cycle of idealization and devaluation in workplace relationships?",
+    "answer": "Quick attachment followed by disappointment or withdrawal when expectations clash\u2014common in BPD or trauma profiles.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_2_emotional_resilience_and_neurodivergent_traits_003",
+    "card_type": "flashcard",
+    "question": "How can employers reduce emotional flooding for sensitive staff?",
+    "answer": "Use calm tone, pre-warn about feedback, offer clarity, and allow decompression breaks if needed.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_2_emotional_resilience_and_neurodivergent_traits_004",
+    "card_type": "flashcard",
+    "question": "What helps employees self-regulate during high-pressure tasks?",
+    "answer": "Chunk tasks, give frequent breaks, and allow alternate pacing (like deep focus bursts or body resets).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_2_emotional_resilience_and_neurodivergent_traits_005",
+    "card_type": "vault_card",
+    "headline": "You\u2019re Not Too Sensitive\u2014You\u2019re Highly Tuned",
+    "body": "Sensitivity isn\u2019t weakness. When understood, it becomes emotional insight, drive, and deep contribution.",
+    "prompt": "What emotion are you carrying at work lately\u2014and does it need to be released or respected more deeply?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_3_structure_communication_role_clarity_001",
+    "card_type": "flashcard",
+    "question": "Why is ambiguity stressful for many neurodivergent people at work?",
+    "answer": "Unclear instructions or shifting expectations can trigger confusion, anxiety, and loss of focus due to limited working memory and need for structure.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "grief"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_3_structure_communication_role_clarity_002",
+    "card_type": "flashcard",
+    "question": "How can communication style impact workplace anxiety?",
+    "answer": "Blunt or vague tone can trigger shame, panic, or masking fatigue\u2014while warmth and specifics support safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shame",
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_3_structure_communication_role_clarity_003",
+    "card_type": "flashcard",
+    "question": "Why is routine powerful for emotional regulation?",
+    "answer": "Consistent routines anchor the nervous system and reduce cognitive load, creating safety and flow.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_3_structure_communication_role_clarity_004",
+    "card_type": "flashcard",
+    "question": "What does role clarity improve in the workplace?",
+    "answer": "It prevents overload, enables focused work, and reduces the fear of failing invisible expectations.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "fear"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_3_structure_communication_role_clarity_005",
+    "card_type": "vault_card",
+    "headline": "Say It Clearly, So They Can Soften",
+    "body": "Structure and tone aren\u2019t just productivity tools\u2014they\u2019re nervous system tools. Clarity creates calm.",
+    "prompt": "What expectation could you clarify this week\u2014with yourself, a colleague, or your team?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_4_conflict_navigation_and_triggers_001",
+    "card_type": "flashcard",
+    "question": "What is a common interpersonal trigger at work?",
+    "answer": "Perceived criticism or lack of acknowledgement can activate trauma responses, especially in neurodivergent individuals.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_4_conflict_navigation_and_triggers_002",
+    "card_type": "flashcard",
+    "question": "Why is masking exhausting in conflict situations?",
+    "answer": "Holding back reactions, facial expressions, or emotional honesty builds internal tension and drains energy.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_4_conflict_navigation_and_triggers_003",
+    "card_type": "flashcard",
+    "question": "How can boundaries prevent emotional escalation?",
+    "answer": "Clear, respectful limits reduce resentment and create predictable interpersonal safety.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_4_conflict_navigation_and_triggers_004",
+    "card_type": "flashcard",
+    "question": "What pattern often precedes emotional shutdowns at work?",
+    "answer": "Over-functioning followed by burnout and then disappearance (e.g., calling in sick after a small blowup).",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "shutdown"
+      ],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_4_conflict_navigation_and_triggers_005",
+    "card_type": "vault_card",
+    "headline": "Don\u2019t Just Survive Conflict\u2014Decode It",
+    "body": "Your triggers aren\u2019t flaws\u2014they\u2019re old wounds. With reflection and care, every tension becomes a chance to deepen safety.",
+    "prompt": "What recurring workplace trigger might hold wisdom\u2014and deserve more compassion or clarity?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_5_recovery_flexibility_self_advocacy_001",
+    "card_type": "flashcard",
+    "question": "What causes burnout cycles in neurodivergent employees?",
+    "answer": "Masking, over-functioning, emotional labor, and sensory overload lead to unsustainable effort and eventual collapse.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_5_recovery_flexibility_self_advocacy_002",
+    "card_type": "flashcard",
+    "question": "How does flexible scheduling support nervous system recovery?",
+    "answer": "It allows time to decompress, self-regulate, and re-engage when ready\u2014instead of crashing and withdrawing.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_5_recovery_flexibility_self_advocacy_003",
+    "card_type": "flashcard",
+    "question": "What\u2019s one sign an employee is nearing burnout?",
+    "answer": "Irritability, sudden drop in performance, avoidance, or chronic fatigue despite effort.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_5_recovery_flexibility_self_advocacy_004",
+    "card_type": "flashcard",
+    "question": "Why is self-advocacy a form of resilience?",
+    "answer": "It sets boundaries, invites support, and prevents long-term damage by asking for what the nervous system needs.",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "psychoeducation"
+      ],
+      "usage_mode": [
+        "compare_support",
+        "coach"
+      ]
+    }
+  },
+  {
+    "card_id": "work_life_5_recovery_flexibility_self_advocacy_005",
+    "card_type": "vault_card",
+    "headline": "Sustainability Beats Sprinting",
+    "body": "Work doesn\u2019t need to break you to be meaningful. Protecting your energy protects your creativity.",
+    "prompt": "What adjustment\u2014schedule, conversation, or environment\u2014would help you work with less nervous system cost?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [
+        "reframe",
+        "lived_experience"
+      ],
+      "usage_mode": [
+        "vault_initiation",
+        "reflection"
+      ]
+    }
+  }
+]

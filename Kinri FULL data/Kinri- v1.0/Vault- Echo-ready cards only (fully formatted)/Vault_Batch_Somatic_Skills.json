@@ -1,0 +1,392 @@
+[
+  {
+    "id": "somatic_skills_6_reconnecting_with_a_frozen_body",
+    "title": "You Don\u2019t Have to Feel Everything Right Away",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "dissociation",
+      "shutdown",
+      "numbness"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Trauma"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "soft and slow",
+    "body": "If your body feels far away, that\u2019s not failure \u2014 it\u2019s wisdom. You protected yourself by leaving it once. Coming back doesn\u2019t have to be fast or complete. Just a fingertip. Just a breath.",
+    "echo_intro": "This is for the ones still learning to be here again.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Entry for somatic reentry",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_7_grounding_is_not_always_stillness",
+    "title": "Movement Is Grounding Too",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "restlessness",
+      "anxiety",
+      "body tension"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "clarifying",
+    "tone": "liberating",
+    "body": "Stillness isn\u2019t the only path to calm. Rocking, walking, pacing \u2014 these aren\u2019t signs of failure. They\u2019re self-regulating strategies in motion. Let your body lead.",
+    "echo_intro": "If you feel guilty for needing to move, read this.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Reframes regulation styles",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_8_small_cues_for_a_big_reset",
+    "title": "The Tiny Movements Matter",
+    "deck_type": "grounding",
+    "emotion_tags": [
+      "dysregulation",
+      "numbness",
+      "shutdown"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "Autism"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "somatic",
+    "tone": "co-regulating",
+    "body": "Curl your toes. Unclench your jaw. Stretch your fingers wide. You don\u2019t need a full body reset. Just small reminders that you\u2019re here, now, and still yours.",
+    "echo_intro": "Try this when you're barely holding your body together.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Tactile entry points",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_9_somatic_safety_and_body_trust",
+    "title": "Your Body Isn\u2019t the Enemy",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "mistrust",
+      "fear",
+      "body memory"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Eating Disorders"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "healing insight",
+    "tone": "reassuring",
+    "body": "If your body feels unsafe, it\u2019s because something once made it that way. You\u2019re not broken. You\u2019re recovering. This body still wants to protect you \u2014 even if it forgot how to feel like home.",
+    "echo_intro": "For those at war with their own skin.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Body safety and compassion",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_10_nervous_system_mapping_and_awareness",
+    "title": "Track Sensation, Not Stories",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "panic",
+      "shutdown",
+      "emotional confusion"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Anxiety"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "instructional",
+    "tone": "neutral and curious",
+    "body": "Don\u2019t try to name your emotions. Start with your body. Where\u2019s the tightness? The buzz? The cold spot? Sensation leads the way when words get lost.",
+    "echo_intro": "When the mind is loud but unclear \u2014 drop into the body.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Body mapping 101",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_11_diaphragm_and_breath_restoration",
+    "title": "Breathe From the Middle",
+    "deck_type": "grounding",
+    "emotion_tags": [
+      "anxiety",
+      "tension",
+      "dysregulation"
+    ],
+    "condition_tags": [
+      "Anxiety",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "somatic instruction",
+    "tone": "calming",
+    "body": "Place a hand on your belly. Let it rise. Let it fall. Deep breath doesn\u2019t mean dramatic \u2014 it means low, slow, and steady. You can breathe without performing calm.",
+    "echo_intro": "Try this if your chest feels tight but still won\u2019t release.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_12_gestures_as_memory",
+    "title": "Your Body Remembers in Movements",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "body memory",
+      "trauma",
+      "reconnection"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Grief"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "metaphor",
+    "tone": "tender and reflective",
+    "body": "A clenched fist. A hunched shoulder. A curl into stillness. These aren\u2019t random \u2014 they\u2019re rituals your body made to survive. You\u2019re not dramatic. You\u2019re remembering.",
+    "echo_intro": "This is for the one who shrinks without knowing why.",
+    "length_tokens": 45,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Movement = memory insight",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_13_somatic_wisdom_is_not_logical",
+    "title": "Your Body Doesn\u2019t Need to Make Sense",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "confusion",
+      "distrust",
+      "frustration"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "Neurodivergence"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "direct",
+    "tone": "compassionate",
+    "body": "Shaking, sweating, avoiding touch \u2014 your body\u2019s wisdom might not be logical, but it is real. You don\u2019t have to explain it for it to deserve respect.",
+    "echo_intro": "When you want to trust your body but don\u2019t understand it.",
+    "length_tokens": 42,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Embodied reframe",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_14_safety_in_pressure_and_weight",
+    "title": "Heavy Can Be Healing",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "overstimulation",
+      "panic",
+      "sensory seeking"
+    ],
+    "condition_tags": [
+      "Autism",
+      "ADHD"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "sensory relief",
+    "tone": "grounding",
+    "body": "Some bodies don\u2019t want lightness. They want weight. A blanket. A hand. A hug that holds. Heaviness isn\u2019t restriction \u2014 it\u2019s nervous system clarity.",
+    "echo_intro": "For the one who calms through compression.",
+    "length_tokens": 39,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_15_coregulation_and_external_rhythm",
+    "title": "Borrow Someone Else\u2019s Calm",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "overwhelm",
+      "panic",
+      "disconnection"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "Attachment"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "regulation",
+    "tone": "inviting",
+    "body": "You don\u2019t have to self-soothe every time. Sometimes the body calms by being near someone else who\u2019s steady. That\u2019s not dependency \u2014 that\u2019s nervous system honesty.",
+    "echo_intro": "For when you need someone\u2019s breath beside yours.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_16_somatic_disgust_and_self_alienation",
+    "title": "You\u2019re Not Disgusting \u2014 You\u2019re Disconnected",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "shame",
+      "repulsion",
+      "dissociation"
+    ],
+    "condition_tags": [
+      "BPD",
+      "Eating Disorders"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "trauma-aware",
+    "tone": "deep compassion",
+    "body": "If touching your own skin feels like a punishment \u2014 that\u2019s not vanity or weakness. That\u2019s survival grief. You\u2019re not repulsive. You\u2019re hurting. Come back slowly.",
+    "echo_intro": "This one\u2019s for the mirror you\u2019re avoiding.",
+    "length_tokens": 46,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Deep trauma touch reframe",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_17_neutral_touch_and_safe_contact",
+    "title": "Touch Doesn\u2019t Have to Mean Intimacy",
+    "deck_type": "insight",
+    "emotion_tags": [
+      "body mistrust",
+      "confusion",
+      "avoidance"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "Neurodivergence"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "relief",
+    "tone": "normalizing",
+    "body": "Not all touch needs to mean closeness. It can mean presence. Connection. Regulation. You\u2019re allowed to define what makes contact safe \u2014 and start there.",
+    "echo_intro": "For the one who craves touch but flinches at it too.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_18_body_as_signal_not_problem",
+    "title": "You\u2019re Not Broken \u2014 You\u2019re Signaling",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "anger",
+      "numbness",
+      "shutdown"
+    ],
+    "condition_tags": [
+      "CPTSD",
+      "Neurodivergence"
+    ],
+    "usage_mode": [
+      "echo_prompt"
+    ],
+    "narrative_type": "clarifying",
+    "tone": "redirecting",
+    "body": "A nervous system in pain doesn\u2019t need punishment. It needs listening. If you\u2019re short-fused, slow, or spacing out \u2014 that\u2019s not defect. That\u2019s signal.",
+    "echo_intro": "This is for the one who blames their body for crying out.",
+    "length_tokens": 41,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Normalizes dysregulation as communication",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_19_rest_and_somatic_permission",
+    "title": "You\u2019re Allowed to Rest *In* Your Body",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "discomfort",
+      "grief",
+      "recovery"
+    ],
+    "condition_tags": [
+      "Trauma",
+      "Depression"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "invitation",
+    "tone": "slow safety",
+    "body": "You don\u2019t have to bypass your body to rest. You can soften into it \u2014 even the sore parts. Even the frozen parts. You\u2019re allowed to belong in this skin again.",
+    "echo_intro": "This one\u2019s for anyone learning how to rest without leaving.",
+    "length_tokens": 43,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Closing comfort",
+    "version": "v1.0"
+  },
+  {
+    "id": "somatic_skills_20_fidgeting_and_unjudged_regulation",
+    "title": "Your Movement Isn\u2019t Wrong \u2014 It\u2019s Smart",
+    "deck_type": "reframe",
+    "emotion_tags": [
+      "restlessness",
+      "self-consciousness",
+      "shame"
+    ],
+    "condition_tags": [
+      "ADHD",
+      "Autism"
+    ],
+    "usage_mode": [
+      "user_pull"
+    ],
+    "narrative_type": "relief + normalizing",
+    "tone": "liberating",
+    "body": "Bouncing knees. Tapping fingers. Pacing. These aren\u2019t problems to solve \u2014 they\u2019re strategies your nervous system developed to stay functional. You\u2019re not annoying. You\u2019re regulating.",
+    "echo_intro": "This is for the one who\u2019s been told to sit still for too long.",
+    "length_tokens": 44,
+    "created_by": "Echo Core Team",
+    "date_created": "2024-05-22T00:00:00Z",
+    "dev_notes": "Final affirming reframe",
+    "version": "v1.0"
+  }
+]

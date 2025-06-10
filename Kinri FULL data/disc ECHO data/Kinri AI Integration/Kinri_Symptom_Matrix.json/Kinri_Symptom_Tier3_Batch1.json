@@ -1,0 +1,217 @@
+[
+  {
+    "prompt": "Do you feel like you're constantly performing \u2014 not just socially, but emotionally too?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Autism",
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "masking",
+        "identity_exhaustion"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you carry a deep belief that you're fundamentally broken or unlovable?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression",
+        "BPD"
+      ],
+      "emotion": [
+        "core_shame",
+        "self_loathing"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever feel like your past is always just beneath the surface, waiting to take over?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PTSD"
+      ],
+      "emotion": [
+        "trauma_memory",
+        "emotional_ambush"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "memory"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like your anger protects you from something deeper?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "rage",
+        "defensiveness"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "reframe"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you ever experience emotion so intense it feels like it might break you?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "PMDD"
+      ],
+      "emotion": [
+        "emotional_intensity",
+        "flooding"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "emotional_whiplash"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you feel like you're stuck between being numb and being overwhelmed \u2014 never regulated?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "Depression",
+        "Autism"
+      ],
+      "emotion": [
+        "shutdown",
+        "flooded"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "compare_support"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you sometimes hurt yourself emotionally just to feel something real?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "pain_seeking",
+        "disconnection"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  },
+  {
+    "prompt": "Do you feel like love and abandonment live right next to each other in your life?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "BPD",
+        "CPTSD"
+      ],
+      "emotion": [
+        "abandonment_fear",
+        "longing"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "identity"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Do you carry memories that feel more physical than mental \u2014 like they're stored in your body?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "CPTSD",
+        "PMDD"
+      ],
+      "emotion": [
+        "somatic_trauma",
+        "body_flashbacks"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "somatic"
+      ]
+    },
+    "red_flag": false
+  },
+  {
+    "prompt": "Have you ever felt like your mind was trying to disappear you \u2014 quietly, not dramatically?",
+    "tier": 3,
+    "tags": {
+      "condition": [
+        "Depression",
+        "CPTSD"
+      ],
+      "emotion": [
+        "suicidal_ideation",
+        "emotional_erasure"
+      ],
+      "usage_mode": [
+        "reflection"
+      ],
+      "narrative_type": [
+        "lived_experience"
+      ]
+    },
+    "red_flag": true
+  }
+]

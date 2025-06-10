@@ -1,0 +1,48 @@
+[
+  {
+    "question": "What are the '3 Ms' in Jim Kwik\u2019s Limitless model?",
+    "answer": "Mindset, Motivation, and Methods\u2014all three must align for lasting transformation.",
+    "tags": [
+      "3Ms",
+      "limitless",
+      "learning"
+    ]
+  },
+  {
+    "question": "What\u2019s the PIE formula for memory?",
+    "answer": "Place, Imagine, Entwine\u2014create a location in your mind, visualize the info, and link it to that place.",
+    "tags": [
+      "PIE method",
+      "memory techniques",
+      "visualization"
+    ]
+  },
+  {
+    "question": "How does the PIE method improve memory?",
+    "answer": "It gives abstract info a vivid, emotional context\u2014making it easier to recall by using your spatial and visual memory systems.",
+    "tags": [
+      "spatial memory",
+      "mnemonics",
+      "mental hooks"
+    ]
+  },
+  {
+    "question": "What is S3 in the motivation section?",
+    "answer": "Small Simple Steps\u2014breaking goals into micro actions to combat overwhelm and build momentum.",
+    "tags": [
+      "motivation",
+      "habit design",
+      "momentum"
+    ]
+  },
+  {
+    "headline": "Put the Puzzle Together\u2014Mindset, Method, Motivation",
+    "body": "If you have the mindset but not the method, you\u2019ll fail. If you have the method but no motivation, you\u2019ll quit. Build all three.",
+    "prompt": "Which of your current goals could benefit from better mindset, motivation, or method support?",
+    "tags": [
+      "transformation",
+      "PIE",
+      "limitless"
+    ]
+  }
+]

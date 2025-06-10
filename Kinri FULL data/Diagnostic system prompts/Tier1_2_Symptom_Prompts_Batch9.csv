@@ -1,0 +1,11 @@
+Symptom,Echo-Friendly Description,Tier,Sample Weights
+Do you find it hard to let yourself rest without guilt?,Like you always feel like there’s something you should be doing instead?,Tier 2,"{'GAD': 1.0, 'Depression': 0.5}"
+Do you often feel like you’re in survival mode — even when life isn’t actively hard?,Like your nervous system is still stuck in ‘brace and endure’?,Tier 2,"{'CPTSD': 1.0, 'GAD': 0.5}"
+"Do you avoid conflict because you’re afraid you’ll be too much, not because you think you’re wrong?",Like your intensity might overwhelm the moment?,Tier 2,"{'BPD': 1.0, 'CPTSD': 0.5}"
+Do you often get distracted by your own thoughts — even during activities you usually enjoy?,Like your mind keeps pulling you away from what you're trying to focus on?,Tier 1,"{'ADHD': 1.0, 'Depression': 0.5}"
+"Do you sometimes feel like your body is moving through the world, but your mind is somewhere else?",Like you’re going through the motions without really ‘being there’?,Tier 1,"{'Depression': 1.0, 'CPTSD': 0.5}"
+Do you find it hard to accept help — even when you want or need it?,Like receiving support feels vulnerable or dangerous?,Tier 2,"{'CPTSD': 1.0, 'BPD': 0.5}"
+"Do you overcommit — say yes to too many things, then feel overwhelmed?",Like you're trying to be dependable and stretch too far?,Tier 1,"{'ADHD': 1.0, 'GAD': 0.5}"
+Do you sometimes feel emotionally numb but physically anxious — like your mind and body are out of sync?,Like your heart’s racing but your brain’s flat?,Tier 2,"{'CPTSD': 1.0, 'Depression': 0.5}"
+Do you feel intense relief after cancelling plans?,Like you didn’t even realize how much dread or strain you were carrying until you were off the hook?,Tier 2,"{'Autism': 1.0, 'GAD': 0.5}"
+Do you often get hit with unexpected waves of sadness — even when nothing is ‘wrong’?,Like grief or heaviness just appears out of nowhere?,Tier 2,"{'Depression': 1.0, 'PMDD': 0.5}"
