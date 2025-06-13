@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What is executive dysfunction in ADHD?",
+    "answer": "It\u2019s the difficulty managing mental processes like planning, focus, memory, and time\u2014making even simple tasks feel overwhelming.",
+    "tags": {
+      "condition": [
+        "executive dysfunction",
+        "ADHD"
+      ],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "task management"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_243_exec_dysfunction"
+  },
+  {
+    "question": "What causes task paralysis in ADHD brains?",
+    "answer": "Low dopamine, poor task initiation, emotional overwhelm, or lack of urgency signal make it hard to begin tasks.",
+    "tags": {
+      "condition": [
+        "task paralysis",
+        "dopamine"
+      ],
+      "emotion": [
+        "motivation"
+      ],
+      "narrative_type": [],
+      "usage_mode": []
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_244_exec_dysfunction"
+  },
+  {
+    "question": "How can someone with ADHD break through a stuck state?",
+    "answer": "Use body doubling, 5-minute rules, visual timers, or change the environment to jumpstart the nervous system.",
+    "tags": {
+      "condition": [
+        "nervous system"
+      ],
+      "emotion": [],
+      "narrative_type": [],
+      "usage_mode": [
+        "ADHD tools",
+        "initiation"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_245_exec_dysfunction"
+  },
+  {
+    "question": "Why do ADHD brains often reject planning?",
+    "answer": "Because structure can feel restricting\u2014or because shame from past failures makes planning feel like pressure.",
+    "tags": {
+      "condition": [
+        "ADHD mindset"
+      ],
+      "emotion": [
+        "rejection sensitivity"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "planning"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_246_exec_dysfunction"
+  },
+  {
+    "headline": "Stuck Isn\u2019t Lazy\u2014It\u2019s a Signal",
+    "body": "If you\u2019re frozen, it\u2019s not failure\u2014it\u2019s executive overload. Start small. Start kind. But start.",
+    "prompt": "What\u2019s one micro-action you can take today to tell your brain it\u2019s safe to begin again?",
+    "tags": {
+      "condition": [
+        "ADHD"
+      ],
+      "emotion": [
+        "motivation"
+      ],
+      "narrative_type": [],
+      "usage_mode": [
+        "nervous system reset"
+      ]
+    },
+    "card_type": "flashcard",
+    "card_id": "adhd_flashcards_247_exec_dysfunction"
+  }
+]
