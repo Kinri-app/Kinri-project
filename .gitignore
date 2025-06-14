@@ -1,21 +1,21 @@
-# Ignorar checkpoints de Jupyter notebooks en cualquier carpeta
+# Ignore Jupyter notebook checkpoints in any folder
 .ipynb_checkpoints/
 
-# Ignorar datos crudos (raw_data) si no quieres versionarlos
-raw_data/
+# Ignore raw data if don't want to version it
+# raw_data/
 
-# Archivos temporales de sistema
+# System temporary files
 .DS_Store
 Thumbs.db
 
-# Archivos temporales de editores
+# Editor temporary files
 *.swp
 *.swo
 *.bak
 *.tmp
 
-# Archivos JSON de configuración temporal o grandes (opcional)
-# Por ejemplo si Kinri_Symptom_Matrix.json es generado automáticamente o muy pesado:
+# Optional: Ignore large or auto-generated JSON config files
+# For example, if Kinri_Symptom_Matrix.json is auto-generated or too large:
 # Kinri_Symptom_Matrix.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/flask,python
