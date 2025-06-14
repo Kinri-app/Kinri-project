@@ -1,4 +1,4 @@
-# Variables para tu proyecto
+# Variables
 DOCKER_NETWORK = kinri_network
 API_CONTAINER = backend-api-1
 DB_CONTAINER = backend-db-1

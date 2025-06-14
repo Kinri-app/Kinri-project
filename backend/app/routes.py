@@ -4,4 +4,4 @@ main = Blueprint("main", __name__)
 
 @main.route("/")
 def index():
-    return "Kinri Backend Running :D ✅"
+    return "Kinri Backend Running ✅"
