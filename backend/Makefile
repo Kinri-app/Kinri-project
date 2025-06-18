@@ -6,7 +6,7 @@ DB_CONTAINER = backend-db-1
 .PHONY: start stop restart build clean ssh-api ssh-db run
 
 start: ## Start containers in detached mode
-	docker-compose up -d
+	docker-compose up
 
 stop: ## Stop running containers
 	docker-compose stop
@@ -31,3 +31,20 @@ ssh-db: ## Open bash shell in Postgres container
 
 run: ## Run Flask app inside web container (attach)
 	docker-compose exec api flask run --host=0.0.0.0 --port=5000
+
+migrate: ## Generate a new migration script
+	docker-compose exec api flask db migrate -m "Auto migration"
+
+upgrade: ## Apply migrations to the database
+	docker-compose exec api flask db upgrade
+
+downgrade: ## Revert the last migration (careful!)
+	docker-compose exec api flask db downgrade
+
+migrate-upgrade: migrate upgrade ## Run migrate and then upgrade in sequence
+
+migrate-init: ## Initialize migration scripts folder
+	docker-compose exec api flask db init
+
+test: ## Run pytest locally (assuming virtualenv activated)
+	pytest -s

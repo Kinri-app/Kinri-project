@@ -6,6 +6,8 @@ services:
     environment:
       - FLASK_ENV=development
       - DATABASE_URL=postgresql://postgres:postdev@db:5432/kinri_db
+      - SECRET_KEY=supersecretkeychangeme
+      - JWT_SECRET_KEY=anothersupersecretkeychangeme
     volumes:
       - .:/code
     depends_on:
