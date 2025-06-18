@@ -1,6 +1,8 @@
 # app/__init__.py
 
 from flask import Flask
+
+from app.auth.models import TokenBlocklist
 from app.core.config import Config
 from app.core.database import db, migrate
 from flask_jwt_extended import JWTManager
@@ -20,6 +22,12 @@ def create_app(test_config=None):
     migrate.init_app(app, db)
 
     jwt = JWTManager(app)
+
+    @jwt.token_in_blocklist_loader
+    def check_if_token_revoked(jwt_header, jwt_payload):
+        jti = jwt_payload["jti"]
+        token = db.session.query(TokenBlocklist.id).filter_by(jti=jti).first()
+        return token is not None
 
     from .routes import main
     from .auth.routes import auth_bp

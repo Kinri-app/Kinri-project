@@ -1,10 +1,12 @@
 # app/auth/routes.py
 
 from flask import Blueprint, request
+
+from app.auth.models import TokenBlocklist
 from app.core.database import db
 from app.user.models import User
 from flask_jwt_extended import (
-    create_access_token, create_refresh_token, jwt_required, get_jwt_identity
+    create_access_token, create_refresh_token, jwt_required, get_jwt_identity, get_jwt
 )
 from app.core.utils import standard_response
 from app.user.schemas import RegisterSchema, LoginSchema
@@ -108,4 +110,20 @@ def refresh():
         status_code=200,
         message="Access token refreshed",
         data={"access_token": new_token}
+    )
+
+@auth_bp.route('/logout', methods=['POST'])
+@jwt_required()
+def logout():
+    jti = get_jwt()["jti"]
+    db.session.add(TokenBlocklist(jti=jti))
+    db.session.commit()
+
+    return standard_response(
+        status="OK",
+        status_code=200,
+        message="Logout successful",
+        reason="Token revoked",
+        developer_message=f"JWT {jti} added to blocklist",
+        data={}
     )
