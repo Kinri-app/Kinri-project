@@ -37,3 +37,13 @@ def test_update_user_profile(test_client, user_access_token):
     assert data["status"] == "OK"
     assert data["data"]["user"]["email"] == new_email
     print("\033[92mUser profile updated successfully\033[0m")
+
+def test_delete_user_account(test_client, user_access_token):
+    res = test_client.delete("/user/delete", headers={
+        "Authorization": f"Bearer {user_access_token}"
+    })
+    assert res.status_code == 200
+    data = res.get_json()
+    assert data["status"] == "OK"
+    assert "User account deleted successfully" in data["message"]
+    print("\033[92mUser account deleted successfully\033[0m")
