@@ -8,7 +8,7 @@ from app.core.utils import standard_response
 
 from app.user.schemas import UpdateUserSchema
 
-user_bp = Blueprint("user", __name__, url_prefix="/user")
+user_bp = Blueprint("user", __name__, url_prefix="/users")
 
 
 @user_bp.route("/profile", methods=["GET"])
