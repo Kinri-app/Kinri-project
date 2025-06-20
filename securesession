@@ -1,0 +1,106 @@
+import React, { useEffect, useRef, useState } from 'react';
+import {
+  AppState,
+  AppStateStatus,
+  Modal,
+  Text,
+  View,
+  StyleSheet,
+  TouchableOpacity,
+  Platform
+} from 'react-native';
+
+interface SecureSessionProps {
+  children: React.ReactNode;
+  onTimeout: () => void;
+}
+
+const TIMEOUT_MS = 5 * 60 * 1000;
+const WARNING_MS = 30 * 1000;
+
+export const SecureSession: React.FC<SecureSessionProps> = ({ children, onTimeout }) => {
+  const [showWarning, setShowWarning] = useState(false);
+  const [secondsLeft, setSecondsLeft] = useState(30);
+  const timer = useRef<NodeJS.Timeout | null>(null);
+  const countdown = useRef<NodeJS.Timeout | null>(null);
+  const appState = useRef<AppStateStatus>('active');
+
+  const clearTimers = () => {
+    if (timer.current) clearTimeout(timer.current);
+    if (countdown.current) clearInterval(countdown.current);
+  };
+
+  const startWarning = () => {
+    setShowWarning(true);
+    setSecondsLeft(WARNING_MS / 1000);
+
+    countdown.current = setInterval(() => {
+      setSecondsLeft(prev => {
+        if (prev <= 1) {
+          clearTimers();
+          setShowWarning(false);
+          onTimeout();
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+  };
+
+  const resetSession = () => {
+    clearTimers();
+    setShowWarning(false);
+    timer.current = setTimeout(startWarning, TIMEOUT_MS - WARNING_MS);
+  };
+
+  const handleActivity = () => resetSession();
+
+  useEffect(() => {
+    const sub = AppState.addEventListener('change', (state: AppStateStatus) => {
+      if (state === 'active' && appState.current !== 'active') {
+        resetSession();
+      }
+      appState.current = state;
+    });
+
+    const listener = () => handleActivity();
+    const events = Platform.OS === 'web' ? ['mousedown', 'keydown'] : ['touchstart'];
+
+    events.forEach((e) => document?.addEventListener?.(e, listener));
+    resetSession();
+
+    return () => {
+      sub.remove();
+      events.forEach((e) => document?.removeEventListener?.(e, listener));
+      clearTimers();
+    };
+  }, []);
+
+  return (
+    <>
+      {children}
+      <Modal visible={showWarning} transparent animationType="fade">
+        <View style={styles.overlay}>
+          <View style={styles.card}>
+            <Text style={styles.header}>⏳ Session Expiring</Text>
+            <Text style={styles.text}>You’ll be logged out in <Text style={styles.count}>{secondsLeft}</Text> seconds.</Text>
+            <TouchableOpacity style={styles.button} onPress={resetSession}>
+              <Text style={styles.btnText}>Stay Logged In</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </Modal>
+    </>
+  );
+};
+
+const styles = StyleSheet.create({
+  overlay: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#0008' },
+  card: { backgroundColor: '#fff', padding: 24, borderRadius: 12, width: '80%', alignItems: 'center' },
+  header: { fontSize: 18, fontWeight: 'bold', marginBottom: 8 },
+  text: { fontSize: 16, marginBottom: 12, textAlign: 'center' },
+  count: { fontWeight: 'bold', color: '#C00' },
+  button: { backgroundColor: '#007bff', paddingVertical: 10, paddingHorizontal: 20, borderRadius: 8 },
+  btnText: { color: '#fff', fontWeight: '600' }
+});
+
