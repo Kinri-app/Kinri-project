@@ -1,6 +1,9 @@
 from datetime import datetime, timezone
 from flask import jsonify
 
+from datetime import datetime, timezone
+from flask import jsonify
+
 
 def standard_response(
         status: str,
@@ -29,9 +32,13 @@ def standard_response(
         "status": status,
         "statusCode": status_code,
         "message": message,
-        "reason": reason if reason else None,
-        "developerMessage": developer_message if developer_message else None,
-        "data": data if data else None
     }
+
+    if reason is not None:
+        response_body["reason"] = reason
+    if developer_message is not None:
+        response_body["developerMessage"] = developer_message
+    if data is not None:
+        response_body["data"] = data
 
     return jsonify(response_body), status_code

@@ -1,8 +1,9 @@
 # app/user/routes.py
 
-from flask import Blueprint, jsonify, g
+from flask import Blueprint, g
 from app import supabase
 from app.auth.decorators import requires_auth
+from app.core.utils import standard_response
 
 # Create a Flask Blueprint for user-related routes
 user_bp = Blueprint('users', __name__)
@@ -26,20 +27,37 @@ def get_user_data():
 
     # Handle possible errors from Supabase
     if hasattr(response, "error") and response.error:
-        return jsonify({"error": str(response.error)}), 500
+        return standard_response(
+            status="INTERNAL_SERVER_ERROR",
+            status_code=500,
+            message="Failed to fetch user data from database.",
+            developer_message=str(response.error)
+        )
 
     # Return the list of user records
-    return jsonify(response.data)
+    return standard_response(
+        status="OK",
+        status_code=200,
+        message="User data retrieved successfully.",
+        data={"users": response.data}
+    )
 
 
-# Protected route to get the current user's profile information
 @user_bp.route('/profile', methods=["GET"])
 @requires_auth
 def profile():
     """
-    GET /users/profile
+    GET /user/profile
     Returns the profile information of the authenticated user.
     Requires a valid JWT token in the Authorization header.
+
+    Returns:
+        - 200: The user profile data in JSON format.
     """
     user = g.current_user
-    return jsonify(user)
+    return standard_response(
+        status="OK",
+        status_code=200,
+        message="User profile retrieved successfully.",
+        data={"user": user}
+    )
