@@ -1,0 +1,18 @@
+{
+  "sessionId": "abc123-uuid",
+  "timestamp": "2025-06-20T00:04:00Z",
+  "event": "QUESTION_ANSWERED",
+  "questionId": "T2Q3",
+  "responseValue": 2,
+  "scoreDelta": 1,
+  "metadataTags": ["disconnection", "boundary rupture"],
+  "deviceId": "device-abc987",
+  "promptTemplateHash": "SHA256hashvalue",
+  "appVersion": "1.1.0",
+  "platform": "iOS",
+  "authContext": {
+    "authProvider": "supabase",
+    "userUid": "supabase-uid123"
+  },
+  "ip_hash": "SHA256(IP + salt)"
+}
