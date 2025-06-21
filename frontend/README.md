@@ -28,7 +28,8 @@ Welcome to the **Kinri** frontend – a responsive and accessible user interface
 ## 🔧 Setup
 
 1. **Clone the repository**
-   ```bash
+
+```bash
    git clone https://github.com/your-username/kinri-frontend.git
    cd kinri-frontend
 ````
