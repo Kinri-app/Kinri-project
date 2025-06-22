@@ -36,3 +36,5 @@ class Vaultcard(Base):
     emotion: Mapped[str] = mapped_column(db.String(150))
     narrative_type: Mapped[str] = mapped_column(db.String(150), nullable=False)
     usage_mode: Mapped[str] = mapped_column(db.String(150), nullable=False)
+
+
