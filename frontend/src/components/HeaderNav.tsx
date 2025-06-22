@@ -11,7 +11,7 @@ const HeaderNav = () => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
     const { isAuthenticated, user, logout } = useAuth0();
 
-    const popoverItems: PopoverItem[] = [
+    const accountMenuItems: PopoverItem[] = [
         {
             label: "My profile",
             to: "/profile",
@@ -45,7 +45,7 @@ const HeaderNav = () => {
                 <div className="hidden lg:flex lg:flex-1 lg:justify-end cursor-pointer">
                     {
                         isAuthenticated ?
-                            <GenericPopover label={user?.name ?? "Account"} items={popoverItems} />
+                            <GenericPopover label={user?.name ?? "Account"} items={accountMenuItems} />
                             :
                             <LoginButton />
                     }

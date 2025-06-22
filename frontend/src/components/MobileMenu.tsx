@@ -6,7 +6,8 @@ import { XMarkIcon } from "@heroicons/react/20/solid";
 import NavLinks from "./NavLinks";
 import LoginButton from "../auth/components/LoginButton";
 import { useAuth0 } from "@auth0/auth0-react";
-import LogoutButton from "../auth/components/LogoutButton";
+import type { PopoverItem } from "./GenericPopover";
+import MobileDisclosure from "./MobileDisclosure";
 
 interface MobileMenuProps {
     open: boolean;
@@ -18,7 +19,24 @@ const MobileMenu = ({
     setOpen,
 }: MobileMenuProps) => {
 
-    const { isAuthenticated } = useAuth0();
+    const { isAuthenticated, logout, user } = useAuth0();
+
+    const accountMenuItems: PopoverItem[] = [
+        {
+            label: "My profile",
+            to: "/profile",
+        },
+        {
+            label: "Logout",
+            onClick: () =>
+                logout({
+                    logoutParams: {
+                        returnTo: window.location.origin,
+                    },
+                }),
+            className: "text-red-700"
+        },
+    ];
 
     return (
         <Dialog open={open} onClose={setOpen} className="lg:hidden">
@@ -28,12 +46,12 @@ const MobileMenu = ({
                 </button>
                 <div className="mt-6 space-y-4">
                     <NavLinks className="block text-base font-semibold text-gray-900 hover:bg-gray-100 rounded px-3 py-2" />
-
                     {
                         isAuthenticated ?
-                            <LogoutButton className="block w-full text-left text-base font-semibold hover:bg-gray-50 rounded px-3 py-2 text-red-700 cursor-pointer" /> :
+                            <MobileDisclosure label={user?.name ?? "Account"} items={accountMenuItems} /> :
                             <LoginButton className="block w-full text-left text-base font-semibold hover:bg-gray-50 rounded px-3 py-2 text-yellow-600 cursor-pointer" />
                     }
+
                 </div>
             </DialogPanel>
         </Dialog>
