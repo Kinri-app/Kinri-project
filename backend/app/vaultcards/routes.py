@@ -7,6 +7,8 @@ from marshmallow import ValidationError
 
 
 # -------------------Vaultcard Routes--------------------------
+
+# Function to return all vault cards
 @vaultcards_bp.route("/", methods=["GET"])
 def get_vaultcards():
     query = select(Vaultcard)
@@ -14,6 +16,7 @@ def get_vaultcards():
 
     return vaultcards_schema.jsonify(result), 200
 
+# Function to return a single vaultcard by its id
 @vaultcards_bp("/<int:vaultcard_id")
 def get_vaultcard_by_id(vaultcard_id):
     try:

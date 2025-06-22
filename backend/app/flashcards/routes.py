@@ -6,6 +6,8 @@ from sqlalchemy import select
 from marshmallow import ValidationError
 
 # --------------Flashcard routes------------------------------
+
+# Function to return all flashcards
 @flashcards_bp.route("/", methods=["GET"])
 def get_flashcards():
     query = select(Flashcard)
@@ -13,6 +15,7 @@ def get_flashcards():
 
     return flashcards_schema.jsonify(result), 200
 
+# Function to return single flashcard by it's ID
 @flashcards_bp("/<int:flashcard_id")
 def get_flashcard_by_id(flashcard_id):
     try:
