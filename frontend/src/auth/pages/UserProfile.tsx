@@ -1,16 +1,11 @@
 import { useAuth0 } from "@auth0/auth0-react";
-import { useEffect } from "react";
 import Unauthorize from "../components/Unauthorize";
+import Loader from "../../components/Loader";
 
 const UserProfile = () => {
   const { isAuthenticated, user, isLoading } = useAuth0();
 
-  useEffect(() => {
-    console.log("isAuthenticated:", isAuthenticated);
-    console.log("user:", user);
-  }, [isAuthenticated, user]);
-
-  if (isLoading) return <p className="text-center py-10 text-gray-500">Loading...</p>;
+  if (isLoading) return <Loader />;
   if (!isAuthenticated) return <Unauthorize />;
 
   return (

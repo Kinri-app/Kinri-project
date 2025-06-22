@@ -17,20 +17,26 @@ function Hero() {
                         Kinri is your secure space for understanding emotional experiences. Using intelligent diagnostic flows and AI-driven insight cards, we help you explore personal growth with clarity, empathy, and safety.
                     </p>
 
-                    <div className="mt-6 flex justify-center gap-4">
-                        {!isAuthenticated ?
+                    <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:justify-center sm:gap-4">
+                        {!isAuthenticated ? (
                             <LoginButton />
-                            :
-                            <ButtonLink to="/profile" className="border-yellow-500 text-yellow-500 hover:border-yellow-600 hover:text-yellow-600">
+                        ) : (
+                            <ButtonLink
+                                to="/profile"
+                                className="border-yellow-500 text-yellow-500 hover:border-yellow-600 hover:text-yellow-600 w-full sm:w-auto text-center"
+                            >
                                 Check your profile
                             </ButtonLink>
-                        }
+                        )}
 
-                        <ButtonLink to="/features" className="border-gray-200 text-gray-700 hover:bg-gray-50 hover:text-gray-900">
+                        <ButtonLink
+                            to="/features"
+                            className="border-gray-200 text-gray-700 hover:bg-gray-50 hover:text-gray-900 w-full sm:w-auto text-center"
+                        >
                             Learn more
                         </ButtonLink>
-
                     </div>
+
                 </div>
             </div>
         </section>

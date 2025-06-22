@@ -5,15 +5,32 @@ import MobileMenu from "./MobileMenu";
 import LoginButton from "../auth/components/LoginButton";
 import NavLinks from "./NavLinks";
 import { useAuth0 } from "@auth0/auth0-react";
-import LogoutButton from "../auth/components/LogoutButton";
+import GenericPopover, { type PopoverItem } from "./GenericPopover";
 
 const HeaderNav = () => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-    const { isAuthenticated } = useAuth0();
+    const { isAuthenticated, user, logout } = useAuth0();
+
+    const popoverItems: PopoverItem[] = [
+        {
+            label: "My profile",
+            to: "/profile",
+        },
+        {
+            label: "Logout",
+            onClick: () =>
+                logout({
+                    logoutParams: {
+                        returnTo: window.location.origin,
+                    },
+                }),
+            className: "text-red-700"
+        },
+    ];
 
     return (
-        <header className="bg-white sticky top-0">
-            <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
+        <header className="bg-white sticky top-0 shadow-sm">
+            <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
                 <div className="flex lg:flex-1">
                     <NavLogo />
                 </div>
@@ -28,7 +45,7 @@ const HeaderNav = () => {
                 <div className="hidden lg:flex lg:flex-1 lg:justify-end cursor-pointer">
                     {
                         isAuthenticated ?
-                            <LogoutButton />
+                            <GenericPopover label={user?.name ?? "Account"} items={popoverItems} />
                             :
                             <LoginButton />
                     }
