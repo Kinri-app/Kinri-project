@@ -1,0 +1,90 @@
+import React, { useState } from 'react';
+
+const VaultIntegrityCheck = () => {
+  const [computedHash, setComputedHash] = useState('');
+  const [expectedHash, setExpectedHash] = useState('');
+  const [status, setStatus] = useState(null);
+  const [filename, setFilename] = useState('');
+  const [error, setError] = useState('');
+
+  const fetchExpectedHash = async () => {
+    try {
+      const res = await fetch('/api/vault-hash?file=vault_stage1.json'); // Adjust pathing
+      const data = await res.json();
+      setExpectedHash(data.hash);
+    } catch (err) {
+      setError('Failed to load expected hash from server');
+    }
+  };
+
+  const hashFile = async (file) => {
+    const arrayBuffer = await file.arrayBuffer();
+    const hashBuffer = await crypto.subtle.digest('SHA-256', arrayBuffer);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  };
+
+  const handleFile = async (file) => {
+    setError('');
+    setFilename(file.name);
+    await fetchExpectedHash();
+
+    const hash = await hashFile(file);
+    setComputedHash(hash);
+
+    const outcome = hash === expectedHash ? 'valid' : 'tampered';
+    setStatus(outcome);
+
+    // Optional: Log result
+    await fetch('/api/log-vault-check', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        timestamp: new Date().toISOString(),
+        vaultFile: file.name,
+        hashValid: outcome === 'valid',
+        hash: hash
+      })
+    });
+  };
+
+  const handleDrop = (e) => {
+    e.preventDefault();
+    const file = e.dataTransfer.files[0];
+    if (file && file.name.endsWith('.json')) handleFile(file);
+  };
+
+  return (
+    <div
+      onDrop={handleDrop}
+      onDragOver={(e) => e.preventDefault()}
+      className="max-w-lg mx-auto p-6 border-dashed border-2 border-gray-400 rounded-md text-center bg-gray-50"
+    >
+      <h2 className="text-xl font-bold mb-4">Vault Integrity Checker</h2>
+      <p className="text-sm mb-4">Drag and drop a .json Vault file or <label htmlFor="fileUpload" className="text-blue-600 cursor-pointer underline">browse manually</label>.</p>
+      <input
+        type="file"
+        id="fileUpload"
+        accept=".json"
+        onChange={(e) => handleFile(e.target.files[0])}
+        className="hidden"
+      />
+
+      {filename && (
+        <div className="mt-4 text-left">
+          <p className="text-sm mb-1"><strong>File:</strong> {filename}</p>
+          <p className="text-sm break-words"><strong>Computed Hash:</strong> {computedHash}</p>
+          <p className={`mt-2 font-semibold ${status === 'valid' ? 'text-green-600' : 'text-red-600'}`}>
+            {status === 'valid'
+              ? '✅ File is verified. No tampering detected.'
+              : '❌ Integrity check failed. Possible file modification.'}
+          </p>
+        </div>
+      )}
+
+      {error && <p className="mt-4 text-red-600 text-sm">{error}</p>}
+    </div>
+  );
+};
+
+export default VaultIntegrityCheck;
