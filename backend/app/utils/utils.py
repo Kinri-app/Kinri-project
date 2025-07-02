@@ -1,9 +1,7 @@
 import json
 import os
 from dotenv import load_dotenv
-from mistralai import Mistral
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 
 load_dotenv()
 # Questionnaire to get users weighted score per each condition using a likert_scale and ten questions then return top 3 in json format
