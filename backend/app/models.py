@@ -37,4 +37,11 @@ class Vaultcard(Base):
     narrative_type: Mapped[str] = mapped_column(db.String(150), nullable=False)
     usage_mode: Mapped[str] = mapped_column(db.String(150), nullable=False)
 
+class AssessmentQuestion(Base):
+    __tablename__="assessment_questions"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    question: Mapped[str] = mapped_column(db.String(350), unique=True, nullable=False)
+    conditions: Mapped[str] = mapped_column(db.String(350), unique=True, nullable=False)
+
 

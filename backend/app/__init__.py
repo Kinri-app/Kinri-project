@@ -3,6 +3,7 @@
 from flask import Flask
 from supabase import create_client, Client
 from .core.config import Config
+from supabase_client import SUPABASE_KEY, SUPABASE_URL
 
 # Global Supabase client instance used throughout the app
 supabase: Client = None
