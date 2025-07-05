@@ -1,10 +1,8 @@
 from supabase_client import fetch_vault_cards
 from app.utils.utils import questionnaire
 from mistralai import Mistral
-import numpy as np
-import faiss
 import os
-from getpass import getpass
+
 
 assessment = questionnaire()
 table_data = fetch_vault_cards("Kinri_Symptom_Prompts_With_Vault_Tags")
@@ -59,3 +57,12 @@ run_mistral(assessment, table_data, """You are a therapeutic assistant helping u
                                     - Always respond like a calm, curious emotional support guide.
 
                                     Begin only after receiving the vault card JSON and conditions list.""")
+
+
+# Start slim with the prompting and 
+# Run a bunch of prompts and track the responses to 
+# at least have the chatbot ready to show for monday and it should have some 
+# This is running hosted mistral by using the api_key
+
+# TODO: How to request chat with the api
+# TODO: Check out running the chatbot with a widget

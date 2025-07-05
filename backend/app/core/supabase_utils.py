@@ -62,3 +62,7 @@ def sync_user_with_supabase(payload):
     else:
         # Return the existing user
         return data[0]
+    
+
+
+
