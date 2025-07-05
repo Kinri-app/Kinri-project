@@ -1,15 +1,15 @@
 import { useAuth0 } from "@auth0/auth0-react";
-import Unauthorize from "../components/Unauthorize";
+import Unauthorized from "../components/Unauthorized";
 import Loader from "../../components/Loader";
 
 const UserProfile = () => {
   const { isAuthenticated, user, isLoading } = useAuth0();
 
   if (isLoading) return <Loader />;
-  if (!isAuthenticated) return <Unauthorize />;
+  if (!isAuthenticated) return <Unauthorized />;
 
   return (
-    <section className="bg-white lg:grid lg:h-full lg:place-content-center border-t border-gray-100">
+    <section className="bg-white grid place-content-center border-t border-gray-100">
       <div className="mx-auto w-screen max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8 lg:py-32">
         <div className="mx-auto max-w-xl text-center">
           <img

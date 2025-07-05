@@ -1,7 +1,7 @@
 import ButtonLink from "../../components/ButtonLink";
 import LoginButton from "./LoginButton";
 
-function Unauthorize() {
+function Unauthorized() {
     return (
         <section className="grid min-h-full place-items-center bg-white px-6 py-24 sm:py-32 lg:px-8">
             <div className="text-center">
@@ -23,4 +23,4 @@ function Unauthorize() {
     );
 }
 
-export default Unauthorize;
+export default Unauthorized;
