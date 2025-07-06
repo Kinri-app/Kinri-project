@@ -1,7 +1,8 @@
 import {useAuth0} from "@auth0/auth0-react";
-import Unauthorized from "../components/Unauthorized";
 import Loader from "../../components/Loader";
 import {useEffect, useState} from "react";
+import axios from "axios"
+import Unauthorized from "./Unauthorized.tsx";
 
 const UserProfile = () => {
     const {isAuthenticated, getAccessTokenSilently, user, isLoading} = useAuth0();
@@ -12,13 +13,12 @@ const UserProfile = () => {
         const fetchPrivateData = async () => {
             try {
                 const token = await getAccessTokenSilently()
-                const res = await fetch('http://localhost:5000/api/users/profile', {
+                const res = await axios.get('http://localhost:5000/api/users/profile', {
                     headers: {
                         Authorization: `Bearer ${token}`
                     }
                 })
-                const json = await res.json()
-                setProfileData(json)
+                setProfileData(res.data)
             } catch (error) {
                 console.error("Error fetching private data:", error)
             }
