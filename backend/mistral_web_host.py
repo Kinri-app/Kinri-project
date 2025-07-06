@@ -53,4 +53,4 @@ def mistral_chat():
         assistant_response, chat = ask_mistral(user_input, model, chat)
         print("Assistant:", assistant_response)
 
-# mistral_chat()
+mistral_chat()

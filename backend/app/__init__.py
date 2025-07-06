@@ -37,7 +37,9 @@ def create_app():
 
     # Import and register blueprints
     from .user.routes import user_bp
+    from .routes import main_bp
 
+    app.register_blueprint(main_bp, url_prefix='/')
     app.register_blueprint(user_bp, url_prefix='/users')
 
     return app
