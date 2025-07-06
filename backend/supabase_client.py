@@ -24,11 +24,15 @@ def fetch_vault_cards(table_name):
 
     if response.ok:
         print("✅ Connected! Here's your data:")
-        print(response.json())
-        return response.json
+        # print(response.json())
+        return response.json()
 
     else:
         print("❌ Connection failed:", response.status_code, response.text)
         print("SUPABASE_KEY:", SUPABASE_KEY)  # Just to check
 
 # symptom_prompt_with_vault_tags = fetch_vault_cards(table_name)
+
+
+
+
