@@ -71,6 +71,8 @@ class User(Base):
     password_hash: Mapped[str] = mapped_column(String(150), nullable=False)
     age: Mapped[int] = mapped_column(Integer)
     location: Mapped[str] = mapped_column(String(250))
+    currrent_emotion: Mapped[str] = mapped_column(String(100))
+    last_emotion: Mapped[str] = mapped_column(String(100))
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc)) #Using lambda so this is recorded when the row is created
     updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
     

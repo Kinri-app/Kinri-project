@@ -1,10 +1,10 @@
 from app.models import MistralChat
 from app.extensions import ma
 
-class MistralChatSchema(ma.SQLAlchemyAutoSchema):
+class ChatSchema(ma.SQLAlchemyAutoSchema):
     class Meta:
-        model = MistralChat
+        model = Chat
 
 
-mistralchat_schema = MistralChatSchema()
-mistralchats_schema = MistralChatSchema(many=True)
+chat_schema = ChatSchema()
+chats_schema = ChatSchema(many=True)

@@ -33,6 +33,8 @@ class Config:
     SUPABASE_URL = os.getenv("SUPABASE_URL")
     SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
+    MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+    
     FRONTEND_URL = os.getenv("FRONTEND_URL", "http://localhost:5173/")
 
     SECRET_KEY = os.getenv("SECRET_KEY")
