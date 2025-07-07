@@ -23,7 +23,7 @@ const AssessmentQuestionnaire = () => {
             ...responses.filter((r) => r.id !== currentQuestion.id),
             {id: currentQuestion.id, score},
         ];
-
+        
         setResponses(updatedResponses);
 
         const isLast = current >= diagnosticQuestions.length - 1;

@@ -27,19 +27,19 @@ def get_questions_conditions_weights():
     
         rows = response.data
 
-        # Group by question text
-        grouped = defaultdict(lambda: {"question": "", "conditions": {}})
+        # If you access a key that doesn't exist, it automatically creates this structure: {"question": "", "conditions": {}} 
+        grouped = defaultdict(lambda: {"question": "", "conditions": {}}) #defaultdict allows us to bypass if key not in group logic, it autocreates if not there and then appends to already existing keys
 
         for row in rows:
             question_text = row["assessment_questions"]["question"]
             condition_name = row["conditions"]["name"]
             weight = row["weight"]
 
-            grouped[question_text]["question"] = question_text
-            grouped[question_text]["conditions"][condition_name] = weight
+            grouped[question_text]["question"] = question_text #Creates "question":"this is a sample question"
+            grouped[question_text]["conditions"][condition_name] = weight #creates "conditions": {"CPTSD": 1, "GAD": 0.5, "PTSD": 0.5}
 
         # Convert defaultdict to list
-        result = list(grouped.values())
+        result = list(grouped.values()) #Converts it to a list of objects in json format
         return jsonify(result), 200
 
     except Exception as e:

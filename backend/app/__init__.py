@@ -52,13 +52,20 @@ def create_app():
     from .chat.routes import chat_bp
     from .routes import api_bp
     from .questions.routes import questions_bp
+    from .assessment.routes import assessment_bp
 
     # Register individual blueprints under the main /api prefix
     api_bp.register_blueprint(user_bp, url_prefix='/users')
     api_bp.register_blueprint(chat_bp, url_prefix='/chat')
     api_bp.register_blueprint(questions_bp, url_prefix='/assessment_questions')
+    api_bp.register_blueprint(assessment_bp, url_prefix='/assessment')
 
     # Register the main API blueprint
     app.register_blueprint(api_bp)
+
+    print("Registered routes:")
+    for rule in app.url_map.iter_rules():
+        print(rule)
+
 
     return app
