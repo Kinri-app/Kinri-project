@@ -1,9 +1,10 @@
 import json
 import os
 from dotenv import load_dotenv
-from sklearn.metrics.pairwise import cosine_similarity
 
 load_dotenv()
+
+
 # Questionnaire to get users weighted score per each condition using a likert_scale and ten questions then return top 3 in json format
 def questionnaire():
     # This is used to create a direct path to the 'questions_weights.json' file
@@ -13,12 +14,11 @@ def questionnaire():
     with open(file_path, 'r', encoding='utf-8') as file:
         questions = json.load(file)
 
-
     likert_scale = {
         "never": 0,
-        "rarely":1,
+        "rarely": 1,
         "sometimes": 2,
-        "often":3,
+        "often": 3,
         "always": 4
     }
 
@@ -43,7 +43,7 @@ def questionnaire():
                 print("Invalid input. Try again.")
 
         score_value = likert_scale[user_input] / 4  # Normalize to 0.0 - 1.0
-    # Using match and case to assign values to assesssment scores
+        # Using match and case to assign values to assesssment scores
         for condition, weight in question['conditions'].items():
             match condition.lower():
                 case 'cptsd':
@@ -78,19 +78,16 @@ def questionnaire():
 
     print(top_3_json_convert)
     return top_3_json_convert
-    
 
     # print("\nTop 3 Likely Conditions:")
     # for condition, score in top_3:
     #     print(f"{condition.upper()}: {score:.2f}")
-    
+
+    # Used to calculate scores for potential user conditions or interests
+    # Final score = (user_score / 4) * weight
 
 
-
-            # Used to calculate scores for potential user conditions or interests
-            # Final score = (user_score / 4) * weight
-
-# questionnaire()
+questionnaire()
 
 # Function to get cofidence score of 2 vectors.
 # Base functionality to compare user input to vault cards
