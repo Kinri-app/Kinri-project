@@ -24,7 +24,6 @@ def fetch_vault_cards(table_name):
 
     if response.ok:
         print("✅ Connected! Here's your data:")
-        # print(response.json())
         return response.json()
 
     else:

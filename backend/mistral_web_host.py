@@ -17,8 +17,8 @@ def ask_mistral(message, model, chat_history):
     return assistant_message.content, chat_history + [{"role": "user", "content": message}, assistant_message]
 
 def mistral_chat():
-    print("Welcome to Echo – your intuitive mental health companion.")
-    print("Let's begin by completing your mental health assessment.\n")
+    # print("Welcome to Echo – your intuitive mental health companion.")
+    # print("Let's begin by completing your mental health assessment.\n")
 
     # Replace this with questionnaire() when ready
     assessment = questionnaire()
