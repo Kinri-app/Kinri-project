@@ -36,7 +36,7 @@ def create_app():
     app.config.from_object(Config)
 
     # Setup CORS for React frontend
-    CORS(app, origins=["http://localhost:5173"], supports_credentials=True)
+    CORS(app, resources={r"/api/*": {"origins": "http://localhost:5173"}}, supports_credentials=True)
 
     # Initialize the Supabase client using credentials from the config
     supabase = create_client(

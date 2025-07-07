@@ -1,28 +1,31 @@
-import {create} from "zustand";
-import {nanoid} from "nanoid";
-import type {Message} from "../chatTypes.ts";
+import {create} from 'zustand';
+import {sendMessageToAI} from "../services/chatService.ts";
+import type {AIChatMessage} from "../types/chatTypes.ts";
 
 interface ChatState {
-    messages: Message[];
-    sendMessage: (text: string) => void;
+    chatHistory: AIChatMessage[];
+    loading: boolean;
+    error: string | null;
+    sendMessage: (message: string) => Promise<void>;
+    resetChat: () => void;
 }
 
-export const useChatStore = create<ChatState>((set) => ({
-    messages: [],
-    sendMessage: (text) => {
-        const userMsg: Message = {
-            id: nanoid(),
-            text,
-            sender: "user",
-        };
-        const aiMsg: Message = {
-            id: nanoid(),
-            text: "This is a placeholder response from the AI.",
-            sender: "ai",
-        };
+export const useChatStore = create<ChatState>((set, get) => ({
+    chatHistory: [],
+    loading: false,
+    error: null,
 
-        set((state) => ({
-            messages: [...state.messages, userMsg, aiMsg],
-        }));
+    sendMessage: async (message: string) => {
+        const {chatHistory} = get();
+        set({loading: true, error: null});
+
+        try {
+            const data = await sendMessageToAI(message, chatHistory);
+            set({chatHistory: data.chat_history, loading: false});
+        } catch (err: any) {
+            set({error: err.message, loading: false});
+        }
     },
+
+    resetChat: () => set({chatHistory: [], error: null})
 }));

@@ -4,29 +4,44 @@ import {PaperAirplaneIcon} from "@heroicons/react/16/solid";
 
 const ChatInput = () => {
     const [message, setMessage] = useState("");
-    const sendMessage = useChatStore((state) => state.sendMessage);
+    const {sendMessage, loading} = useChatStore();
 
-    const handleSubmit = (e: React.FormEvent) => {
+    const handleSend = async (e: { preventDefault: () => void; }) => {
         e.preventDefault();
         if (!message.trim()) return;
-        sendMessage(message);
-        setMessage("");
+        await sendMessage(message);
+        setMessage('');
     };
 
     return (
-        <form onSubmit={handleSubmit} className="flex items-center space-x-2">
+        <form onSubmit={handleSend} className="flex items-center space-x-2">
             <input
-                className="flex h-10 w-full rounded-md border border-gray-300 px-3 py-2 text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-gray-300"
-                placeholder="Type your message"
+                className={`flex h-10 w-full rounded-md border px-3 py-2 text-sm text-gray-800 focus:outline-none transition
+      ${loading
+                    ? 'border-gray-200 bg-gray-100 cursor-not-allowed opacity-60'
+                    : 'border-gray-300 focus:ring-2 focus:ring-gray-300'
+                }`}
+                placeholder={loading ? "Loading..." : "Type your message"}
                 value={message}
+                disabled={loading}
                 onChange={(e) => setMessage(e.target.value)}
             />
+
             <button
                 type="submit"
-                className=" border border-yellow-600 text-yellow-600 h-10 px-3 py-2 focus:outline-none rounded-md cursor-pointer hover:bg-yellow-600 hover:text-white
-             active:bg-yellow-400 transition font-medium"
+                disabled={loading}
+                className={`h-10 px-3 py-2 rounded-md text-sm font-medium text-white transition
+      ${loading
+                    ? 'bg-gray-400 cursor-not-allowed'
+                    : 'bg-yellow-600 hover:bg-yellow-700 active:bg-yellow-700'
+                }`}
             >
-                <PaperAirplaneIcon className="w-5 h-5"/>
+                {loading ? (
+                    <div
+                        className="animate-spin h-5 w-5 border-2 border-white border-t-transparent rounded-full mx-auto"/>
+                ) : (
+                    <PaperAirplaneIcon className="w-5 h-5"/>
+                )}
             </button>
         </form>
     );
