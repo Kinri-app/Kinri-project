@@ -1,31 +1,42 @@
-from app.vaultcards import vaultcards_bp 
-from app.vaultcards.schemas import vaultcard_schema, vaultcards_schema
-from flask import request, jsonify
-from app.models import Vaultcard, db
-from sqlalchemy import select
-from marshmallow import ValidationError
+from app import supabase
+from flask import Blueprint, request, jsonify
 
-
+vaultcards_bp = Blueprint('vaultcards_bp', __name__)
 # -------------------Vaultcard Routes--------------------------
 
 # Function to return all vault cards
 @vaultcards_bp.route("/", methods=["GET"])
 def get_vaultcards():
-    query = select(Vaultcard)
-    result = db.session.execute(query).scalars().all()
 
-    return vaultcards_schema.jsonify(result), 200
-
-# Function to return a single vaultcard by its id
-@vaultcards_bp("/<int:vaultcard_id", methods=['GET'])
-def get_vaultcard_by_id(vaultcard_id):
     try:
-        query = select(Vaultcard).where(Vaultcard.id == vaultcard_id)
-        single_vaultcard = db.session.execute(query)
+        # 2. Get question-condition-weight mappings from Supabase
+        response = supabase.table("tier1_2_batch1").select('Symptom, "Echo-Friendly Description", Tier, "Sample Weights"').execute()
 
-    except ValidationError as e:
-        return jsonify(e.messages), 400
+        # 3. Transform Supabase flat rows into nested format
+        raw_rows = response.data
+        vaultcard_map = {}
+
+        for row in raw_rows:
+            symptom = row["Symptom"]
+            description = row["Echo-Friendly Description"]
+            tier = row["Tier"]
+            weights = row["Sample Weights"]
+
+            if symptom not in vaultcard_map:
+                vaultcard_map[symptom] = {
+                    "symptom": symptom,
+                    "description": description,
+                    "tier": tier,
+                    "weights": weights
+                }
+
+        vaultcards = list(vaultcard_map.values())
+
+
+        # 5. Return the scores to frontend
+        return jsonify(vaultcards), 200
     
-    db.session.commit()
-    
-    return jsonify(single_vaultcard)
+    except Exception as e:
+        print("Error in assessment route:", str(e))
+        return jsonify({"error": str(e)}), 500
+
