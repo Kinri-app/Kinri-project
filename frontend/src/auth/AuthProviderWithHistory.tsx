@@ -1,6 +1,6 @@
-import { Auth0Provider, type AppState } from "@auth0/auth0-react"
-import type { ReactNode } from "react"
-import { useNavigate } from "react-router"
+import {Auth0Provider, type AppState} from "@auth0/auth0-react"
+import type {ReactNode} from "react"
+import {useNavigate} from "react-router"
 
 interface Props {
     children: ReactNode
@@ -8,8 +8,9 @@ interface Props {
 
 const domain = import.meta.env.VITE_AUTH0_DOMAIN
 const clientId = import.meta.env.VITE_AUTH0_CLIENT_ID
+const audience = import.meta.env.VITE_AUTH0_AUDIENCE
 
-export default function AuthProviderWithHistory({ children }: Props) {
+export default function AuthProviderWithHistory({children}: Props) {
     const navigate = useNavigate()
 
 
@@ -23,6 +24,7 @@ export default function AuthProviderWithHistory({ children }: Props) {
             clientId={clientId}
             authorizationParams={{
                 redirect_uri: window.location.origin,
+                audience
             }}
             onRedirectCallback={onRedirectCallback}
         >
