@@ -1,12 +1,19 @@
-import {create} from 'zustand';
-import {sendMessageToAI} from "../services/chatService.ts";
-import type {AIChatMessage} from "../types/chatTypes.ts";
+import { create } from "zustand";
+import {
+    evaluateAssessmentWithAI,
+    sendMessageToAI,
+} from "../services/chatService.ts";
+import type { AIChatMessage } from "../types/chatTypes.ts";
+import type { AssessmentResponseItem } from "../../assessments/types/assessmentTypes.ts";
 
 interface ChatState {
     chatHistory: AIChatMessage[];
     loading: boolean;
     error: string | null;
     sendMessage: (message: string) => Promise<void>;
+    evaluateAssessment: (
+        assessmentResponseItems: AssessmentResponseItem[]
+    ) => void;
     setChatHistory: (chatHistory: AIChatMessage[]) => void;
     resetChat: () => void;
 }
@@ -17,18 +24,39 @@ export const useChatStore = create<ChatState>((set, get) => ({
     error: null,
 
     sendMessage: async (message: string) => {
-        const {chatHistory} = get();
-        set({loading: true, error: null});
+        const { chatHistory } = get();
+        set({ loading: true, error: null });
 
         try {
             const data = await sendMessageToAI(message, chatHistory);
-            set({chatHistory: data.chat_history, loading: false});
+            set({
+                chatHistory: data.chat_history,
+                loading: false,
+            });
         } catch (err: any) {
-            set({error: err.message, loading: false});
+            set({ error: err.message, loading: false });
+        }
+    },
+    evaluateAssessment: async (
+        assessmentResponseItems: AssessmentResponseItem[]
+    ) => {
+        set({ loading: true, error: null });
+
+        try {
+            const data = await evaluateAssessmentWithAI(
+                assessmentResponseItems
+            );
+
+            set({
+                chatHistory: data.chat_history,
+                loading: false,
+            });
+        } catch (err: any) {
+            set({ error: err.message, loading: false });
         }
     },
     setChatHistory: async (chatHistory: AIChatMessage[]) => {
-        set({chatHistory});
+        set({ chatHistory });
     },
-    resetChat: () => set({chatHistory: [], error: null})
+    resetChat: () => set({ chatHistory: [], error: null }),
 }));

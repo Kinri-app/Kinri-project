@@ -1,7 +1,8 @@
 import ChatInput from "./ChatInput";
-import {useChatStore} from "../store/chatStore.ts";
+import { useChatStore } from "../store/chatStore.ts";
 import ChatMessage from "./ChatMessage";
-import {useEffect} from "react";
+import { useEffect } from "react";
+import { useAssessmentStore } from "../../assessments/store/assessmentStore.ts";
 
 const welcomeMessage = `
 Hi there, and welcome. I'm really glad you're here.
@@ -22,13 +23,21 @@ How does that sound?
 
 
 const ChatBox = () => {
-    const {chatHistory, setChatHistory, error} = useChatStore();
-
+    const { chatHistory, setChatHistory, evaluateAssessment, error } = useChatStore();
+    const { responses, clearResponses } = useAssessmentStore()
     useEffect(() => {
-        if (chatHistory.length === 0) {
-            setChatHistory([{role: "assistant", content: welcomeMessage}]);
+        const fetchAssessmentData = async () => {
+            await evaluateAssessment(responses || []);
         }
-    }, [chatHistory.length, setChatHistory]);
+
+        if (chatHistory.length === 0 && !responses) {
+            setChatHistory([{ role: "assistant", content: welcomeMessage }]);
+        } else if (responses) {
+            fetchAssessmentData();
+            clearResponses();
+        }
+
+    }, [chatHistory.length, setChatHistory, responses, clearResponses, evaluateAssessment]);
 
 
     return (
@@ -44,13 +53,13 @@ const ChatBox = () => {
             {/* Chat messages section */}
             <div className="flex-1 overflow-y-auto px-6 py-4 space-y-4">
                 {chatHistory.map((msg, i) => (
-                    <ChatMessage key={i} role={msg.role} content={msg.content}/>
+                    <ChatMessage key={i} role={msg.role} content={msg.content} />
                 ))}
             </div>
 
             {/* Input section */}
             <div className="px-6 py-4 border-t border-t-gray-200">
-                <ChatInput/>
+                <ChatInput />
             </div>
         </div>
     );

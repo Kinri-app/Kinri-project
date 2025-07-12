@@ -19,6 +19,6 @@ export interface DiagnosticQuestion {
 }
 
 export interface AssessmentResponseItem {
-    questionId: string;
+    id: string;
     score: number;
 }

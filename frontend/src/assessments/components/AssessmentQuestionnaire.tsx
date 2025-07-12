@@ -1,10 +1,10 @@
-import {useState} from 'react';
-import {useNavigate} from 'react-router';
+import { useState } from 'react';
+import { useNavigate } from 'react-router';
 import QuestionCard from './QuestionCard';
 import ProgressBar from './ProgressBar';
-import {diagnosticQuestions} from '../utils/questions.ts';
-import {type Answer, answerScores, type AssessmentResponseItem} from '../types/assessmentTypes.ts';
-import {useAssessmentStore} from '../store/assessmentStore';
+import { diagnosticQuestions } from '../utils/questions.ts';
+import { type Answer, answerScores, type AssessmentResponseItem } from '../types/assessmentTypes.ts';
+import { useAssessmentStore } from '../store/assessmentStore';
 
 const AssessmentQuestionnaire = () => {
     const [current, setCurrent] = useState(0);
@@ -20,8 +20,8 @@ const AssessmentQuestionnaire = () => {
 
         // Update or insert the current response
         const updatedResponses = [
-            ...responses.filter((r) => r.questionId !== currentQuestion.id),
-            {questionId: currentQuestion.id, score},
+            ...responses.filter((r) => r.id !== currentQuestion.id),
+            { id: currentQuestion.id, score },
         ];
 
         setResponses(updatedResponses);
@@ -45,10 +45,10 @@ const AssessmentQuestionnaire = () => {
                 <h2 className="text-lg font-medium text-gray-700">
                     Question {current + 1} of {diagnosticQuestions.length}
                 </h2>
-                <QuestionCard question={currentQuestion.question} onAnswer={handleAnswer}/>
+                <QuestionCard question={currentQuestion.question} onAnswer={handleAnswer} />
             </div>
 
-            <ProgressBar current={current} total={diagnosticQuestions.length}/>
+            <ProgressBar current={current} total={diagnosticQuestions.length} />
         </div>
     );
 };

@@ -19,7 +19,6 @@ const UserProfile = () => {
                     }
                 })
 
-                console.log({token})
                 setProfileData(res.data)
             } catch (error) {
                 console.error("Error fetching private data:", error)

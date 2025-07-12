@@ -36,16 +36,17 @@ def create_app():
     app.config.from_object(Config)
 
     # Setup CORS for React frontend
-    CORS(app, resources={r"/api/*": {"origins": "http://localhost:5173"}}, supports_credentials=True)
-
-    # Initialize the Supabase client using credentials from the config
-    supabase = create_client(
-        app.config['SUPABASE_URL'],
-        app.config['SUPABASE_KEY']
+    CORS(
+        app,
+        resources={r"/api/*": {"origins": "http://localhost:5173"}},
+        supports_credentials=True,
     )
 
+    # Initialize the Supabase client using credentials from the config
+    supabase = create_client(app.config["SUPABASE_URL"], app.config["SUPABASE_KEY"])
+
     # Initialize the Mistral client using credentials from the config
-    mistral = Mistral(api_key=app.config['MISTRAL_API_KEY'])
+    mistral = Mistral(api_key=app.config["MISTRAL_API_KEY"])
 
     # Import and register blueprints
     from .user.routes import user_bp
@@ -56,11 +57,11 @@ def create_app():
     from .flashcards.routes import flashcards_bp
 
     # Register individual blueprints under the main /api prefix
-    api_bp.register_blueprint(user_bp, url_prefix='/users')
-    api_bp.register_blueprint(chat_bp, url_prefix='/chat')
-    api_bp.register_blueprint(assessment_bp, url_prefix='/assessment')
-    api_bp.register_blueprint(vaultcards_bp, url_prefix='/vaultcards')
-    api_bp.register_blueprint(flashcards_bp, url_prefix='/flashcards')
+    api_bp.register_blueprint(user_bp, url_prefix="/users")
+    api_bp.register_blueprint(chat_bp, url_prefix="/chat")
+    api_bp.register_blueprint(assessment_bp, url_prefix="/assessments")
+    api_bp.register_blueprint(vaultcards_bp, url_prefix="/vaultcards")
+    api_bp.register_blueprint(flashcards_bp, url_prefix="/flashcards")
 
     # Register the main API blueprint
     app.register_blueprint(api_bp)
@@ -68,6 +69,5 @@ def create_app():
     print("Registered routes:")
     for rule in app.url_map.iter_rules():
         print(rule)
-
 
     return app
