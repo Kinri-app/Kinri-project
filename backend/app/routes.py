@@ -1,9 +1,10 @@
 # app/routes.py
 from flask import Blueprint
 
-main = Blueprint("main", __name__)
+# This blueprint wraps all API routes under the "/api" path
+api_bp = Blueprint("api", __name__, url_prefix="/api")
 
 
-@main.route("/")
+@api_bp.route("/")
 def index():
-    return "Kinri Backend Running ✅"
+    return {"message": "Kinri App Running!"}

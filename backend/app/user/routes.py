@@ -4,6 +4,7 @@ from flask import Blueprint, g
 from app import supabase
 from app.auth.decorators import requires_auth
 from app.core.utils import standard_response
+import json
 
 # Create a Flask Blueprint for user-related routes
 user_bp = Blueprint('users', __name__)

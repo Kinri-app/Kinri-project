@@ -1,9 +1,7 @@
 import json
 import os
 from dotenv import load_dotenv
-from mistralai import Mistral
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 
 load_dotenv()
 # Questionnaire to get users weighted score per each condition using a likert_scale and ten questions then return top 3 in json format
@@ -67,10 +65,6 @@ def questionnaire():
                 case _:
                     print(f"Unknown condition: {condition}")
 
-    # Show results
-    # print("\nAssessment Score Totals:")
-    # for condition, score in assessment_score.items():
-    #     print(f"{condition.upper()}: {score:.2f}")
 
     top_3 = sorted(assessment_score.items(), key=lambda x: x[1], reverse=True)[:3]
 
@@ -81,21 +75,6 @@ def questionnaire():
     print(top_3_json_convert)
     return top_3_json_convert
     
-
-    # print("\nTop 3 Likely Conditions:")
-    # for condition, score in top_3:
-    #     print(f"{condition.upper()}: {score:.2f}")
-    
-
-
-
-            # Used to calculate scores for potential user conditions or interests
-            # Final score = (user_score / 4) * weight
-
-# questionnaire()
-
-# Function to get cofidence score of 2 vectors.
-# Base functionality to compare user input to vault cards
 
 def cosine_confidence(vec1, vec2) -> float:
     """Returns cosine similarity as a proxy confidence score between 0 and 1."""

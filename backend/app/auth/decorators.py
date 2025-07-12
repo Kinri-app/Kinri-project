@@ -3,9 +3,9 @@
 from functools import wraps
 from flask import g
 from app.auth.utils import get_rsa_key, ALGORITHMS, API_AUDIENCE, AUTH0_DOMAIN
-from app.core.supabase_utils import sync_user_with_supabase
 from jose import jwt
 from app.core.utils import standard_response
+from app.user.services.user_service import sync_user_to_supabase
 
 
 def requires_auth(f):
@@ -74,7 +74,7 @@ def requires_auth(f):
                 developer_message=str(e)
             )
 
-        user = sync_user_with_supabase(payload)
+        user = sync_user_to_supabase(payload)
         g.current_user = user
         return f(*args, **kwargs)
 
