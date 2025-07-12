@@ -17,3 +17,8 @@ export interface DiagnosticQuestion {
     question: string;
     conditions: ConditionWeights;
 }
+
+export interface AssessmentResponseItem {
+    questionId: string;
+    score: number;
+}

@@ -1,13 +1,10 @@
 import {create} from 'zustand'
+import type {AssessmentResponseItem} from "../types/assessmentTypes.ts";
 
-interface ResponseItem {
-    id: string;
-    score: number;
-}
 
 interface AssessmentResults {
-    responses: ResponseItem[] | null;
-    setResponses: (newResults: ResponseItem[]) => void;
+    responses: AssessmentResponseItem[] | null;
+    setResponses: (newResults: AssessmentResponseItem[]) => void;
     clearResponses: () => void;
 }
 

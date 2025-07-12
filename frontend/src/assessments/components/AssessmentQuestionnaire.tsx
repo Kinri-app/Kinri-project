@@ -3,12 +3,12 @@ import {useNavigate} from 'react-router';
 import QuestionCard from './QuestionCard';
 import ProgressBar from './ProgressBar';
 import {diagnosticQuestions} from '../utils/questions.ts';
-import {type Answer, answerScores} from '../types/assessmentTypes.ts';
+import {type Answer, answerScores, type AssessmentResponseItem} from '../types/assessmentTypes.ts';
 import {useAssessmentStore} from '../store/assessmentStore';
 
 const AssessmentQuestionnaire = () => {
     const [current, setCurrent] = useState(0);
-    const [responses, setResponses] = useState<{ id: string; score: number }[]>([]);
+    const [responses, setResponses] = useState<AssessmentResponseItem[]>([]);
     const setResults = useAssessmentStore((state) => state.setResponses);
     const navigate = useNavigate();
 
@@ -20,10 +20,10 @@ const AssessmentQuestionnaire = () => {
 
         // Update or insert the current response
         const updatedResponses = [
-            ...responses.filter((r) => r.id !== currentQuestion.id),
-            {id: currentQuestion.id, score},
+            ...responses.filter((r) => r.questionId !== currentQuestion.id),
+            {questionId: currentQuestion.id, score},
         ];
-        
+
         setResponses(updatedResponses);
 
         const isLast = current >= diagnosticQuestions.length - 1;
