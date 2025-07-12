@@ -7,6 +7,7 @@ interface ChatState {
     loading: boolean;
     error: string | null;
     sendMessage: (message: string) => Promise<void>;
+    setChatHistory: (chatHistory: AIChatMessage[]) => void;
     resetChat: () => void;
 }
 
@@ -26,6 +27,8 @@ export const useChatStore = create<ChatState>((set, get) => ({
             set({error: err.message, loading: false});
         }
     },
-
+    setChatHistory: async (chatHistory: AIChatMessage[]) => {
+        set({chatHistory});
+    },
     resetChat: () => set({chatHistory: [], error: null})
 }));

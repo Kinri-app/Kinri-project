@@ -1,9 +1,34 @@
 import ChatInput from "./ChatInput";
 import {useChatStore} from "../store/chatStore.ts";
 import ChatMessage from "./ChatMessage";
+import {useEffect} from "react";
+
+const welcomeMessage = `
+Hi there, and welcome. I'm really glad you're here.
+
+You don’t need to have taken an assessment to talk with me—just showing up is enough. 
+I’m here to support you however you need, whether that’s listening, offering insights, or simply being present.
+
+If you’ve been feeling a bit stressed lately, that’s completely okay. 
+Stress is a common response to life’s challenges, and you’re not alone in it.
+
+If you’re curious, I can gently share more about how stress affects us—physically, emotionally, and mentally—and 
+some ways to manage it. But there’s no pressure. 
+
+Whatever you feel comfortable with, we’ll go at your pace.
+
+How does that sound?
+`;
+
 
 const ChatBox = () => {
-    const {chatHistory,error} = useChatStore();
+    const {chatHistory, setChatHistory, error} = useChatStore();
+
+    useEffect(() => {
+        if (chatHistory.length === 0) {
+            setChatHistory([{role: "assistant", content: welcomeMessage}]);
+        }
+    }, [chatHistory.length, setChatHistory]);
 
 
     return (
