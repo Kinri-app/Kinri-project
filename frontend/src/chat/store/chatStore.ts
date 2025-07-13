@@ -28,9 +28,9 @@ export const useChatStore = create<ChatState>((set, get) => ({
         set({ loading: true, error: null });
 
         try {
-            const data = await sendMessageToAI(message, chatHistory);
+            const { history } = await sendMessageToAI(message, chatHistory);
             set({
-                chatHistory: data.chat_history,
+                chatHistory: history,
                 loading: false,
             });
         } catch (err: any) {
@@ -43,12 +43,12 @@ export const useChatStore = create<ChatState>((set, get) => ({
         set({ loading: true, error: null });
 
         try {
-            const data = await evaluateAssessmentWithAI(
+            const { history } = await evaluateAssessmentWithAI(
                 assessmentResponseItems
             );
 
             set({
-                chatHistory: data.chat_history,
+                chatHistory: history,
                 loading: false,
             });
         } catch (err: any) {

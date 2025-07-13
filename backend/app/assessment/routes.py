@@ -79,7 +79,7 @@ def evaluate():
             status="OK",
             status_code=200,
             message="Chat response generated successfully.",
-            data={"reply": reply, "chat_history": updated_history},
+            data={"reply": reply, "history": updated_history},
         )
 
     except Exception as e:

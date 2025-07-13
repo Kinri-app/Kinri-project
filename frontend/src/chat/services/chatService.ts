@@ -38,11 +38,12 @@ export const evaluateAssessmentWithAI = async (
             assessmentResponseItems
         );
 
-        const { chat_history, reply } = response.data.data;
+        const { history, reply } = response.data.data;
 
-        chat_history.shift();
-
-        return { reply, chat_history };
+        return {
+            reply,
+            history: history.filter((message) => message.role === "assistant"),
+        };
     } catch (error: any) {
         const message =
             error?.response?.data?.developerMessage ||
