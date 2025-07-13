@@ -119,3 +119,15 @@ class QuestionConditionWeight(Base):
     condition: Mapped["Condition"] = relationship(back_populates="weights")
 
 
+class UserSessions(Base):
+    __tablename__ = "user_sessions"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), nullable=False)
+    conversation: Mapped[str] = mapped_column(Text)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
+    associate_vault_card_id: Mapped[int] = mapped_column(ForeignKey("vaultcard.id"))
+
+    user_vault_card: Mapped["Vaultcard"] = relationship(back_populates="vaultcard")
+    user_session: Mapped["User"] = relationship(back_populates="user")
+
