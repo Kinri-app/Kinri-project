@@ -5,6 +5,7 @@ import HeaderNav from './components/HeaderNav'
 import UserProfile from './auth/pages/UserProfile'
 import AssessmentPage from "./assessments/pages/AssessmentPage.tsx";
 import ChatPage from "./chat/pages/ChatPage.tsx";
+import FlashcardPage from "./flashcards/pages/FlashcardPage.tsx";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
                 <Route path="/profile" element={<UserProfile/>}/>
                 <Route path="/assessments" element={<AssessmentPage/>}/>
                 <Route path="/chat" element={<ChatPage/>}/>
+                <Route path="/flashcards" element={<FlashcardPage/>}/>
                 <Route path="*" element={<NotFound/>}/>
             </Routes>
         </main>
