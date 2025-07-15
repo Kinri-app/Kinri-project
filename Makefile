@@ -3,7 +3,7 @@
 # Variables
 BACKEND_DIR=backend
 FRONTEND_DIR=frontend
-PYTHON=python
+PYTHON=python3
 PIP=pip
 
 # Help command
@@ -20,12 +20,12 @@ help:
 setup-backend:
 	@echo "Setting up Python virtual environment and installing dependencies..."
 	@cd $(BACKEND_DIR) && $(PYTHON) -m venv .venv
-	@cd $(BACKEND_DIR) && .venv\Scripts\$(PIP).exe install -r requirements.txt
+	@cd $(BACKEND_DIR) && .venv/bin/$(PIP) install -r requirements.txt
 
 # Run backend
 run-backend:
 	@echo "Starting backend..."
-	@cd $(BACKEND_DIR) && .venv\Scripts\activate && flask run --reload
+	@cd $(BACKEND_DIR) && source .venv/bin/activate && flask run --reload --port 5001
 
 # Setup frontend
 setup-frontend:
@@ -41,7 +41,7 @@ run:
 	@echo "Running frontend and backend concurrently..."
 	@cd $(FRONTEND_DIR) && npm install concurrently cross-env --save-dev
 	@cd $(FRONTEND_DIR) && npx concurrently -n BACKEND,FRONTEND -c red,cyan \
-		"cd ../$(BACKEND_DIR) && npx cross-env FLASK_APP=run.py FLASK_ENV=development .venv\Scripts\flask.exe run --reload" \
+		"cd ../$(BACKEND_DIR) && source .venv/bin/activate && FLASK_APP=run.py FLASK_ENV=development flask run --reload --port 5001" \
 		"npm run dev"
 
 # Full setup
