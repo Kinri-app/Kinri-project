@@ -1,8 +1,9 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, g
 from app import supabase
 from app.chat.utils import ask_mistral
 from app.core.utils import standard_response
 from app.utils.assessment import calculate_condition_scores
+from app.auth.decorators import requires_auth
 from datetime import datetime, timezone
 from collections import defaultdict
 
@@ -11,7 +12,11 @@ assessment_bp = Blueprint("assessment_bp", __name__)
 
 
 @assessment_bp.route("/evaluate", methods=["POST"])
+@requires_auth
 def evaluate():
+    # Get the current user from the authentication decorator
+    current_user = g.current_user
+    user_id = current_user["id"]
 
     try:
         # data = request.json
@@ -79,7 +84,12 @@ def evaluate():
             status="OK",
             status_code=200,
             message="Chat response generated successfully.",
-            data={"reply": reply, "history": updated_history},
+            data={
+                "reply": reply, 
+                "history": updated_history,
+                "user_id": user_id,  # Include user_id in response
+                "scores": scores  # Include assessment scores
+            },
         )
 
     except Exception as e:
@@ -88,7 +98,12 @@ def evaluate():
 
 
 @assessment_bp.route("/assessment_questions", methods=["GET"])
+@requires_auth
 def get_assessment_questions():
+    # Get the current user from the authentication decorator
+    current_user = g.current_user
+    user_id = current_user["id"]
+
     try:
         response = supabase.table("assessment_questions").select("*").execute()
 
@@ -102,7 +117,12 @@ def get_assessment_questions():
 
 
 @assessment_bp.route("/condition_weights", methods=["GET"])
+@requires_auth
 def get_questions_conditions_weights():
+    # Get the current user from the authentication decorator
+    current_user = g.current_user
+    user_id = current_user["id"]
+
     try:
         response = (
             supabase.table("question_condition_weighting")

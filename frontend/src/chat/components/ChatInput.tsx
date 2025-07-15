@@ -1,15 +1,17 @@
 import {useState} from "react";
 import {useChatStore} from "../store/chatStore.ts";
 import {PaperAirplaneIcon} from "@heroicons/react/16/solid";
+import {useAuth0} from "@auth0/auth0-react";
 
 const ChatInput = () => {
     const [message, setMessage] = useState("");
     const {sendMessage, loading} = useChatStore();
+    const {getAccessTokenSilently} = useAuth0();
 
     const handleSend = async (e: { preventDefault: () => void; }) => {
         e.preventDefault();
         if (!message.trim()) return;
-        await sendMessage(message);
+        await sendMessage(message, getAccessTokenSilently);
         setMessage('');
     };
 

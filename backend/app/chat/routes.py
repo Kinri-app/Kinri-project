@@ -1,18 +1,24 @@
-from flask import request, Blueprint
+from flask import request, Blueprint, g
 from datetime import datetime, timezone
 from app.core.utils import standard_response
 from app.chat.utils import ask_mistral
+from app.auth.decorators import requires_auth
 
 
 chat_bp = Blueprint("chat_bp", __name__)
 
 
 @chat_bp.route("/", methods=["POST"])
+@requires_auth
 def chat():
     data = request.json
     message = data.get("message")
     history = data.get("history", [])
     model = "open-mistral-7b"
+
+    # Get the current user from the authentication decorator
+    current_user = g.current_user
+    user_id = current_user["id"]
 
     if not message:
         return standard_response(
@@ -30,7 +36,11 @@ def chat():
             status="OK",
             status_code=200,
             message="Chat response generated successfully.",
-            data={"reply": reply, "history": updated_history},
+            data={
+                "reply": reply, 
+                "history": updated_history,
+                "user_id": user_id  # Include user_id in response for debugging
+            },
         )
 
     except Exception as e:
