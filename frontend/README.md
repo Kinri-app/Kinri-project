@@ -27,34 +27,55 @@ Welcome to the **Kinri** frontend – a responsive and accessible user interface
 
 ## 🔧 Setup
 
-1. **Clone the repository**
+# Frontend Setup
 
+## Environment Variables
+
+Create a `.env` file in the frontend directory with the following variables:
+
+```env
+# Backend API Configuration
+VITE_API_BASE_URL=http://localhost:5000/api
+
+# Auth0 Configuration
+VITE_AUTH0_DOMAIN=your-auth0-domain.auth0.com
+VITE_AUTH0_CLIENT_ID=your-auth0-client-id
+VITE_AUTH0_AUDIENCE=your-auth0-audience
+```
+
+## Development
+
+1. Install dependencies:
 ```bash
-   git clone https://github.com/your-username/kinri-frontend.git
-   cd kinri-frontend
-````
+npm install
+```
 
-2. **Install dependencies**
+2. Start the development server:
+```bash
+npm run dev
+```
 
-   ```bash
-   npm install
-   ```
+The application will be available at `http://localhost:5173`.
 
-3. **Configure environment variables**
+## Features
 
-   Create a `.env` file in the root and add:
+- User authentication with Auth0
+- Global state management with Zustand
+- Centralized API service for backend communication
+- User profile management
+- Chat functionality
+- Assessment system
 
-   ```
-   VITE_AUTH0_DOMAIN=your-auth0-domain
-   VITE_AUTH0_CLIENT_ID=your-auth0-client-id
-   VITE_AUTH0_CALLBACK_URL=http://localhost:5173
-   ```
+## Architecture
 
-4. **Run the development server**
-
-   ```bash
-   npm run dev
-   ```
+The frontend is organized into:
+- `/src/components` - Reusable UI components
+- `/src/pages` - Page components
+- `/src/store` - Global state management (Zustand)
+- `/src/services` - API communication services
+- `/src/hooks` - Custom React hooks
+- `/src/types` - TypeScript type definitions
+- `/src/config` - Configuration files
 
 ## 🗂 Project Structure
 

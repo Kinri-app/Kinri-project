@@ -1,6 +1,6 @@
 # app/user/routes.py
 
-from flask import Blueprint
+from flask import Blueprint, g
 from app import supabase
 from app.auth.decorators import requires_auth
 from app.core.utils import standard_response

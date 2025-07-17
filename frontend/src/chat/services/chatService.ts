@@ -1,41 +1,41 @@
-import axios from "axios";
+import apiService from "../../services/api";
 import type { AIChatMessage, ChatResponseData } from "../types/chatTypes.ts";
 import type { StandardApiResponse } from "../../types/apiTypes.ts";
 import type { AssessmentResponseItem } from "../../assessments/types/assessmentTypes.ts";
 
-const API_URL = "http://localhost:5000/api";
-
 export const sendMessageToAI = async (
     message: string,
-    history: AIChatMessage[] = []
+    history: AIChatMessage[] = [],
+    token?: string
 ): Promise<ChatResponseData> => {
     try {
-        const response = await axios.post<StandardApiResponse>(
-            `${API_URL}/chat/`,
+        const response = await apiService.post<ChatResponseData>(
+            "/chat",
             {
                 message,
                 history,
-            }
+            },
+            token
         );
 
         return response.data.data;
     } catch (error: any) {
         const message =
-            error?.response?.data?.developerMessage ||
-            error?.response?.data?.message ||
+            error?.message ||
             "Unknown error occurred";
         throw new Error(message);
     }
 };
 
 export const evaluateAssessmentWithAI = async (
-    assessmentResponseItems: AssessmentResponseItem[]
+    assessmentResponseItems: AssessmentResponseItem[],
+    token?: string
 ): Promise<ChatResponseData> => {
     try {
-        const response = await axios.post<StandardApiResponse>(
-            `${API_URL}/assessments/evaluate`,
-
-            assessmentResponseItems
+        const response = await apiService.post<ChatResponseData>(
+            "/assessments/evaluate",
+            assessmentResponseItems,
+            token
         );
 
         const { history, reply } = response.data.data;
@@ -46,8 +46,7 @@ export const evaluateAssessmentWithAI = async (
         };
     } catch (error: any) {
         const message =
-            error?.response?.data?.developerMessage ||
-            error?.response?.data?.message ||
+            error?.message ||
             "Unknown error occurred";
         throw new Error(message);
     }

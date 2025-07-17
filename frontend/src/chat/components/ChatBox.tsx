@@ -3,6 +3,7 @@ import { useChatStore } from "../store/chatStore.ts";
 import ChatMessage from "./ChatMessage";
 import { useEffect } from "react";
 import { useAssessmentStore } from "../../assessments/store/assessmentStore.ts";
+import { useAuth0 } from "@auth0/auth0-react";
 
 const welcomeMessage = `
 Hi there, and welcome. I'm really glad you're here.
@@ -24,10 +25,20 @@ How does that sound?
 
 const ChatBox = () => {
     const { chatHistory, setChatHistory, evaluateAssessment, error } = useChatStore();
-    const { responses, clearResponses } = useAssessmentStore()
+    const { responses, clearResponses } = useAssessmentStore();
+    const { isAuthenticated, getAccessTokenSilently } = useAuth0();
+    
     useEffect(() => {
         const fetchAssessmentData = async () => {
-            await evaluateAssessment(responses || []);
+            try {
+                let token;
+                if (isAuthenticated) {
+                    token = await getAccessTokenSilently();
+                }
+                await evaluateAssessment(responses || [], token);
+            } catch (error) {
+                console.error('Error evaluating assessment:', error);
+            }
         }
 
         if (chatHistory.length === 0 && !responses) {
@@ -37,7 +48,7 @@ const ChatBox = () => {
             clearResponses();
         }
 
-    }, [chatHistory.length, setChatHistory, responses, clearResponses, evaluateAssessment]);
+    }, [chatHistory.length, setChatHistory, responses, clearResponses, evaluateAssessment, isAuthenticated, getAccessTokenSilently]);
 
 
     return (

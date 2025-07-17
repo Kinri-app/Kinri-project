@@ -1,14 +1,15 @@
 import {Auth0Provider, type AppState} from "@auth0/auth0-react"
 import type {ReactNode} from "react"
 import {useNavigate} from "react-router"
+import { AUTH0_CONFIG } from "../config/api"
 
 interface Props {
     children: ReactNode
 }
 
-const domain = import.meta.env.VITE_AUTH0_DOMAIN
-const clientId = import.meta.env.VITE_AUTH0_CLIENT_ID
-const audience = import.meta.env.VITE_AUTH0_AUDIENCE
+const domain = AUTH0_CONFIG.DOMAIN
+const clientId = AUTH0_CONFIG.CLIENT_ID
+const audience = AUTH0_CONFIG.AUDIENCE
 
 export default function AuthProviderWithHistory({children}: Props) {
     const navigate = useNavigate()
