@@ -22,7 +22,13 @@ def evaluate():
         user_responses = request.get_json()
 
         if not user_responses or not isinstance(user_responses, list):
-            return jsonify({"error": "Invalid input format"}), 400
+            return standard_response(
+                status="BAD_REQUEST",
+                status_code=400,
+                message="Invalid input format.",
+                reason="Expected a list of responses.",
+                developer_message="Ensure the frontend sends a list of response objects, e.g. [{question_id, response}]"
+            )
 
         # 2. Get question-condition-weight mappings from Supabase
         response = (
@@ -36,10 +42,19 @@ def evaluate():
         question_map = {}
 
         for row in raw_rows:
-            question_id = row["assessment_questions"]["id"]
-            condition = row["conditions"]["name"]
-            weight = row["weight"]
+            try:
+                question_id = row["assessment_questions"]["id"]
+                condition = row["conditions"]["name"]
+                weight = row["weight"]
 
+            except KeyError as e:
+                return standard_response(
+                    status="INTERNAL_SERVER_ERROR",
+                    status_code=500,
+                    message="Malformed Supabase row in question_condition_weighting.",
+                    developer_message=f"Missing key: {e}"
+                )
+        
             if question_id not in question_map:
                 question_map[question_id] = {"id": question_id, "conditions": {}}
 
@@ -47,9 +62,26 @@ def evaluate():
 
         question_weights = list(question_map.values())
 
-        # 4. Calculate condition scores
-        scores = calculate_condition_scores(user_responses, question_weights)
+        try:
+            print("Calculating scores")
+            # 4. Calculate condition scores
+            scores = calculate_condition_scores(user_responses, question_weights)
+            print(scores)
 
+        except Exception as e:
+            return standard_response(
+                status="INTERNAL_SERVER_ERROR",
+                status_code=500,
+                message="Error calculating condition scores.",
+                developer_message=str(e)
+            )
+        
+        vault_table_data = (
+            supabase.table("Kinri_Symptom_Prompts_With_Vault_Tags")
+            .select("*")
+            .execute()
+        )
+        
         prompt = """
                 "The user has just completed a mental health assessment.\n"
                 "You will be shown a list of related educational vault cards. Each contains a question and an answer.\n"
@@ -60,15 +92,11 @@ def evaluate():
                 "Ask the question associated with the Symptom key and follow it up with the description associated with the Echo friendly description key\n"
                 """
 
-        vault_table_data = (
-            supabase.table("Kinri_Symptom_Prompts_With_Vault_Tags")
-            .select("*")
-            .execute()
-        )
+
 
         system_message = (
             f"Assessment Results:\n{scores}\n\n"
-            f"Vault Table Data:\n{vault_table_data}\n\n"
+            f"Vault Table Data:\n{vault_table_data.data}\n\n"
             f"Instructions:\n{prompt}"
         )
 
@@ -83,8 +111,8 @@ def evaluate():
         )
 
     except Exception as e:
-        print("Error in assessment route:", str(e))
-        return jsonify({"error": str(e)}), 500
+        import traceback
+        traceback.print_exc()
 
 
 @assessment_bp.route("/assessment_questions", methods=["GET"])
