@@ -3,6 +3,8 @@ import { useChatStore } from "../store/chatStore.ts";
 import ChatMessage from "./ChatMessage";
 import { useEffect } from "react";
 import { useAssessmentStore } from "../../assessments/store/assessmentStore.ts";
+import { Popup } from "../../components/Popup.tsx";
+import { useAuth0 } from "@auth0/auth0-react";
 
 const welcomeMessage = `
 Hi there, and welcome. I'm really glad you're here.
@@ -23,26 +25,38 @@ How does that sound?
 
 
 const ChatBox = () => {
-    const { chatHistory, setChatHistory, evaluateAssessment, error } = useChatStore();
+    const { chatHistory, setChatHistory, evaluateAssessment, error, resetChat } = useChatStore();
+    const { getAccessTokenSilently } = useAuth0();
     const { answers, resetAnswers } = useAssessmentStore()
     useEffect(() => {
-        // const fetchAssessmentData = async () => {
-        //     await evaluateAssessment(responses || []);
-        // }
+        const fetchAssessmentData = async () => {
+            await evaluateAssessment(answers || [], await getAccessTokenSilently());
+        }
 
         if (chatHistory.length === 0 && answers.length === 0) {
             setChatHistory([{ role: "assistant", content: welcomeMessage }]);
         } else if (answers.length > 0) {
-            // fetchAssessmentData();
+            fetchAssessmentData();
             resetAnswers();
         }
 
-    }, [chatHistory.length, setChatHistory, evaluateAssessment, answers.length, resetAnswers]);
+    }, [chatHistory.length, setChatHistory, evaluateAssessment, answers.length, resetAnswers, answers, getAccessTokenSilently]);
 
 
     return (
         <div className="flex flex-col border border-gray-200 rounded-lg overflow-hidden shadow-sm h-[600px]">
-            <h2 className="text-red-500">{error}</h2>
+            {error && <Popup
+                isOpen={!!error}
+                type="error"
+                title="Authorization Error"
+                message={error}
+                actionText="Confirm"
+                onClose={() => resetChat()}
+                onAction={() => {
+                    resetChat();
+                }}
+            />}
+
 
             {/* Header section */}
             <div className="px-6 py-4 border-b border-b-gray-200 bg-kinri-primary">

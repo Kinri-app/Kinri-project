@@ -1,13 +1,14 @@
 import { create } from "zustand";
-import { assessmentOptions } from "../data/questions";
-import type { Question } from "../types/assessmentTypes";
+import type { AnswerItem, Question } from "../types/assessmentTypes";
+import { questions } from "../data/questions";
+
 
 interface AssessmentState {
     currentOption: number | null; // Option selected
     currentQuestion: Question | null; // Current question displayed
     currentStep: number; // Current question position
     totalQuestions: number;
-    answers: Record<string, number>[]; // key = questionId, value = answerScore
+    answers: AnswerItem[]; // key = questionId, value = answerScore
     setAnswer: (questionId: string, answerScore: number) => void;
     setQuestion: (question: Question) => void;
     setOption: (optionSelected: number) => void;
@@ -22,7 +23,7 @@ export const useAssessmentStore = create<AssessmentState>((set, get) => ({
     currentStep: 0,
     currentOption: null,
     currentQuestion: null,
-    totalQuestions: assessmentOptions.length,
+    totalQuestions: questions.length,
     answers: [],
     setQuestion: (newCurrentQuestion) =>
         set(() => ({
@@ -36,7 +37,7 @@ export const useAssessmentStore = create<AssessmentState>((set, get) => ({
 
     setAnswer: (questionId, answerScore) =>
         set((state) => ({
-            answers: [...state.answers, { [questionId]: answerScore }],
+            answers: [...state.answers, { id: questionId, score: answerScore }],
         })),
 
     goToNext: () => {

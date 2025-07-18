@@ -10,7 +10,7 @@ type ButtonProps = {
 const Button = ({ text, icon, isDisabled, variant = 'primary', fontSize = "text-lg", handleClick }: ButtonProps) => {
     const base = 'px-8 py-4 rounded-2xl font-medium transition-all duration-300 flex items-center justify-center gap-3'
     const variants = {
-        primary: 'bg-kinri-primary hover:bg-yellow-700 text-white shadow-lg hover:shadow-xl transform hover:-translate-y-1',
+        primary: 'bg-[#876E2C] hover:bg-[#876E2C]/90 text-white shadow-lg hover:shadow-xl transform',
         outline: 'bg-white/70 hover:bg-white text-kinri-primary border border-yellow-800/20 hover:border-yellow-800/40',
     }
 

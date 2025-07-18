@@ -4,7 +4,7 @@ import {
     sendMessageToAI,
 } from "../services/chatService.ts";
 import type { AIChatMessage } from "../types/chatTypes.ts";
-import type { AssessmentResponseItem } from "../../assessments/types/assessmentTypes.ts";
+import type { AnswerItem } from "../../assessments/types/assessmentTypes.ts";
 
 interface ChatState {
     chatHistory: AIChatMessage[];
@@ -12,7 +12,8 @@ interface ChatState {
     error: string | null;
     sendMessage: (message: string) => Promise<void>;
     evaluateAssessment: (
-        assessmentResponseItems: AssessmentResponseItem[]
+        assessmentResponseItems: AnswerItem[],
+        token: string
     ) => void;
     setChatHistory: (chatHistory: AIChatMessage[]) => void;
     resetChat: () => void;
@@ -38,13 +39,15 @@ export const useChatStore = create<ChatState>((set, get) => ({
         }
     },
     evaluateAssessment: async (
-        assessmentResponseItems: AssessmentResponseItem[]
+        assessmentResponseItems: AnswerItem[],
+        token: string
     ) => {
         set({ loading: true, error: null });
 
         try {
             const { history } = await evaluateAssessmentWithAI(
-                assessmentResponseItems
+                assessmentResponseItems,
+                token
             );
 
             set({

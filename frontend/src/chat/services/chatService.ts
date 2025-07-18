@@ -1,7 +1,7 @@
 import axios from "axios";
 import type { AIChatMessage, ChatResponseData } from "../types/chatTypes.ts";
 import type { StandardApiResponse } from "../../types/apiTypes.ts";
-import type { AssessmentResponseItem } from "../../assessments/types/assessmentTypes.ts";
+import type { AnswerItem } from "../../assessments/types/assessmentTypes.ts";
 
 const API_URL = "http://localhost:5000/api";
 
@@ -29,13 +29,19 @@ export const sendMessageToAI = async (
 };
 
 export const evaluateAssessmentWithAI = async (
-    assessmentResponseItems: AssessmentResponseItem[]
+    assessmentResponseItems: AnswerItem[],
+    token: string
 ): Promise<ChatResponseData> => {
     try {
         const response = await axios.post<StandardApiResponse>(
             `${API_URL}/assessments/evaluate`,
 
-            assessmentResponseItems
+            assessmentResponseItems,
+            {
+                headers: {
+                    Authorization: `Bearer ${token}`,
+                },
+            }
         );
 
         const { history, reply } = response.data.data;
