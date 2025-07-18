@@ -5,12 +5,14 @@ from app.core.utils import standard_response
 from app.utils.assessment import calculate_condition_scores
 from datetime import datetime, timezone
 from collections import defaultdict
+from app.auth.decorators import requires_auth
 
 
 assessment_bp = Blueprint("assessment_bp", __name__)
 
 
 @assessment_bp.route("/evaluate", methods=["POST"])
+@requires_auth
 def evaluate():
 
     try:
@@ -116,6 +118,7 @@ def evaluate():
 
 
 @assessment_bp.route("/assessment_questions", methods=["GET"])
+@requires_auth
 def get_assessment_questions():
     try:
         response = supabase.table("assessment_questions").select("*").execute()
@@ -130,6 +133,7 @@ def get_assessment_questions():
 
 
 @assessment_bp.route("/condition_weights", methods=["GET"])
+@requires_auth
 def get_questions_conditions_weights():
     try:
         response = (

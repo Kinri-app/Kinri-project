@@ -36,9 +36,10 @@ def create_app():
     app.config.from_object(Config)
 
     # Setup CORS for React frontend
+    frontend_url = app.config.get("FRONTEND_URL", "http://localhost:5173").rstrip("/")
     CORS(
         app,
-        resources={r"/api/*": {"origins": "http://localhost:5173"}},
+        resources={r"/api/*": {"origins": frontend_url}},
         supports_credentials=True,
     )
 
