@@ -1,9 +1,7 @@
-
+from dotenv import load_dotenv
 import os
 import requests
-from dotenv import load_dotenv
 
-# Config is designed for the supabase connection. Pulls in data from specified "table name"
 load_dotenv()
 
 SUPABASE_URL = "https://ksfnoxqnhaknivpizbby.supabase.co"

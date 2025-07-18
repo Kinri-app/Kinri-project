@@ -80,3 +80,16 @@ def cosine_confidence(vec1, vec2) -> float:
     """Returns cosine similarity as a proxy confidence score between 0 and 1."""
     sim = cosine_similarity([vec1], [vec2])[0][0]
     return round((sim + 1) / 2, 4)  # Normalize from [-1,1] to [0,1]
+
+def flatten_tags(card):
+    return {
+        "card_id": card["card_id"],
+        "card_type": card["card_type"],
+        "headline": card["headline"],
+        "body": card["body"],
+        "prompt": card["prompt"],
+        "condition": card["tags"].get("condition", []),
+        "emotion": card["tags"].get("emotion", []),
+        "narrative_type": card["tags"].get("narrative_type", []),
+        "usage_mode": card["tags"].get("usage_mode", [])
+    }
