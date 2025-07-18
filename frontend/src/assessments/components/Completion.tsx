@@ -1,3 +1,4 @@
+import { Link } from "react-router";
 import { useAssessmentStore } from "../store/assessmentStore";
 
 const Completion: React.FC = () => {
@@ -23,9 +24,9 @@ const Completion: React.FC = () => {
                     A summary will be available shortly.
                 </p>
             </div>
-            <button className="bg-[#876E2C] hover:bg-[#6d5623] text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-300 flex items-center mx-auto" onClick={handleClick}>
-                <i className="fas fa-download mr-2"></i>View Results
-            </button>
+            <Link to="/chat" className="bg-[#876E2C] hover:bg-[#6d5623] text-gray-100 font-semibold py-3 px-8 rounded-lg transition-colors duration-300 flex items-center justify-center mx-auto max-w-50" onClick={handleClick}>
+                <i className="fa-solid fa-message mr-2"></i>Get an Insight
+            </Link>
         </div>
     )
 };

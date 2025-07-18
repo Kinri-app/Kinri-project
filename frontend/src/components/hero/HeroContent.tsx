@@ -40,12 +40,23 @@ const HeroContent = () => {
 
                         />
                     )}
-                    <ButtonLink
-                        text="Learn More"
-                        icon="fas fa-info-circle"
-                        variant="outline"
-                        to="/learn-more"
-                    />
+                    {!isAuthenticated ? (
+                        <ButtonLink
+                            text="Learn More"
+                            icon="fas fa-info-circle"
+                            variant="outline"
+                            to="/learn-more"
+                        />
+                    ) : (
+                        <ButtonLink
+                            text="Chat with our AI"
+                            icon="fa-solid fa-message"
+                            variant="outline"
+                            to="/chat"
+
+                        />
+                    )}
+
                 </div>
             </div>
         </div>

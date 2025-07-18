@@ -15,6 +15,7 @@ interface AssessmentState {
     goToPrev: () => void;
     reset: () => void;
     resetOption: () => void;
+    resetAnswers: () => void;
 }
 
 export const useAssessmentStore = create<AssessmentState>((set, get) => ({
@@ -61,4 +62,5 @@ export const useAssessmentStore = create<AssessmentState>((set, get) => ({
         })),
 
     resetOption: () => set({ currentOption: null }),
+    resetAnswers: () => set({ answers: [] }),
 }));

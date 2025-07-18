@@ -24,30 +24,30 @@ How does that sound?
 
 const ChatBox = () => {
     const { chatHistory, setChatHistory, evaluateAssessment, error } = useChatStore();
-    const { responses, clearResponses } = useAssessmentStore()
+    const { answers, resetAnswers } = useAssessmentStore()
     useEffect(() => {
-        const fetchAssessmentData = async () => {
-            await evaluateAssessment(responses || []);
-        }
+        // const fetchAssessmentData = async () => {
+        //     await evaluateAssessment(responses || []);
+        // }
 
-        if (chatHistory.length === 0 && !responses) {
+        if (chatHistory.length === 0 && answers.length === 0) {
             setChatHistory([{ role: "assistant", content: welcomeMessage }]);
-        } else if (responses) {
-            fetchAssessmentData();
-            clearResponses();
+        } else if (answers.length > 0) {
+            // fetchAssessmentData();
+            resetAnswers();
         }
 
-    }, [chatHistory.length, setChatHistory, responses, clearResponses, evaluateAssessment]);
+    }, [chatHistory.length, setChatHistory, evaluateAssessment, answers.length, resetAnswers]);
 
 
     return (
-        <div className="flex flex-col border border-gray-200 rounded-lg shadow-sm bg-white h-[600px]">
+        <div className="flex flex-col border border-gray-200 rounded-lg overflow-hidden shadow-sm h-[600px]">
             <h2 className="text-red-500">{error}</h2>
 
             {/* Header section */}
-            <div className="px-6 py-4 border-b border-b-gray-200">
-                <h2 className="text-lg font-semibold text-gray-900">Echo AI</h2>
-                <p className="text-sm text-gray-500">Powered by Mistral</p>
+            <div className="px-6 py-4 border-b border-b-gray-200 bg-kinri-primary">
+                <h2 className="text-lg font-semibold text-gray-100">Echo AI</h2>
+                <p className="text-sm text-gray-200">Powered by Mistral</p>
             </div>
 
             {/* Chat messages section */}

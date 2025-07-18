@@ -30,7 +30,7 @@ const ChatInput = () => {
             <button
                 type="submit"
                 disabled={loading}
-                className={`h-10 px-3 py-2 rounded-md text-sm font-medium text-white transition
+                className={`h-10 px-3 py-2 rounded-md text-sm font-medium text-white transition cursor-pointer
       ${loading
                         ? 'bg-gray-400 cursor-not-allowed'
                         : 'bg-kinri-primary hover:bg-yellow-700 active:bg-yellow-700'
