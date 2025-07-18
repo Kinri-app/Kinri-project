@@ -8,7 +8,8 @@ const FlashcardGrid = () => {
 
     // useEffect(() => {
     //     loadFlashcards();
-    // }, [loadFlashcards]);
+    // }, [loadFlashcards]); 
+    // TODO: Make http request
 
     if (loading) return <Loader />;
     if (error) return <ErrorFallback />;

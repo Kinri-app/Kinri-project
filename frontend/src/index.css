@@ -24,3 +24,11 @@
 .rotate-y-180 {
     transform: rotateY(180deg);
 }
+
+.bg-kinri-soft {
+    background-color: #F5F3F0;
+}
+
+.bg-lavender-light {
+    background-color: #F3F0FF;
+}
