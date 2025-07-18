@@ -1,15 +1,14 @@
 import { useState } from "react";
-import { Bars3Icon } from "@heroicons/react/24/outline";
 import NavLogo from "./NavLogo";
 import MobileMenu from "./MobileMenu";
-import LoginButton from "../auth/components/LoginButton";
 import NavLinks from "./NavLinks";
 import { useAuth0 } from "@auth0/auth0-react";
 import GenericPopover, { type PopoverItem } from "./GenericPopover";
+import Button from "./Button"
 
 const HeaderNav = () => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-    const { isAuthenticated, user, logout } = useAuth0();
+    const { isAuthenticated, user, logout, loginWithRedirect } = useAuth0();
 
     const accountMenuItems: PopoverItem[] = [
         {
@@ -29,25 +28,30 @@ const HeaderNav = () => {
     ];
 
     return (
-        <header className="bg-white sticky top-0 shadow-sm">
+        <header className="bg-neutral-50 bg-gradient-to-br from-yellow-50/80 via-white to-yellow-50/80 sticky top-0 shadow-sm">
             <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
                 <div className="flex lg:flex-1">
                     <NavLogo />
                 </div>
                 <div className="flex lg:hidden">
-                    <button onClick={() => setMobileMenuOpen(true)} className="p-2 text-gray-700 cursor-pointer">
-                        <Bars3Icon className="h-7 w-7" />
+                    <button onClick={() => setMobileMenuOpen(true)} className="p-2 text-gray-900 hover:text-[#876E2C] duration-300 cursor-pointer">
+                        <i className="fas fa-bars text-xl"></i>
                     </button>
                 </div>
                 <div className="hidden lg:flex lg:gap-x-12">
-                    <NavLinks className={"text-sm font-semibold text-gray-900"} />
+                    <NavLinks className={"text-sm font-semibold text-gray-900 hover:text-[#876E2C] duration-300"} />
                 </div>
                 <div className="hidden lg:flex lg:flex-1 lg:justify-end cursor-pointer">
                     {
                         isAuthenticated ?
                             <GenericPopover label={user?.name ?? "Account"} items={accountMenuItems} />
                             :
-                            <LoginButton />
+                            <Button
+                                text="Login"
+                                icon="fas fa-sign-in-alt"
+                                fontSize="text-sm"
+                                handleClick={() => loginWithRedirect()}
+                            />
                     }
                 </div>
             </nav>

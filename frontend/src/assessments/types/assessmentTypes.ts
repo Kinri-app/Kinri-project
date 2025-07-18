@@ -1,24 +1,14 @@
-export type Answer = 'Never' | 'Rarely' | 'Sometimes' | 'Often' | 'Always';
+export type Answer = "Never" | "Rarely" | "Sometimes" | "Often" | "Always";
 
-export const answerScores: Record<Answer, number> = {
-    Never: 0,
-    Rarely: 1,
-    Sometimes: 2,
-    Often: 3,
-    Always: 4,
-};
 
-export interface ConditionWeights {
-    [condition: string]: number;
+export interface Option {
+    value: number;
+    label: string;
 }
 
-export interface DiagnosticQuestion {
+export interface Question {
     id: string;
-    question: string;
-    conditions: ConditionWeights;
-}
-
-export interface AssessmentResponseItem {
-    id: string;
-    score: number;
+    icon: string; // FontAwesome class
+    title: string;
+    subtitle: string;
 }

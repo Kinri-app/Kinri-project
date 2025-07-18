@@ -1,22 +1,13 @@
-import { Link } from "react-router";
-
-interface ButtonLinkProps {
-    to: string;
+type ButtonProps = {
     text: string
     icon?: string
     variant?: 'primary' | 'outline'
     fontSize?: string
-    handleClick?: () => void
+    isDisabled?: boolean
+    handleClick: () => void
 }
 
-const ButtonLink = ({
-    to,
-    variant = 'primary',
-    fontSize = "text-lg",
-    text,
-    icon,
-    handleClick,
-}: ButtonLinkProps) => {
+const Button = ({ text, icon, isDisabled, variant = 'primary', fontSize = "text-lg", handleClick }: ButtonProps) => {
     const base = 'px-8 py-4 rounded-2xl font-medium transition-all duration-300 flex items-center justify-center gap-3'
     const variants = {
         primary: 'bg-kinri-primary hover:bg-yellow-700 text-white shadow-lg hover:shadow-xl transform hover:-translate-y-1',
@@ -24,15 +15,11 @@ const ButtonLink = ({
     }
 
     return (
-        <Link
-            to={to}
-            onClick={handleClick}
-            className={`${base} ${variants[variant]} group ${fontSize} cursor-pointer`}
-        >
+        <button disabled={isDisabled} className={`${base} ${variants[variant]} group ${fontSize} cursor-pointer`} onClick={handleClick}>
             {icon && <i className={`${icon} text-xl group-hover:rotate-12 transition-transform duration-300`} />}
             {text}
-        </Link>
-    );
-};
+        </button>
+    )
+}
 
-export default ButtonLink;
+export default Button
