@@ -2,12 +2,14 @@ from flask import request, Blueprint
 from datetime import datetime, timezone
 from app.core.utils import standard_response
 from app.chat.utils import ask_mistral
+from app.auth.decorators import requires_auth
 
 
 chat_bp = Blueprint("chat_bp", __name__)
 
 
 @chat_bp.route("/", methods=["POST"])
+@requires_auth
 def chat():
     data = request.json
     message = data.get("message")
