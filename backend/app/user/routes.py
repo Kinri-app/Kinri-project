@@ -1,9 +1,10 @@
 # app/user/routes.py
 
-from flask import Blueprint
+from flask import Blueprint, g
 from app import supabase
 from app.auth.decorators import requires_auth
 from app.core.utils import standard_response
+from app.utils.utils import sync_user_to_db
 import json
 
 # Create a Flask Blueprint for user-related routes
@@ -55,6 +56,8 @@ def profile():
     Returns:
         - 200: The user profile data in JSON format.
     """
+    sync_user_to_db()
+    
     user = g.current_user
     return standard_response(
         status="OK",

@@ -2,6 +2,7 @@ import json
 import os
 from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
+import supabase
 
 load_dotenv()
 # Questionnaire to get users weighted score per each condition using a likert_scale and ten questions then return top 3 in json format
@@ -93,3 +94,36 @@ def flatten_tags(card):
         "narrative_type": card["tags"].get("narrative_type", []),
         "usage_mode": card["tags"].get("usage_mode", [])
     }
+
+def sync_user_to_db():
+    user = g.current_user
+    auth0_id = user.get("sub")
+    email = user.get("email")
+    name = user.get("name")
+    picture = user.get("picture")
+
+    existing = supabase.table("users").select("*").eq("auth0_id", auth0_id).single().execute()
+
+    if existing.data:
+        # The following compares and updates fields if needed
+        updates = {}
+
+        if existing.data.get("email") != email:
+            updates["email"] = email
+        if existing.data.get("name") != name:
+            updates["name"] = name
+        if existing.data.get("picture") != picture:
+            updates["picture"] = picture
+
+        if updates:
+            supabase.table("users").update(updates).eq("auth0_id", auth0_id).execute()
+            
+        return
+
+    # Insert new user
+    supabase.table("users").insert({
+        "id": auth0_id,
+        "email": email,
+        "name": name,
+        "picture": picture
+    }).execute()
