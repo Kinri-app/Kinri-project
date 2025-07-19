@@ -3,12 +3,13 @@ from sqlalchemy import select
 from app import supabase
 from app.auth.decorators import requires_auth
 from app.chat.utils import ask_mistral
+from app.utils.utils import cleanup_old_sessions
 
 sessions_bp = Blueprint('sessions_bp',__name__)
 
 # --------------Flashcard routes------------------------------
 
-# Function to return all flashcards
+# route to return all recorder sessions of the user
 @sessions_bp.route("/<user_id>", methods=["GET"])
 @requires_auth
 def get_user_sessions(id):
@@ -21,12 +22,18 @@ def get_user_sessions(id):
 @requires_auth
 def complete_session(session_id):
     data = request.get_json()
-    conversation = data.get("conversation")
+    full_chat_history = data.get("conversation")
 
-    if not conversation:
+    if not full_chat_history:
         return jsonify({"error": "Missing conversation text"}), 400
 
     user_id = g.current_user["id"]
+
+    data = request.get_json()
+    full_chat_history = data.get("conversation")
+
+    if not full_chat_history:
+        return jsonify({"error": "Missing conversation text"}), 400
 
     # 1. Prepare emotion inference prompt
     prompt = f"""
@@ -42,7 +49,7 @@ def complete_session(session_id):
         }}
 
         Chat history:
-        {conversation}
+        {full_chat_history}
     """
 
     try:
@@ -71,7 +78,7 @@ def complete_session(session_id):
 
         # 3. Structure update payload
         update_payload = {
-            "conversation": conversation,
+            "conversation": full_chat_history,
             "user_id": user_id,
             "user_emotions": ", ".join(emotion_data.get("emotions", [])),
             "emotional_intensity": emotion_data.get("intensity"),
