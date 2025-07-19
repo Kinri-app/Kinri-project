@@ -7,7 +7,8 @@ const API_URL = "http://localhost:5000/api";
 
 export const sendMessageToAI = async (
     message: string,
-    history: AIChatMessage[] = []
+    history: AIChatMessage[] = [],
+    token: string
 ): Promise<ChatResponseData> => {
     try {
         const response = await axios.post<StandardApiResponse>(
@@ -15,6 +16,11 @@ export const sendMessageToAI = async (
             {
                 message,
                 history,
+            },
+            {
+                headers: {
+                    Authorization: `Bearer ${token}`,
+                },
             }
         );
 

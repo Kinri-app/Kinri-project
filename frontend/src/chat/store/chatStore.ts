@@ -10,7 +10,7 @@ interface ChatState {
     chatHistory: AIChatMessage[];
     loading: boolean;
     error: string | null;
-    sendMessage: (message: string) => Promise<void>;
+    sendMessage: (message: string, token: string) => Promise<void>;
     evaluateAssessment: (
         assessmentResponseItems: AnswerItem[],
         token: string
@@ -24,12 +24,12 @@ export const useChatStore = create<ChatState>((set, get) => ({
     loading: false,
     error: null,
 
-    sendMessage: async (message: string) => {
+    sendMessage: async (message: string, token: string) => {
         const { chatHistory } = get();
         set({ loading: true, error: null });
 
         try {
-            const { history } = await sendMessageToAI(message, chatHistory);
+            const { history } = await sendMessageToAI(message, chatHistory, token);
             set({
                 chatHistory: history,
                 loading: false,

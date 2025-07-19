@@ -1,9 +1,9 @@
 import ChatInput from "./ChatInput";
 import { useChatStore } from "../store/chatStore.ts";
-import ChatMessage from "./ChatMessage";
 import { useEffect } from "react";
 import { useAssessmentStore } from "../../assessments/store/assessmentStore.ts";
 import { useAuth0 } from "@auth0/auth0-react";
+import { ChatWindow } from "./ChatWindow.tsx";
 
 const welcomeMessage = `
 Hi there, and welcome. I'm really glad you're here.
@@ -31,12 +31,7 @@ const ChatBox = () => {
     useEffect(() => {
         const fetchAssessmentData = async () => {
             try {
-                const token = await getAccessTokenSilently({
-                    authorizationParams: {
-                        audience: "https://kinri-api",
-                        scope: "openid profile email"
-                    }
-                });
+                const token = await getAccessTokenSilently();
                 await evaluateAssessment(answers || [], token);
             } catch (err) {
                 console.log(err);
@@ -53,7 +48,7 @@ const ChatBox = () => {
 
 
     return (
-        <div className="flex flex-col border border-gray-200 rounded-lg overflow-hidden shadow-sm h-[600px]">
+        <div className="flex flex-col border overflow-hidden border-gray-200 rounded-lg shadow-sm h-[600px]">
 
             {/* Header section */}
             <div className="px-6 py-4 border-b border-b-gray-200 bg-kinri-primary">
@@ -62,11 +57,7 @@ const ChatBox = () => {
             </div>
 
             {/* Chat messages section */}
-            <div className="flex-1 overflow-y-auto px-6 py-4 space-y-4">
-                {chatHistory.map((msg, i) => (
-                    <ChatMessage key={i} role={msg.role} content={msg.content} />
-                ))}
-            </div>
+            <ChatWindow chatHistory={chatHistory} />
 
             {/* Input section */}
             <div className="px-6 py-4 border-t border-t-gray-200">
