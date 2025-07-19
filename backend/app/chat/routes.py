@@ -9,7 +9,7 @@ chat_bp = Blueprint("chat_bp", __name__)
 
 
 @chat_bp.route("/", methods=["POST"])
-# @requires_auth
+@requires_auth
 def chat():
     data = request.json
     message = data.get("message")

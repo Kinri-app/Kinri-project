@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, g
 from app import supabase
 from app.chat.utils import ask_mistral
 from app.core.utils import standard_response
@@ -6,13 +6,14 @@ from app.utils.assessment import calculate_condition_scores
 from datetime import datetime, timezone
 from collections import defaultdict
 from app.auth.decorators import requires_auth
+from app.utils.utils import sync_user_to_db
 
 
 assessment_bp = Blueprint("assessment_bp", __name__)
 
 
 @assessment_bp.route("/evaluate", methods=["POST"])
-# @requires_auth
+@requires_auth
 def evaluate():
 
     try:
@@ -65,9 +66,15 @@ def evaluate():
         question_weights = list(question_map.values())
 
         try:
+            user = g.current_user
+
             print("Calculating scores")
             # 4. Calculate condition scores
             scores = calculate_condition_scores(user_responses, question_weights)
+            supabase.table("assessment_results").insert({
+                "user_id": user["id"],
+                "results": scores
+            }).execute()
             print(scores)
 
         except Exception as e:
@@ -92,6 +99,9 @@ def evaluate():
                 "Based on the user's highest scored condition, pick ONE vault card that best reflects their likely concern.\n"
                 "Do not bring up seeking help from professionals only that if they are interested in learning more you are there for them.\n"
                 "Ask the question associated with the Symptom key and follow it up with the description associated with the Echo friendly description key\n"
+                "Keep your response brief and focused.\n" 
+                "Match the tone and length of the user's message when possible.\n"
+                "Avoid excessive elaboration or repetition unless the user's input suggests they need it.\n"
                 """
 
 
