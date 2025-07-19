@@ -2,6 +2,7 @@ from flask import request, jsonify, Blueprint, g
 from sqlalchemy import select
 from app import supabase
 from app.auth.decorators import requires_auth
+from app.chat.utils import ask_mistral
 
 sessions_bp = Blueprint('sessions_bp',__name__)
 
@@ -15,39 +16,80 @@ def get_user_sessions(id):
 
 
 
-
-
-@sessions_bp.route("/", methods=["POST"])
-@requires_auth
-def create_user_session():
-    user_id = g.current_user["sub"]
-
-    response = supabase.table("session").insert({
-        "user_id": user_id,
-        "text": ""
-    }).execute()
-
-    if response.error:
-        return jsonify({"error": response.error.message}), 500
-    
-    return jsonify({"session_id": response.data[0]["id"]}), 201
-
-
 # Once the session is complete it will update the session table to include the conversation
-@sessions_bp.route("/<session_id>/complete", methods=["PUT"])
+@sessions_bp.route("/complete", methods=["POST"])
 @requires_auth
-def update_session_text(session_id):
+def complete_session(session_id):
     data = request.get_json()
-    text = data.get("text")
+    conversation = data.get("conversation")
 
-    if not text:
+    if not conversation:
         return jsonify({"error": "Missing conversation text"}), 400
 
-    response = supabase.table("session").update({
-        "text": text
-    }).eq("id", session_id).execute()
+    user_id = g.current_user["id"]
 
-    if response.error:
-        return jsonify({"error": response.error.message}), 500
+    # 1. Prepare emotion inference prompt
+    prompt = f"""
+    Based on the full conversation below, infer the user's dominant emotional state(s).
 
-    return jsonify({"message": "Session updated"}), 200
+    Use this emotion list: ["joy", "sadness", "anger", "fear", "trust", "disgust", "surprise", "anticipation"]
+
+    Return a JSON object like:
+    {{
+      "emotions": ["fear", "sadness"],
+      "intensity": "moderate",
+      "confidence": 0.87
+    }}
+
+    Chat history:
+    {conversation}
+    """
+
+    try:
+        model = "open-mistral-7b"
+        reply, _ = ask_mistral(prompt, [], model)
+        vault_card_id = data.get("vault_card_id")
+
+        # 2. Extract JSON object from Mistral response
+        import re, json
+
+
+        def extract_first_json(text):
+            """
+            Extracts the first valid JSON object from a string containing one or more {...} blocks.
+            Returns the parsed JSON as a Python dict, or None if no valid JSON is found.
+            """
+            matches = re.findall(r"\{.*?\}", text, re.DOTALL)  # non-greedy
+            for match in matches:
+                try:
+                    return json.loads(match)
+                except json.JSONDecodeError:
+                    continue
+            return None
+
+        emotion_data = extract_first_json(reply)
+
+        # 3. Structure update payload
+        update_payload = {
+            "conversation": conversation,
+            "user_id": user_id,
+            "user_emotions": ", ".join(emotion_data.get("emotions", [])),
+            "emotional_intensity": emotion_data.get("intensity"),
+            "llm_confidence": emotion_data.get("confidence"),
+        }
+
+        if vault_card_id:
+            update_payload["vault_card_id"] = vault_card_id
+
+        # 4. Update Supabase session
+        response = supabase.table("sessions").update(update_payload).eq("id", session_id).execute()
+
+        if response.error:
+            return jsonify({"error": response.error.message}), 500
+
+        return jsonify({"message": "Session completed", "emotions": emotion_data}), 200
+
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        return jsonify({"error": "Internal error", "detail": str(e)}), 5000
