@@ -3,7 +3,6 @@ import { useChatStore } from "../store/chatStore.ts";
 import ChatMessage from "./ChatMessage";
 import { useEffect } from "react";
 import { useAssessmentStore } from "../../assessments/store/assessmentStore.ts";
-import { Popup } from "../../components/Popup.tsx";
 import { useAuth0 } from "@auth0/auth0-react";
 
 const welcomeMessage = `
@@ -25,13 +24,24 @@ How does that sound?
 
 
 const ChatBox = () => {
-    const { chatHistory, setChatHistory, evaluateAssessment, error, resetChat } = useChatStore();
     const { getAccessTokenSilently } = useAuth0();
+
+    const { chatHistory, setChatHistory, evaluateAssessment } = useChatStore();
     const { answers, resetAnswers } = useAssessmentStore()
     useEffect(() => {
         const fetchAssessmentData = async () => {
-            await evaluateAssessment(answers || [], await getAccessTokenSilently());
-        }
+            try {
+                const token = await getAccessTokenSilently({
+                    authorizationParams: {
+                        audience: "https://kinri-api",
+                        scope: "openid profile email"
+                    }
+                });
+                await evaluateAssessment(answers || [], token);
+            } catch (err) {
+                console.log(err);
+            }
+        };
 
         if (chatHistory.length === 0 && answers.length === 0) {
             setChatHistory([{ role: "assistant", content: welcomeMessage }]);
@@ -39,24 +49,11 @@ const ChatBox = () => {
             fetchAssessmentData();
             resetAnswers();
         }
-
-    }, [chatHistory.length, setChatHistory, evaluateAssessment, answers.length, resetAnswers, answers, getAccessTokenSilently]);
+    }, [answers, chatHistory.length, evaluateAssessment, getAccessTokenSilently, resetAnswers, setChatHistory]);
 
 
     return (
         <div className="flex flex-col border border-gray-200 rounded-lg overflow-hidden shadow-sm h-[600px]">
-            {error && <Popup
-                isOpen={!!error}
-                type="error"
-                title="Authorization Error"
-                message={error}
-                actionText="Confirm"
-                onClose={() => resetChat()}
-                onAction={() => {
-                    resetChat();
-                }}
-            />}
-
 
             {/* Header section */}
             <div className="px-6 py-4 border-b border-b-gray-200 bg-kinri-primary">

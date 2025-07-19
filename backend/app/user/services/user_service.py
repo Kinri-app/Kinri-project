@@ -27,24 +27,27 @@ def sync_user_to_supabase(payload):
     if not auth0_id:
         raise ValueError("Missing 'sub' (Auth0 user ID) in token payload.")
 
-    # Check if the user already exists
+    # Query Supabase to check if the user already exists by auth0_id
     res = supabase.table("users").select("*").eq("auth0_id", auth0_id).execute()
-    res_dict = res.model_dump()
 
-    if res_dict.get("error") is not None:
-        raise Exception(f"Supabase error: {res_dict['error']}")
+    # Check if the response data is None, indicating a possible error
+    if res.data is None:
+        raise Exception(f"Error fetching user from Supabase. Response: {res}")
 
-    data = res_dict.get("data")
+    data = res.data
 
+    # If user does not exist, insert a new record with auth0_id only
     if not data:
         res = supabase.table("users").insert({
             "auth0_id": auth0_id
         }).execute()
 
-        res_dict = res.model_dump()
-        if res_dict.get("error") is not None:
-            raise Exception(f"Insert error: {res_dict['error']}")
+        # Check if insert operation was successful
+        if res.data is None:
+            raise Exception(f"Error inserting user into Supabase. Response: {res}")
 
-        return res_dict.get("data")[0]
+        # Return the newly inserted user record
+        return res.data[0]
 
+    # Return the existing user record
     return data[0]
