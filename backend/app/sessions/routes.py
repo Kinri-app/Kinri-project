@@ -30,19 +30,19 @@ def complete_session(session_id):
 
     # 1. Prepare emotion inference prompt
     prompt = f"""
-    Based on the full conversation below, infer the user's dominant emotional state(s).
+        Based on the full conversation below, infer the user's dominant emotional state(s).
 
-    Use this emotion list: ["joy", "sadness", "anger", "fear", "trust", "disgust", "surprise", "anticipation"]
+        Use this emotion list: ["joy", "sadness", "anger", "fear", "trust", "disgust", "surprise", "anticipation"]
 
-    Return a JSON object like:
-    {{
-      "emotions": ["fear", "sadness"],
-      "intensity": "moderate",
-      "confidence": 0.87
-    }}
+        Return a JSON object like:
+        {{
+        "emotions": ["fear", "sadness"],
+        "intensity": "moderate",
+        "confidence": 0.87
+        }}
 
-    Chat history:
-    {conversation}
+        Chat history:
+        {conversation}
     """
 
     try:
