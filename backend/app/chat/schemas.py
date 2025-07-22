@@ -3,7 +3,7 @@ from app.extensions import ma
 
 class ChatSchema(ma.SQLAlchemyAutoSchema):
     class Meta:
-        model = Chat
+        model = MistralChat
 
 
 chat_schema = ChatSchema()

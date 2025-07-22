@@ -134,7 +134,12 @@ def get_assessment_questions():
         response = supabase.table("assessment_questions").select("*").execute()
 
         if not response.data:
-            return jsonify({"error": "Failed to retrieve supabase data."}), 404
+            return standard_response(
+                status="NOT FOUND",
+                status_code=404,
+                message="Could not find table data.",
+                developer_message="Check if table 'assessment_questions' exists."
+            )
 
         return jsonify(response.data)
 
@@ -177,7 +182,12 @@ def get_questions_conditions_weights():
         result = list(
             grouped.values()
         )  # Converts it to a list of objects in json format
-        return jsonify(result), 200
+        return standard_response(
+            status="OK",
+            status_code=200,
+            message="Grouped results retrieved successfully",
+            data=result
+        )
 
     except Exception as e:
         print("Exception:", str(e))

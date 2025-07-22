@@ -56,6 +56,7 @@ def create_app():
     from .assessment.routes import assessment_bp
     from .vaultcards.routes import vaultcards_bp
     from .flashcards.routes import flashcards_bp
+    from .sessions.routes import sessions_bp
 
     # Register individual blueprints under the main /api prefix
     api_bp.register_blueprint(user_bp, url_prefix="/users")
@@ -63,6 +64,7 @@ def create_app():
     api_bp.register_blueprint(assessment_bp, url_prefix="/assessments")
     api_bp.register_blueprint(vaultcards_bp, url_prefix="/vaultcards")
     api_bp.register_blueprint(flashcards_bp, url_prefix="/flashcards")
+    api_bp.register_blueprint(sessions_bp, url_prefix="/sessions")
 
     # Register the main API blueprint
     app.register_blueprint(api_bp)

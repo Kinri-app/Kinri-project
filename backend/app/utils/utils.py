@@ -2,7 +2,7 @@ import json
 import os
 from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
-import supabase
+from app import supabase
 
 load_dotenv()
 # Questionnaire to get users weighted score per each condition using a likert_scale and ten questions then return top 3 in json format
@@ -131,8 +131,8 @@ def sync_user_to_db():
     # app/utils/session_utils.py or inside the same file
 
 def cleanup_old_sessions(user_id, max_sessions=10):
-    res = supabase.table("session") \
-        .select("id, vault_card_id, created_at") \
+    res = supabase.table("sessions") \
+        .select("id, associated_vault_card_id, created_at") \
         .eq("user_id", user_id) \
         .order("created_at", desc=True) \
         .execute()
@@ -141,11 +141,11 @@ def cleanup_old_sessions(user_id, max_sessions=10):
 
     # Filter to those not tied to vault_card_id
     deletable_sessions = [
-        s for s in all_sessions[max_sessions:] if not s.get("vault_card_id")
+        s for s in all_sessions[max_sessions:] if not s.get("associated_vault_card_id")
     ]
 
     ids_to_delete = [s["id"] for s in deletable_sessions]
 
     if ids_to_delete:
-        supabase.table("session").delete().in_("id", ids_to_delete).execute()
+        supabase.table("sessions").delete().in_("id", ids_to_delete).execute()
 

@@ -1,42 +1,37 @@
-from flask import request, jsonify, Blueprint, g
-from sqlalchemy import select
+from flask import request, Blueprint, jsonify, g
 from app import supabase
 from app.auth.decorators import requires_auth
 from app.chat.utils import ask_mistral
-from app.utils.utils import cleanup_old_sessions
+from app.core.utils import standard_response
+from app.utils.utils import cleanup_old_sessions  # make sure this exists
 
-sessions_bp = Blueprint('sessions_bp',__name__)
+import json
+import re
 
-# --------------Flashcard routes------------------------------
+sessions_bp = Blueprint("sessions_bp", __name__)
 
-# route to return all recorder sessions of the user
-@sessions_bp.route("/<user_id>", methods=["GET"])
-@requires_auth
-def get_user_sessions(id):
-    pass
-
-
-
-# Once the session is complete it will update the session table to include the conversation
 @sessions_bp.route("/complete", methods=["POST"])
 @requires_auth
-def complete_session(session_id):
-    data = request.get_json()
-    full_chat_history = data.get("conversation")
+def complete_session():
+    try:
+        data = request.get_json()
+        full_chat_history = data.get("conversation")
+        vault_card_id = data.get("associated_vault_card_id")
 
-    if not full_chat_history:
-        return jsonify({"error": "Missing conversation text"}), 400
 
-    user_id = g.current_user["id"]
+        if not full_chat_history:
+            return standard_response(
+                status="BAD_REQUEST",
+                status_code=400,
+                message="Missing required fields",
+                reason="Missing conversation text or session ID",
+                developer_message="Ensure 'conversation' is included in the request."
+            )
 
-    data = request.get_json()
-    full_chat_history = data.get("conversation")
+        user_id = g.current_user["id"]
 
-    if not full_chat_history:
-        return jsonify({"error": "Missing conversation text"}), 400
-
-    # 1. Prepare emotion inference prompt
-    prompt = f"""
+        # 1. Generate prompt for emotion detection
+        prompt = f"""
         Based on the full conversation below, infer the user's dominant emotional state(s).
 
         Use this emotion list: ["joy", "sadness", "anger", "fear", "trust", "disgust", "surprise", "anticipation"]
@@ -50,53 +45,68 @@ def complete_session(session_id):
 
         Chat history:
         {full_chat_history}
-    """
+        """
 
-    try:
         model = "open-mistral-7b"
         reply, _ = ask_mistral(prompt, [], model)
-        vault_card_id = data.get("vault_card_id")
 
-        # 2. Extract JSON object from Mistral response
-        import re, json
-
-
+        # 2. Extract the JSON object from the model reply
         def extract_first_json(text):
-            """
-            Extracts the first valid JSON object from a string containing one or more {...} blocks.
-            Returns the parsed JSON as a Python dict, or None if no valid JSON is found.
-            """
-            matches = re.findall(r"\{.*?\}", text, re.DOTALL)  # non-greedy
+            matches = re.findall(r"\{.*?\}", text, re.DOTALL)
             for match in matches:
                 try:
                     return json.loads(match)
                 except json.JSONDecodeError:
                     continue
-            return None
+            return {}
 
         emotion_data = extract_first_json(reply)
 
-        # 3. Structure update payload
+        # 3. Prepare session update payload
         update_payload = {
             "conversation": full_chat_history,
             "user_id": user_id,
             "user_emotions": ", ".join(emotion_data.get("emotions", [])),
             "emotional_intensity": emotion_data.get("intensity"),
-            "llm_confidence": emotion_data.get("confidence"),
+            "llm_confidence": emotion_data.get("confidence")
         }
 
         if vault_card_id:
-            update_payload["vault_card_id"] = vault_card_id
+            update_payload["associated_vault_card_id"] = vault_card_id
 
-        # 4. Update Supabase session
-        response = supabase.table("sessions").update(update_payload).eq("id", session_id).execute()
+        # 4. Update session in Supabase
+        response = supabase.table("sessions").insert(update_payload).execute()
 
-        if response.error:
-            return jsonify({"error": response.error.message}), 500
+        if not response.data:
+            return standard_response(
+                status="INTERNAL_SERVER_ERROR",
+                status_code=500,
+                message="Supabase update failed",
+                reason="Session insert returned no data",
+                developer_message=f"Status code: {response.status_code}"
+            )
 
-        return jsonify({"message": "Session completed", "emotions": emotion_data}), 200
+        # 5. Cleanup old sessions if over limit
+        cleanup_old_sessions(user_id)
+
+        return standard_response(
+            status="OK",
+            status_code=200,
+            message="Session completed and emotion recorded.",
+            data={"emotions": emotion_data}
+        )
 
     except Exception as e:
         import traceback
         traceback.print_exc()
-        return jsonify({"error": "Internal error", "detail": str(e)}), 5000
+        return standard_response(
+            status="INTERNAL_SERVER_ERROR",
+            status_code=500,
+            message="Unexpected error occurred during session completion.",
+            reason="Unhandled exception",
+            developer_message=str(e)
+        )
+    
+
+
+
