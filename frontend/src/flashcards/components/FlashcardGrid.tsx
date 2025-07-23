@@ -2,13 +2,14 @@ import Loader from "../../components/Loader.tsx";
 import { useFlashcardStore } from "../store/flashcardStore.ts";
 import { FlashcardItem } from "./FlashcardItem.tsx";
 import ErrorFallback from "../../components/ErrorFallback.tsx";
+import { useEffect } from "react";
 
 const FlashcardGrid = () => {
-    const { flashcards, loading, error } = useFlashcardStore();
+    const { flashcards, loadFlashcards, loading, error } = useFlashcardStore();
 
-    // useEffect(() => {
-    //     loadFlashcards();
-    // }, [loadFlashcards]); 
+    useEffect(() => {
+        loadFlashcards();
+    }, [loadFlashcards]);
     // TODO: Make http request
 
     if (loading) return <Loader />;

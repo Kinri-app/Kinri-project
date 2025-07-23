@@ -28,7 +28,7 @@ const HeaderNav = () => {
     ];
 
     return (
-        <header className="bg-neutral-50 bg-gradient-to-br from-yellow-50/80 via-white to-yellow-50/80 sticky top-0 shadow-sm">
+        <header className="bg-gradient-to-br from-yellow-50 via-white to-yellow-50 sticky top-0 shadow-sm z-50">
             <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
                 <div className="flex lg:flex-1">
                     <NavLogo />
