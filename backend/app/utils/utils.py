@@ -130,10 +130,10 @@ def sync_user_to_db():
 
     # app/utils/session_utils.py or inside the same file
 
-def cleanup_old_sessions(user_id, max_sessions=10):
+def cleanup_old_sessions(auth0_id, max_sessions=10):
     res = supabase.table("sessions") \
         .select("id, associated_vault_card_id, created_at") \
-        .eq("user_id", user_id) \
+        .eq("auth0_id", auth0_id) \
         .order("created_at", desc=True) \
         .execute()
 
