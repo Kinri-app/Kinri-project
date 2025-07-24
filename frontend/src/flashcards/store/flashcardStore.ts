@@ -1,7 +1,6 @@
 import { create } from "zustand";
 import { fetchFlashcards } from "../services/flashcardService.ts";
 import type { Flashcard } from "../types/flashcardType.ts";
-import { dummyFlashcards } from "../data/dummyFlashcards.ts";
 
 interface FlashcardState {
     flashcards: Flashcard[];
@@ -11,7 +10,7 @@ interface FlashcardState {
 }
 
 export const useFlashcardStore = create<FlashcardState>((set) => ({
-    flashcards: dummyFlashcards,
+    flashcards: [],
     loading: false,
     error: null,
     loadFlashcards: async () => {

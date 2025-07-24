@@ -1,6 +1,10 @@
 export interface Flashcard {
-    icon: string;
+    id: number;
     question: string;
     answer: string;
-    tags?: string[];
+    card_id: string;
+    condition: string[];
+    emotion: string[];
+    narrative_type: string[];
+    usage_mode: string[];
 }
