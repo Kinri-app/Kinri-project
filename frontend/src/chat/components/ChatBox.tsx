@@ -34,7 +34,7 @@ const ChatBox = () => {
                 const token = await getAccessTokenSilently();
                 await evaluateAssessment(answers || [], token);
             } catch (err) {
-                console.log(err);
+                console.error(err);
             }
         };
 

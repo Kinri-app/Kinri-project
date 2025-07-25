@@ -1,13 +1,6 @@
 import { Link } from "react-router";
-import { useAssessmentStore } from "../store/assessmentStore";
 
 const Completion: React.FC = () => {
-
-    const { answers } = useAssessmentStore()
-
-    const handleClick = () => {
-        console.log(answers);
-    }
 
     return (
         <div className="text-center">
@@ -24,7 +17,7 @@ const Completion: React.FC = () => {
                     A summary will be available shortly.
                 </p>
             </div>
-            <Link to="/chat" className="bg-[#876E2C] hover:bg-[#6d5623] text-gray-100 font-semibold py-3 px-8 rounded-lg transition-colors duration-300 flex items-center justify-center mx-auto max-w-50" onClick={handleClick}>
+            <Link to="/chat" className="bg-[#876E2C] hover:bg-[#6d5623] text-gray-100 font-semibold py-3 px-8 rounded-lg transition-colors duration-300 flex items-center justify-center mx-auto max-w-50">
                 <i className="fa-solid fa-message mr-2"></i>Get an Insight
             </Link>
         </div>
