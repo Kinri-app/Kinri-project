@@ -16,7 +16,6 @@ def complete_session():
     try:
         data = request.get_json()
         full_chat_history = data.get("conversation")
-        vault_card_id = data.get("associated_vault_card_id")
 
 
         if not full_chat_history:
@@ -28,7 +27,7 @@ def complete_session():
                 developer_message="Ensure 'conversation' is included in the request."
             )
 
-        user_id = g.current_user["id"]
+        auth0_id = g.current_user["auth0_id"]
 
         # 1. Generate prompt for emotion detection
         prompt = f"""
@@ -42,6 +41,9 @@ def complete_session():
         "intensity": "moderate",
         "confidence": 0.87
         }}
+        Also, based on the vault card data you selected please return the associated id in the following format.
+        Return only a JSON object in the following format:
+        {{ "id": <the id of the selected vault card> }}
 
         Chat history:
         {full_chat_history}
@@ -62,17 +64,24 @@ def complete_session():
 
         emotion_data = extract_first_json(reply)
 
+        
+        def extract_card_id(text):
+            match = re.search(r'"id":\s*(\d+)', text)
+            return int(match.group(1)) if match else None
+        
+        associated_vault_card_id = extract_card_id(reply)
+
         # 3. Prepare session update payload
         update_payload = {
+            "auth0_id": auth0_id,
             "conversation": full_chat_history,
-            "user_id": user_id,
             "user_emotions": ", ".join(emotion_data.get("emotions", [])),
             "emotional_intensity": emotion_data.get("intensity"),
             "llm_confidence": emotion_data.get("confidence")
         }
 
-        if vault_card_id:
-            update_payload["associated_vault_card_id"] = vault_card_id
+        if associated_vault_card_id:
+            update_payload["associated_vault_card_id"] = associated_vault_card_id
 
         # 4. Update session in Supabase
         response = supabase.table("sessions").insert(update_payload).execute()
@@ -87,7 +96,7 @@ def complete_session():
             )
 
         # 5. Cleanup old sessions if over limit
-        cleanup_old_sessions(user_id)
+        cleanup_old_sessions(auth0_id)
 
         return standard_response(
             status="OK",
@@ -109,4 +118,81 @@ def complete_session():
     
 
 
+@sessions_bp.route("/conversations", methods=["GET"])
+@requires_auth
+def get_previous_user_conversations():
+    try:
+        auth0_id = g.current_user["auth0_id"]
 
+        response = (
+            supabase
+            .table("sessions")
+            .select("conversation")
+            .eq("auth0_id", auth0_id)
+            .order("created_at", desc=True)  # Optional: show most recent first
+            .execute()
+        )
+
+        if not response.data:
+            return standard_response(
+                status="OK",
+                status_code=200,
+                message="No previous data found.",
+                data=[]
+            )
+
+        return standard_response(
+            status="OK",
+            status_code=200,
+            message="Previous sessions retrieved successfully.",
+            data=response.data
+        )
+
+    except Exception as e:
+        return standard_response(
+            status="INTERNAL_SERVER_ERROR",
+            status_code=500,
+            message="Failed to retrieve previous sessions.",
+            reason="Database query error",
+            developer_message=str(e)
+        )
+    
+@sessions_bp.route("/", methods=["GET"])
+@requires_auth
+def get_all_sessions_data():
+    try:
+        auth0_id = g.current_user["auth0_id"]
+
+        response = (
+            supabase
+            .table("sessions")
+            .select("*")
+            .eq("auth0_id", auth0_id)
+            .order("created_at", desc=True)  # Optional: show most recent first
+            .execute()
+        )
+
+        if not response.data:
+            return standard_response(
+                status="OK",
+                status_code=200,
+                message="No previous data found.",
+                data=[]
+            )
+
+        return standard_response(
+            status="OK",
+            status_code=200,
+            message="Previous sessions retrieved successfully.",
+            data=response.data
+        )
+
+    except Exception as e:
+        return standard_response(
+            status="INTERNAL_SERVER_ERROR",
+            status_code=500,
+            message="Failed to retrieve previous sessions.",
+            reason="Database query error",
+            developer_message=str(e)
+        )
+        
