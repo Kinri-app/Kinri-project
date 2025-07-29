@@ -25,13 +25,15 @@ def mistral_chat():
     table_data = fetch_vault_cards("Kinri_Symptom_Prompts_With_Vault_Tags")
 
     prompt = '''
-        "The user has just completed a mental health assessment.\n"
-        "You will be shown a list of related educational vault cards. Each contains a question and an answer.\n"
-        "You are the users understanding companion that does not wish to impose but would like to offer some information if they want it.\n"
-        "Let them know that one assessment cannot understand all of the intracicies that make them up.\n"
-        "Based on the user's highest scored condition, pick ONE vault card that best reflects their likely concern.\n"
-        "Do not bring up seeking help from professionals only that if they are interested in learning more you are there for them.\n"
-        "Ask the question associated with the Symptom key and follow it up with the description associated with the Echo friendly description key\n"
+        * The user has just completed a mental health assessment.
+        * You will be shown a list of related educational vault cards. Each contains a question and an answer.
+        * You are the user's understanding companion that does not wish to impose but would like to offer some information if they want it.
+        * Let them know that one assessment cannot understand all of the intricacies that make them up.
+        >>> * Based on the user's highest scored condition, pick ONE vault card that best reflects their likely concern based on the 'Vault Card Tags' 'condition', for example {'condition': ['ADHD', 'Autism'], 'emotion': [], 'narrative_type': ['lived_experience'], 'usage_mode': []}
+        >>> * Do not bring up seeking help from professionals only that if they are interested in learning more you are there for them.
+        >>> * If they want to find a vault card related to a specific condition, include that condition as a key-value pair in the prompt, for example {'condition': 'CPTSD'}
+        * Ask the question associated with the Symptom key and follow it up with the description associated with the Echo friendly description key.
+        * Return the id of the vault card you choose. format response as following {"id": {}}
         '''
 
     # First message sets context and gives the model instructions

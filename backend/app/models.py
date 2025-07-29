@@ -16,20 +16,21 @@ class Flashcard(Base):
     __tablename__="flashcard"
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    card_id: Mapped[str] = mapped_column(String(350), unique=True, nullable=False)
+    card_id: Mapped[str] = mapped_column(String(350), nullable=False)
     question: Mapped[str] = mapped_column(String(350), unique=True, nullable=False)
     answer: Mapped[str] = mapped_column(String(350), nullable=False)
-    tags: Mapped[str] = mapped_column(String(150), nullable=False)
-    emotion: Mapped[str] = mapped_column(String(150))
-    narrative_type: Mapped[str] = mapped_column(String(150), nullable=False)
-    usage_mode: Mapped[str] = mapped_column(String(150), nullable=False)
+    condition: Mapped[str] = mapped_column(String(150))
+    emotion: Mapped[str] = mapped_column(String(350))
+    narrative_type: Mapped[str] = mapped_column(String(350))
+    usage_mode: Mapped[str] = mapped_column(String(350))
+
 
 class Vaultcard(Base):
     __tablename__="vaultcard"
 
     id: Mapped[int] = mapped_column(primary_key=True)
     card_id: Mapped[str] = mapped_column(String(350), unique=True, nullable=False)
-    headline: Mapped[str] = mapped_column(String(350), nullable=False)
+    headline: Mapped[str] = mapped_column(String(350))
     body: Mapped[str] = mapped_column(String(350), nullable=False)
     prompt: Mapped[str] = mapped_column(String(150), nullable=False)
     tags: Mapped[str] = mapped_column(String(150), nullable=False)
@@ -71,7 +72,7 @@ class User(Base):
     password_hash: Mapped[str] = mapped_column(String(150), nullable=False)
     age: Mapped[int] = mapped_column(Integer)
     location: Mapped[str] = mapped_column(String(250))
-    currrent_emotion: Mapped[str] = mapped_column(String(100))
+    current_emotion: Mapped[str] = mapped_column(String(100))
     last_emotion: Mapped[str] = mapped_column(String(100))
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc)) #Using lambda so this is recorded when the row is created
     updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
@@ -118,4 +119,16 @@ class QuestionConditionWeight(Base):
     question: Mapped["AssessmentQuestion"] = relationship(back_populates="condition_weights")
     condition: Mapped["Condition"] = relationship(back_populates="weights")
 
+
+class UserSessions(Base):
+    __tablename__ = "user_sessions"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), nullable=False)
+    conversation: Mapped[str] = mapped_column(Text)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
+    associate_vault_card_id: Mapped[int] = mapped_column(ForeignKey("vaultcard.id"))
+
+    user_vault_card: Mapped["Vaultcard"] = relationship(back_populates="vaultcard")
+    user_session: Mapped["User"] = relationship(back_populates="user")
 

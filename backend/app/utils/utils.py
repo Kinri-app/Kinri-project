@@ -2,6 +2,7 @@ import json
 import os
 from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
+from app import supabase
 
 load_dotenv()
 # Questionnaire to get users weighted score per each condition using a likert_scale and ten questions then return top 3 in json format
@@ -80,3 +81,71 @@ def cosine_confidence(vec1, vec2) -> float:
     """Returns cosine similarity as a proxy confidence score between 0 and 1."""
     sim = cosine_similarity([vec1], [vec2])[0][0]
     return round((sim + 1) / 2, 4)  # Normalize from [-1,1] to [0,1]
+
+def flatten_tags(card):
+    return {
+        "card_id": card["card_id"],
+        "card_type": card["card_type"],
+        "headline": card["headline"],
+        "body": card["body"],
+        "prompt": card["prompt"],
+        "condition": card["tags"].get("condition", []),
+        "emotion": card["tags"].get("emotion", []),
+        "narrative_type": card["tags"].get("narrative_type", []),
+        "usage_mode": card["tags"].get("usage_mode", [])
+    }
+
+def sync_user_to_db():
+    user = g.current_user
+    auth0_id = user.get("sub")
+    email = user.get("email")
+    name = user.get("name")
+    picture = user.get("picture")
+
+    existing = supabase.table("users").select("*").eq("auth0_id", auth0_id).single().execute()
+
+    if existing.data:
+        # The following compares and updates fields if needed
+        updates = {}
+
+        if existing.data.get("email") != email:
+            updates["email"] = email
+        if existing.data.get("name") != name:
+            updates["name"] = name
+        if existing.data.get("picture") != picture:
+            updates["picture"] = picture
+
+        if updates:
+            supabase.table("users").update(updates).eq("auth0_id", auth0_id).execute()
+            
+        return
+
+    # Insert new user
+    supabase.table("users").insert({
+        "id": auth0_id,
+        "email": email,
+        "name": name,
+        "picture": picture
+    }).execute()
+
+    # app/utils/session_utils.py or inside the same file
+
+def cleanup_old_sessions(auth0_id, max_sessions=10):
+    res = supabase.table("sessions") \
+        .select("id, associated_vault_card_id, created_at") \
+        .eq("auth0_id", auth0_id) \
+        .order("created_at", desc=True) \
+        .execute()
+
+    all_sessions = res.data or []
+
+    # Filter to those not tied to vault_card_id
+    deletable_sessions = [
+        s for s in all_sessions[max_sessions:] if not s.get("associated_vault_card_id")
+    ]
+
+    ids_to_delete = [s["id"] for s in deletable_sessions]
+
+    if ids_to_delete:
+        supabase.table("sessions").delete().in_("id", ids_to_delete).execute()
+

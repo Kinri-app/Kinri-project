@@ -2,12 +2,11 @@ import {
     Dialog,
     DialogPanel,
 } from "@headlessui/react";
-import { XMarkIcon } from "@heroicons/react/20/solid";
 import NavLinks from "./NavLinks";
-import LoginButton from "../auth/components/LoginButton";
 import { useAuth0 } from "@auth0/auth0-react";
 import type { PopoverItem } from "./GenericPopover";
 import MobileDisclosure from "./MobileDisclosure";
+import Button from "./Button";
 
 interface MobileMenuProps {
     open: boolean;
@@ -19,7 +18,7 @@ const MobileMenu = ({
     setOpen,
 }: MobileMenuProps) => {
 
-    const { isAuthenticated, logout, user } = useAuth0();
+    const { isAuthenticated, logout, user, loginWithRedirect } = useAuth0();
 
     const accountMenuItems: PopoverItem[] = [
         {
@@ -34,22 +33,27 @@ const MobileMenu = ({
                         returnTo: window.location.origin,
                     },
                 }),
-            className: "text-red-700"
+            className: "text-red-700 hover:text-red-800"
         },
     ];
 
     return (
         <Dialog open={open} onClose={setOpen} className="lg:hidden">
             <DialogPanel className="fixed inset-y-0 right-0 z-50 w-full shadow-sm bg-white p-6 sm:max-w-sm">
-                <button className="flex p-2 ml-auto" onClick={() => setOpen(false)}>
-                    <XMarkIcon className="h-7 w-7 text-gray-700 cursor-pointer" />
+                <button className="flex p-2 ml-auto text-gray-900 hover:text-[#876E2C] duration-300 cursor-pointer" onClick={() => setOpen(false)}>
+                    <i className="fa-solid fa-x"></i>
                 </button>
                 <div className="mt-6 space-y-4">
-                    <NavLinks className="block text-base font-semibold text-gray-900 hover:bg-gray-100 rounded px-3 py-2" />
+                    <NavLinks className="block text-base font-semibold text-gray-900 hover:text-[#876E2C] duration-300 rounded px-3 py-2" />
                     {
                         isAuthenticated ?
                             <MobileDisclosure label={user?.name ?? "Account"} items={accountMenuItems} /> :
-                            <LoginButton className="block w-full text-left text-base font-semibold hover:bg-gray-50 rounded px-3 py-2 text-yellow-600 cursor-pointer" />
+                            <Button
+                                text="Login"
+                                icon="fas fa-sign-in-alt"
+                                fontSize="text-sm"
+                                handleClick={() => loginWithRedirect()}
+                            />
                     }
 
                 </div>

@@ -5,5 +5,5 @@ export interface AIChatMessage {
 
 export interface ChatResponseData {
     reply: string;
-    chat_history: AIChatMessage[];
+    history: AIChatMessage[];
 }
