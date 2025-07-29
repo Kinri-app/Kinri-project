@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+.bg-kinri-primary {
+    background-color: #876E2C;
+}
+
+.text-kinri-primary {
+    color: #876E2C;
+}
+
+/* src/index.css */
+.perspective {
+    perspective: 1000px;
+}
+
+.preserve-3d {
+    transform-style: preserve-3d;
+}
+
+.backface-hidden {
+    backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+    transform: rotateY(180deg);
+}
+
+.bg-kinri-soft {
+    background-color: #F5F3F0;
+}
+
+.bg-lavender-light {
+    background-color: #F3F0FF;
+}
