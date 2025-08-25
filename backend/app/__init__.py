@@ -6,6 +6,8 @@ from supabase import create_client, Client
 from .core.config import Config
 import os
 from mistralai import Mistral
+from flask_swagger_ui import get_swaggerui_blueprint
+import yaml
 
 # Global Supabase client instance used throughout the app
 supabase: Client = None
@@ -57,6 +59,7 @@ def create_app():
     from .vaultcards.routes import vaultcards_bp
     from .flashcards.routes import flashcards_bp
     from .sessions.routes import sessions_bp
+    from .test_routes import test_bp
 
     # Register individual blueprints under the main /api prefix
     api_bp.register_blueprint(user_bp, url_prefix="/users")
@@ -68,6 +71,23 @@ def create_app():
 
     # Register the main API blueprint
     app.register_blueprint(api_bp)
+
+    # Serve Swagger UI at /api/docs
+    swagger_yaml_path = os.path.join(os.path.dirname(__file__), 'swagger.yaml')
+    SWAGGER_URL = '/api/docs'
+    API_URL = '/api/swagger.yaml'
+
+    @app.route(API_URL)
+    def swagger_yaml():
+        with open(swagger_yaml_path, 'r') as f:
+            return f.read(), 200, {'Content-Type': 'application/x-yaml'}
+
+    swaggerui_blueprint = get_swaggerui_blueprint(
+        SWAGGER_URL,
+        API_URL,
+        config={'app_name': "Kinri API"}
+    )
+    app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
     print("Registered routes:")
     for rule in app.url_map.iter_rules():

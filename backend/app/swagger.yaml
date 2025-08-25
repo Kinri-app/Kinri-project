@@ -1,0 +1,366 @@
+openapi: 3.0.0
+info:
+  title: Kinri API
+  version: 1.0.0
+  description: |
+    This is the Kinri API documentation for external partners. All endpoints are prefixed with `/api` and some require authentication via Bearer JWT (see security section).
+servers:
+  - url: /api
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+security:
+  - bearerAuth: []
+paths:
+  /:
+    get:
+      summary: API status check
+      description: Returns a simple message to confirm the API is running.
+      responses:
+        '200':
+          description: API is running
+  /users/data:
+    get:
+      tags: [Users]
+      summary: Get all user records
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: List of user records
+        '401':
+          description: Unauthorized
+  /users/profile:
+    get:
+      tags: [Users]
+      summary: Get authenticated user profile
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: User profile data
+        '401':
+          description: Unauthorized
+  /chat/:
+    post:
+      tags: [Chat]
+      summary: Send a message to the chat AI
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                message:
+                  type: string
+                history:
+                  type: array
+                  items:
+                    type: object
+      responses:
+        '200':
+          description: Chat response
+        '400':
+          description: Bad request
+        '401':
+          description: Unauthorized
+  /assessments/evaluate:
+    post:
+      tags: [Assessments]
+      summary: Evaluate assessment responses and get AI feedback
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+      responses:
+        '200':
+          description: Assessment evaluation result
+        '400':
+          description: Bad request
+        '401':
+          description: Unauthorized
+  /assessments/assessment_questions:
+    get:
+      tags: [Assessments]
+      summary: Get all assessment questions
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: List of assessment questions
+        '401':
+          description: Unauthorized
+  /assessments/condition_weights:
+    get:
+      tags: [Assessments]
+      summary: Get question-condition weights
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Grouped question-condition weights
+        '401':
+          description: Unauthorized
+  /vaultcards/:
+    get:
+      tags: [Vaultcards]
+      summary: Get all vault cards
+      responses:
+        '200':
+          description: List of vault cards
+    post:
+      tags: [Vaultcards]
+      summary: Create a new vault card
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+      responses:
+        '201':
+          description: Vault card created
+        '400':
+          description: Bad request
+  /vaultcards/batch:
+    post:
+      tags: [Vaultcards]
+      summary: Batch insert vault cards
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+      responses:
+        '201':
+          description: Vault cards inserted
+        '400':
+          description: Bad request
+  /flashcards/:
+    get:
+      tags: [Flashcards]
+      summary: Get all flashcards
+      responses:
+        '200':
+          description: List of flashcards
+    post:
+      tags: [Flashcards]
+      summary: Create a new flashcard
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+      responses:
+        '201':
+          description: Flashcard created
+        '400':
+          description: Bad request
+  /flashcards/batch:
+    post:
+      tags: [Flashcards]
+      summary: Batch insert flashcards
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+      responses:
+        '201':
+          description: Flashcards inserted
+        '400':
+          description: Bad request
+  /sessions/complete:
+    post:
+      tags: [Sessions]
+      summary: Complete a session and record emotions
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+      responses:
+        '200':
+          description: Session completed
+        '400':
+          description: Bad request
+        '401':
+          description: Unauthorized
+  /sessions/conversations:
+    get:
+      tags: [Sessions]
+      summary: Get previous user conversations
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: List of previous conversations
+        '401':
+          description: Unauthorized
+  /sessions/:
+    get:
+      tags: [Sessions]
+      summary: Get all session data for the authenticated user
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: List of session data
+        '401':
+          description: Unauthorized
+  /test/health:
+    get:
+      tags: [Testing]
+      summary: Health check endpoint
+      description: Basic health check to verify API is running
+      responses:
+        '200':
+          description: API is healthy
+  /test/auth-test:
+    get:
+      tags: [Testing]
+      summary: Test authentication
+      description: Test endpoint that requires authentication
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Authentication successful
+        '401':
+          description: Unauthorized
+  /test/echo:
+    post:
+      tags: [Testing]
+      summary: Echo endpoint
+      description: Returns the request body as received
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+      responses:
+        '200':
+          description: Echo successful
+        '400':
+          description: Invalid JSON
+  /test/error-test:
+    get:
+      tags: [Testing]
+      summary: Test error response
+      description: Simulates a 500 error for testing
+      responses:
+        '500':
+          description: Test error
+  /test/validation-test:
+    post:
+      tags: [Testing]
+      summary: Test request validation
+      description: Tests validation of required fields (name, email)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                email:
+                  type: string
+      responses:
+        '200':
+          description: Validation successful
+        '400':
+          description: Missing required fields
+  /test/chat-test:
+    post:
+      tags: [Testing]
+      summary: Test chat functionality
+      description: Simulates chat response without calling AI
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                message:
+                  type: string
+      responses:
+        '200':
+          description: Chat test successful
+        '401':
+          description: Unauthorized
+  /test/assessment-test:
+    post:
+      tags: [Testing]
+      summary: Test assessment functionality
+      description: Simulates assessment evaluation
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+      responses:
+        '200':
+          description: Assessment test successful
+        '400':
+          description: Invalid assessment data
+        '401':
+          description: Unauthorized
+  /test/database-test:
+    get:
+      tags: [Testing]
+      summary: Test database connectivity
+      description: Tests connection to Supabase database
+      responses:
+        '200':
+          description: Database connection successful
+        '500':
+          description: Database connection failed
+  /test/cors-test:
+    get:
+      tags: [Testing]
+      summary: Test CORS functionality
+      description: Tests CORS headers
+      responses:
+        '200':
+          description: CORS test successful
+  /test/rate-limit-test:
+    get:
+      tags: [Testing]
+      summary: Test rate limiting
+      description: Tests rate limiting functionality
+      responses:
+        '200':
+          description: Rate limit test 
