@@ -11,7 +11,10 @@ ALGORITHMS = ["RS256"]
 
 # URL to fetch the JSON Web Key Set (JWKS) from Auth0
 jwks_url = f"https://{AUTH0_DOMAIN}/.well-known/jwks.json"
-jwks = requests.get(jwks_url).json()
+def get_jwks():
+    resp = requests.get(jwks_url)
+    resp.raise_for_status()
+    return resp.json()
 
 
 def get_rsa_key(token):
@@ -24,6 +27,8 @@ def get_rsa_key(token):
     Returns:
         dict or None: The RSA key dictionary if found, otherwise None.
     """
+
+    jwks = get_jwks()
     header = jwt.get_unverified_header(token)
     for key in jwks["keys"]:
         if key["kid"] == header["kid"]:
