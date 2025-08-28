@@ -2,8 +2,7 @@ import axios from "axios";
 import type { AIChatMessage, ChatResponseData } from "../types/chatTypes.ts";
 import type { StandardApiResponse } from "../../types/apiTypes.ts";
 import type { AnswerItem } from "../../assessments/types/assessmentTypes.ts";
-
-const API_URL = import.meta.env.VITE_API_URL;
+import { API_URL } from "../../api/apiUrl.ts";
 
 export const sendMessageToAI = async (
     message: string,
