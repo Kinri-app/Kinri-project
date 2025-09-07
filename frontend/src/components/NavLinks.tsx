@@ -2,6 +2,7 @@ import { Link } from "react-router";
 
 const navLinks = [
     { label: "Home", to: "/" },
+    { label: "Flashcards", to: "/flashcards" },
 
 ];
 

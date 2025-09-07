@@ -1,6 +1,5 @@
-import {Popover, PopoverButton, PopoverPanel} from '@headlessui/react'
-import {ChevronDownIcon} from '@heroicons/react/24/outline'
-import {Link} from 'react-router'
+import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
+import { Link } from 'react-router'
 
 
 export interface PopoverItem {
@@ -15,15 +14,16 @@ interface GenericPopoverProps {
     items: PopoverItem[]
 }
 
-const popoverItemClass = "block w-full text-left text-sm font-semibold text-gray-900 hover:bg-gray-100 px-3 py-2 cursor-pointer"
+const popoverItemClass = "block w-full text-left text-sm font-semibold text-gray-900 px-3 py-2 cursor-pointer"
 
-const GenericPopover = ({label, items}: GenericPopoverProps) => {
+const GenericPopover = ({ label, items }: GenericPopoverProps) => {
     return (
         <Popover className="relative">
             <PopoverButton
-                className="flex items-center gap-1 text-sm font-medium text-gray-900 hover:underline outline-0 cursor-pointer">
+                className="flex items-center gap-1 text-sm font-medium outline-0 text-gray-900 hover:text-[#876E2C] duration-300  cursor-pointer">
                 {label}
-                <ChevronDownIcon className="w-4 h-4 text-gray-900" aria-hidden="true"/>
+
+                <i className="fas fa-chevron-down ml-1 text-xs" aria-hidden="true"></i>
             </PopoverButton>
 
             <PopoverPanel
@@ -33,7 +33,7 @@ const GenericPopover = ({label, items}: GenericPopoverProps) => {
                         <Link
                             key={index}
                             to={item.to}
-                            className={`${popoverItemClass} ${item.className}`}
+                            className={`${popoverItemClass} ${item.className || "text-gray-900 hover:text-[#876E2C] duration-300"}`}
                         >
                             {item.label}
                         </Link>
@@ -41,7 +41,7 @@ const GenericPopover = ({label, items}: GenericPopoverProps) => {
                         <button
                             key={index}
                             onClick={item.onClick}
-                            className={`${popoverItemClass} ${item.className}`}
+                            className={`${popoverItemClass} ${item.className || "text-gray-900 hover:text-[#876E2C] duration-300"}`}
                         >
                             {item.label}
                         </button>

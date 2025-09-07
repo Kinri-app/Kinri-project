@@ -1,21 +1,23 @@
 import { useAuth0 } from "@auth0/auth0-react";
+import Button from "../../components/Button";
 
 interface LoginButtonProps {
-    className?: string
+    text?: string
 }
 
-const defaultClassName = "rounded-md bg-yellow-600 px-5 py-2.5 text-sm font-medium text-white shadow-sm hover:bg-yellow-700 transition cursor-pointer"
 
-const LoginButton = ({ className }: LoginButtonProps) => {
+const LoginButton = ({ text }: LoginButtonProps) => {
     const { loginWithRedirect } = useAuth0();
 
     return (
-        <button
-            onClick={() => loginWithRedirect()}
-            className={className ?? defaultClassName}
-        >
-            Login
-        </button>
+        <Button
+            text={
+                text ?? "Log in to your account"
+            }
+            icon="fas fa-sign-in-alt"
+            variant="primary"
+            handleClick={() => loginWithRedirect()}
+        />
     );
 };
 

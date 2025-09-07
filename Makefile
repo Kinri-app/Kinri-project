@@ -25,7 +25,7 @@ setup-backend:
 # Run backend
 run-backend:
 	@echo "Starting backend..."
-	@cd $(BACKEND_DIR) && .venv\Scripts\activate && flask run
+	@cd $(BACKEND_DIR) && .venv\Scripts\activate && flask run --reload
 
 # Setup frontend
 setup-frontend:
@@ -41,7 +41,7 @@ run:
 	@echo "Running frontend and backend concurrently..."
 	@cd $(FRONTEND_DIR) && npm install concurrently cross-env --save-dev
 	@cd $(FRONTEND_DIR) && npx concurrently -n BACKEND,FRONTEND -c red,cyan \
-		"cd ../$(BACKEND_DIR) && npx cross-env FLASK_APP=run.py FLASK_ENV=development .venv\Scripts\flask.exe run" \
+		"cd ../$(BACKEND_DIR) && npx cross-env FLASK_APP=run.py FLASK_ENV=development .venv\Scripts\flask.exe run --reload" \
 		"npm run dev"
 
 # Full setup
