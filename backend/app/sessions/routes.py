@@ -195,4 +195,23 @@ def get_all_sessions_data():
             reason="Database query error",
             developer_message=str(e)
         )
-        
+    
+@sessions_bp.route("/start", methods=["POST"])
+@requires_auth
+
+
+@sessions_bp.route("/{id}/messages", methods=["POST"])
+@requires_auth
+
+
+@sessions_bp.route("/{id}/sync", methods=["POST"])
+@requires_auth
+
+
+
+
+    #TODO: Create following routes
+    # POST /sessions/start
+    # POST /sessions/{id}/messages
+    # POST /sessions/{id}/sync
+    # POST /sessions/{id}/complete

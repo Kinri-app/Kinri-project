@@ -26,13 +26,14 @@ def chat():
         )
 
     try:
-        reply, updated_history = ask_mistral(message, history, model)
+        reply, updated_history, embeddings = ask_mistral(message, history, model)
+        print(reply, updated_history, embeddings)
 
         return standard_response(
             status="OK",
             status_code=200,
             message="Chat response generated successfully.",
-            data={"reply": reply, "history": updated_history},
+            data={"reply": reply, "history": updated_history, "embeddings": embeddings,},
         )
 
     except Exception as e:

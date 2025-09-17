@@ -1,13 +1,13 @@
 from app import mistral
 
-EMBED_MODEL = "mistral_embed"
+EMBED_MODEL = "mistral-embed"
 
 def ask_mistral(message, chat_history, model="open-mistral-7b"):
     response = mistral.chat.complete(
         model=model,
         messages=chat_history + [{"role": "user", "content": message}],
     )
-    assistant_message = response.choices[0].message  
+    assistant_message = response.choices[0].message 
     
     # Convert to plain dict before adding to history
     assistant_dict = {
@@ -23,7 +23,7 @@ def ask_mistral(message, chat_history, model="open-mistral-7b"):
     texts_to_embed = [message, assistant_dict["content"]]
     embed_response = mistral.embeddings.create(
         model=EMBED_MODEL,
-        input=texts_to_embed
+        inputs=texts_to_embed
     )
 
     user_vec = embed_response.data[0].embedding
