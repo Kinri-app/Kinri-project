@@ -30,3 +30,14 @@ def ask_mistral(message, chat_history, model="open-mistral-7b"):
     assistant_vec = embed_response.data[1].embedding
 
     return assistant_message.content, updated_history, {"user_embedding": user_vec, "assistant_embedding": assistant_vec}
+
+def embed_content(assistant_message, user_message):
+    texts_to_embed = [assistant_message, user_message]
+
+    embed_response = mistral.embeddings.create(
+        model = EMBED_MODEL,
+        inputs = texts_to_embed
+    )
+
+    user_vec = embed_response.data[0].embedding
+    assistant_vec = embed_response.data[1].embedding

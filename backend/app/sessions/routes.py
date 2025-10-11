@@ -196,16 +196,16 @@ def get_all_sessions_data():
             developer_message=str(e)
         )
     
-@sessions_bp.route("/start", methods=["POST"])
-@requires_auth
+# @sessions_bp.route("/start", methods=["POST"])
+# @requires_auth
 
 
-@sessions_bp.route("/{id}/messages", methods=["POST"])
-@requires_auth
+# @sessions_bp.route("/{id}/messages", methods=["POST"])
+# @requires_auth
 
 
-@sessions_bp.route("/{id}/sync", methods=["POST"])
-@requires_auth
+# @sessions_bp.route("/{id}/sync", methods=["POST"])
+# @requires_auth
 
 
 
