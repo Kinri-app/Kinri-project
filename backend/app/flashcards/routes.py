@@ -431,15 +431,252 @@ def submit_tone_pallet():
             developer_message=str(e)
         )
     
-@flashcards_bp.route("/score_contribution", methods=["POST"])
-def submit_tone_pallet():
+# @flashcards_bp.route("/score_contribution", methods=["POST"])
+# def submit_tone_pallet():
+
+# TODO: Meant for this table in the data set: discord data flash json_s (contained in the Kinri_Clean_Data)
 
 
-                insert_data.append({
-                "tone": item["tone"],
-                "used_for": item["used_for"],
-                "pacing": item["pacing"],
-                "language_style": item["language_style"],
-                "vault_types": item["vault_types"],
-                "avoid": item["avoid"]
+#             insert_data.append({
+#                 "tone": item["tone"],
+#                 "used_for": item["used_for"],
+#                 "pacing": item["pacing"],
+#                 "language_style": item["language_style"],
+#                 "vault_types": item["vault_types"],
+#                 "avoid": item["avoid"]
+#                 })
+
+
+# @flashcards_bp.route("/score_contribution", methods=["POST"])
+# def submit_tone_pallet():
+
+# TODO: add Kinri-v1.0 Flashcard archive-Flashcard-style JSONs (for user browsing)
+
+@flashcards_bp.route("/user_browsing", methods=["POST"])
+def for_user_browsing():
+    try:
+        data = request.get_json()
+
+        if not isinstance(data, list):
+            return standard_response(
+                status="BAD_REQUEST",
+                status_code=400,
+                message="A list of flashcards for user browsing is required.",
+                reason="Missing or invalid JSON list",
+                developer_message="Expected a JSON array of flashcard objects"
+            )
+        
+        insert_data = []
+
+        for card in data:
+            
+            required_keys = ["question", "answer", "tags"]
+
+            if not all(k in card for k in required_keys):
+                # return standard_response(
+                #     status="BAD_REQUEST",
+                #     status_code=400,
+                #     message="Missing fields in flashcard.",
+                #     reason="Required fields: question, answer, tags",
+                #     developer_message=f"Card with issues: {card}"
+                # )
+                continue
+            insert_data.append({
+                "question": card["question"],
+                "answer": card["answer"],
+                "tags": card["tags"]
                 })
+
+        if not insert_data:
+            return standard_response(
+                status="BAD REQUEST",
+                status_code=400,
+                message="No valid browsing flashcards found to insert.",
+                data=[]
+            )
+            
+        
+        response = supabase.table("user_browsing_flashcards").upsert(insert_data).execute()
+
+        return standard_response(
+            status="OK",
+            status_code=200,
+            message=f"Upserted {len(insert_data)} flashcards for user browsing.",
+            developer_message=str(getattr(response, "data", response))
+        )
+    except Exception as e:
+        return standard_response(
+            status="INTERNAL_SERVER_ERROR",
+            status_code=500,
+            message="An unexpected error occurred during symptom prompt insert.",
+            developer_message=str(e)
+        )
+
+
+@flashcards_bp.route("/add_vaultcards", methods=["POST"])
+def add_vaultcards():
+    try:
+        data = request.get_json()
+
+        if not isinstance(data, list):
+            return standard_response(
+                status="BAD_REQUEST",
+                status_code=400,
+                message="A list of vaultcards is required.",
+                reason="Missing or invalid JSON list",
+                developer_message="Expected a JSON array of vaultcard objects"
+            )
+
+        insert_data = []
+        for card in data:
+            if card.get("card_type") != "vault_card":
+                continue
+
+            required_keys = ["card_id", "card_type", "headline", "body", "prompt", "tags"]
+            if not all(k in card for k in required_keys):
+                return standard_response(
+                    status="BAD_REQUEST",
+                    status_code=400,
+                    message="Missing fields in vaultcard.",
+                    reason="Required fields: card_id, card_type, headline, body, prompt, tags",
+                    developer_message=f"Card with issues: {card}"
+                )
+
+            tags = card.get("tags") or {}
+            if not isinstance(tags, dict):
+                tags = {}
+
+            insert_data.append({
+                "card_id": card["card_id"],
+                "condition": tags.get("condition", []),
+                "emotion": tags.get("emotion", []),
+                "narrative_type": tags.get("narrative_type", []),
+                "usage_mode": tags.get("usage_mode", []),
+                "headline": card.get("headline", []),
+                "body": card.get("body", []),
+                "prompt": card.get("prompt", [])
+            })
+
+        if not insert_data:
+            return standard_response(
+                status="OK",
+                status_code=200,
+                message="No valid vaultcards found to insert.",
+                data=[]
+            )
+
+        # Upsert: skip duplicates on card_id, insert only new rows.
+        resp = supabase.table("vaultcard").upsert(
+            insert_data,
+            on_conflict="card_id",
+            ignore_duplicates=True,          # <- silently skip existing card_id
+            returning="representation"       # <- so we can count inserted rows
+        ).execute()
+
+        inserted = len(resp.data) if getattr(resp, "data", None) is not None else None
+        skipped = (len(insert_data) - inserted) if inserted is not None else None
+
+        return standard_response(
+            status="CREATED",
+            status_code=201,
+            message="Vaultcards processed successfully (duplicates skipped).",
+            data={
+                "attempted": len(insert_data),
+                "inserted": inserted,
+                "skipped_duplicates": skipped
+            }
+        )
+
+    except APIError as e:
+        # Constraint/RLS/type errors surface here
+        return standard_response(
+            status="BAD_REQUEST",
+            status_code=400,
+            message="Batch vaultcard upsert failed.",
+            developer_message=str(e)
+        )
+    except Exception as e:
+        return standard_response(
+            status="INTERNAL_SERVER_ERROR",
+            status_code=500,
+            message="An error occurred while processing batch vaultcards.",
+            developer_message=str(e)
+        )
+    
+@flashcards_bp.route("/vault_batch_sourceid", methods=["POST"])
+def vault_source():
+    try:
+        data = request.get_json()
+
+        if not isinstance(data, list):
+            return standard_response(
+                status="BAD_REQUEST",
+                status_code=400,
+                message="A list of vaultcards with sourceid is required.",
+                reason="Missing or invalid JSON list",
+                developer_message="Expected a JSON array of vaultcard objects"
+            )
+
+        insert_data = []
+        for card in data:
+
+            required_keys = ["id", "title", "deck_type", "emotion_tags", "condition_tags", "tone", "body", "echo_intro", "usage_mode", "narrative_type", "created_by", "version"]
+            if not all(k in card for k in required_keys):
+                return standard_response(
+                    status="BAD_REQUEST",
+                    status_code=400,
+                    message="Missing fields in vaultcard.",
+                    reason="Required fields: id",
+                    developer_message=f"Card with issues: {card}"
+                )
+
+
+            insert_data.append({
+                "id": card["id"],
+                "title": card["title"],
+                "deck_type": card["deck_type"],
+                "emotion_tags": card.get("emotion_tags",[]),
+                "condition_tags":card.get("condition_tags",[]),
+                "tone": card["tone"],
+                "body": card["body"],
+                "echo_intro": card["echo_intro"],
+                "usage_mode": card.get("usage_mode",[]),
+                "narrative_type": card["narrative_type"],
+                "created_by": card["created_by"],
+                "version": card["version"]
+                })
+
+        if not insert_data:
+            return standard_response(
+                status="BAD_REQUEST",
+                status_code=400,
+                message="No valid vaultcards found to insert.",
+                data=[]
+            )
+
+        # Upsert: skip duplicates on card_id, insert only new rows.
+        response = supabase.table("vault_cards_with_sourceid").upsert(insert_data).execute()
+
+
+        return standard_response(
+            status="CREATED",
+            status_code=201,
+            message="Vaultcards processed successfully.",
+            data=response.data
+        )
+
+    except APIError as e:
+        # Constraint/RLS/type errors surface here
+        return standard_response(
+            status="BAD_REQUEST",
+            status_code=400,
+            message="Batch vaultcard upsert failed.",
+            developer_message=str(e)
+        )
+    except Exception as e:
+        return standard_response(
+            status="INTERNAL_SERVER_ERROR",
+            status_code=500,
+            message="An error occurred while processing batch vaultcards.",
+            developer_message=str(e)
+        )
