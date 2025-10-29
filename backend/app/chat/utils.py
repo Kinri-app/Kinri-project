@@ -1,13 +1,56 @@
 from app import mistral
+import markdown
+
 
 EMBED_MODEL = "mistral-embed"
+
+# def ask_mistral(message, chat_history, model="open-mistral-7b"):
+#     response = mistral.chat.complete(
+#         model=model,
+#         messages=chat_history + [{"role": "user", "content": message}],
+#     )
+#     assistant_message = response.choices[0].message 
+    
+#     # Convert to plain dict before adding to history
+#     assistant_dict = {
+#         "role": assistant_message.role,
+#         "content": assistant_message.content
+#     }
+
+#     updated_history = chat_history + [
+#         {"role": "user", "content": message}, 
+#         assistant_dict
+#     ]
+
+#     texts_to_embed = [message, assistant_dict["content"]]
+#     embed_response = mistral.embeddings.create(
+#         model=EMBED_MODEL,
+#         inputs=texts_to_embed
+#     )
+
+#     user_vec = embed_response.data[0].embedding
+#     assistant_vec = embed_response.data[1].embedding
+
+#     return assistant_message.content, updated_history, {"user_embedding": user_vec, "assistant_embedding": assistant_vec}
+
+# def embed_content(assistant_message, user_message):
+#     texts_to_embed = [assistant_message, user_message]
+
+#     embed_response = mistral.embeddings.create(
+#         model = EMBED_MODEL,
+#         inputs = texts_to_embed
+#     )
+
+#     user_vec = embed_response.data[0].embedding
+#     assistant_vec = embed_response.data[1].embedding
+
 
 def ask_mistral(message, chat_history, model="open-mistral-7b"):
     response = mistral.chat.complete(
         model=model,
         messages=chat_history + [{"role": "user", "content": message}],
     )
-    assistant_message = response.choices[0].message 
+    assistant_message = response.choices[0].message  
     
     # Convert to plain dict before adding to history
     assistant_dict = {
@@ -15,29 +58,4 @@ def ask_mistral(message, chat_history, model="open-mistral-7b"):
         "content": assistant_message.content
     }
 
-    updated_history = chat_history + [
-        {"role": "user", "content": message}, 
-        assistant_dict
-    ]
-
-    texts_to_embed = [message, assistant_dict["content"]]
-    embed_response = mistral.embeddings.create(
-        model=EMBED_MODEL,
-        inputs=texts_to_embed
-    )
-
-    user_vec = embed_response.data[0].embedding
-    assistant_vec = embed_response.data[1].embedding
-
-    return assistant_message.content, updated_history, {"user_embedding": user_vec, "assistant_embedding": assistant_vec}
-
-def embed_content(assistant_message, user_message):
-    texts_to_embed = [assistant_message, user_message]
-
-    embed_response = mistral.embeddings.create(
-        model = EMBED_MODEL,
-        inputs = texts_to_embed
-    )
-
-    user_vec = embed_response.data[0].embedding
-    assistant_vec = embed_response.data[1].embedding
+    return assistant_message.content, chat_history + [{"role": "user", "content": message}, assistant_dict]
