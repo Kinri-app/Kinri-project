@@ -132,7 +132,7 @@ def evaluate():
                 - Ask a gentle, curious question based on the Symptom or Echo-Friendly Description (1 sentence max).
                 - Show empathy naturally, like a supportive friend.
 
-                Format your responses with spacing between lines an bullet points to avoid large chunks of text.
+                Format your responses in a markdown format.
                 """
 
 
