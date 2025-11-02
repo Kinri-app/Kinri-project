@@ -107,7 +107,9 @@ def evaluate():
                     - Avoid giving a long list of strategies or multiple paragraphs.
                     - If user responds, ask small follow-up questions or share a little insight, but never all at once.
                     - End each response in a way that encourages the user to reply.
-                    - Return all responses in mardown format.
+                    - Always respond in **simple Markdown** (no code fences), using:
+                    - **bold** for emotional emphasis
+                    - *italics* for soft tone when helpful.
 
                 """
 
