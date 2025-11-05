@@ -149,3 +149,16 @@ def cleanup_old_sessions(auth0_id, max_sessions=10):
     if ids_to_delete:
         supabase.table("sessions").delete().in_("id", ids_to_delete).execute()
 
+
+
+# SYSTEM_MD = (
+#     "Output MUST be valid GitHub-flavored Markdown only. "
+#     "Do NOT use HTML. Do NOT wrap the whole reply in triple backticks. "
+#     "Rules:\n"
+#     "- Use **bold** for emphasis and *italics* for softer tone.\n"
+#     "- Use bullet lists (-) and numbered lists (1.) when appropriate.\n"
+#     "- Use inline code with single backticks for short code.\n"
+#     "- Use fenced code blocks ONLY for multi-line code; never wrap entire non-code replies in fences.\n"
+#     "- Use [text](url) for links.\n"
+#     "- Keep paragraphs separated by a blank line.\n"
+# )

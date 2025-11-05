@@ -75,7 +75,6 @@ def evaluate():
                 "user_id": user["id"],
                 "results": scores
             }).execute()
-            print(scores)
 
         except Exception as e:
             return standard_response(
@@ -132,7 +131,18 @@ def evaluate():
                 - Ask a gentle, curious question based on the Symptom or Echo-Friendly Description (1 sentence max).
                 - Show empathy naturally, like a supportive friend.
 
-                Format your responses in a markdown format.
+
+                Output MUST be valid GitHub-flavored Markdown only. 
+                Do NOT use HTML. Do NOT wrap the whole reply in triple backticks. 
+                Rules:
+                - Use **bold** for emphasis and *italics* for softer tone.
+                - Use bullet lists (-) and numbered lists (1.) when appropriate.
+                - Use inline code with single backticks for short code.
+                - Use fenced code blocks ONLY for multi-line code; never wrap entire non-code replies in fences.
+                - Use [text](url) for links.
+                - Keep paragraphs separated by a blank line.
+
+            
                 """
 
 
@@ -145,7 +155,6 @@ def evaluate():
 
         # 5. Return the scores to frontend
         reply, updated_history = ask_mistral(system_message, [], model)
-        print(system_message)
 
         return standard_response(
             status="OK",
