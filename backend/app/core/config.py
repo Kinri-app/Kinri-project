@@ -3,6 +3,8 @@
 import os
 from dotenv import load_dotenv
 
+MISTRAL_MODEL = "ministral-8b-2410"
+
 # Load environment variables from a .env file into the environment
 load_dotenv()
 

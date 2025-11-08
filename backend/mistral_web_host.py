@@ -2,10 +2,11 @@ from supabase_client import fetch_vault_cards
 from app.utils.utils import questionnaire
 from mistralai import Mistral
 import os
+from app.core.config import MISTRAL_MODEL
 
 # Initialize Mistral client
 api_key = os.environ["MISTRAL_API_KEY"]
-model = "open-mistral-7b"
+model = MISTRAL_MODEL
 client = Mistral(api_key=api_key)
 
 def ask_mistral(message, model, chat_history):

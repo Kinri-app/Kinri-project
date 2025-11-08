@@ -4,6 +4,7 @@ from app.auth.decorators import requires_auth
 from app.chat.utils import ask_mistral
 from app.core.utils import standard_response
 from app.utils.utils import cleanup_old_sessions  # make sure this exists
+from app.core.config import MISTRAL_MODEL
 
 import json
 import re
@@ -49,7 +50,7 @@ def complete_session():
         {full_chat_history}
         """
 
-        model = "open-mistral-7b"
+        model = MISTRAL_MODEL
         reply, _ = ask_mistral(prompt, [], model)
 
         # 2. Extract the JSON object from the model reply

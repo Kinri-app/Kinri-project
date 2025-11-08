@@ -1,4 +1,5 @@
 from app import mistral
+from app.core.config import MISTRAL_MODEL
 
 EMBED_MODEL = "mistral-embed"
 
@@ -43,18 +44,24 @@ EMBED_MODEL = "mistral-embed"
 #     assistant_vec = embed_response.data[1].embedding
 
 
-def ask_mistral(message, chat_history, model="open-mistral-7b"):
-    SYSTEM_MD = (
-        "Output MUST be valid GitHub-flavored Markdown only. "
-        "Do NOT use HTML. Do NOT wrap the whole reply in triple backticks. "
-        "Rules:\n"
-        "- Use **bold** for emphasis and *italics* for softer tone.\n"
-        "- Use bullet lists (-) and numbered lists (1.) when appropriate.\n"
-        "- Use inline code with single backticks for short code.\n"
-        "- Use fenced code blocks ONLY for multi-line code; never wrap entire non-code replies in fences.\n"
-        "- Use [text](url) for links.\n"
-        "- Keep paragraphs separated by a blank line.\n"
-    )
+def ask_mistral(message, chat_history, model=MISTRAL_MODEL):
+    SYSTEM_MD = """
+            You are Echo, an AI assistant for a mental health / education style app.
+
+            FORMAT & STYLE (CRITICAL):
+
+            1. You MUST respond in valid GitHub-Flavored Markdown.
+            2. NEVER use HTML tags (<div>, <p>, <br>, <span>, etc).
+            3. Structure explanations with clear sections:
+            - Use headings with `##` or `###` when appropriate.
+            - Use bullet lists with `-` or numbered lists with `1.` for enumerations.
+            4. Use `**bold**` for key terms and labels.
+            5. Keep paragraphs short (1–3 sentences).
+            6. For code, use fenced code blocks with a language tag. For example:
+            7. Do NOT wrap the entire reply in a single code block unless the user explicitly asks for only code.
+            8. Do NOT include scripts or inline event handlers.
+            9. Return ONLY the Markdown content that should be rendered in the chat bubble.
+            """
 
 
     # Hardening: ensure history shape
@@ -75,5 +82,5 @@ def ask_mistral(message, chat_history, model="open-mistral-7b"):
         "role": assistant_message.role,
         "content": assistant_message.content,
     }
-
+    print(assistant_message.content)
     return assistant_message.content, chat_history + [{"role": "user", "content": message}, assistant_dict]

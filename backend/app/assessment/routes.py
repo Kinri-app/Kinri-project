@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 from collections import defaultdict
 from app.auth.decorators import requires_auth
 from app.utils.utils import sync_user_to_db
+from app.core.config import MISTRAL_MODEL
 
 
 assessment_bp = Blueprint("assessment_bp", __name__)
@@ -19,7 +20,7 @@ def evaluate():
     try:
         # data = request.json
         # # history = data.get("history", [])
-        model = "open-mistral-7b"
+        model = MISTRAL_MODEL
 
         # 1. Get responses from frontend
         user_responses = request.get_json()

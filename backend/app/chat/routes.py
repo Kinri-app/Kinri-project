@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 from app.core.utils import standard_response
 from app.chat.utils import ask_mistral
 from app.auth.decorators import requires_auth
+from app.core.config import MISTRAL_MODEL
 
 
 chat_bp = Blueprint("chat_bp", __name__)
@@ -14,7 +15,7 @@ chat_bp = Blueprint("chat_bp", __name__)
 #     data = request.json
 #     message = data.get("message")
 #     history = data.get("history", [])
-#     model = "open-mistral-7b"
+#     model = MISTRAL_MODEL
 
 #     if not message:
 #         return standard_response(
@@ -51,7 +52,7 @@ def chat():
     data = request.json
     message = data.get("message")
     history = data.get("history", [])
-    model = "open-mistral-7b"
+    model = MISTRAL_MODEL
 
     if not message:
         return standard_response(
